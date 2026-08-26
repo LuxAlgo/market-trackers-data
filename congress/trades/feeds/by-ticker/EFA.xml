@@ -4,12 +4,12 @@
     <title>LuxAlgo Alt Data — Congressional trades — EFA</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 23:36:46 GMT</lastBuildDate>
     <item>
       <title>John Boozman (senate) sell: EFA — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
       <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:8</guid>
-      <pubDate>Wed, 26 Aug 2026 21:25:47 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 23:34:52 GMT</pubDate>
     </item>
   </channel>
 </rss>

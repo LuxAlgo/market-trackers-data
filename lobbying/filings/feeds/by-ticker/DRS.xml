@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — DRS</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>LEONARDO DRS, INC via C2 STRATEGIES (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/ed5118cd-2785-43e2-abd1-0be5f81bedf8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ed5118cd-2785-43e2-abd1-0be5f81bedf8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEONARDO DRS, INC via HITHER CREEK STRATEGIES, LLC (2026 second_quarter) — $15000</title>
+      <link>https://lda.gov/filings/public/filing/dad2593b-ed72-4f4f-a4b1-81aca733ca3a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dad2593b-ed72-4f4f-a4b1-81aca733ca3a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEONARDO DRS, INC (FORMER DRS TECHNOLOGIES, INC.) via STAPLETON &amp; ASSOCIATES, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/d0b9404b-1a28-49ba-a688-4b54cd93c15f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d0b9404b-1a28-49ba-a688-4b54cd93c15f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEONARDO DRS, INC (FORMER DRS TECHNOLOGIES, INC.) via STAPLETON &amp; ASSOCIATES, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/a0fc410b-2c8d-4e0a-bb94-df85afa349ce/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a0fc410b-2c8d-4e0a-bb94-df85afa349ce</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEONARDO DRS, INC. via BALLARD PARTNERS (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/755e5bcc-35d4-4a75-9868-6f2d5016bfa1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:755e5bcc-35d4-4a75-9868-6f2d5016bfa1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEONARDO DRS INC via LEONARDO DRS, INC. (2026 second_quarter) — $580000</title>
+      <link>https://lda.gov/filings/public/filing/6e02e02d-533b-4dcd-9e88-1b6d3014049e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6e02e02d-533b-4dcd-9e88-1b6d3014049e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEONARDO DRS INC via LEONARDO DRS, INC. (2026 first_quarter) — $360000</title>
+      <link>https://lda.gov/filings/public/filing/5bd7ef8a-39b1-46b0-ba54-e6c95d0c9065/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5bd7ef8a-39b1-46b0-ba54-e6c95d0c9065</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEONARDO DRS, INC via C2 STRATEGIES (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/4478beb4-6b92-4a44-890e-75d972209c36/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4478beb4-6b92-4a44-890e-75d972209c36</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEONARDO DRS, INC. via BALLARD PARTNERS (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/39798300-b8f8-45cd-97e7-3815ab416ee0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:39798300-b8f8-45cd-97e7-3815ab416ee0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEONARDO DRS, INC. (FKA RADA TECHNOLOGIES LLC) via CAPITOLINE CONSULTING, LLC (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/1d39312a-3668-40cb-9734-409892926240/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1d39312a-3668-40cb-9734-409892926240</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEONARDO DRS, INC via HITHER CREEK STRATEGIES, LLC (2026 first_quarter) — $15000</title>
+      <link>https://lda.gov/filings/public/filing/1cf37e51-b393-434e-8cbf-2bef44d4de6b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1cf37e51-b393-434e-8cbf-2bef44d4de6b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEONARDO DRS, INC. (FKA RADA TECHNOLOGIES LLC) via CAPITOLINE CONSULTING, LLC (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/147ac121-cee1-4cc8-8f4e-01d3a13d55b8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:147ac121-cee1-4cc8-8f4e-01d3a13d55b8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

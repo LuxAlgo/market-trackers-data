@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — TRU</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>TRANSUNION via STERNHELL GROUP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/e703b1e1-ba62-4fde-a5fe-30c475949073/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e703b1e1-ba62-4fde-a5fe-30c475949073</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRANSUNION LLC via BALLARD PARTNERS (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/db374ebf-e4dc-488b-b309-6a4c6dfab677/print/</link>
+      <guid isPermaLink="false">lobbying-filings:db374ebf-e4dc-488b-b309-6a4c6dfab677</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRANSUNION LLC via DALY CONSULTING GROUP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/b3c1c656-4827-484e-be01-e6d8194ebf0f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b3c1c656-4827-484e-be01-e6d8194ebf0f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRANSUNION via STERNHELL GROUP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/996b4914-62cb-4d84-ae78-0a750a387bf9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:996b4914-62cb-4d84-ae78-0a750a387bf9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRANSUNION LLC via BALLARD PARTNERS (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/8bba8a7e-790e-4de5-a162-f56e0ca66603/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8bba8a7e-790e-4de5-a162-f56e0ca66603</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRANSUNION LLC via CAPITOL COUNSEL LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/8aab0edb-da4a-41d3-898a-c744c8be0288/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8aab0edb-da4a-41d3-898a-c744c8be0288</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRANSUNION LLC via DALY CONSULTING GROUP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/72a5b522-5111-48f4-9217-e042726b4e6d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:72a5b522-5111-48f4-9217-e042726b4e6d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRANSUNION via STERNHELL GROUP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/29a1de21-cc26-4286-9abc-c7b165055b19/print/</link>
+      <guid isPermaLink="false">lobbying-filings:29a1de21-cc26-4286-9abc-c7b165055b19</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRANSUNION LLC via CAPITOL COUNSEL LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/28df5d80-3bca-4af0-80be-b14fec152010/print/</link>
+      <guid isPermaLink="false">lobbying-filings:28df5d80-3bca-4af0-80be-b14fec152010</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRANSUNION via PHRONESISDC, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/1bebc3b5-9dfa-4427-a572-2a2ebe10de27/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1bebc3b5-9dfa-4427-a572-2a2ebe10de27</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRANSUNION via PHRONESISDC, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/103318ad-351b-45a5-967b-e4b7ee6a85a1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:103318ad-351b-45a5-967b-e4b7ee6a85a1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

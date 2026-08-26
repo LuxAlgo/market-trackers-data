@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — VLO</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>VALERO ENERGY CORP via BRACEWELL LLP (2026 first_quarter) — $110000</title>
+      <link>https://lda.gov/filings/public/filing/cf88735c-23f1-4867-b2b9-3f9cd78c7dd2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cf88735c-23f1-4867-b2b9-3f9cd78c7dd2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VALERO ENERGY CORP via BRACEWELL LLP (2026 second_quarter) — $110000</title>
+      <link>https://lda.gov/filings/public/filing/94dcd570-3c9c-4c0b-b7f9-67a5884011bd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:94dcd570-3c9c-4c0b-b7f9-67a5884011bd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VALERO ENERGY CORPORATION via MILLER STRATEGIES, LLC (2026 second_quarter) — $110000</title>
+      <link>https://lda.gov/filings/public/filing/925ffcff-bf3b-47ac-8087-274d75f6be4b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:925ffcff-bf3b-47ac-8087-274d75f6be4b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VALERO ENERGY via OWEN EVANS INGOLS (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/6d8669b1-49b9-4462-a5dd-29445a39cb61/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6d8669b1-49b9-4462-a5dd-29445a39cb61</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VALERO ENERGY CORPORATION via VALERO ENERGY CORPORATION (2026 first_quarter) — $430000</title>
+      <link>https://lda.gov/filings/public/filing/5faad1ee-c282-440f-9bda-ae004a501112/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5faad1ee-c282-440f-9bda-ae004a501112</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VALERO ENERGY CORPORATION via THE NICKLES GROUP, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/5cbbb0cb-822c-498d-ae0a-8f3c461aad31/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5cbbb0cb-822c-498d-ae0a-8f3c461aad31</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VALERO ENERGY CORPORATION via MILLER STRATEGIES, LLC (2026 first_quarter) — $110000</title>
+      <link>https://lda.gov/filings/public/filing/5ba5e01b-2b90-4019-9c5e-5227b7fe4b29/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5ba5e01b-2b90-4019-9c5e-5227b7fe4b29</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VALERO ENERGY CORPORATION via ERNST &amp; YOUNG LLP (WASHINGTON COUNCIL ERNST &amp; YOUNG) (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/3ffe12a7-f246-45f5-8dcc-da2a180b0db2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3ffe12a7-f246-45f5-8dcc-da2a180b0db2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VALERO ENERGY CORP. via ROBERTI GLOBAL (FKA ROBERTI WHITE, LLC) (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/3aba8af3-274a-482c-8624-4deab5991ec8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3aba8af3-274a-482c-8624-4deab5991ec8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VALERO ENERGY CORPORATION via THE NICKLES GROUP, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/298f272d-8b9f-4a5d-8be5-c013757be052/print/</link>
+      <guid isPermaLink="false">lobbying-filings:298f272d-8b9f-4a5d-8be5-c013757be052</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VALERO ENERGY CORPORATION via ERNST &amp; YOUNG LLP (WASHINGTON COUNCIL ERNST &amp; YOUNG) (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/2355ac82-bf8a-4a09-8c7e-31006b0bacc3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2355ac82-bf8a-4a09-8c7e-31006b0bacc3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VALERO ENERGY CORPORATION via VALERO ENERGY CORPORATION (2026 second_quarter) — $430000</title>
+      <link>https://lda.gov/filings/public/filing/1bc7ad4a-5392-488e-b06f-765b24814377/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1bc7ad4a-5392-488e-b06f-765b24814377</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VALERO ENERGY CORP. via ROBERTI GLOBAL (FKA ROBERTI WHITE, LLC) (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/132050ca-9725-4935-be85-a63a9b443573/print/</link>
+      <guid isPermaLink="false">lobbying-filings:132050ca-9725-4935-be85-a63a9b443573</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VALERO ENERGY via OWEN EVANS INGOLS (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/0b8d088c-b2f2-42e6-9521-36a3b1e27d9e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0b8d088c-b2f2-42e6-9521-36a3b1e27d9e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

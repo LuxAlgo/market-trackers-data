@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Government grant awards</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Federal grant awards from USAspending (grant award types), same record shape and recipient→ticker mapping as contracts. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>KECK GRADUATE INSTITUTE OF APPLIED LIFE SCIENCES — $750000 grant from Department of Energy (2024-09-01)</title>
+      <link>https://www.usaspending.gov/award/ASST_NON_DESC0025244_089</link>
+      <guid isPermaLink="false">gov-grants:ASST_NON_DESC0025244_089</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNIVERSITY OF TENNESSEE — $1652574 grant from Department of Energy (2022-09-01)</title>
+      <link>https://www.usaspending.gov/award/ASST_NON_DESC0023293_089</link>
+      <guid isPermaLink="false">gov-grants:ASST_NON_DESC0023293_089</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>RADIOLOGICAL SOCIETY OF NORTH AMERICA, INC — $1200000 grant from Department of Energy (2024-05-09)</title>
+      <link>https://www.usaspending.gov/award/ASST_NON_DENA0004174_089</link>
+      <guid isPermaLink="false">gov-grants:ASST_NON_DENA0004174_089</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>DELAWARE VALLEY REGIONAL PLANNING COMMISSION — $1150000 grant from Department of Transportation (2026-10-01)</title>
+      <link>https://www.usaspending.gov/award/ASST_NON_69A6212650078_069</link>
+      <guid isPermaLink="false">gov-grants:ASST_NON_69A6212650078_069</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>GENEVA ON THE LAKE VILLAGE OF — $120000 grant from Department of Transportation (2026-08-25)</title>
+      <link>https://www.usaspending.gov/award/ASST_NON_693JJ32640767_069</link>
+      <guid isPermaLink="false">gov-grants:ASST_NON_693JJ32640767_069</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>TOWN OF JASPER — $156000 grant from Department of Transportation (2026-08-25)</title>
+      <link>https://www.usaspending.gov/award/ASST_NON_693JJ32640631_069</link>
+      <guid isPermaLink="false">gov-grants:ASST_NON_693JJ32640631_069</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>CITY OF NEWPORT CITY HALL — $321600 grant from Department of Transportation (2026-08-25)</title>
+      <link>https://www.usaspending.gov/award/ASST_NON_693JJ32640559_069</link>
+      <guid isPermaLink="false">gov-grants:ASST_NON_693JJ32640559_069</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUNTY OF COLUMBIA — $280000 grant from Department of Transportation (2025-08-27)</title>
+      <link>https://www.usaspending.gov/award/ASST_NON_693JJ32540672_069</link>
+      <guid isPermaLink="false">gov-grants:ASST_NON_693JJ32540672_069</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>CITY OF LYNN — $878469 grant from Department of Transportation (2025-09-15)</title>
+      <link>https://www.usaspending.gov/award/ASST_NON_693JJ32540383_069</link>
+      <guid isPermaLink="false">gov-grants:ASST_NON_693JJ32540383_069</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>METLAKATLA INDIAN COMMUNITY — $1754386 grant from Department of Transportation (2024-09-18)</title>
+      <link>https://www.usaspending.gov/award/ASST_NON_693JJ32440644_069</link>
+      <guid isPermaLink="false">gov-grants:ASST_NON_693JJ32440644_069</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAMAPO, TOWN OF — $100000 grant from Department of Transportation (2024-08-02)</title>
+      <link>https://www.usaspending.gov/award/ASST_NON_693JJ32440555_069</link>
+      <guid isPermaLink="false">gov-grants:ASST_NON_693JJ32440555_069</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>CITY OF PALM BEACH GARDENS — $192401.6 grant from Department of Transportation (2024-06-03)</title>
+      <link>https://www.usaspending.gov/award/ASST_NON_693JJ32440309_069</link>
+      <guid isPermaLink="false">gov-grants:ASST_NON_693JJ32440309_069</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>CITY OF UMATILLA — $122449.79 grant from Department of Transportation (2024-06-13)</title>
+      <link>https://www.usaspending.gov/award/ASST_NON_693JJ32440247_069</link>
+      <guid isPermaLink="false">gov-grants:ASST_NON_693JJ32440247_069</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>CITY OF ST LOUIS PARK — $160000 grant from Department of Transportation (2023-08-10)</title>
+      <link>https://www.usaspending.gov/award/ASST_NON_693JJ32340324_069</link>
+      <guid isPermaLink="false">gov-grants:ASST_NON_693JJ32340324_069</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — ALNY</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>ALNYLAM PHARMACEUTICALS, INC. via LMH STRATEGIC SOLUTIONS (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/f02c0297-08b3-41ab-9814-c6fca8d43ed8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f02c0297-08b3-41ab-9814-c6fca8d43ed8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALNYLAM PHARMACEUTICALS, INC. via TODD STRATEGY GROUP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/c5305ed6-53d3-4bbf-bdaa-3f5dbfcbb04e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c5305ed6-53d3-4bbf-bdaa-3f5dbfcbb04e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALNYLAM PHARMACEUTICALS, INC. via SPLITOAK STRATEGIES LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/bd04d7de-a91d-4be5-8350-431a97162b04/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bd04d7de-a91d-4be5-8350-431a97162b04</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALNYLAM PHARMACEUTICALS, INC. via CAPITOL COUNSEL LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/b605b556-1178-4271-93ed-db11ec8e3586/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b605b556-1178-4271-93ed-db11ec8e3586</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALNYLAM PHARMACEUTICALS, INC. via TIBER CREEK GROUP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/8f6e7331-a98a-4430-b19d-e50915cd0f55/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8f6e7331-a98a-4430-b19d-e50915cd0f55</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALNYLAM PHARMACEUTICALS, INC. via LMH STRATEGIC SOLUTIONS (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/8dab6373-e86d-4057-b53b-be0f3d3eb172/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8dab6373-e86d-4057-b53b-be0f3d3eb172</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALNYLAM PHARMACEUTICALS, INC. via TIBER CREEK GROUP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/70756168-064a-4346-b359-55c6b0d3809e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:70756168-064a-4346-b359-55c6b0d3809e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALNYLAM PHARMACEUTICALS, INC. via ALNYLAM PHARMACEUTICALS, INC. (2026 first_quarter) — $430000</title>
+      <link>https://lda.gov/filings/public/filing/65567574-9402-4144-a58d-3c12eba89431/print/</link>
+      <guid isPermaLink="false">lobbying-filings:65567574-9402-4144-a58d-3c12eba89431</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALNYLAM PHARMACEUTICALS, INC. via TODD STRATEGY GROUP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/1f54558f-efb1-4839-9804-644b8fb8813a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1f54558f-efb1-4839-9804-644b8fb8813a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALNYLAM PHARMACEUTICALS, INC. via ALNYLAM PHARMACEUTICALS, INC. (2026 second_quarter) — $450000</title>
+      <link>https://lda.gov/filings/public/filing/17780ebb-228e-4a40-b730-e60dcc381d66/print/</link>
+      <guid isPermaLink="false">lobbying-filings:17780ebb-228e-4a40-b730-e60dcc381d66</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALNYLAM PHARMACEUTICALS, INC. via CAPITOL COUNSEL LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/07e97337-57a3-418b-b1a5-237289ded861/print/</link>
+      <guid isPermaLink="false">lobbying-filings:07e97337-57a3-418b-b1a5-237289ded861</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALNYLAM PHARMACEUTICALS, INC. via SPLITOAK STRATEGIES LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/047beba8-87db-4b34-ab45-104d087af7e3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:047beba8-87db-4b34-ab45-104d087af7e3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

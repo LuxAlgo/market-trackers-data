@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — RARE</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>ULTRAGENYX PHARMACEUTICAL, INC. via MEHLMAN CONSULTING, INC. (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/d9d28e4e-2395-49a5-9b5b-be971ebe8eba/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d9d28e4e-2395-49a5-9b5b-be971ebe8eba</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ULTRAGENYX PHARMACEUTICAL INC. via ALPINE GROUP PARTNERS, LLC. (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/d7fb34fe-9f1f-4f43-bf8a-6ed787a9dab9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d7fb34fe-9f1f-4f43-bf8a-6ed787a9dab9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ULTRAGENYX PHARMACEUTICAL via AVIVA STRATEGIES (FKA MGB CONSULTING) (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/cb20d7b3-9a13-4b98-b40e-1ac0e941a0b4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cb20d7b3-9a13-4b98-b40e-1ac0e941a0b4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ULTRAGENYX PHARMACEUTICAL INC. via ALPINE GROUP PARTNERS, LLC. (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/bac5f3b1-3daf-48cf-80cf-c3dd4ac96fac/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bac5f3b1-3daf-48cf-80cf-c3dd4ac96fac</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ULTRAGENYX PHARMACEUTICAL INC. via MILLER STRATEGIES, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/ad803d8d-f727-46df-8a3c-1b5873a9393b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ad803d8d-f727-46df-8a3c-1b5873a9393b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ULTRAGENYX PHARMACEUTICAL via FORBES-TATE (2026 first_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/ab47f109-4dcd-4039-ad69-5a099db3c803/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ab47f109-4dcd-4039-ad69-5a099db3c803</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ULTRAGENYX PHARMACEUTICAL INC. via ULTRAGENYX PHARMACEUTICAL INC. (2026 first_quarter) — $440000</title>
+      <link>https://lda.gov/filings/public/filing/a9a9c3da-02f4-4c7e-8bca-c0bd10ed47f3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a9a9c3da-02f4-4c7e-8bca-c0bd10ed47f3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ULTRAGENYX PHARMACEUTICAL INC. via ULTRAGENYX PHARMACEUTICAL INC. (2026 second_quarter) — $390000</title>
+      <link>https://lda.gov/filings/public/filing/9e3b1c51-9185-4875-ab52-a04a318158ec/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9e3b1c51-9185-4875-ab52-a04a318158ec</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ULTRAGENYX PHARMACEUTICAL via FORBES-TATE (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/956baf28-9d66-4569-b4dd-fd24289b7770/print/</link>
+      <guid isPermaLink="false">lobbying-filings:956baf28-9d66-4569-b4dd-fd24289b7770</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ULTRAGENYX PHARMACEUTICAL INC. via MILLER STRATEGIES, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/8d2742f2-3275-4bad-bd23-cd5592dfd091/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8d2742f2-3275-4bad-bd23-cd5592dfd091</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ULTRAGENYX PHARMACEUTICAL via FORBES-TATE (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/7a6a6e42-0bec-4755-b758-c758a3ef1786/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7a6a6e42-0bec-4755-b758-c758a3ef1786</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ULTRAGENYX PHARMACEUTICAL INC. via ALPINE GROUP PARTNERS, LLC. (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/36eb596e-51cf-4b09-8690-b25364f3a76f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:36eb596e-51cf-4b09-8690-b25364f3a76f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ULTRAGENYX PHARMACEUTICAL, INC. via MEHLMAN CONSULTING, INC. (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/084b7156-e15e-410d-b070-de597035635f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:084b7156-e15e-410d-b070-de597035635f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ULTRAGENYX PHARMACEUTICAL INC. via MILLER STRATEGIES, LLC (2026 second_quarter) — $140000</title>
+      <link>https://lda.gov/filings/public/filing/079921fe-fd57-4533-9545-992e35b732fb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:079921fe-fd57-4533-9545-992e35b732fb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

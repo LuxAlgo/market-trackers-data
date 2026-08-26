@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — GLW</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>CORNING INCORPORATED via AVOQ, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/c6ad25eb-4e3c-49ca-b904-430750c1ddf5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c6ad25eb-4e3c-49ca-b904-430750c1ddf5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORNING INCORPORATED via BGR GOVERNMENT AFFAIRS (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/b955c64e-26e0-4bad-aeb1-f22505d36c5a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b955c64e-26e0-4bad-aeb1-f22505d36c5a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORNING INCORPORATED via CORNING INCORPORATED (2026 first_quarter) — $740000</title>
+      <link>https://lda.gov/filings/public/filing/ab996a24-95ec-4bdb-b56d-dc59dee18c2b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ab996a24-95ec-4bdb-b56d-dc59dee18c2b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORNING INCORPORATED via AVOQ, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/954b4d6c-37db-425a-b392-9c6b906c6e5b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:954b4d6c-37db-425a-b392-9c6b906c6e5b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORNING INC via HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP) (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/8573855e-dfae-40db-8583-35ae2e25c37b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8573855e-dfae-40db-8583-35ae2e25c37b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORNING INCORPORATED via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/82f14e36-bcc1-4b7e-a1d6-d18b99b43fa7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:82f14e36-bcc1-4b7e-a1d6-d18b99b43fa7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORNING INCORPORATED via CORNING INCORPORATED (2026 second_quarter) — $330000</title>
+      <link>https://lda.gov/filings/public/filing/6735602a-2c1f-4780-a55b-4c47b15f6eb5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6735602a-2c1f-4780-a55b-4c47b15f6eb5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORNING INCORPORATED via THE DUBERSTEIN GROUP INC. (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/65b8581a-4b92-4edd-95b3-bda6ecad4856/print/</link>
+      <guid isPermaLink="false">lobbying-filings:65b8581a-4b92-4edd-95b3-bda6ecad4856</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORNING INCORPORATED via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/3005334f-e19d-4ca1-9448-3d0e91720545/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3005334f-e19d-4ca1-9448-3d0e91720545</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORNING INCORPORATED via BGR GOVERNMENT AFFAIRS (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/2c47fd7e-fedc-4d2a-8acf-ddb02dcde03d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2c47fd7e-fedc-4d2a-8acf-ddb02dcde03d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORNING INCORPORATED via THE DUBERSTEIN GROUP INC. (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/1eb338b3-fb9f-4725-b457-2e6f08947947/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1eb338b3-fb9f-4725-b457-2e6f08947947</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

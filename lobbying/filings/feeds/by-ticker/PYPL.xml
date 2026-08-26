@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — PYPL</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>PAYPAL via I STREET ADVOCATES (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/ff9a9823-2149-423e-99c1-a003404f6b8d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ff9a9823-2149-423e-99c1-a003404f6b8d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAYPAL, INC. via ERIS GROUP (2026 first_quarter) — $29500</title>
+      <link>https://lda.gov/filings/public/filing/ecb23d4a-906a-4f8d-bc0a-641e58ed890c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ecb23d4a-906a-4f8d-bc0a-641e58ed890c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAYPAL via STERNHELL GROUP (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/cce222e2-4ec6-4aa3-8d42-07ebb6e8cac1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cce222e2-4ec6-4aa3-8d42-07ebb6e8cac1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAYPAL, INC. via ERIS GROUP (2026 second_quarter) — $29500</title>
+      <link>https://lda.gov/filings/public/filing/b530133c-1ba5-4e64-8093-8b0dd826ce5b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b530133c-1ba5-4e64-8093-8b0dd826ce5b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAYPAL via THORN RUN PARTNERS (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/a341d703-cc5d-4db1-a5a6-8762135046ee/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a341d703-cc5d-4db1-a5a6-8762135046ee</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAYPAL, INC. via FRANKLIN SQUARE GROUP, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/9ed9fe36-aa69-4810-a546-60f30447c4bf/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9ed9fe36-aa69-4810-a546-60f30447c4bf</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAYPAL, INC. via FRANKLIN SQUARE GROUP, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/95644e0e-5b41-423a-bd10-409240594328/print/</link>
+      <guid isPermaLink="false">lobbying-filings:95644e0e-5b41-423a-bd10-409240594328</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAYPAL via I STREET ADVOCATES (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/91ca53f3-197f-44d5-9792-f7a7b98b6d34/print/</link>
+      <guid isPermaLink="false">lobbying-filings:91ca53f3-197f-44d5-9792-f7a7b98b6d34</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAYPAL, INC. via MINDSET ADVOCACY, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/7aef7dfa-0371-4eb2-bc65-c1da65db39c2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7aef7dfa-0371-4eb2-bc65-c1da65db39c2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAYPAL via THORN RUN PARTNERS (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/74b4593f-42c3-42eb-acfb-eea5e2c64330/print/</link>
+      <guid isPermaLink="false">lobbying-filings:74b4593f-42c3-42eb-acfb-eea5e2c64330</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAYPAL via STERNHELL GROUP (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/6e132503-315a-4145-abe9-015618624693/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6e132503-315a-4145-abe9-015618624693</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAYPAL, INC. via MINDSET ADVOCACY, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/23b7bde1-9b86-44b6-850a-acd10510e4fa/print/</link>
+      <guid isPermaLink="false">lobbying-filings:23b7bde1-9b86-44b6-850a-acd10510e4fa</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAYPAL INC via PAYPAL, INC. (2026 second_quarter) — $611000</title>
+      <link>https://lda.gov/filings/public/filing/14d8ce4a-5edc-4300-ba3b-6c29845e8ecd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:14d8ce4a-5edc-4300-ba3b-6c29845e8ecd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAYPAL INC via PAYPAL, INC. (2026 first_quarter) — $569000</title>
+      <link>https://lda.gov/filings/public/filing/072b89dc-3e6e-4b0b-a454-d7609bdb934d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:072b89dc-3e6e-4b0b-a454-d7609bdb934d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

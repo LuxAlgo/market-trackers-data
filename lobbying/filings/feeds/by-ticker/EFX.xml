@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — EFX</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>EQUIFAX INC. via THORN RUN PARTNERS (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/fd23e0cc-2d1f-4f86-9ff1-6a154c3ceffa/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fd23e0cc-2d1f-4f86-9ff1-6a154c3ceffa</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EQUIFAX INC. via ALSTON &amp; BIRD LLP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/cde1209e-80b8-4750-b442-ee339de062de/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cde1209e-80b8-4750-b442-ee339de062de</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EQUIFAX INC. via THORN RUN PARTNERS (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/a7474b77-fe72-43e7-bf8e-a493d0f2bf3c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a7474b77-fe72-43e7-bf8e-a493d0f2bf3c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EQUIFAX, INC via EQUIFAX, INC. (2026 second_quarter) — $500000</title>
+      <link>https://lda.gov/filings/public/filing/99f083ff-b045-4eaf-8887-b44b9ae700ed/print/</link>
+      <guid isPermaLink="false">lobbying-filings:99f083ff-b045-4eaf-8887-b44b9ae700ed</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EQUIFAX INC. via ALSTON &amp; BIRD LLP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/8920f9e9-1a06-4bd6-9526-5d1510cafc8f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8920f9e9-1a06-4bd6-9526-5d1510cafc8f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EQUIFAX via THOLOS GOVERNMENT RELATIONS (2026 second_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/83bc7d76-a753-422d-b6c6-cc7f94fe5018/print/</link>
+      <guid isPermaLink="false">lobbying-filings:83bc7d76-a753-422d-b6c6-cc7f94fe5018</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EQUIFAX, INC via EQUIFAX, INC. (2026 first_quarter) — $480000</title>
+      <link>https://lda.gov/filings/public/filing/7a9cdb03-694f-4895-9359-7180ac5d3132/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7a9cdb03-694f-4895-9359-7180ac5d3132</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EQUIFAX, INC. via GUIDEPOSTSTRATEGIES, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/6cbaa159-c8ea-425f-8e1e-49b890b2e006/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6cbaa159-c8ea-425f-8e1e-49b890b2e006</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EQUIFAX INC. via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/611f7ceb-09cb-4d66-9b6b-fb443f1393b7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:611f7ceb-09cb-4d66-9b6b-fb443f1393b7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EQUIFAX INC. via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/4a47bc60-c2de-4f2c-b205-6b470dbac569/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4a47bc60-c2de-4f2c-b205-6b470dbac569</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EQUIFAX via THOLOS GOVERNMENT RELATIONS (2026 first_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/1c9afedb-ddb8-4300-bd30-3cceb4e55c73/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1c9afedb-ddb8-4300-bd30-3cceb4e55c73</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EQUIFAX, INC. via GUIDEPOSTSTRATEGIES, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/190ff04e-ee56-4c60-a01d-b160a6fd4c71/print/</link>
+      <guid isPermaLink="false">lobbying-filings:190ff04e-ee56-4c60-a01d-b160a6fd4c71</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — AZN</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>ASTRAZENECA PHARMACEUTICALS LP via ASTRAZENECA PHARMACEUTICALS LP (2026 second_quarter) — $1680000</title>
+      <link>https://lda.gov/filings/public/filing/a295baed-9f37-4626-856c-d456b0735d7b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a295baed-9f37-4626-856c-d456b0735d7b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASTRAZENECA via TIBER CREEK GROUP (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/992f4911-9f8d-4512-8eac-98b266e79410/print/</link>
+      <guid isPermaLink="false">lobbying-filings:992f4911-9f8d-4512-8eac-98b266e79410</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASTRAZENECA PHARMACEUTICALS LP via W STRATEGIES, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/9532899d-4c89-4f18-982a-1ed81691a5ab/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9532899d-4c89-4f18-982a-1ed81691a5ab</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASTRAZENECA via TARPLIN, DOWNS &amp; YOUNG, LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/7d6e02b1-b1e2-4ac8-a27d-66aa22f2dd52/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7d6e02b1-b1e2-4ac8-a27d-66aa22f2dd52</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASTRAZENECA PHARMACEUTICALS LP via ASTRAZENECA PHARMACEUTICALS LP (2026 first_quarter) — $2280000</title>
+      <link>https://lda.gov/filings/public/filing/6716ebec-ed34-4ed0-96ca-d29c95008f41/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6716ebec-ed34-4ed0-96ca-d29c95008f41</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASTRAZENECA via TIBER CREEK GROUP (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/51d75eff-98f5-4f00-bfd3-c975cd085c89/print/</link>
+      <guid isPermaLink="false">lobbying-filings:51d75eff-98f5-4f00-bfd3-c975cd085c89</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASTRAZENECA PHARMACEUTICALS LP via TODD STRATEGY GROUP (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/4e41c51e-97ce-49ac-9796-ade0e0839ed2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4e41c51e-97ce-49ac-9796-ade0e0839ed2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASTRAZENECA via TARPLIN, DOWNS &amp; YOUNG, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/4c495202-dc90-48e1-8073-8c5427923890/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4c495202-dc90-48e1-8073-8c5427923890</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASTRAZENECA PHARMACEUTICALS LP via TODD STRATEGY GROUP (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/2d54b2b8-3407-49af-9a40-e0fedd53984b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2d54b2b8-3407-49af-9a40-e0fedd53984b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASTRAZENECA PHARMACEUTICALS LP via W STRATEGIES, LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/0dc038a8-372d-4a72-98c3-6b6950073d61/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0dc038a8-372d-4a72-98c3-6b6950073d61</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

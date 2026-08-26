@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — ELV</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>ELEVANCE HEALTH, INC. via ALB SOLUTIONS (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/f7c07cb3-2dd7-4cef-9cc1-5cb9cafda5a4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f7c07cb3-2dd7-4cef-9cc1-5cb9cafda5a4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELEVANCE HEALTH, INC. via MEHLMAN CONSULTING, INC. (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/e4615192-b48d-4177-b17b-446dc2ecedbd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e4615192-b48d-4177-b17b-446dc2ecedbd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELEVANCE HEALTH, INC. via ELEVANCE HEALTH, INC. (2026 first_quarter) — $2070000</title>
+      <link>https://lda.gov/filings/public/filing/df135c9f-b599-436d-9c4c-5b317dbb9b8a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:df135c9f-b599-436d-9c4c-5b317dbb9b8a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELEVANCE HEALTH, INC via CAPITOL HILL CONSULTING GROUP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/c2baca03-264b-4cef-ad45-232329aaf667/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c2baca03-264b-4cef-ad45-232329aaf667</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELEVANCE HEALTH via CONTINENTAL STRATEGY, LLC (2026 second_quarter) — $75000</title>
+      <link>https://lda.gov/filings/public/filing/a8639e22-b246-4a8d-af93-15ce16a7f5c5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a8639e22-b246-4a8d-af93-15ce16a7f5c5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELEVANCE HEALTH, INC. via ELEVANCE HEALTH, INC. (2026 first_quarter) — $1720000</title>
+      <link>https://lda.gov/filings/public/filing/a6837690-da26-41ed-a87b-34ec84ff1675/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a6837690-da26-41ed-a87b-34ec84ff1675</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELEVANCE HEALTH, INC (F.K.A. ANTHEM, INC. &amp; WELLPOINT, INC.) via TARPLIN, DOWNS &amp; YOUNG, LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/8a549f9b-403d-442f-8ec7-ab91adedc043/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8a549f9b-403d-442f-8ec7-ab91adedc043</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELEVANCE HEALTH, INC. via MEHLMAN CONSULTING, INC. (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/7d6f3c05-88c7-43eb-bcbb-b060709ff757/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7d6f3c05-88c7-43eb-bcbb-b060709ff757</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELEVANCE HEALTH, INC. via ALB SOLUTIONS (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/69c1d9d9-12b1-4375-97f1-5623b9662fb3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:69c1d9d9-12b1-4375-97f1-5623b9662fb3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELEVANCE HEALTH via CONTINENTAL STRATEGY, LLC (2026 first_quarter) — $75000</title>
+      <link>https://lda.gov/filings/public/filing/5a818f10-3ba0-4744-840f-564660deadda/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5a818f10-3ba0-4744-840f-564660deadda</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELEVANCE HEALTH, INC via CAPITOL HILL CONSULTING GROUP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/4e8c4669-8ebb-452f-8ea0-2866fc872576/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4e8c4669-8ebb-452f-8ea0-2866fc872576</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELEVANCE HEALTH, INC. via ELEVANCE HEALTH, INC. (2026 second_quarter) — $2290000</title>
+      <link>https://lda.gov/filings/public/filing/432ad7af-28ac-4f96-849d-44ceb9d940d0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:432ad7af-28ac-4f96-849d-44ceb9d940d0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELEVANCE HEALTH, INC. via TIBER CREEK GROUP (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/353bf492-a600-4c4f-bcdc-402599dad116/print/</link>
+      <guid isPermaLink="false">lobbying-filings:353bf492-a600-4c4f-bcdc-402599dad116</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELEVANCE HEALTH, INC (F.K.A. ANTHEM, INC. &amp; WELLPOINT, INC.) via TARPLIN, DOWNS &amp; YOUNG, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/18f8c981-c43b-4087-a7dc-fde6b01e1be6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:18f8c981-c43b-4087-a7dc-fde6b01e1be6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELEVANCE HEALTH, INC. via TIBER CREEK GROUP (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/16e5c837-7852-4a57-a084-48efafd13838/print/</link>
+      <guid isPermaLink="false">lobbying-filings:16e5c837-7852-4a57-a084-48efafd13838</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

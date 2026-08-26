@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — LDOS</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>LEIDOS INC. via SQUIRE PATTON BOGGS (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/fa71a6b5-9e23-469e-9764-692f9b23ad8b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fa71a6b5-9e23-469e-9764-692f9b23ad8b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS INC via LEIDOS, INC. (2026 second_quarter) — $1110000</title>
+      <link>https://lda.gov/filings/public/filing/dd5f50c8-b8e8-4b87-acf9-a3aab8401443/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dd5f50c8-b8e8-4b87-acf9-a3aab8401443</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS, INC. via 535 GROUP, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/bc5c8795-431a-4c8c-82c6-4da5cc76c981/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bc5c8795-431a-4c8c-82c6-4da5cc76c981</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS, INC. via CGCN GROUP, LLC (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/b2d0fad8-669b-41d0-a834-653216f8b35c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b2d0fad8-669b-41d0-a834-653216f8b35c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS HOLDINGS, INC. via TROUTMAN STRATEGIES (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/a1571207-ea64-41f2-a4c9-2d5560978821/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a1571207-ea64-41f2-a4c9-2d5560978821</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS INC. via SQUIRE PATTON BOGGS (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/9f6fa85a-4e23-46f8-8e14-d4c24a0486ca/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9f6fa85a-4e23-46f8-8e14-d4c24a0486ca</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS INC via LEIDOS, INC. (2026 first_quarter) — $1270000</title>
+      <link>https://lda.gov/filings/public/filing/8ec962f5-5cf9-4388-9016-a8dae6a60245/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8ec962f5-5cf9-4388-9016-a8dae6a60245</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS INC via POTOMAC CAPITOL ASSOCIATES, INC. (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/89e389af-b0cc-44a8-a98c-cbba5f7f0d90/print/</link>
+      <guid isPermaLink="false">lobbying-filings:89e389af-b0cc-44a8-a98c-cbba5f7f0d90</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS, INC. via CGCN GROUP, LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/8925e5ce-ea54-4e19-8a0a-7c0f1e606e69/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8925e5ce-ea54-4e19-8a0a-7c0f1e606e69</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS via ALPINE GROUP PARTNERS, LLC. (2026 first_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/79921ee0-3e91-45cb-a32b-00ee312ac244/print/</link>
+      <guid isPermaLink="false">lobbying-filings:79921ee0-3e91-45cb-a32b-00ee312ac244</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS via CR FEDERAL (2026 second_quarter) — $45000</title>
+      <link>https://lda.gov/filings/public/filing/787b5010-8e89-49d8-b77f-272edaba007a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:787b5010-8e89-49d8-b77f-272edaba007a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS, INC. via TEAM HALLAHAN LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/4d2e3838-42df-47d4-8e79-c5116e3ef61f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4d2e3838-42df-47d4-8e79-c5116e3ef61f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS, INC. via 535 GROUP, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/3c93f046-68b8-49ed-8955-58ce0a89ec63/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3c93f046-68b8-49ed-8955-58ce0a89ec63</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS via AMERICAN DEFENSE INTERNATIONAL (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/2fc9d7b6-9138-455c-af4d-c3e2fb8a0faa/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2fc9d7b6-9138-455c-af4d-c3e2fb8a0faa</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS, INC. via TEAM HALLAHAN LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/2ee54942-3598-463f-be8f-cdb8dd26c003/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2ee54942-3598-463f-be8f-cdb8dd26c003</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS via CR FEDERAL (2026 first_quarter) — $45000</title>
+      <link>https://lda.gov/filings/public/filing/2baceddc-0b51-4df9-af1b-7f962cee7357/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2baceddc-0b51-4df9-af1b-7f962cee7357</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS via ALPINE GROUP PARTNERS, LLC. (2026 second_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/2a00fef1-9d61-48da-ae96-62a3baa8bf3a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2a00fef1-9d61-48da-ae96-62a3baa8bf3a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS via AMERICAN DEFENSE INTERNATIONAL (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/1d217f89-d393-4579-91ab-032dd26d1e45/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1d217f89-d393-4579-91ab-032dd26d1e45</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS via THE OB-C GROUP, LLC (2026 first_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/194e005e-15e3-49eb-b79a-cfa8a9181a34/print/</link>
+      <guid isPermaLink="false">lobbying-filings:194e005e-15e3-49eb-b79a-cfa8a9181a34</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS via PARK GOVERNMENT RELATIONS, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/10807c59-a8bb-4859-bcea-b85548abce55/print/</link>
+      <guid isPermaLink="false">lobbying-filings:10807c59-a8bb-4859-bcea-b85548abce55</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS HOLDINGS, INC. via TROUTMAN STRATEGIES (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/0f1f6bcb-f66a-4c91-afac-84be300c8b4b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0f1f6bcb-f66a-4c91-afac-84be300c8b4b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS via THE OB-C GROUP, LLC (2026 second_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/08ff9a44-5b05-490b-b915-5c31958b9e6e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:08ff9a44-5b05-490b-b915-5c31958b9e6e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEIDOS via PARK GOVERNMENT RELATIONS, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/0868e89e-8534-4327-8da0-ab98fc92f212/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0868e89e-8534-4327-8da0-ab98fc92f212</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — PG</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>PROCTER &amp; GAMBLE COMPANY via THE WASHINGTON TAX &amp; PUBLIC POLICY GROUP (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/c8a5b868-8442-4fcd-97ed-3e91e3ce1ff4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c8a5b868-8442-4fcd-97ed-3e91e3ce1ff4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE PROCTER AND GAMBLE COMPANY via THE PROCTER AND GAMBLE COMPANY (2026 second_quarter) — $661000</title>
+      <link>https://lda.gov/filings/public/filing/bdd55bc4-96a6-44e2-bd25-ffc3fb3ed860/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bdd55bc4-96a6-44e2-bd25-ffc3fb3ed860</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE PROCTER &amp; GAMBLE COMPANY via RIDGELINE ADVOCACY GROUP LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/76343927-9338-4b3a-836e-7d83b9d122c8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:76343927-9338-4b3a-836e-7d83b9d122c8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE PROCTER &amp; GAMBLE COMPANY via BGR GOVERNMENT AFFAIRS (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/68eddfad-50a1-4a47-9d04-6fffc159f42b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:68eddfad-50a1-4a47-9d04-6fffc159f42b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE PROCTER &amp; GAMBLE COMPANY via BGR GOVERNMENT AFFAIRS (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/64ad86d8-2503-431a-a362-f16677af5d9a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:64ad86d8-2503-431a-a362-f16677af5d9a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE PROCTER &amp; GAMBLE COMPANY via FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC) (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/2bc6400e-47ac-4ac5-9d23-524a246e8ed7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2bc6400e-47ac-4ac5-9d23-524a246e8ed7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE PROCTER AND GAMBLE COMPANY via THE PROCTER AND GAMBLE COMPANY (2026 first_quarter) — $818900</title>
+      <link>https://lda.gov/filings/public/filing/206fa65d-6e23-47fd-9e67-eb5690ac5678/print/</link>
+      <guid isPermaLink="false">lobbying-filings:206fa65d-6e23-47fd-9e67-eb5690ac5678</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PROCTER &amp; GAMBLE COMPANY via THE WASHINGTON TAX &amp; PUBLIC POLICY GROUP (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/1e33f09c-96f2-4768-964a-177bc7fd9b03/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1e33f09c-96f2-4768-964a-177bc7fd9b03</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE PROCTER &amp; GAMBLE COMPANY via BGR GOVERNMENT AFFAIRS (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/1d4ee7d9-2257-46b0-8479-99e2dcbcec34/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1d4ee7d9-2257-46b0-8479-99e2dcbcec34</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PROCTER &amp; GAMBLE via HARBINGER STRATEGIES, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/1befe3e3-bc2e-4e69-b8e8-942d6c08305f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1befe3e3-bc2e-4e69-b8e8-942d6c08305f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE PROCTER &amp; GAMBLE COMPANY via RIDGELINE ADVOCACY GROUP LLC (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/0a6a6a54-4690-4bb4-a1ca-c19b37b48484/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0a6a6a54-4690-4bb4-a1ca-c19b37b48484</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PROCTER &amp; GAMBLE via HARBINGER STRATEGIES, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/046c5a3a-027d-48c3-afa0-62a66a05dce0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:046c5a3a-027d-48c3-afa0-62a66a05dce0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — AVGO</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>BROADCOM INC via BROADCOM INC. (2026 first_quarter) — $430000</title>
+      <link>https://lda.gov/filings/public/filing/de29d89e-fd07-4bee-9a26-86da847d815d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:de29d89e-fd07-4bee-9a26-86da847d815d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROADCOM INC. via INVARIANT LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/dc55b2f2-724c-4414-b4b4-c5e788f27357/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dc55b2f2-724c-4414-b4b4-c5e788f27357</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROADCOM via MONUMENT ADVOCACY (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/cf4e9cae-a58b-4bc2-8a86-d7b05185acec/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cf4e9cae-a58b-4bc2-8a86-d7b05185acec</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROADCOM LIMITED via MILLER STRATEGIES, LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/adbf6cd3-88d4-4d95-8b42-10cd0be3a2a2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:adbf6cd3-88d4-4d95-8b42-10cd0be3a2a2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROADCOM LIMITED via MILLER STRATEGIES, LLC (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/9df0c47e-c4a8-40ee-87af-15ca4a5f9c59/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9df0c47e-c4a8-40ee-87af-15ca4a5f9c59</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROADCOM INC. via INVARIANT LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/8aac170d-6a0d-4409-894f-1350b0408a8e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8aac170d-6a0d-4409-894f-1350b0408a8e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROADCOM INC. via CASSIDY &amp; ASSOCIATES, INC. (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/522a21ec-70dd-45ca-b75b-2d0d6070eed7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:522a21ec-70dd-45ca-b75b-2d0d6070eed7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROADCOM INC via BROADCOM INC. (2026 second_quarter) — $420000</title>
+      <link>https://lda.gov/filings/public/filing/362cc44f-d745-44f8-84a2-59dcfdc7eda2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:362cc44f-d745-44f8-84a2-59dcfdc7eda2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROADCOM via MONUMENT ADVOCACY (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/254fa581-7e63-4c19-befb-8899e6fe2424/print/</link>
+      <guid isPermaLink="false">lobbying-filings:254fa581-7e63-4c19-befb-8899e6fe2424</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROADCOM, INC. via SALT POINT STRATEGIES (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/20882489-23e4-4d28-9f3a-4aa83c1d801e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:20882489-23e4-4d28-9f3a-4aa83c1d801e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROADCOM INC. via CASSIDY &amp; ASSOCIATES, INC. (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/101c15e2-f6e4-4b1f-bc4f-5537216a2276/print/</link>
+      <guid isPermaLink="false">lobbying-filings:101c15e2-f6e4-4b1f-bc4f-5537216a2276</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROADCOM, INC. via SALT POINT STRATEGIES (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/083d5dfb-dcb8-4e65-8ba3-269a0718da96/print/</link>
+      <guid isPermaLink="false">lobbying-filings:083d5dfb-dcb8-4e65-8ba3-269a0718da96</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

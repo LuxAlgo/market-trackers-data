@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Short-sale volume — ABT</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>ABT 2026-08-26: 1475018.914566/2760242.986629 short (53.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260826.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-26:ABT:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABT 2026-08-25: 886537.382793/2787215.158086 short (31.8%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260825.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-25:ABT:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABT 2026-08-24: 918379.134593/2133750.032089 short (43.0%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260824.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-24:ABT:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:58 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

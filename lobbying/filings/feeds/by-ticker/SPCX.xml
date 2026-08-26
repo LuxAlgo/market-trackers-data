@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — SPCX</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>SPACE EXPLORATION TECHNOLOGIES CORP. via INVARIANT LLC (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/fa5989e9-ab8d-499b-ab5b-9b4c175bf649/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fa5989e9-ab8d-499b-ab5b-9b4c175bf649</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SPACE EXPLORATION TECHNOLOGIES CORPORATION via FORBES-TATE (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/d404726a-ec7d-4ff2-99eb-a53dca5466a9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d404726a-ec7d-4ff2-99eb-a53dca5466a9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SPACE EXPLORATION TECHNOLOGIES CORP. via BEDROCK STRATEGIES, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/a26fb42f-744f-431c-a54a-20245f3dcd2a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a26fb42f-744f-431c-a54a-20245f3dcd2a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SPACE EXPLORATION TECHNOLOGIES via SPACE EXPLORATION TECHNOLOGIES (2026 first_quarter) — $750000</title>
+      <link>https://lda.gov/filings/public/filing/9908d130-1f49-4c3e-8fbb-75372011398f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9908d130-1f49-4c3e-8fbb-75372011398f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SPACE EXPLORATION TECHNOLOGIES via SPACE EXPLORATION TECHNOLOGIES (2026 second_quarter) — $750000</title>
+      <link>https://lda.gov/filings/public/filing/75fa3463-170e-4227-b368-f1a3e82a28ac/print/</link>
+      <guid isPermaLink="false">lobbying-filings:75fa3463-170e-4227-b368-f1a3e82a28ac</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SPACE EXPLORATION TECHNOLOGIES CORP. via INVARIANT LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/6d23712a-c26e-49a8-8345-ccb27c02284f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6d23712a-c26e-49a8-8345-ccb27c02284f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SPACE EXPLORATION TECHNOLOGIES CORP. via MILLER STRATEGIES, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/69876d97-74dc-4239-9e59-e32b6e384ce0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:69876d97-74dc-4239-9e59-e32b6e384ce0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SPACE EXPLORATION TECHNOLOGIES CORPORATION via FORBES-TATE (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/4b9b5823-afea-44b9-9ada-6640aa710a6c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4b9b5823-afea-44b9-9ada-6640aa710a6c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SPACE EXPLORATION TECHNOLOGIES CORP. via MILLER STRATEGIES, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/4b5635c8-3e9d-4275-af9b-5cbc744f0361/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4b5635c8-3e9d-4275-af9b-5cbc744f0361</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SPACE EXPLORATION TECHNOLOGIES CORP. via BEDROCK STRATEGIES, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/107a25c8-52a2-4671-9131-2d7168e27bfa/print/</link>
+      <guid isPermaLink="false">lobbying-filings:107a25c8-52a2-4671-9131-2d7168e27bfa</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SPACE EXPLORATION TECHNOLOGIES CORP. via BEDROCK STRATEGIES, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/08650381-0613-45c1-b9d9-2332eee9deb7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:08650381-0613-45c1-b9d9-2332eee9deb7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

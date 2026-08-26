@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — NN</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>NEXTNAV via TELEMEDIA POLICY CORP. (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/d002fde5-76bc-4e55-980e-a0c52302b0f8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d002fde5-76bc-4e55-980e-a0c52302b0f8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NEXTNAV via CLARK HILL PUBLIC STRATEGIES LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/cb839000-bd35-4fd9-aa91-8874edef15e0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cb839000-bd35-4fd9-aa91-8874edef15e0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NEXTNAV via CLARK HILL PUBLIC STRATEGIES LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/ca84fe70-0638-4a13-a7fc-31e4e4e6f524/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ca84fe70-0638-4a13-a7fc-31e4e4e6f524</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NEXTNAV, LLC via ALPINE GROUP PARTNERS, LLC. (2026 second_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/b1a08078-101d-42a6-82f1-699ac191b8d2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b1a08078-101d-42a6-82f1-699ac191b8d2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NEXTNAV INC. via MILLER STRATEGIES, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/b148c05a-2191-49be-afc0-38f912e4ae2c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b148c05a-2191-49be-afc0-38f912e4ae2c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NEXTNAV INC. via NEXTNAV INC. (2026 second_quarter) — $480000</title>
+      <link>https://lda.gov/filings/public/filing/abcd6388-0392-42a1-a60c-1d0524d40e31/print/</link>
+      <guid isPermaLink="false">lobbying-filings:abcd6388-0392-42a1-a60c-1d0524d40e31</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NEXTNAV, LLC via ALPINE GROUP PARTNERS, LLC. (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/636624f3-30b5-48f8-ac42-667bec65e374/print/</link>
+      <guid isPermaLink="false">lobbying-filings:636624f3-30b5-48f8-ac42-667bec65e374</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NEXTNAV via TELEMEDIA POLICY CORP. (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/60d8362c-5ebc-4b6d-8c5d-ce7efa4460c5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:60d8362c-5ebc-4b6d-8c5d-ce7efa4460c5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NEXTNAV via CLARK HILL PUBLIC STRATEGIES LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/2df5604c-d9e2-4984-b65d-c822adf76621/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2df5604c-d9e2-4984-b65d-c822adf76621</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NEXTNAV INC. via MILLER STRATEGIES, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/1cbe2ae3-ee2e-4f73-bf60-bb9ba1ef1861/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1cbe2ae3-ee2e-4f73-bf60-bb9ba1ef1861</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NEXTNAV INC. via NEXTNAV INC. (2026 first_quarter) — $300000</title>
+      <link>https://lda.gov/filings/public/filing/12cc9be6-7b8c-454c-bb29-c9bee0394205/print/</link>
+      <guid isPermaLink="false">lobbying-filings:12cc9be6-7b8c-454c-bb29-c9bee0394205</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NEXTNAV, LLC via ALPINE GROUP PARTNERS, LLC. (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/0d179d1b-f9f1-478c-a90d-120a279defa7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0d179d1b-f9f1-478c-a90d-120a279defa7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

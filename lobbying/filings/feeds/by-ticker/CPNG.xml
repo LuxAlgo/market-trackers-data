@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — CPNG</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>COUPANG, INC. via WILLIAMS AND JENSEN, PLLC (2026 second_quarter) — $100000</title>
+      <link>https://lda.gov/filings/public/filing/e2bd3de5-e587-441f-8772-9b3221e40581/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e2bd3de5-e587-441f-8772-9b3221e40581</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUPANG, INC. via CROSSROADS STRATEGIES, LLC (2026 second_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/db986aab-4b3f-4a2e-a87c-149f75a03ac5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:db986aab-4b3f-4a2e-a87c-149f75a03ac5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUPANG, INC. via BALLARD PARTNERS (2026 first_quarter) — $170000</title>
+      <link>https://lda.gov/filings/public/filing/d5b565ea-4e0c-47ca-8762-0e6e6b4242de/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d5b565ea-4e0c-47ca-8762-0e6e6b4242de</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUPANG INC. via CONTINENTAL STRATEGY, LLC (2026 second_quarter) — $135000</title>
+      <link>https://lda.gov/filings/public/filing/ca541b9e-c379-483a-bf96-39f11cd72089/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ca541b9e-c379-483a-bf96-39f11cd72089</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUPANG INC. via CONTINENTAL STRATEGY, LLC (2026 first_quarter) — $75000</title>
+      <link>https://lda.gov/filings/public/filing/c0e6d02a-03c9-4305-900c-4c7f79423822/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c0e6d02a-03c9-4305-900c-4c7f79423822</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUPANG, INC. via MILLER STRATEGIES, LLC (2026 second_quarter) — $300000</title>
+      <link>https://lda.gov/filings/public/filing/bc2802ca-61cd-4c15-aa99-37caa14420c5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bc2802ca-61cd-4c15-aa99-37caa14420c5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUPANG, INC. via WILLIAMS AND JENSEN, PLLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/ab749e29-7d74-4037-b395-bbd42e5a7fe2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ab749e29-7d74-4037-b395-bbd42e5a7fe2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUPANG, INC. via WILLIAMS AND JENSEN, PLLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/9b5ccb50-00ad-45f2-bbc1-ecbfcdb4f70a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9b5ccb50-00ad-45f2-bbc1-ecbfcdb4f70a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUPANG, INC. via BALLARD PARTNERS (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/8e4a96ab-6773-455a-92a2-af2c33025b53/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8e4a96ab-6773-455a-92a2-af2c33025b53</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUPANG, INC. via BALLARD PARTNERS (2026 second_quarter) — $250000</title>
+      <link>https://lda.gov/filings/public/filing/7c908677-b0a5-418e-aaa8-f260ac894e56/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7c908677-b0a5-418e-aaa8-f260ac894e56</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUPANG, INC. via COUPANG, INC. (2026 first_quarter) — $1090000</title>
+      <link>https://lda.gov/filings/public/filing/79280409-68e5-40e2-a8db-6989b1c7fc9a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:79280409-68e5-40e2-a8db-6989b1c7fc9a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUPANG, INC. via MILLER STRATEGIES, LLC (2026 first_quarter) — $300000</title>
+      <link>https://lda.gov/filings/public/filing/6ee2163f-6b8c-49b8-b022-b6874ab41643/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6ee2163f-6b8c-49b8-b022-b6874ab41643</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUPANG, INC. via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/4f23a7cd-17c8-4bdd-a8b2-e1858f129908/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4f23a7cd-17c8-4bdd-a8b2-e1858f129908</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUPANG, INC. via CROSSROADS STRATEGIES, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/3900e55e-35d6-4489-bf6e-ebff6715ab44/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3900e55e-35d6-4489-bf6e-ebff6715ab44</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUPANG, INC. via COUPANG, INC. (2026 second_quarter) — $1280000</title>
+      <link>https://lda.gov/filings/public/filing/334c6b03-9566-461f-b8b8-c0a8ca1d9c6a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:334c6b03-9566-461f-b8b8-c0a8ca1d9c6a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUPANG via MONUMENT ADVOCACY (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/26769630-ee70-429a-9f67-fc97b9ced34a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:26769630-ee70-429a-9f67-fc97b9ced34a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUPANG via MONUMENT ADVOCACY (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/1d140907-487c-4d2e-ab4f-f8667753f1e5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1d140907-487c-4d2e-ab4f-f8667753f1e5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUPANG, INC. via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/0e829113-4b16-4fd7-ae5a-38093a92414d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0e829113-4b16-4fd7-ae5a-38093a92414d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COUPANG, INC. via CROSSROADS STRATEGIES, LLC (2026 first_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/09e08f6d-d58c-42a6-82e2-38d905a6b39f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:09e08f6d-d58c-42a6-82e2-38d905a6b39f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

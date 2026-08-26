@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — GS</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>THE GOLDMAN SACHS GROUP, INC. via DALY CONSULTING GROUP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/f733013f-ea5e-4e4f-b53e-63a24c0f4020/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f733013f-ea5e-4e4f-b53e-63a24c0f4020</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE GOLDMAN SACHS GROUP, INC via HARBINGER STRATEGIES, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/dea90791-79c9-4856-822c-692b0b6661ff/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dea90791-79c9-4856-822c-692b0b6661ff</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE GOLDMAN SACHS GROUP, INC. via MINDSET ADVOCACY, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/d4a3bf79-3975-4ebe-ad49-0ee177bd19ec/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d4a3bf79-3975-4ebe-ad49-0ee177bd19ec</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDMAN SACHS GROUP INC via CAPITOL TAX PARTNERS, LLP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/cc5b6be6-9063-4004-8103-d30dbd1e962b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cc5b6be6-9063-4004-8103-d30dbd1e962b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE GOLDMAN SACHS GROUP, INC via HARBINGER STRATEGIES, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/a2bcd372-e22f-48f3-88ec-8ad127abcc18/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a2bcd372-e22f-48f3-88ec-8ad127abcc18</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDMAN SACHS GROUP INC via CAPITOL TAX PARTNERS, LLP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/3ec6bdc2-40e4-4dcf-b91a-959468d18f8f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3ec6bdc2-40e4-4dcf-b91a-959468d18f8f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE GOLDMAN SACHS GROUP, INC. via DALY CONSULTING GROUP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/2fb987cc-40f6-4323-93d4-b738bbb6d3c8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2fb987cc-40f6-4323-93d4-b738bbb6d3c8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDMAN SACHS GROUP INC via AVOQ, LLC (2026 first_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/2d945e50-eeff-441c-b02c-9d5b36a03ce0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2d945e50-eeff-441c-b02c-9d5b36a03ce0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE GOLDMAN SACHS GROUP, INC. via MINDSET ADVOCACY, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/2d51f5dc-4d7a-478f-9ceb-dd1c9ce60d28/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2d51f5dc-4d7a-478f-9ceb-dd1c9ce60d28</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDMAN SACHS GROUP INC via THE GOLDMAN SACHS GROUP, INC. (2026 second_quarter) — $640000</title>
+      <link>https://lda.gov/filings/public/filing/21f66046-5d72-49f0-bc0b-dbca5edefb36/print/</link>
+      <guid isPermaLink="false">lobbying-filings:21f66046-5d72-49f0-bc0b-dbca5edefb36</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDMAN SACHS GROUP INC via THE GOLDMAN SACHS GROUP, INC. (2026 first_quarter) — $1250000</title>
+      <link>https://lda.gov/filings/public/filing/18ae6c9f-43d8-4c71-b408-37f9b93e6910/print/</link>
+      <guid isPermaLink="false">lobbying-filings:18ae6c9f-43d8-4c71-b408-37f9b93e6910</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDMAN SACHS GROUP INC via AVOQ, LLC (2026 second_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/02429ccc-051f-4440-b392-19f32dff2916/print/</link>
+      <guid isPermaLink="false">lobbying-filings:02429ccc-051f-4440-b392-19f32dff2916</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

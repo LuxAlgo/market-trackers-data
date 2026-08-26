@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — LRCX</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>LAM RESEARCH CORP. via THE GALLAGHER GROUP, LLC (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/d0100f0f-3a3c-4f6b-b8a8-7733cb42b095/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d0100f0f-3a3c-4f6b-b8a8-7733cb42b095</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LAM RESEARCH CORPORATION via LAM RESEARCH CORPORATION (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/90226a02-270a-42cf-814e-04917d72f6ee/print/</link>
+      <guid isPermaLink="false">lobbying-filings:90226a02-270a-42cf-814e-04917d72f6ee</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LAM RESEARCH CORPORATION via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/5c253f6d-ec57-42a5-95d4-8c700bac1ea6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5c253f6d-ec57-42a5-95d4-8c700bac1ea6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LAM RESEARCH CORPORATION via MERCURY PUBLIC AFFAIRS, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/5a45adef-9281-438c-9579-e8c0c4b7f930/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5a45adef-9281-438c-9579-e8c0c4b7f930</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LAM RESEARCH CORP. via THE GALLAGHER GROUP, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/56c15b0e-a315-42ac-9775-053116f84b02/print/</link>
+      <guid isPermaLink="false">lobbying-filings:56c15b0e-a315-42ac-9775-053116f84b02</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LAM RESEARCH CORPORATION via MERCURY PUBLIC AFFAIRS, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/565c93cb-9af3-494d-a895-1598cf20db6b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:565c93cb-9af3-494d-a895-1598cf20db6b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LAM RESEARCH CORPORATION via MERCURY PUBLIC AFFAIRS, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/53374b0e-89f6-4916-b274-f2cbc152560b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:53374b0e-89f6-4916-b274-f2cbc152560b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LAM RESEARCH CORPORATION via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/38994250-db0e-4565-8397-b7b3d63856d1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:38994250-db0e-4565-8397-b7b3d63856d1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LAM RESEARCH CORPORATION via LAM RESEARCH CORPORATION (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/2fa1772f-0cd3-45a5-bf31-9cd3defbd603/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2fa1772f-0cd3-45a5-bf31-9cd3defbd603</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

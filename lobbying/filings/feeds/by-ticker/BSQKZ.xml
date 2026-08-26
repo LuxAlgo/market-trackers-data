@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — BSQKZ</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>BLOCK, INC. via CAPITOL TAX PARTNERS, LLP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/c6afd4a7-2786-423a-bda7-34629bc60f68/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c6afd4a7-2786-423a-bda7-34629bc60f68</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BLOCK, INC. via RESONANT TAX STRATEGIES, LLP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/c20e674b-5cbf-482d-8463-a34f2f02343a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c20e674b-5cbf-482d-8463-a34f2f02343a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BLOCK, INC. via AVOQ, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/acb3b4b9-3bf9-4a80-9b46-a31f736aaae0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:acb3b4b9-3bf9-4a80-9b46-a31f736aaae0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BLOCK, INC. via RESONANT TAX STRATEGIES, LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/a75276f1-df9d-4e9a-a01c-efda8db92d17/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a75276f1-df9d-4e9a-a01c-efda8db92d17</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BLOCK INC. via CROSSROADS STRATEGIES, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/92752fc5-32c7-4586-9067-a732c3396388/print/</link>
+      <guid isPermaLink="false">lobbying-filings:92752fc5-32c7-4586-9067-a732c3396388</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BLOCK INC. via BLOCK INC. (2026 first_quarter) — $490000</title>
+      <link>https://lda.gov/filings/public/filing/8c9a2e9f-702e-4f44-b275-33ba4786160e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8c9a2e9f-702e-4f44-b275-33ba4786160e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BLOCK INC. via ZERO ONE STRATEGIES (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/82223ab8-9efd-49d6-8bed-d9e25ae93713/print/</link>
+      <guid isPermaLink="false">lobbying-filings:82223ab8-9efd-49d6-8bed-d9e25ae93713</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BLOCK, INC. via AVOQ, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/6b0ee88b-e846-4d8f-853a-c798c9ca9229/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6b0ee88b-e846-4d8f-853a-c798c9ca9229</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BLOCK INC. via BLOCK INC. (2026 second_quarter) — $310000</title>
+      <link>https://lda.gov/filings/public/filing/507c0592-f0a4-4875-bf1f-19d89ca51d68/print/</link>
+      <guid isPermaLink="false">lobbying-filings:507c0592-f0a4-4875-bf1f-19d89ca51d68</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BLOCK INC. via CROSSROADS STRATEGIES, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/28bcb6d8-d412-4303-934a-3604df361322/print/</link>
+      <guid isPermaLink="false">lobbying-filings:28bcb6d8-d412-4303-934a-3604df361322</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — GAP</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>GAP, INC. via RIDGE PATH STRATEGIES (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/f942585d-efcf-484c-a12e-3760bef5be99/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f942585d-efcf-484c-a12e-3760bef5be99</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GAP INC. via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/d11c3fec-71ec-480e-968f-ffc5f1f97c95/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d11c3fec-71ec-480e-968f-ffc5f1f97c95</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GAP INC. via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/bdd42ee8-3110-47d7-9ba4-466fc4738756/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bdd42ee8-3110-47d7-9ba4-466fc4738756</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GAP INC. via GAP INC. (2026 first_quarter) — $260000</title>
+      <link>https://lda.gov/filings/public/filing/a5ab327a-a3ff-4157-900e-114de52f0638/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a5ab327a-a3ff-4157-900e-114de52f0638</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GAP INC. via GAP INC. (2026 second_quarter) — $180000</title>
+      <link>https://lda.gov/filings/public/filing/83a2cccc-1eb6-47cb-9975-751851734ac0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:83a2cccc-1eb6-47cb-9975-751851734ac0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GAP, INC. via CAPITOL 6 ADVISORS (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/74851956-a355-4790-8a84-6b7cf4f7810f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:74851956-a355-4790-8a84-6b7cf4f7810f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GAP, INC. via RIDGE PATH STRATEGIES (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/6940dade-eb9e-4a22-9cf1-903ae7b50296/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6940dade-eb9e-4a22-9cf1-903ae7b50296</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GAP, INC. via CAPITOL 6 ADVISORS (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/480dfca4-8d31-4943-b497-2aa9a3abdad7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:480dfca4-8d31-4943-b497-2aa9a3abdad7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GAP, INC. via CAPITOL 6 ADVISORS (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/3bd97932-339b-4199-b4ac-b49b1a64d8e9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3bd97932-339b-4199-b4ac-b49b1a64d8e9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

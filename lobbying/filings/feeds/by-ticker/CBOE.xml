@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — CBOE</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>CBOE GLOBAL MARKETS, INC. via BOCKORNY GROUP, INC. (2026 second_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/fc36e807-398a-45b6-940d-98c79d9f31c6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fc36e807-398a-45b6-940d-98c79d9f31c6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CBOE GLOBAL MARKETS, INC. via CBOE GLOBAL MARKETS, INC. (2026 second_quarter) — $280000</title>
+      <link>https://lda.gov/filings/public/filing/d95d1e3f-0aa3-4d96-a121-5e40fe8f9a66/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d95d1e3f-0aa3-4d96-a121-5e40fe8f9a66</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CBOE GLOBAL MARKETS via SOBBA PUBLIC, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/c46de7d8-3fda-44ad-8819-0d5447c85de6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c46de7d8-3fda-44ad-8819-0d5447c85de6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CBOE GLOBAL MARKETS, INC. via CBOE GLOBAL MARKETS, INC. (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/c1e76fc4-a7a0-4b36-be69-7dba18ec52df/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c1e76fc4-a7a0-4b36-be69-7dba18ec52df</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CBOE GLOBAL MARKETS, INC. via CBOE GLOBAL MARKETS, INC. (2026 second_quarter) — $280000</title>
+      <link>https://lda.gov/filings/public/filing/b5a502cb-5f26-430a-866e-c033dec0964c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b5a502cb-5f26-430a-866e-c033dec0964c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CBOE GLOBAL MARKETS, INC. via BLUE RIDGE LAW &amp; POLICY, P.C. (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/5f39fac9-124c-4a6e-b415-8902b96ff42c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5f39fac9-124c-4a6e-b415-8902b96ff42c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CBOE GLOBAL MARKETS, INC. via BLUE RIDGE LAW &amp; POLICY, P.C. (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/15a4c4b0-cf64-44c7-b18a-483e62059261/print/</link>
+      <guid isPermaLink="false">lobbying-filings:15a4c4b0-cf64-44c7-b18a-483e62059261</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CBOE GLOBAL MARKETS via SOBBA PUBLIC, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/1211f6cd-fcca-4913-aa46-75c38248d4f6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1211f6cd-fcca-4913-aa46-75c38248d4f6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CBOE GLOBAL MARKETS, INC. via BOCKORNY GROUP, INC. (2026 first_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/019bea9c-a2f8-4162-a9bb-a59e86300d6e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:019bea9c-a2f8-4162-a9bb-a59e86300d6e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

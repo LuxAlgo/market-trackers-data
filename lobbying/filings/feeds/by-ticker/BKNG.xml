@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — BKNG</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>BOOKING HOLDINGS, INC. via CGCN GROUP, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/ddfa02d7-9559-44dc-8ed9-2d43f171c197/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ddfa02d7-9559-44dc-8ed9-2d43f171c197</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOKING HOLDINGS INC. via CONVERGENCE STRATEGIES, LLC (2026 second_quarter) — $45000</title>
+      <link>https://lda.gov/filings/public/filing/d788c57d-7493-42e6-adc6-40344f27fa59/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d788c57d-7493-42e6-adc6-40344f27fa59</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOKING HOLDINGS INC. via BOOKING HOLDINGS INC. (2026 first_quarter) — $360000</title>
+      <link>https://lda.gov/filings/public/filing/d3a8833d-ccab-42ca-9c6a-3166bac68e0b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d3a8833d-ccab-42ca-9c6a-3166bac68e0b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOKING HOLDINGS via H&amp;M STRATEGIES LLP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/cc4ed7d3-414b-471f-8913-9dc0f5af7291/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cc4ed7d3-414b-471f-8913-9dc0f5af7291</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOKING HOLDINGS, INC. via CGCN GROUP, LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/c6b2044c-5f50-44bb-a194-aac9bf16089c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c6b2044c-5f50-44bb-a194-aac9bf16089c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOKING HOLDINGS INC. via CONVERGENCE STRATEGIES, LLC (2026 first_quarter) — $45000</title>
+      <link>https://lda.gov/filings/public/filing/b86defa6-20fb-4402-8590-983ded231d59/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b86defa6-20fb-4402-8590-983ded231d59</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOKING HOLDINGS, INC. via THE DUBERSTEIN GROUP INC. (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/ad961472-22ce-4fca-b689-f860144acc33/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ad961472-22ce-4fca-b689-f860144acc33</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOKING HOLDINGS INC. via BOOKING HOLDINGS INC. (2026 second_quarter) — $320000</title>
+      <link>https://lda.gov/filings/public/filing/8a796a58-771f-47c1-bdc1-39f6545d3e90/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8a796a58-771f-47c1-bdc1-39f6545d3e90</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOKING HOLDINGS INC. via HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP) (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/7adc1110-59af-4ba4-a5bd-5557a292ed37/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7adc1110-59af-4ba4-a5bd-5557a292ed37</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOKING HOLDINGS, INC. via THE DUBERSTEIN GROUP INC. (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/635c30f5-0ff5-4ff2-bdd5-e1f4d1b2aacf/print/</link>
+      <guid isPermaLink="false">lobbying-filings:635c30f5-0ff5-4ff2-bdd5-e1f4d1b2aacf</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOKING HOLDINGS INC. via HOGAN LOVELLS CADWALADER US LLP (FKA HOGAN LOVELLS US LLP) (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/486755ba-b55f-4534-b6a5-0dd6ec853f5d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:486755ba-b55f-4534-b6a5-0dd6ec853f5d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOKING HOLDINGS via H&amp;M STRATEGIES LLP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/34952d93-57b8-42b2-bbaf-e2375ee51e84/print/</link>
+      <guid isPermaLink="false">lobbying-filings:34952d93-57b8-42b2-bbaf-e2375ee51e84</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOKING HOLDINGS INC. via BOOKING HOLDINGS INC. (2026 second_quarter) — $390000</title>
+      <link>https://lda.gov/filings/public/filing/00d1811c-e9f6-48ab-b9a9-663619a27317/print/</link>
+      <guid isPermaLink="false">lobbying-filings:00d1811c-e9f6-48ab-b9a9-663619a27317</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

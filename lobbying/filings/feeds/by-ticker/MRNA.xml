@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — MRNA</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>MODERNA, INC. via HOLLAND &amp; KNIGHT LLP (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/d2ecdac3-a2b1-4fb4-9ba7-1083987dd9d9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d2ecdac3-a2b1-4fb4-9ba7-1083987dd9d9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MODERNA, INC. via MODERNA, INC. (2026 first_quarter) — $190000</title>
+      <link>https://lda.gov/filings/public/filing/d2a65952-d362-4543-90fa-a296161dddbb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d2a65952-d362-4543-90fa-a296161dddbb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MODERNA, INC. via MODERNA, INC. (2026 second_quarter) — $290000</title>
+      <link>https://lda.gov/filings/public/filing/c89b7493-c789-4845-8a01-bf0334227f23/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c89b7493-c789-4845-8a01-bf0334227f23</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MODERNA, INC. via AVENUE SOLUTIONS (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/bf4ec79f-237d-4f52-8475-2d6f74829525/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bf4ec79f-237d-4f52-8475-2d6f74829525</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MODERNA, INC. via HOLLAND &amp; KNIGHT LLP (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/bcce9188-7091-49f4-9027-cd06820ff371/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bcce9188-7091-49f4-9027-cd06820ff371</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MODERNATX, INC. via THE WASHINGTON TAX &amp; PUBLIC POLICY GROUP (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/6b3a61a9-ab00-4b9b-9bdd-1d775c161f69/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6b3a61a9-ab00-4b9b-9bdd-1d775c161f69</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MODERNATX, INC. via STANTON PARK GROUP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/63159804-6f2b-48a7-acfd-170a77fb30d1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:63159804-6f2b-48a7-acfd-170a77fb30d1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MODERNA, INC. via AVENUE SOLUTIONS (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/4a56a303-b55c-48ff-aa0f-957cdc2e0853/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4a56a303-b55c-48ff-aa0f-957cdc2e0853</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MODERNATX, INC. via THE WASHINGTON TAX &amp; PUBLIC POLICY GROUP (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/310da2a3-82e7-499c-838c-773324b03606/print/</link>
+      <guid isPermaLink="false">lobbying-filings:310da2a3-82e7-499c-838c-773324b03606</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MODERNATX, INC. via STANTON PARK GROUP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/2fae2cb8-eef4-4d24-8379-d2d2340c1685/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2fae2cb8-eef4-4d24-8379-d2d2340c1685</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

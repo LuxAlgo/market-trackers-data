@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — STZ</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>CONSTELLATION BRANDS via S-3 GROUP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/f8206366-4211-49fb-8a88-b7da1291435f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f8206366-4211-49fb-8a88-b7da1291435f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONSTELLATION BRANDS via S-3 GROUP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/b7afe89e-3e65-425b-9dc8-e24b84fbad3b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b7afe89e-3e65-425b-9dc8-e24b84fbad3b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONSTELLATION BRANDS, INC. via CONTINENTAL STRATEGY, LLC (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/ad21625e-d90d-43b1-bb2c-4893b59e5cf0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ad21625e-d90d-43b1-bb2c-4893b59e5cf0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONSTELLATION BRANDS, INC. via MCLARTY INBOUND LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/9d186f03-21a8-446d-80d7-5f05fc236b5a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9d186f03-21a8-446d-80d7-5f05fc236b5a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONSTELLATION BRANDS, INC. via OGR (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/8b6b1cc8-002c-4ab2-b6cc-24e94d7c186c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8b6b1cc8-002c-4ab2-b6cc-24e94d7c186c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONSTELLATION BRANDS, INC. via OGR (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/809d360b-7e36-4d4f-b694-879935c2b1ae/print/</link>
+      <guid isPermaLink="false">lobbying-filings:809d360b-7e36-4d4f-b694-879935c2b1ae</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONSTELLATION BRANDS, INC. via HARBINGER STRATEGIES, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/72d2a5d1-1a8f-4abe-9a35-6e0f04d7e763/print/</link>
+      <guid isPermaLink="false">lobbying-filings:72d2a5d1-1a8f-4abe-9a35-6e0f04d7e763</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONSTELLATION BRANDS, INC. via CONTINENTAL STRATEGY, LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/709cca1e-3d52-4f5f-9ad4-711c4b62f328/print/</link>
+      <guid isPermaLink="false">lobbying-filings:709cca1e-3d52-4f5f-9ad4-711c4b62f328</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONSTELLATION BRANDS, INC. via HARBINGER STRATEGIES, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/5ee3a92d-1569-4d12-b19d-dc715add5ddd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5ee3a92d-1569-4d12-b19d-dc715add5ddd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONSTELLATION BRANDS, INC. via MCLARTY INBOUND LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/410c87cb-7fc9-4bdd-af44-b8a515b0db34/print/</link>
+      <guid isPermaLink="false">lobbying-filings:410c87cb-7fc9-4bdd-af44-b8a515b0db34</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONSTELLATION BRANDS, INC. via CGCN GROUP, LLC (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/3b814cb8-ae47-4ae9-a155-3c5e0c26ac71/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3b814cb8-ae47-4ae9-a155-3c5e0c26ac71</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONSTELLATION BRANDS via JAKE PERRY + PARTNERS (2026 third_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/2a59fcb6-fded-426c-8016-569f0c30bdbd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2a59fcb6-fded-426c-8016-569f0c30bdbd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONSTELLATION BRANDS, INC. via CGCN GROUP, LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/1a499c12-2bfc-4d13-8e01-1985bbb8a0f1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1a499c12-2bfc-4d13-8e01-1985bbb8a0f1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

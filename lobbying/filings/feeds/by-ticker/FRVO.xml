@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — FRVO</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>FERVO ENERGY COMPANY via CORNERSTONE GOVERNMENT AFFAIRS, INC. (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/e1d98e96-0874-4213-b672-e822327bb97b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e1d98e96-0874-4213-b672-e822327bb97b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FERVO ENERGY COMPANY via CORNERSTONE GOVERNMENT AFFAIRS, INC. (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/df65e2da-3f9a-47a0-9542-ff4aea68453f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:df65e2da-3f9a-47a0-9542-ff4aea68453f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FERVO ENERGY COMPANY via FERVO ENERGY COMPANY (2026 second_quarter) — $180000</title>
+      <link>https://lda.gov/filings/public/filing/c106cf00-2004-4a49-8298-f0dd3798debc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c106cf00-2004-4a49-8298-f0dd3798debc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FERVO ENERGY via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/a9e463ac-b0bf-4a65-be82-a7a3c204dda0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a9e463ac-b0bf-4a65-be82-a7a3c204dda0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FERVO ENERGY COMPANY via FERVO ENERGY COMPANY (2026 second_quarter) — $1650000</title>
+      <link>https://lda.gov/filings/public/filing/9d74ca1c-05de-4018-8852-0964071cf3f6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9d74ca1c-05de-4018-8852-0964071cf3f6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FERVO ENERGY COMPANY via FERVO ENERGY COMPANY (2026 first_quarter) — $690000</title>
+      <link>https://lda.gov/filings/public/filing/95d6c955-a9d8-4f74-b15a-ee42d11c5a26/print/</link>
+      <guid isPermaLink="false">lobbying-filings:95d6c955-a9d8-4f74-b15a-ee42d11c5a26</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FERVO ENERGY via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/8ef38d54-bf4a-4dea-b15a-895516881e21/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8ef38d54-bf4a-4dea-b15a-895516881e21</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FERVO ENERGY via BOUNDARY STONE PARTNERS (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/7c3622c9-bff0-41d6-a0a2-c70156dcfa76/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7c3622c9-bff0-41d6-a0a2-c70156dcfa76</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FERVO ENERGY COMPANY via FERVO ENERGY COMPANY (2026 first_quarter) — $170000</title>
+      <link>https://lda.gov/filings/public/filing/6f695ac2-958a-4174-b829-e26f1aa2c10e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6f695ac2-958a-4174-b829-e26f1aa2c10e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FERVO ENERGY COMPANY via CORNERSTONE GOVERNMENT AFFAIRS, INC. (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/5c923432-14b5-4f89-921d-4fac174f715a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5c923432-14b5-4f89-921d-4fac174f715a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — ELAN</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>ELANCO ANIMAL HEALTH via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/fbc37ca6-a009-4496-876b-4d0fa8150165/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fbc37ca6-a009-4496-876b-4d0fa8150165</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELANCO ANIMAL HEALTH INCORPORATED via ELANCO ANIMAL HEALTH INCORPORATED (2026 first_quarter) — $260000</title>
+      <link>https://lda.gov/filings/public/filing/e5f1a8ce-f9d0-401f-9366-820a8f2a14e6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e5f1a8ce-f9d0-401f-9366-820a8f2a14e6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELANCO ANIMAL HEALTH via BOCKORNY GROUP, INC. (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/b77a9f4a-c03b-4e00-97b7-21beaed883eb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b77a9f4a-c03b-4e00-97b7-21beaed883eb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELANCO ANIMAL HEALTH via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/b6c696bf-0a78-4955-9026-e05005222eef/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b6c696bf-0a78-4955-9026-e05005222eef</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELANCO ANIMAL HEALTH INCORPORATED via ELANCO ANIMAL HEALTH INCORPORATED (2026 second_quarter) — $230000</title>
+      <link>https://lda.gov/filings/public/filing/b1573d2a-91b4-4a3b-bba9-76070c68a45f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b1573d2a-91b4-4a3b-bba9-76070c68a45f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELANCO ANIMAL HEALTH via STUMPTOWN STRATEGIES (2026 third_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/4c66ec0f-303e-4c55-8f1a-d731d8cac22e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4c66ec0f-303e-4c55-8f1a-d731d8cac22e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELANCO ANIMAL HEALTH via BOCKORNY GROUP, INC. (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/4bd43ba7-4ee7-47dc-b371-1828395e993f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4bd43ba7-4ee7-47dc-b371-1828395e993f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELANCO ANIMAL HEALTH INCORPORATED via BOSE PUBLIC AFFAIRS GROUP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/33c2a06b-2fd1-4c3e-95d1-d9dfd9a39941/print/</link>
+      <guid isPermaLink="false">lobbying-filings:33c2a06b-2fd1-4c3e-95d1-d9dfd9a39941</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELANCO ANIMAL HEALTH INCORPORATED via BOSE PUBLIC AFFAIRS GROUP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/1d0e9669-8da6-41c2-b72f-4971269eea34/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1d0e9669-8da6-41c2-b72f-4971269eea34</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

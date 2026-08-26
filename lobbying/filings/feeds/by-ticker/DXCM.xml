@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — DXCM</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>DEXCOM, INC. via ALSTON &amp; BIRD LLP (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/fce83a3a-d8f9-4eb6-b83b-cc56e620631a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fce83a3a-d8f9-4eb6-b83b-cc56e620631a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DEXCOM, INC. via DEXCOM, INC. (2026 first_quarter) — $380000</title>
+      <link>https://lda.gov/filings/public/filing/d9bc8e53-79d8-44bb-8a43-419154aa8d7a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d9bc8e53-79d8-44bb-8a43-419154aa8d7a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DEXCOM via CONTINENTAL STRATEGY, LLC (2026 first_quarter) — $75000</title>
+      <link>https://lda.gov/filings/public/filing/b387d47a-0b32-465f-93e7-daffe4292fd3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b387d47a-0b32-465f-93e7-daffe4292fd3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DEXCOM via CONTINENTAL STRATEGY, LLC (2026 second_quarter) — $75000</title>
+      <link>https://lda.gov/filings/public/filing/8fa7f2e9-bbc7-45af-b59d-bfbc31064d4e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8fa7f2e9-bbc7-45af-b59d-bfbc31064d4e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DEXCOM via BGR GOVERNMENT AFFAIRS (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/7f82da81-8b62-4928-8138-95300b366d34/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7f82da81-8b62-4928-8138-95300b366d34</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DEXCOM, INC. via FARRAGUT PARTNERS LLP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/6800a193-0b38-4d6b-9392-4ec403a11197/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6800a193-0b38-4d6b-9392-4ec403a11197</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DEXCOM via BGR GOVERNMENT AFFAIRS (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/573a650f-05b0-468f-b407-f746bdb75abd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:573a650f-05b0-468f-b407-f746bdb75abd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DEXCOM, INC. via ALSTON &amp; BIRD LLP (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/4498a16c-0e92-4d79-9688-a65238837a30/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4498a16c-0e92-4d79-9688-a65238837a30</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DEXCOM, INC. via DEXCOM, INC. (2026 second_quarter) — $370000</title>
+      <link>https://lda.gov/filings/public/filing/394c9600-f0d9-45bc-a40a-e8e44cc254c9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:394c9600-f0d9-45bc-a40a-e8e44cc254c9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DEXCOM, INC. via FARRAGUT PARTNERS LLP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/18f3f4cc-e2d6-42ff-a571-af2952cd36c5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:18f3f4cc-e2d6-42ff-a571-af2952cd36c5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

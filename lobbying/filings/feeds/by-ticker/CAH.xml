@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — CAH</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>CARDINAL HEALTH INC via CARDINAL HEALTH, INC. (2026 first_quarter) — $1320000</title>
+      <link>https://lda.gov/filings/public/filing/fcd997b2-493a-4b22-9807-e550ba7f743a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fcd997b2-493a-4b22-9807-e550ba7f743a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CARDINAL HEALTH via BGR GOVERNMENT AFFAIRS (2026 second_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/f4dddc04-cb4a-43df-8b5f-95a7b165d3c4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f4dddc04-cb4a-43df-8b5f-95a7b165d3c4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CARDINAL HEALTH, INC. via POWERS PYLES SUTTER &amp; VERVILLE, P.C. (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/e482ee23-6915-452d-acfb-379002f71da0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e482ee23-6915-452d-acfb-379002f71da0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CARDINAL HEALTH (F.K.A. THE GLOVER PARK GROUP) via TARPLIN, DOWNS &amp; YOUNG, LLC (2026 second_quarter) — $16000</title>
+      <link>https://lda.gov/filings/public/filing/dbe3e40b-1783-4c5b-8990-04d60ee06633/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dbe3e40b-1783-4c5b-8990-04d60ee06633</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CARDINAL HEALTH INC via CARDINAL HEALTH, INC. (2026 second_quarter) — $460000</title>
+      <link>https://lda.gov/filings/public/filing/c8c363ce-e664-4a75-bb45-b906f92d691d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c8c363ce-e664-4a75-bb45-b906f92d691d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CARDINAL HEALTH, INC. via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/c559b5d0-a22b-48f6-9e29-58a75a8e6572/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c559b5d0-a22b-48f6-9e29-58a75a8e6572</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CARDINAL HEALTH, INC. via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/bdc58d0a-9ef8-4e35-9f28-2c2f65e01cf6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bdc58d0a-9ef8-4e35-9f28-2c2f65e01cf6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CARDINAL HEALTH (F.K.A. THE GLOVER PARK GROUP) via TARPLIN, DOWNS &amp; YOUNG, LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/bbb3d9a9-89d6-49da-9f78-23ec4912375d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bbb3d9a9-89d6-49da-9f78-23ec4912375d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CARDINAL HEALTH, INC. via POWERS PYLES SUTTER &amp; VERVILLE, P.C. (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/80f8c0b3-b7ed-4673-971e-1bec4b3a30af/print/</link>
+      <guid isPermaLink="false">lobbying-filings:80f8c0b3-b7ed-4673-971e-1bec4b3a30af</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CARDINAL HEALTH via BGR GOVERNMENT AFFAIRS (2026 first_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/6e3025cb-ef30-4bc8-bb60-993653483c03/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6e3025cb-ef30-4bc8-bb60-993653483c03</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CARDINAL HEALTH, INC. via TWENTY-FIRST CENTURY GROUP, INC. (2026 second_quarter) — $24000</title>
+      <link>https://lda.gov/filings/public/filing/5a548441-720b-40fe-83fa-2a8a2ab278a7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5a548441-720b-40fe-83fa-2a8a2ab278a7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CARDINAL HEALTH, INC. via TWENTY-FIRST CENTURY GROUP, INC. (2026 first_quarter) — $24000</title>
+      <link>https://lda.gov/filings/public/filing/0528d5a7-d2cb-4fe8-94b3-98e97ba77939/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0528d5a7-d2cb-4fe8-94b3-98e97ba77939</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

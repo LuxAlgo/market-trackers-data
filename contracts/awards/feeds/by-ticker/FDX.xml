@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Government contract awards — FDX</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>FEDERAL EXPRESS CORP — $18746.01 from Department of Homeland Security (2016-03-28)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HSFE4016J0205_7022_HSFE4016A0027_7022</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HSFE4016J0205_7022_HSFE4016A0027_7022</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>FEDERAL EXPRESS CORPORATION — $23627158.7 from Department of Veterans Affairs (2025-10-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_36C77026F0003_3600_HTC71123DC023_9700</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_36C77026F0003_3600_HTC71123DC023_9700</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>FEDERAL EXPRESS CORPORATION — $2132.75 from Department of Justice (2025-10-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_15B51526F00000026_1540_15JPSS24D00000254_1501</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_15B51526F00000026_1540_15JPSS24D00000254_1501</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>FEDERAL EXPRESS CORPORATION — $2565372.11 from Department of Agriculture (2025-05-14)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_123A9425F0029_12G2_HTC71123DC023_9700</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_123A9425F0029_12G2_HTC71123DC023_9700</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

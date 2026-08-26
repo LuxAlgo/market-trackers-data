@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — NTRA</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>NATERA INC via NATERA INC (2026 second_quarter) — $150000</title>
+      <link>https://lda.gov/filings/public/filing/fad9c929-0df4-4fd4-94db-cbeedfd5c34e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fad9c929-0df4-4fd4-94db-cbeedfd5c34e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NATERA via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/dd6f5864-a7c1-4ce8-a849-c45a0cf0305c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dd6f5864-a7c1-4ce8-a849-c45a0cf0305c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NATERA, INC. via LMH STRATEGIC SOLUTIONS (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/cb62e1fe-2946-47be-8690-beafe8b85c08/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cb62e1fe-2946-47be-8690-beafe8b85c08</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NATERA via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/bb115292-246d-4725-b1d9-7d3b4d410806/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bb115292-246d-4725-b1d9-7d3b4d410806</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NATERA INC via NATERA INC (2026 first_quarter) — $150000</title>
+      <link>https://lda.gov/filings/public/filing/b58cf13e-0962-4ac0-901b-d69941a1ee9f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b58cf13e-0962-4ac0-901b-d69941a1ee9f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NATERA, INC. via THE CONSILIO GROUP (2026 first_quarter) — $54000</title>
+      <link>https://lda.gov/filings/public/filing/8e7805de-4998-491d-8121-436bcab5d6c8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8e7805de-4998-491d-8121-436bcab5d6c8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NATERA, INC. via ERVIN GRAVES STRATEGY GROUP, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/5c0e4a45-373e-47f4-96d9-b5d547391fc4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5c0e4a45-373e-47f4-96d9-b5d547391fc4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NATERA, INC. via ERVIN GRAVES STRATEGY GROUP, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/2ad2a440-c0bc-436e-af15-eb0120b88d2b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2ad2a440-c0bc-436e-af15-eb0120b88d2b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NATERA, INC. via LMH STRATEGIC SOLUTIONS (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/29453b1e-ff4b-40cf-aeb6-1b14c2f3f7ee/print/</link>
+      <guid isPermaLink="false">lobbying-filings:29453b1e-ff4b-40cf-aeb6-1b14c2f3f7ee</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NATERA, INC. via ERVIN GRAVES STRATEGY GROUP, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/238412f3-5fcd-4be3-904a-7c30c41538a5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:238412f3-5fcd-4be3-904a-7c30c41538a5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

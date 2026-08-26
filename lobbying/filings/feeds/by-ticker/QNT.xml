@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — QNT</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>QUANTINUUM LLC via KING &amp; SPALDING LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/e996d1a4-7564-4463-8758-feb415bf251e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e996d1a4-7564-4463-8758-feb415bf251e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUANTINUUM LLC via GUIDEPOSTSTRATEGIES, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/ce5485d3-692e-4bf1-8c6e-59ca536f963a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ce5485d3-692e-4bf1-8c6e-59ca536f963a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUANTINUUM LLC via PILLSBURY WINTHROP SHAW PITTMAN LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/b8fb40d0-a266-4105-8cef-2c91b8f55751/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b8fb40d0-a266-4105-8cef-2c91b8f55751</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUANTINUUM LLC via XLA ADVISORS, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/b782d19b-ce77-49e1-be81-cb322f9a951d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b782d19b-ce77-49e1-be81-cb322f9a951d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUANTINUUM via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/b678e751-a7ba-49c5-ab73-413766bc8241/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b678e751-a7ba-49c5-ab73-413766bc8241</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUANTINUUM LLC via QUANTINUUM LLC (2026 second_quarter) — $225000</title>
+      <link>https://lda.gov/filings/public/filing/a858e47c-e947-4e71-b435-41e3a33f6eaa/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a858e47c-e947-4e71-b435-41e3a33f6eaa</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUANTINUUM LLC via XLA ADVISORS, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/7450e976-8ab5-491f-ab5e-12d3a4c02381/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7450e976-8ab5-491f-ab5e-12d3a4c02381</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUANTINUUM LLC via QUANTINUUM LLC (2026 first_quarter) — $165000</title>
+      <link>https://lda.gov/filings/public/filing/65b1d07c-32fd-4d3f-91de-fd9e684905af/print/</link>
+      <guid isPermaLink="false">lobbying-filings:65b1d07c-32fd-4d3f-91de-fd9e684905af</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUANTINUUM LLC via XLA ADVISORS, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/6462119f-0b53-4a36-84e4-18cbeaafd7c7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6462119f-0b53-4a36-84e4-18cbeaafd7c7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUANTINUUM LLC via GUIDEPOSTSTRATEGIES, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/394fc47a-26fd-4060-b5bf-bba9758dfccf/print/</link>
+      <guid isPermaLink="false">lobbying-filings:394fc47a-26fd-4060-b5bf-bba9758dfccf</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUANTINUUM LLC via KING &amp; SPALDING LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/35479300-42c9-4ef6-89b5-066574398f30/print/</link>
+      <guid isPermaLink="false">lobbying-filings:35479300-42c9-4ef6-89b5-066574398f30</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUANTINUUM via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/31c11bbd-8262-4573-ad70-c75cc551254d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:31c11bbd-8262-4573-ad70-c75cc551254d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUANTINUUM LLC via PILLSBURY WINTHROP SHAW PITTMAN LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/10baddb9-7efc-4239-adcb-0ad1187eb671/print/</link>
+      <guid isPermaLink="false">lobbying-filings:10baddb9-7efc-4239-adcb-0ad1187eb671</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

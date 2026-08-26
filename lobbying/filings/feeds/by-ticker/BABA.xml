@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — BABA</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>ALIBABA GROUP HOLDING LIMITED via HOLLAND &amp; KNIGHT LLP (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/fee7949c-6b0f-4fe3-a94c-93222f04b8a6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fee7949c-6b0f-4fe3-a94c-93222f04b8a6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALIBABA GROUP HOLDING LIMITED via ALIBABA GROUP HOLDING LIMITED (2026 first_quarter) — $900000</title>
+      <link>https://lda.gov/filings/public/filing/e42af9a8-45fd-4a8a-b231-b24361e94584/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e42af9a8-45fd-4a8a-b231-b24361e94584</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALIBABA GROUP HOLDING LIMITED via MERCURY PUBLIC AFFAIRS, LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/c0707db4-e196-4da2-b3aa-ddea99d348f9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c0707db4-e196-4da2-b3aa-ddea99d348f9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALIBABA GROUP HOLDING LIMITED via SIDLEY AUSTIN LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/b66a0710-23fa-465c-99c8-05e67b403e16/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b66a0710-23fa-465c-99c8-05e67b403e16</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALIBABA GROUP HOLDING LIMITED via MERCURY PUBLIC AFFAIRS, LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/b571eab4-450d-4982-96fb-3c2b6e64959f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b571eab4-450d-4982-96fb-3c2b6e64959f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALIBABA GROUP HOLDING LIMITED via BGR GOVERNMENT AFFAIRS (2026 first_quarter) — $140000</title>
+      <link>https://lda.gov/filings/public/filing/aa6e67ba-4814-4499-be61-a78a1fd12e7a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:aa6e67ba-4814-4499-be61-a78a1fd12e7a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALIBABA GROUP HOLDING LIMITED via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/a2d4b201-f8b9-462d-9243-8636de10ef73/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a2d4b201-f8b9-462d-9243-8636de10ef73</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALIBABA GROUP HOLDING LIMITED via STORY PARTNERS, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/a023d7be-c756-4183-b77c-31631f75d8f7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a023d7be-c756-4183-b77c-31631f75d8f7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALIBABA GROUP HOLDING LIMITED via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/98d76753-aa6f-4413-9d51-daa8d61d658d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:98d76753-aa6f-4413-9d51-daa8d61d658d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALIBABA GROUP HOLDING LIMITED via BGR GOVERNMENT AFFAIRS (2026 second_quarter) — $140000</title>
+      <link>https://lda.gov/filings/public/filing/9060d90d-d1a8-42c2-89d0-1cb3e917517c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9060d90d-d1a8-42c2-89d0-1cb3e917517c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALIBABA GROUP HOLDING LIMITED via GREENBERG TRAURIG, LLP (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/873f3eee-cba8-44d7-b780-b0eb26731c89/print/</link>
+      <guid isPermaLink="false">lobbying-filings:873f3eee-cba8-44d7-b780-b0eb26731c89</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALIBABA GROUP HOLDING LIMITED via SIDLEY AUSTIN LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/820f9301-e798-434c-98aa-9a6d6f732ea8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:820f9301-e798-434c-98aa-9a6d6f732ea8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALIBABA GROUP HOLDING LIMITED via ALIBABA GROUP HOLDING LIMITED (2026 second_quarter) — $920000</title>
+      <link>https://lda.gov/filings/public/filing/815f9149-7cdb-4cff-ba9d-ed7688ccf2c1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:815f9149-7cdb-4cff-ba9d-ed7688ccf2c1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALIBABA GROUP HOLDING LIMITED via MO STRATEGIES, INC. (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/79296b15-f22f-4c56-bcd6-e1236ee22d36/print/</link>
+      <guid isPermaLink="false">lobbying-filings:79296b15-f22f-4c56-bcd6-e1236ee22d36</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALIBABA GROUP HOLDING LIMITED via STORY PARTNERS, LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/5d579af0-3791-4a32-a414-5d072d1b3c49/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5d579af0-3791-4a32-a414-5d072d1b3c49</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALIBABA GROUP HOLDING LIMITED via MO STRATEGIES, INC. (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/13878245-7efb-4481-905d-4b03c76230bd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:13878245-7efb-4481-905d-4b03c76230bd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALIBABA GROUP HOLDING LIMITED via GREENBERG TRAURIG, LLP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/0f905035-05c4-43be-8374-e2cbb8b374f8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0f905035-05c4-43be-8374-e2cbb8b374f8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

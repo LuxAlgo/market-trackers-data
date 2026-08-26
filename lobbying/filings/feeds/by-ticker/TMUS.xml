@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — TMUS</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>T-MOBILE via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/fb2b3b14-72fd-4c49-829c-3125570902fc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fb2b3b14-72fd-4c49-829c-3125570902fc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T-MOBILE via OWEN EVANS INGOLS (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/e6c683cb-9f21-4e00-bce1-f64a06b0770d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e6c683cb-9f21-4e00-bce1-f64a06b0770d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T-MOBILE US INC. via MICHAEL BEST STRATEGIES LLC (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/d14eb6f8-e04e-4809-85a9-bf55557ea756/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d14eb6f8-e04e-4809-85a9-bf55557ea756</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T-MOBILE US, INC. via PUTALASTRATEGIES (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/c438a29d-7d68-451e-b4b4-0499fcd09d0a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c438a29d-7d68-451e-b4b4-0499fcd09d0a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T-MOBILE US via HOLLAND &amp; KNIGHT LLP (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/b5b0f8a4-f9b3-401e-900a-b11ba3d3173a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b5b0f8a4-f9b3-401e-900a-b11ba3d3173a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T-MOBILE via HARBINGER STRATEGIES, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/af3d388a-273e-4125-8e2c-03f1da3d754e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:af3d388a-273e-4125-8e2c-03f1da3d754e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T-MOBILE via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/84f3ad0f-0fa9-4e0b-8778-38b8fd4d551c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:84f3ad0f-0fa9-4e0b-8778-38b8fd4d551c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T-MOBILE US INC. via MICHAEL BEST STRATEGIES LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/716cab83-7317-4b3e-a2dd-a3fd40c05a79/print/</link>
+      <guid isPermaLink="false">lobbying-filings:716cab83-7317-4b3e-a2dd-a3fd40c05a79</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T-MOBILE US, INC. via PUTALASTRATEGIES (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/37f583af-863f-4fdf-a35d-f92d0b1e8610/print/</link>
+      <guid isPermaLink="false">lobbying-filings:37f583af-863f-4fdf-a35d-f92d0b1e8610</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T-MOBILE via FORBES-TATE (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/3634fab2-49f7-4dc9-aa5c-08c09d6e4f76/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3634fab2-49f7-4dc9-aa5c-08c09d6e4f76</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T-MOBILE US via HOLLAND &amp; KNIGHT LLP (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/2f96b0c4-a54e-4a12-b126-9a24a1dbd1ee/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2f96b0c4-a54e-4a12-b126-9a24a1dbd1ee</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T-MOBILE via OWEN EVANS INGOLS (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/2a83ad72-8ca7-4a14-abd2-a54577966096/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2a83ad72-8ca7-4a14-abd2-a54577966096</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T-MOBILE via WASHINGTON2 ADVOCATES (2026 second_quarter) — $45000</title>
+      <link>https://lda.gov/filings/public/filing/27f15abe-97fb-4016-9ade-94b5c900c7c6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:27f15abe-97fb-4016-9ade-94b5c900c7c6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T-MOBILE via FORBES-TATE (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/0c5a9aae-835d-4685-b245-4ab9ef64eb68/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0c5a9aae-835d-4685-b245-4ab9ef64eb68</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T-MOBILE via WASHINGTON2 ADVOCATES (2026 first_quarter) — $45000</title>
+      <link>https://lda.gov/filings/public/filing/0b71dc44-78cc-4364-ad83-4d1c44541c82/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0b71dc44-78cc-4364-ad83-4d1c44541c82</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T-MOBILE via HARBINGER STRATEGIES, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/05c1be8f-f5ac-4a72-bd2b-dcf21f4310f2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:05c1be8f-f5ac-4a72-bd2b-dcf21f4310f2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

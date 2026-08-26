@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — XOM</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>EXXONMOBIL CORPORATION via THE SIMMONS &amp; RUSSELL GROUP, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/faa57f57-2c72-45fc-a1a4-16bc4c97437b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:faa57f57-2c72-45fc-a1a4-16bc4c97437b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXON MOBIL CORP. via EMPIRE CONSULTING GROUP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/e007df95-896a-4345-bdef-6825e1930d72/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e007df95-896a-4345-bdef-6825e1930d72</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXON MOBIL CORP via CM STRATEGIC, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/d82ef7b4-fb3e-46b3-819b-08a1bd6d57fc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d82ef7b4-fb3e-46b3-819b-08a1bd6d57fc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXON MOBIL CORP via CM STRATEGIC, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/c5fca0bd-294e-4032-9d2f-0831db9925e4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c5fca0bd-294e-4032-9d2f-0831db9925e4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXONMOBIL CORPORATION via RUBIN, TURNBULL &amp; ASSOCIATES (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/bca03a0a-ef0b-4501-b238-d134edfd1699/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bca03a0a-ef0b-4501-b238-d134edfd1699</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXON MOBIL CORPORATION via PENN AVENUE PARTNERS (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/b3760956-9604-4ff1-a366-7f758c539477/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b3760956-9604-4ff1-a366-7f758c539477</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXONMOBIL CORPORATION via RUBIN, TURNBULL &amp; ASSOCIATES (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/a45b59fa-32fc-4a41-8d14-868d250b6a9a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a45b59fa-32fc-4a41-8d14-868d250b6a9a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXON MOBIL CORP via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/95b81aab-efaa-44a1-a297-72150fd6f846/print/</link>
+      <guid isPermaLink="false">lobbying-filings:95b81aab-efaa-44a1-a297-72150fd6f846</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXON MOBIL CORPORATION via HARBINGER STRATEGIES, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/8eb3a8d7-8e87-48a7-888d-6be78a94b847/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8eb3a8d7-8e87-48a7-888d-6be78a94b847</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXON MOBIL CORP via EXXON MOBIL CORP (2026 second_quarter) — $1850000</title>
+      <link>https://lda.gov/filings/public/filing/89597339-80ca-4948-a7bf-d1845d872506/print/</link>
+      <guid isPermaLink="false">lobbying-filings:89597339-80ca-4948-a7bf-d1845d872506</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXON MOBIL CORPORATION via HARBINGER STRATEGIES, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/7e660c5a-9258-4ab8-b7da-d8e50db290b9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7e660c5a-9258-4ab8-b7da-d8e50db290b9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXON MOBIL CORPORATION via VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY &amp; QUAYLE VENTURES, LLC) (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/7e62f251-fa38-42b8-bf5e-8df9befae918/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7e62f251-fa38-42b8-bf5e-8df9befae918</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXON MOBIL CORPORATION via VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY &amp; QUAYLE VENTURES, LLC) (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/711e3f76-a013-4e98-a23e-a7e532bb0bd6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:711e3f76-a013-4e98-a23e-a7e532bb0bd6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXON MOBIL CORP via EXXON MOBIL CORP (2026 first_quarter) — $3400000</title>
+      <link>https://lda.gov/filings/public/filing/5b0e6916-03f4-4b9f-be48-da93009dd2cb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5b0e6916-03f4-4b9f-be48-da93009dd2cb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXON MOBIL CORP via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/56f306d8-b4ca-426e-9312-735aaa92dfc9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:56f306d8-b4ca-426e-9312-735aaa92dfc9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXON MOBIL CORPORATION via CROSSROADS STRATEGIES, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/5657fa51-cc64-4ca7-a171-ded29ec08c45/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5657fa51-cc64-4ca7-a171-ded29ec08c45</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXONMOBIL via CORNERSTONE GOVERNMENT AFFAIRS, INC. (2026 first_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/500bf8da-8db1-4bad-8790-703370919b3a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:500bf8da-8db1-4bad-8790-703370919b3a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXONMOBIL CORPORATION via THE SIMMONS &amp; RUSSELL GROUP, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/4c470666-a491-4e42-9ccb-4fc1ab9d66a7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4c470666-a491-4e42-9ccb-4fc1ab9d66a7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXON MOBIL CORPORATION via CROSSROADS STRATEGIES, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/3d133bea-4813-4d85-8d90-05ae7b2caabc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3d133bea-4813-4d85-8d90-05ae7b2caabc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXON MOBIL CORPORATION via PENN AVENUE PARTNERS (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/21ac3b16-c7de-4f89-b233-b2dd91491fbc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:21ac3b16-c7de-4f89-b233-b2dd91491fbc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXONMOBIL via CORNERSTONE GOVERNMENT AFFAIRS, INC. (2026 second_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/1eaf9e47-7a30-49b6-aa07-689fb3cb17b6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1eaf9e47-7a30-49b6-aa07-689fb3cb17b6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXXON MOBIL CORP. via EMPIRE CONSULTING GROUP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/19d76bde-3c9a-4d27-95c0-6fed21e699d8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:19d76bde-3c9a-4d27-95c0-6fed21e699d8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

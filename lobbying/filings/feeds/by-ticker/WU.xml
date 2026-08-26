@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — WU</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>WESTERN UNION via RADIUS ADVOCACY, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/f8fe93a6-6e0d-4a8b-9c5b-d2af8646363a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f8fe93a6-6e0d-4a8b-9c5b-d2af8646363a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WESTERN UNION via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/ee307020-617c-4332-95a8-b38005954435/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ee307020-617c-4332-95a8-b38005954435</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WESTERN UNION via ERIS GROUP (2026 second_quarter) — $33000</title>
+      <link>https://lda.gov/filings/public/filing/e7640069-4a4b-4a59-affa-314c133946b1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e7640069-4a4b-4a59-affa-314c133946b1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WESTERN UNION via PENN AVENUE PARTNERS (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/e5fff958-8c20-4949-b239-b2947765e18d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e5fff958-8c20-4949-b239-b2947765e18d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WESTERN UNION via WESTERN UNION (2026 first_quarter) — $148000</title>
+      <link>https://lda.gov/filings/public/filing/dbfe17f5-f4c8-43a7-a78c-6c1a6ba69665/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dbfe17f5-f4c8-43a7-a78c-6c1a6ba69665</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WESTERN UNION via RADIUS ADVOCACY, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/b9a73bab-935c-48a1-aeb0-fb0b052f3656/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b9a73bab-935c-48a1-aeb0-fb0b052f3656</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WESTERN UNION via ERIS GROUP (2026 first_quarter) — $33000</title>
+      <link>https://lda.gov/filings/public/filing/6bae0d06-e2a9-4c4b-86d6-8374646571cc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6bae0d06-e2a9-4c4b-86d6-8374646571cc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WESTERN UNION via JTI MARKETING &amp; COMMUNICATIONS, INC. DBA JTI, INC. (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/4c9adb9d-4b3b-4ef8-852d-9b9b6a36a154/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4c9adb9d-4b3b-4ef8-852d-9b9b6a36a154</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WESTERN UNION via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/38922f58-f00f-4372-8c37-917679b4d9a9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:38922f58-f00f-4372-8c37-917679b4d9a9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WESTERN UNION via WESTERN UNION (2026 second_quarter) — $211450</title>
+      <link>https://lda.gov/filings/public/filing/0fa6f5c9-1b0c-4268-b105-05f4b73092c6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0fa6f5c9-1b0c-4268-b105-05f4b73092c6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WESTERN UNION via JTI MARKETING &amp; COMMUNICATIONS, INC. DBA JTI, INC. (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/0ddfe319-5d57-430d-9597-dc68e1bd0f8e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0ddfe319-5d57-430d-9597-dc68e1bd0f8e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WESTERN UNION via PENN AVENUE PARTNERS (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/0ac47450-b0e8-471b-9971-e2ec06caceb9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0ac47450-b0e8-471b-9971-e2ec06caceb9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

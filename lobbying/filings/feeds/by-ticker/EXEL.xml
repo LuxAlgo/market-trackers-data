@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — EXEL</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>EXELIXIS INC. via EXELIXIS INC. (2026 first_quarter) — $520000</title>
+      <link>https://lda.gov/filings/public/filing/fafdebd1-06a7-4bf1-8c28-ccc756fa3f4a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fafdebd1-06a7-4bf1-8c28-ccc756fa3f4a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXELIXIS, INC. via ARNOLD &amp; PORTER KAYE SCHOLER LLP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/f32f3ad5-34e1-4cde-898e-6480793f5526/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f32f3ad5-34e1-4cde-898e-6480793f5526</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXELIXIS, INC. via W STRATEGIES, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/c62234c8-6ded-4274-975e-0846e1a15304/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c62234c8-6ded-4274-975e-0846e1a15304</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXELIXIS, INC. via ARNOLD &amp; PORTER KAYE SCHOLER LLP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/9e6b13d6-bff3-4a04-8f42-da762701c24b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9e6b13d6-bff3-4a04-8f42-da762701c24b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXELIXIS, INC. via TODD STRATEGY GROUP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/92dd6b8b-7734-4f5f-a8f2-df4e4ef89494/print/</link>
+      <guid isPermaLink="false">lobbying-filings:92dd6b8b-7734-4f5f-a8f2-df4e4ef89494</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXELIXIS, INC. via W STRATEGIES, LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/8041ac3c-5f6d-44b1-8177-4efc7a6e29c0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8041ac3c-5f6d-44b1-8177-4efc7a6e29c0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXELIXIS INC. via EXELIXIS INC. (2026 second_quarter) — $560000</title>
+      <link>https://lda.gov/filings/public/filing/6388687f-7f28-445e-b77d-8c49c379daa2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6388687f-7f28-445e-b77d-8c49c379daa2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXELIXIS via THORN RUN PARTNERS (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/46db82f9-fe1d-4cc9-b4b9-a41afb5aff41/print/</link>
+      <guid isPermaLink="false">lobbying-filings:46db82f9-fe1d-4cc9-b4b9-a41afb5aff41</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXELIXIS via THORN RUN PARTNERS (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/0420300c-b37e-4eab-8e6f-29b5232f06d0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0420300c-b37e-4eab-8e6f-29b5232f06d0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXELIXIS, INC. via TODD STRATEGY GROUP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/018e2f50-ceff-4f1c-99c7-e1173de9e9c0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:018e2f50-ceff-4f1c-99c7-e1173de9e9c0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

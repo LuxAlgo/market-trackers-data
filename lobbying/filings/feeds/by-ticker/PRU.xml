@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — PRU</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>PRUDENTIAL FINANCIAL via PORTERFIELD, FETTIG &amp; SEARS, LLC (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/f6f15b41-c43f-4fcd-9428-0be309afac9e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f6f15b41-c43f-4fcd-9428-0be309afac9e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRUDENTIAL FINANCIAL, INC. via MINDSET ADVOCACY, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/de42b010-38dc-4f6d-b988-34985ff51435/print/</link>
+      <guid isPermaLink="false">lobbying-filings:de42b010-38dc-4f6d-b988-34985ff51435</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRUDENTIAL FINANCIAL INC via PRUDENTIAL FINANCIAL, INC. (2026 second_quarter) — $237000</title>
+      <link>https://lda.gov/filings/public/filing/b2005761-5963-4bdd-b6c3-469bf90414e9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b2005761-5963-4bdd-b6c3-469bf90414e9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRUDENTIAL FINANCIAL, INC. via THORN RUN PARTNERS (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/aaf73064-6c56-4a56-bc00-9d87bdb623fe/print/</link>
+      <guid isPermaLink="false">lobbying-filings:aaf73064-6c56-4a56-bc00-9d87bdb623fe</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRUDENTIAL FINANCIAL INC. via STEPTOE LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/a772274c-f639-43da-8b93-77aaf0f42778/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a772274c-f639-43da-8b93-77aaf0f42778</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRUDENTIAL FINANCIAL, INC. via S-3 GROUP (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/a13f2597-051a-445b-a527-43ebf7107472/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a13f2597-051a-445b-a527-43ebf7107472</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRUDENTIAL FINANCIAL, INC. via THORN RUN PARTNERS (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/92bd1887-0373-4d4a-91f1-d86d1e59e173/print/</link>
+      <guid isPermaLink="false">lobbying-filings:92bd1887-0373-4d4a-91f1-d86d1e59e173</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRUDENTIAL FINANCIAL, INC. via HARBINGER STRATEGIES, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/8870b6e4-0248-4dd4-82e9-bfba4ea4b90f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8870b6e4-0248-4dd4-82e9-bfba4ea4b90f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRUDENTIAL FINANCIAL, INC. via MINDSET ADVOCACY, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/65f48996-e2c8-4834-9736-78d4174955ef/print/</link>
+      <guid isPermaLink="false">lobbying-filings:65f48996-e2c8-4834-9736-78d4174955ef</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRUDENTIAL FINANCIAL INC. via STEPTOE LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/64b5303c-e7ca-4ebb-8e82-4709f4c06e65/print/</link>
+      <guid isPermaLink="false">lobbying-filings:64b5303c-e7ca-4ebb-8e82-4709f4c06e65</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRUDENTIAL FINANCIAL via PORTERFIELD, FETTIG &amp; SEARS, LLC (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/5f087497-90b9-4bfe-a872-2128c4a61814/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5f087497-90b9-4bfe-a872-2128c4a61814</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRUDENTIAL FINANCIAL INC via PUBLIC STRATEGIES WASHINGTON, INC. (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/20146c82-9428-4f37-8912-68185272863a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:20146c82-9428-4f37-8912-68185272863a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRUDENTIAL FINANCIAL INC via PRUDENTIAL FINANCIAL, INC. (2026 first_quarter) — $700000</title>
+      <link>https://lda.gov/filings/public/filing/0e973209-b3eb-48b7-8bc1-fa3e38536de7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0e973209-b3eb-48b7-8bc1-fa3e38536de7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRUDENTIAL FINANCIAL, INC. via HARBINGER STRATEGIES, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/0948eb5e-8bf1-4cda-9400-71c78e3faca4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0948eb5e-8bf1-4cda-9400-71c78e3faca4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRUDENTIAL FINANCIAL INC via PUBLIC STRATEGIES WASHINGTON, INC. (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/0611c45a-957b-4191-bc3a-060eb6db4616/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0611c45a-957b-4191-bc3a-060eb6db4616</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

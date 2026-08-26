@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Government contract awards — ILMN</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>ILLUMINA, INC. — $96858.8 from Department of Health and Human Services (2026-09-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_75N98026P01414_7529_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_75N98026P01414_7529_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ILLUMINA, INC. — $109401.7 from Department of Health and Human Services (2021-07-27)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_75N93021F00027_7529_75N92020D00022_7529</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_75N93021F00027_7529_75N92020D00022_7529</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ILLUMINA, INC. — $103336 from Department of Veterans Affairs (2025-09-18)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_36C26125P1060_3600_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_36C26125P1060_3600_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ILLUMINA, INC. — $51591.11 from Department of the Interior (2024-08-12)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_140G0324P0329_1434_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_140G0324P0329_1434_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — WDAY</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>WORKDAY, INC. via INVARIANT LLC (2026 second_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/f2694765-4f4e-46a9-b5b2-2b72417d9a72/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f2694765-4f4e-46a9-b5b2-2b72417d9a72</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WORKDAY, INC. via ADAMS AND REESE, LLP (2026 first_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/e826c062-885e-463c-9434-f287be24765b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e826c062-885e-463c-9434-f287be24765b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WORKDAY, INC. via WORKDAY, INC. (2026 first_quarter) — $300000</title>
+      <link>https://lda.gov/filings/public/filing/c8f7e5a8-7a89-412a-86e3-692e97984101/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c8f7e5a8-7a89-412a-86e3-692e97984101</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WORKDAY, INC. via CORNERSTONE GOVERNMENT AFFAIRS, INC. (2026 first_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/c281d6b5-9712-4d11-bcc0-689c42e7e434/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c281d6b5-9712-4d11-bcc0-689c42e7e434</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WORKDAY, INC. via ADVANCED POLICY CONSULTING, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/9a813216-61ab-4199-ae51-9ece864a3c63/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9a813216-61ab-4199-ae51-9ece864a3c63</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WORKDAY, INC. via INVARIANT LLC (2026 first_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/64eec01a-9911-4e92-951a-6786ca1e1b81/print/</link>
+      <guid isPermaLink="false">lobbying-filings:64eec01a-9911-4e92-951a-6786ca1e1b81</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WORKDAY, INC. via ADAMS AND REESE, LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/636cfd43-3f0c-4115-beac-ab1dd619b666/print/</link>
+      <guid isPermaLink="false">lobbying-filings:636cfd43-3f0c-4115-beac-ab1dd619b666</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WORKDAY, INC. via WORKDAY, INC. (2026 second_quarter) — $260000</title>
+      <link>https://lda.gov/filings/public/filing/4fe7c17a-e7bf-420f-af79-292876519e9e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4fe7c17a-e7bf-420f-af79-292876519e9e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WORKDAY, LLC via HILLTOP ADVOCACY (2026 second_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/45ecf553-556f-4b35-8bf7-7314b72a2b0b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:45ecf553-556f-4b35-8bf7-7314b72a2b0b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WORKDAY, INC. via CORNERSTONE GOVERNMENT AFFAIRS, INC. (2026 first_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/28147dd5-130a-41da-94df-a1f6109119b7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:28147dd5-130a-41da-94df-a1f6109119b7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WORKDAY, LLC via HILLTOP ADVOCACY (2026 first_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/145e11dd-c4ee-4ac5-9d63-106734528f0d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:145e11dd-c4ee-4ac5-9d63-106734528f0d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WORKDAY, INC. via ADVANCED POLICY CONSULTING, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/05d39595-641c-44bf-84cf-5448beda0841/print/</link>
+      <guid isPermaLink="false">lobbying-filings:05d39595-641c-44bf-84cf-5448beda0841</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

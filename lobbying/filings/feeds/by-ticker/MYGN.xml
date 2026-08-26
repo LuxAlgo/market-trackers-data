@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — MYGN</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>MYRIAD GENETICS, INC. via GUIDE CONSULTING SERVICES, INC. (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/ae06b0bb-5bc6-44ff-9d93-30521cb26673/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ae06b0bb-5bc6-44ff-9d93-30521cb26673</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MYRIAD GENETICS, INC. via TIBER CREEK GROUP (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/9e496a17-2cd9-4499-909a-5afe2696aa6a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9e496a17-2cd9-4499-909a-5afe2696aa6a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MYRIAD GENETICS, INC. via BLOUNT STRATEGIC INITIATIVES (2026 first_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/8b12da6f-c56f-4479-8802-aa2bcdbb7cf2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8b12da6f-c56f-4479-8802-aa2bcdbb7cf2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MYRIAD GENETICS, INC. via GUIDE CONSULTING SERVICES, INC. (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/88fbacef-db90-40b5-99a6-050e06ffedca/print/</link>
+      <guid isPermaLink="false">lobbying-filings:88fbacef-db90-40b5-99a6-050e06ffedca</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MYRIAD GENETICS, INC. via TIBER CREEK GROUP (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/703e3171-6625-49b2-8ab9-1dacef6288cc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:703e3171-6625-49b2-8ab9-1dacef6288cc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MYRIAD GENETICS, INC. via MYRIAD GENETICS, INC. (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/6eac61d3-0baf-4ee7-9458-90e7365e1d4f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6eac61d3-0baf-4ee7-9458-90e7365e1d4f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MYRIAD GENETICS, INC. via MYRIAD GENETICS, INC. (2026 first_quarter) — $260000</title>
+      <link>https://lda.gov/filings/public/filing/63259154-8909-4599-b44f-4fc0c3b87522/print/</link>
+      <guid isPermaLink="false">lobbying-filings:63259154-8909-4599-b44f-4fc0c3b87522</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MYRIAD GENETICS, INC. via BLOUNT STRATEGIC INITIATIVES (2026 second_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/39412a95-3e80-4610-b371-64499c9d13f4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:39412a95-3e80-4610-b371-64499c9d13f4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MYRIAD GENETICS, INC. via TODD STRATEGY GROUP (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/18d40aa1-6300-4eda-83d2-da68f46c06d5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:18d40aa1-6300-4eda-83d2-da68f46c06d5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MYRIAD GENETICS, INC. via TODD STRATEGY GROUP (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/03fd818c-2a50-4520-8977-4700f2c565d0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:03fd818c-2a50-4520-8977-4700f2c565d0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

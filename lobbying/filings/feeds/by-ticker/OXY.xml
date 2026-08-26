@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — OXY</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>OCCIDENTAL PETROLEUM CORPORATION via GTB PARTNERS (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/f20dc58d-5e34-4154-9d08-0a4a4a87ad68/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f20dc58d-5e34-4154-9d08-0a4a4a87ad68</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OCCIDENTAL PETROLEUM CORPORATION via OCCIDENTAL PETROLEUM CORPORATION (2026 second_quarter) — $1680000</title>
+      <link>https://lda.gov/filings/public/filing/f1913a40-6bc4-4ea3-a8de-894f85787085/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f1913a40-6bc4-4ea3-a8de-894f85787085</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OCCIDENTAL PETROLEUM CORPORATION via MILLER STRATEGIES, LLC (2026 second_quarter) — $110000</title>
+      <link>https://lda.gov/filings/public/filing/dd7c2097-1b67-4b28-a4dd-57f5790d19ce/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dd7c2097-1b67-4b28-a4dd-57f5790d19ce</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OCCIDENTAL PETROLEUM CORPORATION via MILLER STRATEGIES, LLC (2026 first_quarter) — $110000</title>
+      <link>https://lda.gov/filings/public/filing/d269ce07-f981-421a-ae83-8e78cbdca1e1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d269ce07-f981-421a-ae83-8e78cbdca1e1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OCCIDENTAL PETROLEUM CORPORATION via NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC) (2026 first_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/d0d6c41f-48fa-4bb5-920b-98e2e8489ed8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d0d6c41f-48fa-4bb5-920b-98e2e8489ed8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OCCIDENTAL PETROLEUM CORPORATION via GTB PARTNERS (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/9d3b7af6-6284-4383-a060-803041aee893/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9d3b7af6-6284-4383-a060-803041aee893</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OCCIDENTAL PETROLEUM via BURTON STRATEGY GROUP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/9c1ba276-9704-4fa6-b32e-49d136e72d3a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9c1ba276-9704-4fa6-b32e-49d136e72d3a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OCCIDENTAL PETROLEUM via BURTON STRATEGY GROUP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/93735881-6bae-450e-a5e7-ca1007ea9e84/print/</link>
+      <guid isPermaLink="false">lobbying-filings:93735881-6bae-450e-a5e7-ca1007ea9e84</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OCCIDENTAL PETROLEUM CORPORATION via HOLLAND &amp; KNIGHT LLP (2026 second_quarter) — $140000</title>
+      <link>https://lda.gov/filings/public/filing/72d1c374-799e-4562-be6d-c0d1d27f6e65/print/</link>
+      <guid isPermaLink="false">lobbying-filings:72d1c374-799e-4562-be6d-c0d1d27f6e65</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OCCIDENTAL PETROLEUM CORPORATION via OCCIDENTAL PETROLEUM CORPORATION (2026 first_quarter) — $2460000</title>
+      <link>https://lda.gov/filings/public/filing/5ebee979-f937-42bf-838b-5dc3b362b1ce/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5ebee979-f937-42bf-838b-5dc3b362b1ce</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OCCIDENTAL PETROLEUM CORPORATION via HOLLAND &amp; KNIGHT LLP (2026 first_quarter) — $140000</title>
+      <link>https://lda.gov/filings/public/filing/41310b50-70cf-4934-86ca-d9622232f6e5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:41310b50-70cf-4934-86ca-d9622232f6e5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OCCIDENTAL PETROLEUM CORPORATION via NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC) (2026 second_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/2422f9e9-7aca-4414-ada3-629b69728d32/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2422f9e9-7aca-4414-ada3-629b69728d32</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

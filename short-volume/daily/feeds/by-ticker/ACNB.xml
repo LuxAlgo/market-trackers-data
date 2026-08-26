@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Short-sale volume — ACNB</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>ACNB 2026-08-26: 51550.672069/76422.61855 short (67.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260826.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-26:ACNB:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>ACNB 2026-08-25: 35232.595169/48131.506769 short (73.2%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260825.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-25:ACNB:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>ACNB 2026-08-24: 31955.675426/39734.629736 short (80.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260824.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-24:ACNB:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:58 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

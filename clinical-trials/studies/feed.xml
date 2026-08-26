@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Clinical trial registrations</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>Surmount Services, Inc. — NOT_YET_RECRUITING PHASE1: A Study to Investigate How Well an Intracolonic Formulation of Two Monoclonal Antibodies is Tolerated in Healthy Participants and the Ability for the Antibodies to be Taken up by the Body Via the Colon</title>
+      <link>https://clinicaltrials.gov/study/NCT07788807</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788807</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Redacted] — WITHHELD: [Trial of device that is not approved or cleared by the U.S. FDA]</title>
+      <link>https://clinicaltrials.gov/study/NCT07788794</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788794</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>University of Vigo — COMPLETED NA: Pain Science Education and Therapeutic Exercise in Adults With Musculoskeletal Pain</title>
+      <link>https://clinicaltrials.gov/study/NCT07788781</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788781</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>The University of Hong Kong — NOT_YET_RECRUITING NA: Family-authored Digital ICU Diary Intervention to Support Bereaved Family Members in Intensive Care Unit: A Pilot Mixed Methods Study</title>
+      <link>https://clinicaltrials.gov/study/NCT07788768</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788768</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>University of Minnesota — NOT_YET_RECRUITING NA: NEURO-COGS: Neurometabolic Mechanisms of Cognitive Training in Schizophrenia</title>
+      <link>https://clinicaltrials.gov/study/NCT07788755</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788755</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>University of North Carolina, Chapel Hill — NOT_YET_RECRUITING PHASE4: Efficacy of Potassium-Competitive Acid Blockers in Barrett's Esophagus (PCAB BE Study)</title>
+      <link>https://clinicaltrials.gov/study/NCT07788742</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788742</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>University of Regensburg — RECRUITING NA: Social Prescriptions and Micro-Learning to Improve Care for Cancer Patients and Their Support Persons</title>
+      <link>https://clinicaltrials.gov/study/NCT07788729</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788729</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>University of Texas Southwestern Medical Center — RECRUITING NA: Sensory and Physical Reactions to Beverage Cues</title>
+      <link>https://clinicaltrials.gov/study/NCT07788716</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788716</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>University of Malaya — NOT_YET_RECRUITING NA: NeoSpHb Study: Can a Painless Device Detect Anaemia in Babies Without Blood Tests? A Study in the Neonatal Intensive Care Unit (NICU)</title>
+      <link>https://clinicaltrials.gov/study/NCT07788703</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788703</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Universitat Jaume I — COMPLETED NA: ADVANCED AIRWAY MANAGEMENT AMONG PRIMARY CARE HEALTH</title>
+      <link>https://clinicaltrials.gov/study/NCT07788690</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788690</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vall d'Hebron Institute of Oncology — NOT_YET_RECRUITING PHASE1: Tarlatamab Treatment Before and After Surgery in Surgically Resectable Recurrent High-grade Glioma: a Window of Opportunity Study (TARLAGLIA Study)</title>
+      <link>https://clinicaltrials.gov/study/NCT07788677</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788677</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vall d'Hebron Institute of Oncology — NOT_YET_RECRUITING PHASE2: Local and Systemic Immune Modulation by Rilvegostomig (AZD2936) in the Treatment of Advanced Gastric Cancer (RILVE Project)</title>
+      <link>https://clinicaltrials.gov/study/NCT07788664</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788664</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vastra Gotaland Region — NOT_YET_RECRUITING NA: Video-based First-contact Physiotherapy in Primary Care</title>
+      <link>https://clinicaltrials.gov/study/NCT07788651</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788651</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>University of Illinois at Urbana-Champaign — RECRUITING NA: Non-Invasive Neurofeedback Training to Alleviate Tinnitus Distress</title>
+      <link>https://clinicaltrials.gov/study/NCT07788638</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788638</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>The University of Hong Kong — RECRUITING NA: ¹⁸F-PSMA-1007 PET-CT-Directed Focal Therapy for MRI-Invisible Prostate Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT07788625</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788625</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>The University of Hong Kong — COMPLETED NA: Comparison of Limited Fluoroscopy and Conventional URSL</title>
+      <link>https://clinicaltrials.gov/study/NCT07788612</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788612</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>University Hospital, Montpellier — NOT_YET_RECRUITING NA: Strengthening, Guidance, Health, Empowerment</title>
+      <link>https://clinicaltrials.gov/study/NCT07788599</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788599</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oliver Cornely, MD — NOT_YET_RECRUITING PHASE4: Shortening Treatment Duration in Uncomplicated Candidemia: the CanTEN Trial</title>
+      <link>https://clinicaltrials.gov/study/NCT07788586</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788586</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Université Catholique de Louvain — NOT_YET_RECRUITING: The Role of the FCRL5 Protein in the Pathophysiology of Multiple Sclerosis and Response to Treatment</title>
+      <link>https://clinicaltrials.gov/study/NCT07788573</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788573</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marmara University — NOT_YET_RECRUITING NA: Peroneal Neuromodulation vs Pelvic Floor Exercises in OAB</title>
+      <link>https://clinicaltrials.gov/study/NCT07788560</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788560</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Macao Polytechnic University — COMPLETED NA: Traditional Chinese Medicine Herbal Sachet for Insomnia in Older Adults</title>
+      <link>https://clinicaltrials.gov/study/NCT07788547</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788547</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>King Faisal Specialist Hospital &amp; Research Center — RECRUITING NA: This Study Aims to Compare Asthma Control in Children Monitored With FeNO Against a Historical Cohort Without FeNO. Secondary Objectives Include Evaluating Associations Between FeNO Levels, ACT/C-ACT Scores, Eosinophil Counts, FEV1%, ICS Adherence, and Exacerbation Frequency.</title>
+      <link>https://clinicaltrials.gov/study/NCT07788534</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788534</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Johnson &amp; Johnson Vision Care, Inc. — NOT_YET_RECRUITING NA: Comparison of ACUVUE® OASYS MAX 1-Day Multifocal and DAILIES® AquaComfort Plus® Multifocal</title>
+      <link>https://clinicaltrials.gov/study/NCT07788521</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788521</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Istanbul University - Cerrahpasa — COMPLETED NA: Mandala Coloring and Resilience in Midwives</title>
+      <link>https://clinicaltrials.gov/study/NCT07788508</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788508</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Melisa Gündeş — COMPLETED NA: The Effect of Simulation-Based Oxytocin Induction Training on Midwifery Students' Knowledge and Anxiety Levels</title>
+      <link>https://clinicaltrials.gov/study/NCT07788495</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788495</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shenzhen Kangzhe Biotechnology Co., Ltd. — NOT_YET_RECRUITING PHASE1: Study on the Mass Balance of [14C] CMS-D002 in Healthy Adult Participants in China</title>
+      <link>https://clinicaltrials.gov/study/NCT07788482</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788482</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Institute of Hematology &amp; Blood Diseases Hospital, China — NOT_YET_RECRUITING NA: A Study of Elranatamab for Inhibitor Eradication in Patients With Hemophilia A</title>
+      <link>https://clinicaltrials.gov/study/NCT07788469</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788469</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Institute of Hematology &amp; Blood Diseases Hospital, China — RECRUITING PHASE4: Multi-target Drugs Sequential Combination Therapy in Adults Patients With Newly Diagnosed Primary Immune Thrombocytopenia</title>
+      <link>https://clinicaltrials.gov/study/NCT07788456</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788456</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>University of Medicine and Pharmacy at Ho Chi Minh City — ACTIVE_NOT_RECRUITING NA: V-CAF Technique for Miller Class III Gingival Recession</title>
+      <link>https://clinicaltrials.gov/study/NCT07788443</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788443</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Institut Claudius Regaud — NOT_YET_RECRUITING NA: Impact of Pesticide Exposure on Survival and Tumor Aggressiveness in Patients With Glioblastoma: A Prospective Clinical Study</title>
+      <link>https://clinicaltrials.gov/study/NCT07788430</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788430</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fondation Hôpital Saint-Joseph — NOT_YET_RECRUITING: Assessment of Information Provided on Infectious Risk in Solid Organ Transplantation</title>
+      <link>https://clinicaltrials.gov/study/NCT07788417</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788417</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Groupe Hospitalier Diaconesses Croix Saint-Simon — RECRUITING NA: Population Pharmacokinetic Model of Rifampicin in Staphylococcal Osteoarticular Infections</title>
+      <link>https://clinicaltrials.gov/study/NCT07788404</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788404</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hisar Intercontinental Hospital — COMPLETED: Vitamin D Status in Obstructive Sleep Apnea With and Without Comorbidities</title>
+      <link>https://clinicaltrials.gov/study/NCT07788391</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788391</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fudan University — COMPLETED: Metformin in Elderly Patients With Type 2 Diabetes and Muscle Strength, Muscle Mass, and Physical Function: Positive or Negative Correlation?</title>
+      <link>https://clinicaltrials.gov/study/NCT07788378</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788378</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>University Hospital, Strasbourg, France — NOT_YET_RECRUITING PHASE2: Tarlatamab in Recurrent Gynecological Neuroendocrine Carcinomas: A Phase II Proof-of-concept Study</title>
+      <link>https://clinicaltrials.gov/study/NCT07788365</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788365</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Université de Reims Champagne-Ardenne — RECRUITING: téléwork and Consumer Behavior: Longitudinal Study</title>
+      <link>https://clinicaltrials.gov/study/NCT07788352</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788352</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNC Lineberger Comprehensive Cancer Center — NOT_YET_RECRUITING NA: Keep Social Randomized Controlled Trial for Young Adults With Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT07788339</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788339</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fayoum University Hospital — NOT_YET_RECRUITING NA: 20% Alcohol With Steroid Local Anesthetic Technique Versus Steroid Local Anesthetic Technique Only in Stellate Ganglion Injection in Idiopathic Palmar Hyperhydrosis</title>
+      <link>https://clinicaltrials.gov/study/NCT07788326</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788326</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hadeer Yasser Abd El-aliem — COMPLETED: Mechanical Power-Integrated Oxygenation Indices for Predicting Postoperative Pulmonary Complications After Major Abdominal Surgery</title>
+      <link>https://clinicaltrials.gov/study/NCT07788313</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788313</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assiut University — NOT_YET_RECRUITING NA: Surgical Outcomes of Extended Endoscopic Endonasal Approach for Skull Base Lesions.</title>
+      <link>https://clinicaltrials.gov/study/NCT07788300</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788300</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cairo University — NOT_YET_RECRUITING NA: Transfer of Energy Capacitive and Resistive Therapy on Shoulder Range of Motion In Idiopathic Adhesive Capsulitis</title>
+      <link>https://clinicaltrials.gov/study/NCT07788287</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788287</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cairo University — NOT_YET_RECRUITING NA: Zirconomer-P Versus RMGI for Proximal Restorations in Primary Molars</title>
+      <link>https://clinicaltrials.gov/study/NCT07788274</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788274</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assiut University — COMPLETED NA: Adding Dexamethasone to Lidocaine in Scalp Incision Infiltration for Craniotomy</title>
+      <link>https://clinicaltrials.gov/study/NCT07788261</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788261</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bursa Yuksek Ihtisas Training and Research Hospital — NOT_YET_RECRUITING NA: Low-Level Laser Therapy for Carpal Tunnel Syndrome</title>
+      <link>https://clinicaltrials.gov/study/NCT07788248</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788248</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assuta Medical Center — COMPLETED: Diabetes and Permanent Disabilities</title>
+      <link>https://clinicaltrials.gov/study/NCT07788235</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788235</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yonsei University — NOT_YET_RECRUITING PHASE2: Sacituzumab Govitecan and Q901 in Advanced TNBC</title>
+      <link>https://clinicaltrials.gov/study/NCT07788222</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788222</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xuanwu Hospital, Beijing — ACTIVE_NOT_RECRUITING: Scaffolding in AI-Empowered Cognitive Training Improves Outcomes in Cognitive Impairment</title>
+      <link>https://clinicaltrials.gov/study/NCT07788209</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788209</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xijing Hospital — RECRUITING PHASE2: A Clinical Study Comparing Anti-HER2 Therapy Combined With Chemotherapy to Chemotherapy Alone as Adjuvant Therapy Following Surgery for Stage IB-II Gastric Cancer With High HER2 Expression.</title>
+      <link>https://clinicaltrials.gov/study/NCT07788196</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788196</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>University of Pecs — COMPLETED NA: Gamification in Asynchronous Faculty Development</title>
+      <link>https://clinicaltrials.gov/study/NCT07788183</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788183</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assiut University — NOT_YET_RECRUITING: Nutritional Risk and Diaphragmatic Thickness in Mechanically Ventilated COPD Patients</title>
+      <link>https://clinicaltrials.gov/study/NCT07788170</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788170</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tongji Hospital — NOT_YET_RECRUITING NA: Effects of Fospropofol Disodium TIVA and IVIH on Surgical Field Quality in Adult ESS</title>
+      <link>https://clinicaltrials.gov/study/NCT07788157</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788157</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kyoung Moo Im — ENROLLING_BY_INVITATION NA: EAA-Guided AN69-oXiris and PMX-HP Therapy in Septic Patients</title>
+      <link>https://clinicaltrials.gov/study/NCT07788144</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788144</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assiut University — NOT_YET_RECRUITING: Inflammatory Biomarkers and Disease Activity in Inflammatory Bowel Disease</title>
+      <link>https://clinicaltrials.gov/study/NCT07788131</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788131</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Second Affiliated Hospital, Zhejiang University, School of Medicine — RECRUITING PHASE1/PHASE2: A Phase Ib/II Exploratory Clinical Trial of Memory-Enhanced 7×19-THEMIS CAR-T Cell Therapy for Relapsed/Refractory Large B-Cell Lymphoma</title>
+      <link>https://clinicaltrials.gov/study/NCT07788118</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788118</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Peking Union Medical College Hospital — NOT_YET_RECRUITING: Efficacy and Safety of Lanoracopan in the Treatment of PNH</title>
+      <link>https://clinicaltrials.gov/study/NCT07788105</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788105</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Azienda Ospedaliera di Perugia — COMPLETED: Dupilumab in Type 2-Inflamed COPD Across the Full Spectrum of Airflow Limitation: An Italian Multicentre Retrospective Cohort Study</title>
+      <link>https://clinicaltrials.gov/study/NCT07788092</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788092</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saglik Bilimleri Universitesi — RECRUITING: The Effect of Ostomy Care Education Applied With the Teach-Back Method to Ostomy-Opened Individuals on Self-Care Power, Ostomy Adjustment, and Anxiety</title>
+      <link>https://clinicaltrials.gov/study/NCT07788079</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788079</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAK Medical and Health Sciences University — NOT_YET_RECRUITING NA: Comparative Effectiveness of Yakson Touch and a Dextrose-Sweetened Pacifier for Reducing Phlebotomy-Induced Pain in Term Neonates</title>
+      <link>https://clinicaltrials.gov/study/NCT07788066</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788066</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chih-An Shih, MD — NOT_YET_RECRUITING NA: Efficacy And Safety of Bismuth-Tetracycline-Rabeprazole Triple For First-Line Eradication of Helicobacter Pylori Infection</title>
+      <link>https://clinicaltrials.gov/study/NCT07788053</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788053</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Truway Health, Inc. — NOT_YET_RECRUITING: Intracardiac Echocardiography Catheter Supply-Chain Reliability and Clinical Access Study</title>
+      <link>https://clinicaltrials.gov/study/NCT07788040</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788040</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Minia University — RECRUITING NA: Influence of Irrigant Delivery Systems on the Incidence of Postoperative Discomfort in Oval Canals</title>
+      <link>https://clinicaltrials.gov/study/NCT07788027</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788027</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gilva Therapeutics Inc. — RECRUITING PHASE1: A Phase 1 Study of Single and Multiple Ascending Doses of GV-100</title>
+      <link>https://clinicaltrials.gov/study/NCT07788014</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788014</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fujian Medical University Union Hospital — NOT_YET_RECRUITING PHASE3: A Non-inferiority Study of Indocyanine Green-guided Sentinel Lymph Node Mapping Versus Conventional Lymph Node Dissection in Esophageal Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT07788001</link>
+      <guid isPermaLink="false">clinical-trials:NCT07788001</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>University of California, San Francisco — NOT_YET_RECRUITING NA: Peer-led Dynamic Choice HIV Prevention for Women: The Peer-led DCP Randomized Trial</title>
+      <link>https://clinicaltrials.gov/study/NCT07787988</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787988</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>University of California, San Francisco — RECRUITING: RNA to the RESCUE: Evaluation to Assess the Clinical Utility of RNA Sequencing in Establishing a Genetic Diagnosis or Adjudicating a Previously Established Genetic Diagnosis.</title>
+      <link>https://clinicaltrials.gov/study/NCT07787975</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787975</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>The University of Western Australia — NOT_YET_RECRUITING: Follow-up of a Randomised Controlled Study of Surgical Peri-implantitis Treatment</title>
+      <link>https://clinicaltrials.gov/study/NCT07787962</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787962</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>October 6 University — RECRUITING NA: Injectable Platelet-Rich Fibrin With Minimally Invasive Non-Surgical Technique in Treatment of Grade II Furcation Defects</title>
+      <link>https://clinicaltrials.gov/study/NCT07787949</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787949</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Miedziowe Centrum Zdrowia SA — NOT_YET_RECRUITING: GLP-1/GIP Receptor Agonists in Obesity-Related HFpEF: The GLIDE-HF Registry</title>
+      <link>https://clinicaltrials.gov/study/NCT07787936</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787936</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deng XiaoLi — NOT_YET_RECRUITING EARLY_PHASE1: Safety, Tolerability, and Preliminary Efficacy of Intra-Articular Injection of Mesenchymal Stem Cell-Derived Exosomes for the Treatment of Non-Traumatic Avascular Necrosis of the Femoral Head</title>
+      <link>https://clinicaltrials.gov/study/NCT07787923</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787923</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ankara Etlik City Hospital — COMPLETED NA: Effect of Virtual Reality on Agitation in Acute Stroke</title>
+      <link>https://clinicaltrials.gov/study/NCT07787910</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787910</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>National Institute of Medical Sciences and Nutrition, Salvador Zubiran — COMPLETED NA: Ultra-low Split-dose Oral Lactulose vs High-volume Split-dose Polyethylene Glycol as Bowel Preparation for Outpatient Colonoscopies.</title>
+      <link>https://clinicaltrials.gov/study/NCT07787897</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787897</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anhui Medical University — NOT_YET_RECRUITING NA: Development and Pilot Application of a Solution-Focused Intervention for Social Isolation in Elderly Diabetic Foot Patients</title>
+      <link>https://clinicaltrials.gov/study/NCT07787884</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787884</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Medipol University — RECRUITING NA: Effect of Acupressure on Postoperative Pain After Laparoscopic Totally Extraperitoneal Inguinal Hernia Repair</title>
+      <link>https://clinicaltrials.gov/study/NCT07787871</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787871</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zagazig University — COMPLETED NA: Effect of Opioid-Free Versus Opioid-Based Anesthesia in Discectomy Surgery</title>
+      <link>https://clinicaltrials.gov/study/NCT07787858</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787858</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>University of South Carolina — NOT_YET_RECRUITING NA: The Goal is to Examine the Impact of Doula-coordinated, Midwife-delivered Postpartum Care Among Individuals With Preterm Births &lt;34 Weeks' Gestation Requiring NICU Admission.</title>
+      <link>https://clinicaltrials.gov/study/NCT07787845</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787845</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Universitätsklinikum Hamburg-Eppendorf — NOT_YET_RECRUITING NA: Evaluation of a Hospital Program to Prevent Postoperative Delirium in Older Patients</title>
+      <link>https://clinicaltrials.gov/study/NCT07787832</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787832</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eric Lenouvel — COMPLETED NA: Feasibility of Aktiv Gegen Sturzangst (AGES) in Assisted Living Facilities</title>
+      <link>https://clinicaltrials.gov/study/NCT07787819</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787819</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>University of California, Irvine — NOT_YET_RECRUITING NA: A Randomized Controlled Trial to Compare the Effectiveness of a Patient-reported Outcomes-driven Supportive Care Navigation Among Hispanic/Latinx Cancer Patients</title>
+      <link>https://clinicaltrials.gov/study/NCT07787806</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787806</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ancor Rebassa Cabrera — RECRUITING NA: Effects of High-Frequency rTMS on Cortical Motor Mapping in Stroke Patients With Severe Upper Limb Impairment (MAP2024SJD)</title>
+      <link>https://clinicaltrials.gov/study/NCT07787793</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787793</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sichuan Provincial People's Hospital — COMPLETED: Differential Clinical Phenotypes Of Early CD4+ And CD8+ T-Cell Recovery And Association With 28-Day Mortality In Sepsis Patients</title>
+      <link>https://clinicaltrials.gov/study/NCT07787780</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787780</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hospital Italiano de Buenos Aires — NOT_YET_RECRUITING: CMV Refractory and Resistant Infection in Solid Organ Transplant Recipients in Argentina</title>
+      <link>https://clinicaltrials.gov/study/NCT07787767</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787767</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>The First Affiliated Hospital of Guangzhou Medical University — COMPLETED NA: The Effect of Sea Buckthorn Extract in Patients With Type 1 Diabetes</title>
+      <link>https://clinicaltrials.gov/study/NCT07787754</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787754</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alİ Eman, MD — RECRUITING NA: CERVICAL EPIDURAL BLOCK IN CHRONIC NECK PAIN</title>
+      <link>https://clinicaltrials.gov/study/NCT07787741</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787741</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shanghai Minwei Biotechnology Co., Ltd — COMPLETED PHASE1: Phase Ib Clinical Study of MWN109 Injection in Participants With Overweight or Obesity</title>
+      <link>https://clinicaltrials.gov/study/NCT07787728</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787728</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>University of Sao Paulo — NOT_YET_RECRUITING NA: 3D Metrology-Based Comparison of Functional Casts Made With Conventional and 3D-Printed Custom Trays</title>
+      <link>https://clinicaltrials.gov/study/NCT07787715</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787715</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shaheed Mohtarma Benazir Bhutto Institue of Trauma — NOT_YET_RECRUITING NA: Comparison of Low-Dose Intravenous Ketamine and Tramadol for Prevention of Post-Spinal Anaesthesia Shivering in Orthopedic Surgical Patients</title>
+      <link>https://clinicaltrials.gov/study/NCT07787702</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787702</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Muhammad Aamir Latif — NOT_YET_RECRUITING NA: Intermittent vs Alternate Daily Regimen of Prednisolone in Ambulatory Boys With Duchenne Muscular Dystrophy</title>
+      <link>https://clinicaltrials.gov/study/NCT07787689</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787689</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Postgraduate Institute of Dental Sciences Rohtak — NOT_YET_RECRUITING: Periodontal Status and Thyroid Markers in Pregnancy</title>
+      <link>https://clinicaltrials.gov/study/NCT07787676</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787676</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Université du Québec a Montréal — COMPLETED NA: Promoting Autonomy Through ExerCisE (PACE) in Outpatient Geriatric Clinics</title>
+      <link>https://clinicaltrials.gov/study/NCT07787663</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787663</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shionogi — NOT_YET_RECRUITING PHASE1: A Study of S-606001 as Monotherapy in Participants With Late-onset Pompe Disease (LOPD)</title>
+      <link>https://clinicaltrials.gov/study/NCT07787650</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787650</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Northwestern University — ACTIVE_NOT_RECRUITING NA: Impact of Resilience Training on Quality of Life in New Ostomy Patients and Their Partners</title>
+      <link>https://clinicaltrials.gov/study/NCT07787637</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787637</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shanghai Minwei Biotechnology Co., Ltd — COMPLETED PHASE1: Phase 1 Clinical Study of MWN109 Injection in Healthy Chinese Volunteers</title>
+      <link>https://clinicaltrials.gov/study/NCT07787624</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787624</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shanghai Minwei Biotechnology Co., Ltd — COMPLETED PHASE1: Phase I Clinical Study of MWN109 Tablets in Healthy Chinese Participants</title>
+      <link>https://clinicaltrials.gov/study/NCT07787611</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787611</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>MTI University — COMPLETED NA: High-Intensity Interval Training in Young Women With Mechanical Low Back Pain</title>
+      <link>https://clinicaltrials.gov/study/NCT07787598</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787598</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spyridoula Maraka — NOT_YET_RECRUITING PHASE4: Discontinuation of Low-Dose Levothyroxine in Older Adults With Subclinical Hypothyroidism</title>
+      <link>https://clinicaltrials.gov/study/NCT07787585</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787585</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Mind Research Network — NOT_YET_RECRUITING NA: Applying Neuromodulation to Boost the Efficacy of Motivational Interviewing</title>
+      <link>https://clinicaltrials.gov/study/NCT07787572</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787572</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Military Hospital 175 — NOT_YET_RECRUITING NA: Epley Versus Semont-plus Maneuver for Benign Paroxysmal Positional Vertigo</title>
+      <link>https://clinicaltrials.gov/study/NCT07787559</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787559</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Medipol University — NOT_YET_RECRUITING: THE EFFECTIVENESS OF RESPIRATORY MUSCLE TRAINING AND EXERCISE IN OBESE ADOLESCENTS</title>
+      <link>https://clinicaltrials.gov/study/NCT07787546</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787546</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Louisiana State University and A&amp;M College — NOT_YET_RECRUITING NA: Digital Resistance Training for Midlife Women Using GLP-1</title>
+      <link>https://clinicaltrials.gov/study/NCT07787533</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787533</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Laekna Limited — NOT_YET_RECRUITING PHASE1: A Study of LAE118 as Monotherapy and in Combination With Antitumor Agents in Advanced Solid Tumors</title>
+      <link>https://clinicaltrials.gov/study/NCT07787520</link>
+      <guid isPermaLink="false">clinical-trials:NCT07787520</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

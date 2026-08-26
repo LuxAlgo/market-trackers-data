@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Government contract awards — GWW</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>W.W. GRAINGER, INC. — $876.84 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EEL_4732_47QSCC23A0002_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EEL_4732_47QSCC23A0002_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $882.17 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EEG_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EEG_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $75.4 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EED_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EED_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $1741.2 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EEC_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EEC_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $220.9 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EEA_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EEA_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $271.56 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EE9_4732_47QSCC23A0002_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EE9_4732_47QSCC23A0002_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $1934.56 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EE8_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EE8_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $832.85 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EE4_4732_47QSCC23A0002_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EE4_4732_47QSCC23A0002_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $185.49 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EE3_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EE3_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $195.16 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EE2_4732_47QSCC23A0002_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EE2_4732_47QSCC23A0002_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $3239.6 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EE0_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EE0_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $117.01 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EDZ_4732_47QSCC23A0002_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EDZ_4732_47QSCC23A0002_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $2052.74 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EDY_4732_47QSCC23A0002_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EDY_4732_47QSCC23A0002_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $241.8 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EDV_4732_47QSCC23A0002_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EDV_4732_47QSCC23A0002_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $793.33 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EDU_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EDU_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $258 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EDT_4732_47QSCC23A0002_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EDT_4732_47QSCC23A0002_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $3560.6 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EDN_4732_47QSCC23A0002_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EDN_4732_47QSCC23A0002_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $1291.72 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EDJ_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EDJ_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $3588.23 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EDG_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EDG_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $8861.93 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EDF_4732_47QSCC23A0002_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EDF_4732_47QSCC23A0002_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $12024.55 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EDC_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EDC_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $48.78 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6EDB_4732_47QSCC23A0002_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6EDB_4732_47QSCC23A0002_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $14225.27 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6ED9_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6ED9_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $2426.59 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6ED8_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6ED8_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $4208.67 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6ED7_4732_47QSCC23A0002_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6ED7_4732_47QSCC23A0002_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $1597.24 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6ED6_4732_47QSCC23A0002_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6ED6_4732_47QSCC23A0002_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $17074.5 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6ED5_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6ED5_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $1872.69 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6ED4_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6ED4_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $13.99 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6ED3_4732_47QSCC23A0002_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6ED3_4732_47QSCC23A0002_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $19.64 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6ED2_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6ED2_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $92505.84 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6ED1_4732_47QSCC23A0002_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6ED1_4732_47QSCC23A0002_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $15201.36 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6ED0_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6ED0_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $6.09 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6ECX_4732_47QSCC23A0002_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6ECX_4732_47QSCC23A0002_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $1777.16 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6ECW_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6ECW_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $804.18 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6ECV_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6ECV_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $2276.12 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6ECR_4732_47QSCC23A0002_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6ECR_4732_47QSCC23A0002_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $421.12 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6ECP_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6ECP_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $143.14 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6ECN_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6ECN_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $47.61 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6ECM_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6ECM_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>W.W. GRAINGER, INC. — $4261.2 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSCC26F6ECJ_4732_47QSCC26A0001_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSCC26F6ECJ_4732_47QSCC26A0001_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

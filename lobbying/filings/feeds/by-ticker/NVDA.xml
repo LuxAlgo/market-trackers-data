@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — NVDA</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA CORPORATION via NVIDIA CORPORATION (2026 first_quarter) — $1290000</title>
+      <link>https://lda.gov/filings/public/filing/e3bcdce8-77ad-4bfc-8d23-d52f9603efb3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e3bcdce8-77ad-4bfc-8d23-d52f9603efb3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA CORPORATION via TIBER CREEK GROUP (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/caf12566-ccc7-4e99-894a-467a0a503943/print/</link>
+      <guid isPermaLink="false">lobbying-filings:caf12566-ccc7-4e99-894a-467a0a503943</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA via THE VOGEL GROUP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/aec4d962-2a56-4872-82ed-d36d6fd3302e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:aec4d962-2a56-4872-82ed-d36d6fd3302e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA CORPORATION via TIBER CREEK GROUP (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/a9395943-1d64-400a-85c9-f085cb679957/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a9395943-1d64-400a-85c9-f085cb679957</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA CORPORATION via BGR GOVERNMENT AFFAIRS (2026 first_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/a27ab4b8-c6f1-4e74-9886-17cffafd0e33/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a27ab4b8-c6f1-4e74-9886-17cffafd0e33</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA CORPORATION via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/8d7cc835-4453-45e9-9d50-2fc840f6a31f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8d7cc835-4453-45e9-9d50-2fc840f6a31f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA CORPORATION via THE NICKLES GROUP, LLC (2026 second_quarter) — $100000</title>
+      <link>https://lda.gov/filings/public/filing/6228b1d5-726a-466e-bc48-266a7f678bf8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6228b1d5-726a-466e-bc48-266a7f678bf8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA CORPORATION via NVIDIA CORPORATION (2026 second_quarter) — $1250000</title>
+      <link>https://lda.gov/filings/public/filing/4caec807-4163-44a7-9fbb-2001daedab24/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4caec807-4163-44a7-9fbb-2001daedab24</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA CORPORATION via BGR GOVERNMENT AFFAIRS (2026 second_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/3957d54f-b6e4-4c6a-b308-219cb9e9f072/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3957d54f-b6e4-4c6a-b308-219cb9e9f072</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA via THE VOGEL GROUP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/1029a3dc-aeb5-42d4-a381-d80db7074b61/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1029a3dc-aeb5-42d4-a381-d80db7074b61</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA CORPORATION via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/08f66498-920c-47c0-8f64-6003a61343cb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:08f66498-920c-47c0-8f64-6003a61343cb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA CORPORATION via THE NICKLES GROUP, LLC (2026 first_quarter) — $100000</title>
+      <link>https://lda.gov/filings/public/filing/00bbd66f-2f3d-4533-a94f-558565e73cea/print/</link>
+      <guid isPermaLink="false">lobbying-filings:00bbd66f-2f3d-4533-a94f-558565e73cea</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

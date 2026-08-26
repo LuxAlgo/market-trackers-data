@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — COR</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>CENCORA, INC. via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/fac61e73-e378-4ccd-afa6-c83e1312485b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fac61e73-e378-4ccd-afa6-c83e1312485b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENCORA, INC. via HARBINGER STRATEGIES, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/ee689e50-c136-4c38-bc39-183c16c9cc8f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ee689e50-c136-4c38-bc39-183c16c9cc8f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENCORA, INC. via TCH GROUP, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/d6d21f05-cbf5-4c12-b0e0-1534f65bbe2c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d6d21f05-cbf5-4c12-b0e0-1534f65bbe2c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENCORA via MONUMENT ADVOCACY (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/d6ad24df-cc9d-4151-b1d7-2e755060dfc9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d6ad24df-cc9d-4151-b1d7-2e755060dfc9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENCORA, INC. via THE DUBERSTEIN GROUP INC. (2026 first_quarter) — $75000</title>
+      <link>https://lda.gov/filings/public/filing/a9f7d84e-9846-4733-87c1-8a8dcaa98179/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a9f7d84e-9846-4733-87c1-8a8dcaa98179</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENCORA, INC. via CENCORA, INC. (2026 second_quarter) — $510000</title>
+      <link>https://lda.gov/filings/public/filing/93be79b4-aac0-4292-abde-895184a3f527/print/</link>
+      <guid isPermaLink="false">lobbying-filings:93be79b4-aac0-4292-abde-895184a3f527</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENCORA via MONUMENT ADVOCACY (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/8628ce76-c486-4866-bd32-a82be436c9ee/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8628ce76-c486-4866-bd32-a82be436c9ee</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENCORA, INC. via INLET STRATEGIES (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/72133429-fdf6-4dd1-83cf-d2a6ffc6c53b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:72133429-fdf6-4dd1-83cf-d2a6ffc6c53b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENCORA via MONUMENT ADVOCACY (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/6de75cc0-14cc-4d64-8db0-d32ddde1f3b0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6de75cc0-14cc-4d64-8db0-d32ddde1f3b0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENCORA, INC. via INLET STRATEGIES (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/68e1ecaf-c78c-4985-963d-b342da29a4bc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:68e1ecaf-c78c-4985-963d-b342da29a4bc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENCORA, INC. via CENCORA, INC. (2026 first_quarter) — $1150000</title>
+      <link>https://lda.gov/filings/public/filing/61f1f5cb-cc95-4d27-924d-b039ff24d862/print/</link>
+      <guid isPermaLink="false">lobbying-filings:61f1f5cb-cc95-4d27-924d-b039ff24d862</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENCORA, INC. via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/5af40bc7-000b-4b9e-90fb-6276bfdd2b05/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5af40bc7-000b-4b9e-90fb-6276bfdd2b05</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENCORA, INC. via TCH GROUP, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/3924770a-d917-4976-9153-ff1d895dfd17/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3924770a-d917-4976-9153-ff1d895dfd17</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENCORA, INC. via THE DUBERSTEIN GROUP INC. (2026 second_quarter) — $75000</title>
+      <link>https://lda.gov/filings/public/filing/33818bd1-da4d-4cc2-85e0-aee9959be1d8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:33818bd1-da4d-4cc2-85e0-aee9959be1d8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENCORA, INC. via HARBINGER STRATEGIES, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/1df52fc5-1b22-420e-b83c-cc915d3ca21f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1df52fc5-1b22-420e-b83c-cc915d3ca21f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

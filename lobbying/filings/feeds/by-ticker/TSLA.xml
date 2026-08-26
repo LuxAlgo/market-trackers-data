@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — TSLA</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>TESLA INC via TESLA INC. (2026 second_quarter) — $650000</title>
+      <link>https://lda.gov/filings/public/filing/f924e375-8fd4-4fa3-b7c4-9c2d2f73c28e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f924e375-8fd4-4fa3-b7c4-9c2d2f73c28e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TESLA INC. via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/da9b2ec3-292a-4e0a-85fb-85380a332064/print/</link>
+      <guid isPermaLink="false">lobbying-filings:da9b2ec3-292a-4e0a-85fb-85380a332064</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TESLA, INC. via CAPITOL CONSULTING GROUP LLC (DC) (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/cb4fd63f-b047-4e29-93d8-d9181e3813fa/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cb4fd63f-b047-4e29-93d8-d9181e3813fa</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TESLA, INC. via RICH FEUER ANDERSON (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/b13b0079-af94-404e-bde3-ae6f44be4665/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b13b0079-af94-404e-bde3-ae6f44be4665</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TESLA, INC. via CONTINENTAL STRATEGY, LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/aad2d5b3-8f42-4fce-b256-d45752afc392/print/</link>
+      <guid isPermaLink="false">lobbying-filings:aad2d5b3-8f42-4fce-b256-d45752afc392</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TESLA, INC. via CONTINENTAL STRATEGY, LLC (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/6d51efd2-7741-401c-8aee-4240d50aec34/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6d51efd2-7741-401c-8aee-4240d50aec34</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TESLA INC via TESLA INC. (2026 first_quarter) — $760000</title>
+      <link>https://lda.gov/filings/public/filing/3ca09e2f-74e9-45e1-a392-b471a09c28fe/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3ca09e2f-74e9-45e1-a392-b471a09c28fe</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TESLA, INC. via CAPITOL CONSULTING GROUP LLC (DC) (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/2ff849f7-82df-4b57-b276-e597fafb72ef/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2ff849f7-82df-4b57-b276-e597fafb72ef</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TESLA via CASSIDY &amp; ASSOCIATES, INC. (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/223d1035-bd5b-40c3-9ead-e0de5f8a1919/print/</link>
+      <guid isPermaLink="false">lobbying-filings:223d1035-bd5b-40c3-9ead-e0de5f8a1919</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TESLA, INC. via RICH FEUER ANDERSON (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/19a82c81-880a-435e-bd37-f8de68a60727/print/</link>
+      <guid isPermaLink="false">lobbying-filings:19a82c81-880a-435e-bd37-f8de68a60727</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TESLA INC. via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/0835a227-e24a-4dbd-bc6e-53aac5409c6b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0835a227-e24a-4dbd-bc6e-53aac5409c6b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

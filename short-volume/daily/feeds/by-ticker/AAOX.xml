@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Short-sale volume — AAOX</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>AAOX 2026-08-26: 776100.88776/1574402.345332 short (49.3%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260826.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-26:AAOX:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>AAOX 2026-08-25: 1370053.421283/2920243.728607 short (46.9%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260825.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-25:AAOX:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>AAOX 2026-08-24: 3179596.074938/5400926.533082 short (58.9%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260824.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-24:AAOX:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:58 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

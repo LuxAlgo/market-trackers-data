@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — UNH</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>UNITEDHEALTH GROUP, INC. via ALSTON &amp; BIRD LLP (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/f5ad7ec4-857d-4ad0-b5ff-da8bd0dcf031/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f5ad7ec4-857d-4ad0-b5ff-da8bd0dcf031</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITEDHEALTH GROUP via CASSIDY &amp; ASSOCIATES, INC. (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/f39f1823-e1b0-4102-ad7d-8fe8e341e06e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f39f1823-e1b0-4102-ad7d-8fe8e341e06e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITEDHEALTH GROUP, INC. via AXADVOCACY GOVERNMENT RELATIONS (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/ec6a10b1-9043-4e99-9d23-5cb46c22e05d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ec6a10b1-9043-4e99-9d23-5cb46c22e05d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITEDHEALTH GROUP, INC. via AXADVOCACY GOVERNMENT RELATIONS (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/e88a1281-5551-44ef-8af3-e2c1beb5ccfd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e88a1281-5551-44ef-8af3-e2c1beb5ccfd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITEDHEALTH GROUP INC via AVOQ, LLC (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/d91f3113-3036-4dd6-9214-54f7eeb70710/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d91f3113-3036-4dd6-9214-54f7eeb70710</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITEDHEALTH GROUP, INC. via GUIDEPOSTSTRATEGIES, LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/c387c0ae-9f62-4f0d-8d2f-261fb7a2c3ac/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c387c0ae-9f62-4f0d-8d2f-261fb7a2c3ac</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITEDHEALTH GROUP, INC. via THEGROUP DC, LLC (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/c3040f4b-248d-4a95-b014-23a34ef598cf/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c3040f4b-248d-4a95-b014-23a34ef598cf</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITEDHEALTH GROUP, INC. via PENN AVENUE PARTNERS (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/c17d4de1-1585-4b0e-85eb-747f515b08f4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c17d4de1-1585-4b0e-85eb-747f515b08f4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITEDHEALTH GROUP INC via AVENUE SOLUTIONS (2026 first_quarter) — $100000</title>
+      <link>https://lda.gov/filings/public/filing/ba430e78-bfdb-4686-bc8e-86ebb6ade9a0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ba430e78-bfdb-4686-bc8e-86ebb6ade9a0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITEDHEALTH GROUP INC via AVENUE SOLUTIONS (2026 second_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/aba161ae-942d-4aab-bff9-b0490c40e15d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:aba161ae-942d-4aab-bff9-b0490c40e15d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITEDHEALTH GROUP, INC. via FIERCE GOVERNMENT RELATIONS (2026 second_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/9c18978a-11cb-4ae1-98ee-581d40b399b2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9c18978a-11cb-4ae1-98ee-581d40b399b2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITEDHEALTH GROUP INC via AVOQ, LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/91665791-ddd4-4102-a5d0-325ed87b8e01/print/</link>
+      <guid isPermaLink="false">lobbying-filings:91665791-ddd4-4102-a5d0-325ed87b8e01</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITEDHEALTH GROUP, INC. via GUIDEPOSTSTRATEGIES, LLC (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/7ad91cd5-6b26-416a-a8ce-e12259017d22/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7ad91cd5-6b26-416a-a8ce-e12259017d22</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITED HEALTHCARE SERVICES, INC. via BALLARD PARTNERS (2026 first_quarter) — $150000</title>
+      <link>https://lda.gov/filings/public/filing/6a2d845d-d77c-4958-9fbd-b83c86733c19/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6a2d845d-d77c-4958-9fbd-b83c86733c19</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITEDHEALTH GROUP, INC. via FIERCE GOVERNMENT RELATIONS (2026 first_quarter) — $100000</title>
+      <link>https://lda.gov/filings/public/filing/55455cc7-8951-42b3-903d-c51507553850/print/</link>
+      <guid isPermaLink="false">lobbying-filings:55455cc7-8951-42b3-903d-c51507553850</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITEDHEALTH GROUP, INC. via THEGROUP DC, LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/3ea7ca43-f7a7-4122-a10c-865dce52f98b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3ea7ca43-f7a7-4122-a10c-865dce52f98b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITEDHEALTH GROUP INC via UNITEDHEALTH GROUP, INC. (2026 second_quarter) — $1880000</title>
+      <link>https://lda.gov/filings/public/filing/3debb566-f5a3-4de7-8f43-42d40d6b617f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3debb566-f5a3-4de7-8f43-42d40d6b617f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITEDHEALTH GROUP via CASSIDY &amp; ASSOCIATES, INC. (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/37304c78-4a7d-43ad-8688-2d7333fc1aff/print/</link>
+      <guid isPermaLink="false">lobbying-filings:37304c78-4a7d-43ad-8688-2d7333fc1aff</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITED HEALTHCARE SERVICES, INC. via BALLARD PARTNERS (2026 second_quarter) — $150000</title>
+      <link>https://lda.gov/filings/public/filing/33b2c9d9-4c59-45f5-bd4a-ed1978e29aaa/print/</link>
+      <guid isPermaLink="false">lobbying-filings:33b2c9d9-4c59-45f5-bd4a-ed1978e29aaa</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITEDHEALTH GROUP, INC. via ALSTON &amp; BIRD LLP (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/313a880f-84df-486d-afd5-befed742e4db/print/</link>
+      <guid isPermaLink="false">lobbying-filings:313a880f-84df-486d-afd5-befed742e4db</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITEDHEALTH GROUP INC via UNITEDHEALTH GROUP, INC. (2026 first_quarter) — $2670000</title>
+      <link>https://lda.gov/filings/public/filing/13597244-9f5a-415c-9e1c-104d5b9640b2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:13597244-9f5a-415c-9e1c-104d5b9640b2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

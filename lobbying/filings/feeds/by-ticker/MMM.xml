@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — MMM</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>3M COMPANY via MICHAEL BEST STRATEGIES LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/f5e11b18-ce87-4ba2-8b02-8af1412345aa/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f5e11b18-ce87-4ba2-8b02-8af1412345aa</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M COMPANY via THEGROUP DC, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/f3045f3d-94d8-4404-9612-61775cc559ab/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f3045f3d-94d8-4404-9612-61775cc559ab</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M COMPANY via AMERICAN DEFENSE INTERNATIONAL (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/ebf013fd-923a-4310-a866-3cb010d6e46b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ebf013fd-923a-4310-a866-3cb010d6e46b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M COMPANY via 3M COMPANY (2026 second_quarter) — $720000</title>
+      <link>https://lda.gov/filings/public/filing/dccc9ed4-1cfa-4386-b76b-a3f664c273b2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dccc9ed4-1cfa-4386-b76b-a3f664c273b2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M COMPANY via AMERICAN DEFENSE INTERNATIONAL (2026 second_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/d9a4c519-1b42-4421-8608-f564cb1c8bcc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d9a4c519-1b42-4421-8608-f564cb1c8bcc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M COMPANY via MARSHALL &amp; POPP, LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/d26f0bc2-509b-49fa-ade3-7f2eb67dcc6a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d26f0bc2-509b-49fa-ade3-7f2eb67dcc6a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M COMPANY via BALLARD PARTNERS (2026 second_quarter) — $180000</title>
+      <link>https://lda.gov/filings/public/filing/d012503a-d4fe-49db-8c21-6eebcba13471/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d012503a-d4fe-49db-8c21-6eebcba13471</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M COMPANY via MICHAEL BEST STRATEGIES LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/cbe5b69c-9600-471d-9caf-cc044f59f0ed/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cbe5b69c-9600-471d-9caf-cc044f59f0ed</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M COMPANY via AMERICAN DEFENSE INTERNATIONAL (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/cacadf61-b40e-4e6a-909f-cf1fc431cabf/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cacadf61-b40e-4e6a-909f-cf1fc431cabf</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M COMPANY via THEGROUP DC, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/bf36092b-0806-4a01-b294-b53643291632/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bf36092b-0806-4a01-b294-b53643291632</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M via SULLIVAN STRATEGIES LLC (FKA SB CAPITOL SOLUTIONS) (2026 second_quarter) — $15000</title>
+      <link>https://lda.gov/filings/public/filing/bccc5956-eabe-44ba-8f63-ec031d8a7793/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bccc5956-eabe-44ba-8f63-ec031d8a7793</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M via HOLLAND &amp; HART LLP (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/a750938c-13c3-408c-8779-10ed5246ba08/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a750938c-13c3-408c-8779-10ed5246ba08</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M COMPANY via 3M COMPANY (2026 first_quarter) — $750000</title>
+      <link>https://lda.gov/filings/public/filing/9fec2c40-15bc-4c72-a9ed-d3ce3fcebc35/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9fec2c40-15bc-4c72-a9ed-d3ce3fcebc35</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M COMPANY via MARSHALL &amp; POPP, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/8936dee5-4856-4190-85be-14ac781094c5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8936dee5-4856-4190-85be-14ac781094c5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M COMPANY via CROSSROADS STRATEGIES, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/75f85705-fb00-4efb-bf40-4ee9ef040bce/print/</link>
+      <guid isPermaLink="false">lobbying-filings:75f85705-fb00-4efb-bf40-4ee9ef040bce</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M via SULLIVAN STRATEGIES LLC (FKA SB CAPITOL SOLUTIONS) (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/69ded5b4-cca4-4c22-b7e4-cbdcdef104ba/print/</link>
+      <guid isPermaLink="false">lobbying-filings:69ded5b4-cca4-4c22-b7e4-cbdcdef104ba</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M via HOLLAND &amp; HART LLP (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/390ff476-49d2-47c0-9d1e-8847915ea59b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:390ff476-49d2-47c0-9d1e-8847915ea59b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M COMPANY via CROSSROADS STRATEGIES, LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/307daf56-4764-4036-95e6-4a086bf18a54/print/</link>
+      <guid isPermaLink="false">lobbying-filings:307daf56-4764-4036-95e6-4a086bf18a54</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M COMPANY via BALLARD PARTNERS (2026 first_quarter) — $170000</title>
+      <link>https://lda.gov/filings/public/filing/057270a7-5126-429d-b3bf-d6c07b82a4bf/print/</link>
+      <guid isPermaLink="false">lobbying-filings:057270a7-5126-429d-b3bf-d6c07b82a4bf</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — IBM</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>INTERNATIONAL BUSINESS MACHINES CORPORATION (IBM) via INTERNATIONAL BUSINESS MACHINES CORPORATION (IBM) (2026 second_quarter) — $640000</title>
+      <link>https://lda.gov/filings/public/filing/f862aac6-c764-4eda-aff9-166ab2dff348/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f862aac6-c764-4eda-aff9-166ab2dff348</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IBM CORPORATION via THE WASHINGTON TAX &amp; PUBLIC POLICY GROUP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/f77d8bb0-b990-4778-b964-8c9ae97526be/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f77d8bb0-b990-4778-b964-8c9ae97526be</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IBM CORPORATION via THE ROOSEVELT GROUP (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/e325f7c4-3aff-42ce-84e3-339039f85deb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e325f7c4-3aff-42ce-84e3-339039f85deb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IBM CORPORATION via MEHLMAN CONSULTING, INC. (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/b6881215-84bb-4886-8efc-17449373e808/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b6881215-84bb-4886-8efc-17449373e808</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IBM CORPORATION via THE ROOSEVELT GROUP (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/b3ef5f1d-8435-4c30-a4eb-a6a2dfc41d4d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b3ef5f1d-8435-4c30-a4eb-a6a2dfc41d4d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IBM via KAMINS CONSULTING (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/b29ad1d1-217c-4599-a4ee-f4a2b71b1274/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b29ad1d1-217c-4599-a4ee-f4a2b71b1274</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IBM CORPORATION via MEHLMAN CONSULTING, INC. (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/9154821b-f1e3-4dcf-b388-b7d84e146e11/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9154821b-f1e3-4dcf-b388-b7d84e146e11</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IBM CORPORATION via THE WASHINGTON TAX &amp; PUBLIC POLICY GROUP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/3869ff98-b024-49eb-8a72-4dfb62668cd1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3869ff98-b024-49eb-8a72-4dfb62668cd1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>INTERNATIONAL BUSINESS MACHINES CORPORATION (IBM) via INTERNATIONAL BUSINESS MACHINES CORPORATION (IBM) (2026 first_quarter) — $800000</title>
+      <link>https://lda.gov/filings/public/filing/30d7b332-c6f8-47d9-8efa-897d46c5996a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:30d7b332-c6f8-47d9-8efa-897d46c5996a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IBM CORPORATION via THE WASHINGTON TAX &amp; PUBLIC POLICY GROUP (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/119cb0ad-bf84-4250-afcb-ba206ba81e14/print/</link>
+      <guid isPermaLink="false">lobbying-filings:119cb0ad-bf84-4250-afcb-ba206ba81e14</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IBM via KAMINS CONSULTING (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/08a44797-905c-4a33-8f52-97b8f6966264/print/</link>
+      <guid isPermaLink="false">lobbying-filings:08a44797-905c-4a33-8f52-97b8f6966264</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — CSX</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>CSX CORPORATION via THE FIORENTINO GROUP (2026 first_quarter) — $18000</title>
+      <link>https://lda.gov/filings/public/filing/fc03ba78-140d-40ba-a95f-7ddbe048597a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fc03ba78-140d-40ba-a95f-7ddbe048597a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSX CORPORATION via THE SMITH-FREE GROUP, LLC (2026 first_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/f02a32c5-5199-40a1-ad31-32b320ab9ff2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f02a32c5-5199-40a1-ad31-32b320ab9ff2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSX CORPORATION via THE FIORENTINO GROUP (2026 second_quarter) — $18000</title>
+      <link>https://lda.gov/filings/public/filing/dd9a2dbc-b389-412d-b448-538d2b697f79/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dd9a2dbc-b389-412d-b448-538d2b697f79</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSX CORPORATION via THE SMITH-FREE GROUP, LLC (2026 second_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/d22c8a26-18e6-4297-890d-818241b846f9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d22c8a26-18e6-4297-890d-818241b846f9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSX CORPORATION via CONTINENTAL STRATEGY, LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/ae1013f6-8752-474a-9c2f-457b85a1fa4f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ae1013f6-8752-474a-9c2f-457b85a1fa4f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSX CORPORATION via THE DUBERSTEIN GROUP INC. (2026 second_quarter) — $100000</title>
+      <link>https://lda.gov/filings/public/filing/976c741e-509e-4f7c-8260-3d0cbc74ba2b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:976c741e-509e-4f7c-8260-3d0cbc74ba2b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSX CORPORATION via CSX CORPORATION (2026 second_quarter) — $310000</title>
+      <link>https://lda.gov/filings/public/filing/7e1a59ce-c5de-4313-882b-ff27c1e4c9be/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7e1a59ce-c5de-4313-882b-ff27c1e4c9be</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSX CORPORATION via CONTINENTAL STRATEGY, LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/3107dd5f-d6a7-46a9-92f9-a61e141505b9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3107dd5f-d6a7-46a9-92f9-a61e141505b9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSX CORPORATION via CSX CORPORATION (2026 first_quarter) — $620000</title>
+      <link>https://lda.gov/filings/public/filing/2cd43b2d-c3f7-4606-bb1d-1ae14d7d9d5f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2cd43b2d-c3f7-4606-bb1d-1ae14d7d9d5f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSX CORPORATION via THE DUBERSTEIN GROUP INC. (2026 first_quarter) — $100000</title>
+      <link>https://lda.gov/filings/public/filing/289c851f-b850-4e12-bb7b-e24be563cad9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:289c851f-b850-4e12-bb7b-e24be563cad9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

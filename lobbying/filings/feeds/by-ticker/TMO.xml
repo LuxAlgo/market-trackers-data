@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — TMO</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>THERMO FISHER SCIENTIFIC INC via MONUMENT ADVOCACY (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/f8e374b7-3bc7-43f6-bbf9-62a5bbd4685f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f8e374b7-3bc7-43f6-bbf9-62a5bbd4685f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THERMO FISHER SCIENTIFIC INC via GORDON THOMAS HONEYWELL GOVERNMENTAL AFFAIRS (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/efe9e8c5-d82a-465d-86d5-ecc285e632cb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:efe9e8c5-d82a-465d-86d5-ecc285e632cb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THERMO FISHER SCIENTIFIC INC via BLUEBIRD STRATEGIES (2026 first_quarter) — $21000</title>
+      <link>https://lda.gov/filings/public/filing/9dd79900-c760-4a45-8cdf-72ec1daa04e2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9dd79900-c760-4a45-8cdf-72ec1daa04e2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THERMO FISHER SCIENTIFIC INC via THERMO FISHER SCIENTIFIC INC. (2026 first_quarter) — $710000</title>
+      <link>https://lda.gov/filings/public/filing/98bdd361-565b-417e-afa9-371265aa71c9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:98bdd361-565b-417e-afa9-371265aa71c9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THERMO FISHER SCIENTIFIC INC via THERMO FISHER SCIENTIFIC INC. (2026 second_quarter) — $280000</title>
+      <link>https://lda.gov/filings/public/filing/767d51f7-7f17-49a7-9be4-d19c4433eb1f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:767d51f7-7f17-49a7-9be4-d19c4433eb1f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THERMO FISHER SCIENTIFIC INC via MONUMENT ADVOCACY (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/60e34a3f-acfe-4445-8a2a-cc8a368f2259/print/</link>
+      <guid isPermaLink="false">lobbying-filings:60e34a3f-acfe-4445-8a2a-cc8a368f2259</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THERMO FISHER SCIENTIFIC INC via ERNST &amp; YOUNG LLP (WASHINGTON COUNCIL ERNST &amp; YOUNG) (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/5f8cbaf2-cd13-4f24-9a64-1b35b26200f3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5f8cbaf2-cd13-4f24-9a64-1b35b26200f3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THERMO FISHER SCIENTIFIC INC via BLUEBIRD STRATEGIES (2026 second_quarter) — $21000</title>
+      <link>https://lda.gov/filings/public/filing/55016381-95d5-4ae3-94d3-606d3499068a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:55016381-95d5-4ae3-94d3-606d3499068a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THERMO FISHER SCIENTIFIC INC via BLUEBIRD STRATEGIES (2026 first_quarter) — $21000</title>
+      <link>https://lda.gov/filings/public/filing/3c35ba00-841b-41b8-8512-1ce75ce45622/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3c35ba00-841b-41b8-8512-1ce75ce45622</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THERMO FISHER SCIENTIFIC INC via ERNST &amp; YOUNG LLP (WASHINGTON COUNCIL ERNST &amp; YOUNG) (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/39c7134e-1254-43b8-97fb-94c41e2ba27a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:39c7134e-1254-43b8-97fb-94c41e2ba27a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THERMO FISHER SCIENTIFIC INC via GORDON THOMAS HONEYWELL GOVERNMENTAL AFFAIRS (2026 second_quarter) — $45000</title>
+      <link>https://lda.gov/filings/public/filing/2ceb7eaf-f238-4123-bb92-d5b42d74703c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2ceb7eaf-f238-4123-bb92-d5b42d74703c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

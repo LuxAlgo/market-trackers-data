@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — VMC</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>VULCAN MATERIALS COMPANY via VULCAN MATERIALS COMPANY (2026 second_quarter) — $270000</title>
+      <link>https://lda.gov/filings/public/filing/ef2f88da-737e-4d3d-a770-cd97dc3ad3fb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ef2f88da-737e-4d3d-a770-cd97dc3ad3fb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VULCAN MATERIALS COMPANY via TAFT STETTINIUS &amp; HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS &amp; HO (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/ee2dbcb1-7f79-4598-b460-631a0e5200ce/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ee2dbcb1-7f79-4598-b460-631a0e5200ce</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VULCAN MATERIALS COMPANY via ELEVATE GOVERNMENT AFFAIRS, LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/eba0f3c4-154a-410f-9b06-86dddcdfba98/print/</link>
+      <guid isPermaLink="false">lobbying-filings:eba0f3c4-154a-410f-9b06-86dddcdfba98</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VULCAN MATERIALS COMPANY via MCCARTHY ADVANCED CONSULTING LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/b7541a80-6fba-41e7-a36c-ebefab91ae5b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b7541a80-6fba-41e7-a36c-ebefab91ae5b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VULCAN MATERIALS COMPANY via BRADLEY ARANT BOULT CUMMINGS LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/af0e6735-9e5b-490a-9bf3-cdbc404c3ccd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:af0e6735-9e5b-490a-9bf3-cdbc404c3ccd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VULCAN MATERIALS COMPANY via VULCAN MATERIALS COMPANY (2026 first_quarter) — $430000</title>
+      <link>https://lda.gov/filings/public/filing/9ca14880-5811-4873-8b0a-da6baefb54a9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9ca14880-5811-4873-8b0a-da6baefb54a9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VULCAN MATERIALS COMPANY via MCCARTHY ADVANCED CONSULTING LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/549a4c19-cda3-47f7-b9d5-25c67a3953d8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:549a4c19-cda3-47f7-b9d5-25c67a3953d8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VULCAN MATERIALS COMPANY via TAFT STETTINIUS &amp; HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS &amp; HO (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/526e4e41-c892-4ba7-b529-4b63a4e02cde/print/</link>
+      <guid isPermaLink="false">lobbying-filings:526e4e41-c892-4ba7-b529-4b63a4e02cde</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VULCAN MATERIALS COMPANY via BRADLEY ARANT BOULT CUMMINGS LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/2e80c0fc-2d81-419f-a2fe-d1190237f70f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2e80c0fc-2d81-419f-a2fe-d1190237f70f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VULCAN MATERIALS COMPANY via ELEVATE GOVERNMENT AFFAIRS, LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/2e282825-3983-4363-95d2-b02be63d2539/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2e282825-3983-4363-95d2-b02be63d2539</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VULCAN MATERIALS COMPANY via AQUIA GROUP, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/0976e2e8-4298-4cc7-8a42-d677d9c63759/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0976e2e8-4298-4cc7-8a42-d677d9c63759</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VULCAN MATERIALS COMPANY via AQUIA GROUP, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/094b1f27-305f-45e1-a9f1-487075dc799d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:094b1f27-305f-45e1-a9f1-487075dc799d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

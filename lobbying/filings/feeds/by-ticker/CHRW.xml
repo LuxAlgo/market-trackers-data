@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — CHRW</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>C.H. ROBINSON WORLDWIDE, INC. via DUTKO GOVERNMENT RELATIONS (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/feffc431-3548-4f3b-8168-ff9a86809fda/print/</link>
+      <guid isPermaLink="false">lobbying-filings:feffc431-3548-4f3b-8168-ff9a86809fda</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>C.H. ROBINSON WORLDWIDE, INC. via INVARIANT LLC (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/f775be14-c5a9-4ccd-9a42-0212a45c60bc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f775be14-c5a9-4ccd-9a42-0212a45c60bc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>C.H. ROBINSON WORLDWIDE, INC. via INVARIANT LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/f0a54cd9-4daf-468d-89f1-494c1936ee2a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f0a54cd9-4daf-468d-89f1-494c1936ee2a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>C.H. ROBINSON WORLDWIDE, INC. via C.H. ROBINSON WORLDWIDE, INC. (2026 first_quarter) — $2300000</title>
+      <link>https://lda.gov/filings/public/filing/84954ad8-5a9c-41f0-8360-1c46e0510a86/print/</link>
+      <guid isPermaLink="false">lobbying-filings:84954ad8-5a9c-41f0-8360-1c46e0510a86</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>C.H. ROBINSON WORLDWIDE, INC. via C.H. ROBINSON WORLDWIDE, INC. (2026 second_quarter) — $130000</title>
+      <link>https://lda.gov/filings/public/filing/766f9d32-1520-474a-b49e-29b131daf65b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:766f9d32-1520-474a-b49e-29b131daf65b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>C.H. ROBINSON WORLDWIDE, INC. via DUTKO GOVERNMENT RELATIONS (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/74978794-7d98-48ae-86ff-f323ca32c0a3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:74978794-7d98-48ae-86ff-f323ca32c0a3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>C.H. ROBINSON WORLDWIDE, INC. via INVARIANT LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/2822843f-5bdb-4afb-bbba-fb22c2e92b32/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2822843f-5bdb-4afb-bbba-fb22c2e92b32</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>C.H. ROBINSON WORLDWIDE, INC. via CAPITOL COUNSEL LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/23f14f05-7ccf-4b4f-a254-4c2156754247/print/</link>
+      <guid isPermaLink="false">lobbying-filings:23f14f05-7ccf-4b4f-a254-4c2156754247</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>C.H. ROBINSON WORLDWIDE, INC. via C.H. ROBINSON WORLDWIDE, INC. (2026 first_quarter) — $230000</title>
+      <link>https://lda.gov/filings/public/filing/1583f262-830d-436a-87b6-8d291277c697/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1583f262-830d-436a-87b6-8d291277c697</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>C.H. ROBINSON WORLDWIDE, INC. via CAPITOL COUNSEL LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/0af8a64f-d8e1-446d-acee-13d4f0ade13e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0af8a64f-d8e1-446d-acee-13d4f0ade13e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

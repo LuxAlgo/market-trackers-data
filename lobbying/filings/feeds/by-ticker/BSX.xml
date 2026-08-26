@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — BSX</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>BOSTON SCIENTIFIC CORPORATION via BOSTON SCIENTIFIC CORPORATION (2026 second_quarter) — $642000</title>
+      <link>https://lda.gov/filings/public/filing/e90b5b71-9df7-4677-bc84-c658d4a8e9ea/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e90b5b71-9df7-4677-bc84-c658d4a8e9ea</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOSTON SCIENTIFIC CORPORATION via ALSTON &amp; BIRD LLP (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/d574df76-2bf6-452b-8dbe-970a59984b6c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d574df76-2bf6-452b-8dbe-970a59984b6c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOSTON SCIENTIFIC (OFFICE-BASED FACILITY ASSN OBFA) (FKA USPA) via LIBERTY PARTNERS GROUP, LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/d1d8c1de-9fe7-4060-97d4-daae27345f92/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d1d8c1de-9fe7-4060-97d4-daae27345f92</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOSTON SCIENTIFIC CORPORATION via BRICK STREET STRATEGY (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/cb9ea585-c5ab-44cb-8784-b04b3292523d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cb9ea585-c5ab-44cb-8784-b04b3292523d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOSTON SCIENTIFIC CORPORATION via ALSTON &amp; BIRD LLP (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/94db3563-60e2-4f7e-9b0a-ef0d8a681fba/print/</link>
+      <guid isPermaLink="false">lobbying-filings:94db3563-60e2-4f7e-9b0a-ef0d8a681fba</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOSTON SCIENTIFIC via HOLLIER &amp; ASSOCIATES (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/6c197188-dcc9-430f-8dd8-ff370a1aa64f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6c197188-dcc9-430f-8dd8-ff370a1aa64f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOSTON SCIENTIFIC CORPORATION via BOSTON SCIENTIFIC CORPORATION (2026 first_quarter) — $642000</title>
+      <link>https://lda.gov/filings/public/filing/43334512-5149-4810-8fab-f915b0e23f46/print/</link>
+      <guid isPermaLink="false">lobbying-filings:43334512-5149-4810-8fab-f915b0e23f46</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOSTON SCIENTIFIC via HOLLIER &amp; ASSOCIATES (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/3493bbbb-13ca-45d9-a0df-4af87c186d40/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3493bbbb-13ca-45d9-a0df-4af87c186d40</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOSTON SCIENTIFIC CORPORATION via BRICK STREET STRATEGY (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/24235f70-6779-4e11-bdcf-4e8b920af49a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:24235f70-6779-4e11-bdcf-4e8b920af49a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOSTON SCIENTIFIC (OFFICE-BASED FACILITY ASSN OBFA) (FKA USPA) via LIBERTY PARTNERS GROUP, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/1e37bbf5-3c0d-45ad-a4db-677ba2cf79d1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1e37bbf5-3c0d-45ad-a4db-677ba2cf79d1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOSTON SCIENTIFIC (OFFICE-BASED FACILITY ASSN OBFA) (FKA USPA) via LIBERTY PARTNERS GROUP, LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/1de6dafd-78e4-4fad-a8e9-4b4d1b404a9d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1de6dafd-78e4-4fad-a8e9-4b4d1b404a9d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

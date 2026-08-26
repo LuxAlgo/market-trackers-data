@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Government contract awards — GE</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>GENERAL ELECTRIC COMPANY — $29535.54 from Department of Health and Human Services (2019-08-28)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_75H71119P00864_7527_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_75H71119P00864_7527_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>GENERAL ELECTRIC COMPANY — $343373.05 from Department of Health and Human Services (2022-05-19)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_75H71022P01172_7527_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_75H71022P01172_7527_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>GENERAL ELECTRIC COMPANY — $1396072.74 from Department of Homeland Security (2026-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_70Z03826FR0000130_7008_70Z03822DJ0000003_7008</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_70Z03826FR0000130_7008_70Z03822DJ0000003_7008</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>GE AVIATION SYSTEMS LLC — $338954.55 from Department of Homeland Security (2026-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_70Z03826FC0000040_7008_70Z03824DW0000002_7008</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_70Z03826FC0000040_7008_70Z03824DW0000002_7008</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

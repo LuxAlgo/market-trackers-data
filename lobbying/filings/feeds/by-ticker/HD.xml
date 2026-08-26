@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — HD</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>THE HOME DEPOT via FIERCE GOVERNMENT RELATIONS (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/d8a27ff9-e0d8-4a11-8b9d-0b02d0e6faa8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d8a27ff9-e0d8-4a11-8b9d-0b02d0e6faa8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE HOME DEPOT, INC. via DETERMINANT LLC (2026 third_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/c778e757-afad-41a9-9faa-4d9228eea191/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c778e757-afad-41a9-9faa-4d9228eea191</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HOME DEPOT via THE HOME DEPOT (2026 second_quarter) — $680000</title>
+      <link>https://lda.gov/filings/public/filing/c0a3deff-ff42-4245-946a-4dd2fdec00c3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c0a3deff-ff42-4245-946a-4dd2fdec00c3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE HOME DEPOT, INC. via SIGHTLINE ADVOCACY, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/a254f20f-5c98-424d-933d-33d2592175f1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a254f20f-5c98-424d-933d-33d2592175f1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HOME DEPOT via THE HOME DEPOT (2026 first_quarter) — $1090000</title>
+      <link>https://lda.gov/filings/public/filing/95d28ae5-c76c-4d22-b43e-c2d9bcf8ca4f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:95d28ae5-c76c-4d22-b43e-c2d9bcf8ca4f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE HOME DEPOT via HARBINGER STRATEGIES, LLC (2026 first_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/865347d8-dc1d-41e6-b374-7f451b6af311/print/</link>
+      <guid isPermaLink="false">lobbying-filings:865347d8-dc1d-41e6-b374-7f451b6af311</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE HOME DEPOT via INVARIANT LLC (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/5780a697-b745-464a-ae33-a1141a06b902/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5780a697-b745-464a-ae33-a1141a06b902</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE HOME DEPOT via FIERCE GOVERNMENT RELATIONS (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/4bed9337-c278-4890-9c28-8d9e620f30f1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4bed9337-c278-4890-9c28-8d9e620f30f1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE HOME DEPOT via INVARIANT LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/2fab6b77-172f-464d-9480-34d39065f9e9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2fab6b77-172f-464d-9480-34d39065f9e9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE HOME DEPOT, INC. via SIGHTLINE ADVOCACY, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/2eef9f76-b4a9-469f-befa-72853cb1ace6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2eef9f76-b4a9-469f-befa-72853cb1ace6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE HOME DEPOT via HARBINGER STRATEGIES, LLC (2026 second_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/033b23e8-21b9-47c7-accf-2eeed5fe71dd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:033b23e8-21b9-47c7-accf-2eeed5fe71dd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

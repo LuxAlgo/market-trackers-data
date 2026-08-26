@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — GSK</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>GLAXOSMITHKLINE via MARSHALL &amp; POPP, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/fb7fed96-f152-4700-bb3d-6cd848a19cac/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fb7fed96-f152-4700-bb3d-6cd848a19cac</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLAXOSMITHKLINE, INC via BGR GOVERNMENT AFFAIRS (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/d60f4f4b-b875-4875-97be-b62813a5d25a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d60f4f4b-b875-4875-97be-b62813a5d25a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLAXOSMITHKLINE LLC via ALPINE GROUP PARTNERS, LLC. (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/cf623aab-49e1-42a1-9a28-36aadec45fef/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cf623aab-49e1-42a1-9a28-36aadec45fef</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLAXOSMITHKLINE LLC via TODD STRATEGY GROUP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/c14cd98d-716f-4d2f-8c74-4c657de5efae/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c14cd98d-716f-4d2f-8c74-4c657de5efae</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLAXOSMITHKLINE LLC via CAPITOL COUNSEL LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/bf95c05d-feea-4a44-820a-d941cca856e6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bf95c05d-feea-4a44-820a-d941cca856e6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLAXOSMITHKLINE LLC via CAPITOL COUNSEL LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/b7bd3a11-3f95-4a84-916b-c5686aa4d292/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b7bd3a11-3f95-4a84-916b-c5686aa4d292</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLAXOSMITHKLINE LLC via LMH STRATEGIC SOLUTIONS (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/adeffbc4-d78d-48a4-ba0d-bc6c283f642d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:adeffbc4-d78d-48a4-ba0d-bc6c283f642d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLAXOSMITHKLINE LLC via ALPINE GROUP PARTNERS, LLC. (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/ad2c9605-7006-4310-b329-2ba564a813ac/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ad2c9605-7006-4310-b329-2ba564a813ac</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLAXOSMITHKLINE via MARSHALL &amp; POPP, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/8f70ab08-776f-445c-8b68-5ec9e3876d27/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8f70ab08-776f-445c-8b68-5ec9e3876d27</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLAXOSMITHKLINE LLC via TODD STRATEGY GROUP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/75bda1ac-650d-4f10-882e-11460c366893/print/</link>
+      <guid isPermaLink="false">lobbying-filings:75bda1ac-650d-4f10-882e-11460c366893</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLAXOSMITHKLINE, INC via BGR GOVERNMENT AFFAIRS (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/5e796460-985a-4acc-8995-a39dd2088204/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5e796460-985a-4acc-8995-a39dd2088204</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLAXOSMITHKLINE via MARSHALL &amp; POPP, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/42db726c-4d44-4d28-8174-3dd9be02856b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:42db726c-4d44-4d28-8174-3dd9be02856b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLAXOSMITHKLINE via W STRATEGIES, LLC (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/42a959da-79e5-486b-bd33-90b0780ab129/print/</link>
+      <guid isPermaLink="false">lobbying-filings:42a959da-79e5-486b-bd33-90b0780ab129</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GSK via CHECKMATE GOVERNMENT RELATIONS (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/3e69ab36-6c60-4e26-9802-52b2741c05d8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3e69ab36-6c60-4e26-9802-52b2741c05d8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLAXOSMITHKLINE LLC via LMH STRATEGIC SOLUTIONS (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/36ab3363-ef2d-4dde-ab0f-60c4867efb67/print/</link>
+      <guid isPermaLink="false">lobbying-filings:36ab3363-ef2d-4dde-ab0f-60c4867efb67</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GSK via CHECKMATE GOVERNMENT RELATIONS (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/33562fd9-9c0d-4cac-89df-fa52437cc670/print/</link>
+      <guid isPermaLink="false">lobbying-filings:33562fd9-9c0d-4cac-89df-fa52437cc670</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLAXOSMITHKLINE, INC. via SIMS STRATEGIES, LLC (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/260f4363-c68b-4ea4-8bf0-8d3c9edd6efe/print/</link>
+      <guid isPermaLink="false">lobbying-filings:260f4363-c68b-4ea4-8bf0-8d3c9edd6efe</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLAXOSMITHKLINE via W STRATEGIES, LLC (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/1e2e80a6-363d-47bb-b463-c6ea61874c7f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1e2e80a6-363d-47bb-b463-c6ea61874c7f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLAXOSMITHKLINE, INC. via SIMS STRATEGIES, LLC (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/0b33ded8-bc71-4a9a-bbd9-f45b233eb7c4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0b33ded8-bc71-4a9a-bbd9-f45b233eb7c4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

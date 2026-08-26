@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — FOX</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>FOX CORPORATION via ALPINE ADVISORS (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/e58ff87a-349c-4380-bf9a-25c759d61329/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e58ff87a-349c-4380-bf9a-25c759d61329</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via BL PARTNERS GROUP, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/b496cd83-e496-48cb-b534-0c04d5c913b9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b496cd83-e496-48cb-b534-0c04d5c913b9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via AVOQ, LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/b23231da-11fd-4c17-b509-7869b982d6eb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b23231da-11fd-4c17-b509-7869b982d6eb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via BL PARTNERS GROUP, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/adcb1ec7-fc08-4876-93ee-3606c6f470c4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:adcb1ec7-fc08-4876-93ee-3606c6f470c4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via AVOQ, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/97bd8b2d-2a65-43d7-9780-b1bbd7f33028/print/</link>
+      <guid isPermaLink="false">lobbying-filings:97bd8b2d-2a65-43d7-9780-b1bbd7f33028</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via CAPITOL COUNSEL LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/962730b3-bd1c-43cb-b7c0-5f25d8383d79/print/</link>
+      <guid isPermaLink="false">lobbying-filings:962730b3-bd1c-43cb-b7c0-5f25d8383d79</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via THE O TEAM LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/8f55c1b9-ac9f-40e5-bf74-7c45ae7ecb0b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8f55c1b9-ac9f-40e5-bf74-7c45ae7ecb0b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via CAPITOL COUNSEL LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/86c2ef66-20f1-4531-a25f-883e9879e622/print/</link>
+      <guid isPermaLink="false">lobbying-filings:86c2ef66-20f1-4531-a25f-883e9879e622</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via THE SMITH-FREE GROUP, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/866f4adb-dfa5-4ca8-bb82-24b8a1150ef7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:866f4adb-dfa5-4ca8-bb82-24b8a1150ef7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via ALPINE ADVISORS (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/6f5f8ec8-a890-479f-a28d-b1f6ae4f23b9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6f5f8ec8-a890-479f-a28d-b1f6ae4f23b9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via THE O TEAM LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/5f5f0a2a-ffd5-4b39-80ad-48f07063a25b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5f5f0a2a-ffd5-4b39-80ad-48f07063a25b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via FOX CORPORATION (2026 second_quarter) — $1340000</title>
+      <link>https://lda.gov/filings/public/filing/5d722980-bb2f-44ab-a5b0-a159d28ad309/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5d722980-bb2f-44ab-a5b0-a159d28ad309</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via FOX CORPORATION (2026 first_quarter) — $1180000</title>
+      <link>https://lda.gov/filings/public/filing/4dc3939c-ecb8-4ff1-8215-bfad2fc32f9f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4dc3939c-ecb8-4ff1-8215-bfad2fc32f9f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via TODD STRATEGY GROUP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/39aca5b5-2cb6-4239-852b-6951ba39cc31/print/</link>
+      <guid isPermaLink="false">lobbying-filings:39aca5b5-2cb6-4239-852b-6951ba39cc31</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via THE SMITH-FREE GROUP, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/30e88270-77db-4374-b047-539588820ad4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:30e88270-77db-4374-b047-539588820ad4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via EFB ADVOCACY, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/2760c8a7-2bf8-41dc-933a-a50d36d42030/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2760c8a7-2bf8-41dc-933a-a50d36d42030</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via EFB ADVOCACY, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/26c8c59a-1f87-4b55-ba4c-1badbcb27dde/print/</link>
+      <guid isPermaLink="false">lobbying-filings:26c8c59a-1f87-4b55-ba4c-1badbcb27dde</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via TODD STRATEGY GROUP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/1fa61d12-8b1e-4e95-b9cd-6498b501fc6c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1fa61d12-8b1e-4e95-b9cd-6498b501fc6c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via ALPINE ADVISORS (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/19fb54a2-8bb2-4ef3-a072-d94d765fda60/print/</link>
+      <guid isPermaLink="false">lobbying-filings:19fb54a2-8bb2-4ef3-a072-d94d765fda60</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via HILLNORTH LLC (2026 second_quarter) — $45000</title>
+      <link>https://lda.gov/filings/public/filing/151051de-e123-4eb3-95a8-0191a0b0db40/print/</link>
+      <guid isPermaLink="false">lobbying-filings:151051de-e123-4eb3-95a8-0191a0b0db40</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOX CORPORATION via HILLNORTH LLC (2026 first_quarter) — $45000</title>
+      <link>https://lda.gov/filings/public/filing/087bf7aa-30c2-4aee-a3d7-e7bba980b435/print/</link>
+      <guid isPermaLink="false">lobbying-filings:087bf7aa-30c2-4aee-a3d7-e7bba980b435</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — INTC</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>INTEL CORP via H&amp;M STRATEGIES LLP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/f46a79ca-6086-434d-9a90-c97d3ab79674/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f46a79ca-6086-434d-9a90-c97d3ab79674</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>INTEL CORPORATION via INTEL CORPORATION (2026 second_quarter) — $700000</title>
+      <link>https://lda.gov/filings/public/filing/d3c5f124-cbb7-4a36-879f-44c5b0d64634/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d3c5f124-cbb7-4a36-879f-44c5b0d64634</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>INTEL CORPORATION via HOLLAND &amp; KNIGHT LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/b669f4e6-be03-4308-8205-f116d3c7fedf/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b669f4e6-be03-4308-8205-f116d3c7fedf</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>INTEL via ALCALDE &amp; FAY (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/b5fcc922-f8cf-4f19-b588-e5e3938c9e96/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b5fcc922-f8cf-4f19-b588-e5e3938c9e96</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>INTEL CORP via FS VECTOR LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/9e759d3c-ce32-476e-9e7e-7bd5c15d7382/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9e759d3c-ce32-476e-9e7e-7bd5c15d7382</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>INTEL CORPORATION via HOLLAND &amp; KNIGHT LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/74eeeb50-55a3-4777-b87b-f5c767eb613a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:74eeeb50-55a3-4777-b87b-f5c767eb613a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>INTEL CORPORATION via S-3 GROUP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/71f6f49a-67aa-48f0-92be-8bfe484c74b5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:71f6f49a-67aa-48f0-92be-8bfe484c74b5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>INTEL via ALCALDE &amp; FAY (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/6b470992-62d2-4ef3-9e79-a67888dfdca9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6b470992-62d2-4ef3-9e79-a67888dfdca9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>INTEL CORPORATION via WILMER CUTLER PICKERING HALE AND DORR LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/678dad22-3691-4c3a-99f5-eabd5fb3cbc5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:678dad22-3691-4c3a-99f5-eabd5fb3cbc5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>INTEL CORPORATION via S-3 GROUP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/44e17de0-c508-400e-9c2a-6c876eef5c57/print/</link>
+      <guid isPermaLink="false">lobbying-filings:44e17de0-c508-400e-9c2a-6c876eef5c57</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>INTEL CORPORATION via WILMER CUTLER PICKERING HALE AND DORR LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/4496f57d-abc0-4f7f-810d-3d22083da95a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4496f57d-abc0-4f7f-810d-3d22083da95a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>INTEL CORP via H&amp;M STRATEGIES LLP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/21064724-1f42-426c-80ae-50f8a122ddb7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:21064724-1f42-426c-80ae-50f8a122ddb7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>INTEL CORPORATION via INTEL CORPORATION (2026 first_quarter) — $680000</title>
+      <link>https://lda.gov/filings/public/filing/092af594-e26d-4c20-a7c0-28d0aa36c191/print/</link>
+      <guid isPermaLink="false">lobbying-filings:092af594-e26d-4c20-a7c0-28d0aa36c191</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — RELX</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>RELX INC via VENABLE LLP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/f7ca0bd7-19ba-4cac-8800-317e448a1fec/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f7ca0bd7-19ba-4cac-8800-317e448a1fec</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RELX INC. via GEOFFREY P. GRAY (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/d61d8ff0-745a-4583-994b-f4fa67fb820b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d61d8ff0-745a-4583-994b-f4fa67fb820b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RELX INC via HEALTH POLICY SOURCE, INC. (2026 first_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/d3315be5-4869-4f0f-bac1-7ed34aca97da/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d3315be5-4869-4f0f-bac1-7ed34aca97da</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RELX INC via HEALTH POLICY SOURCE, INC. (2026 second_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/cdbf93d5-cc51-49e8-9223-ac1a7b6b6a73/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cdbf93d5-cc51-49e8-9223-ac1a7b6b6a73</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RELX INC. via AVOQ, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/cd6e1ec5-20e5-4976-a75c-405c3f1de0ba/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cd6e1ec5-20e5-4976-a75c-405c3f1de0ba</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RELX INC via RELX INC. (2026 second_quarter) — $750000</title>
+      <link>https://lda.gov/filings/public/filing/c46f7d3e-02cb-41bd-88e8-a3628fc897c9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c46f7d3e-02cb-41bd-88e8-a3628fc897c9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RELX INC via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/b0995eea-dbdf-49dc-8524-ff9335edc9ec/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b0995eea-dbdf-49dc-8524-ff9335edc9ec</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RELX INC. via GEOFFREY P. GRAY (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/a85433a5-5e20-4578-afdc-a1474f13c0e5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a85433a5-5e20-4578-afdc-a1474f13c0e5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RELX INC via RELX INC. (2026 first_quarter) — $780000</title>
+      <link>https://lda.gov/filings/public/filing/a48945f2-9aa9-4530-9d99-46a171d57b70/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a48945f2-9aa9-4530-9d99-46a171d57b70</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RELX INC. via KLEIN/JOHNSON GROUP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/8ffc0a42-5410-42ee-89e7-e682c10cb097/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8ffc0a42-5410-42ee-89e7-e682c10cb097</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RELX INC via VENABLE LLP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/62342a5e-e14a-4f9b-9289-a9104424d0c0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:62342a5e-e14a-4f9b-9289-a9104424d0c0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RELX INC. via CGCN GROUP, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/51b77676-da8e-4a90-971d-add2819bf026/print/</link>
+      <guid isPermaLink="false">lobbying-filings:51b77676-da8e-4a90-971d-add2819bf026</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RELX INC. via KLEIN/JOHNSON GROUP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/2b5cbd66-a6f2-46de-80ab-2a7063a139d9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2b5cbd66-a6f2-46de-80ab-2a7063a139d9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RELX INC via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/122f5b83-11b4-42ef-933b-9a79189faed1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:122f5b83-11b4-42ef-933b-9a79189faed1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RELX INC. via AVOQ, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/111ad294-9e42-4ffa-8562-d2c68a845ea3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:111ad294-9e42-4ffa-8562-d2c68a845ea3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RELX INC. via CGCN GROUP, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/060a542c-1e2e-484b-98ac-5d71c41a108f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:060a542c-1e2e-484b-98ac-5d71c41a108f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

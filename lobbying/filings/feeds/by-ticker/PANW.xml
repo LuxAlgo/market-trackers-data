@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — PANW</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>PALO ALTO NETWORKS, INC. via ROBERTI GLOBAL (FKA ROBERTI WHITE, LLC) (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/f62b019d-7a91-4d35-b112-5d2ab6e9c3df/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f62b019d-7a91-4d35-b112-5d2ab6e9c3df</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PALO ALTO NETWORKS, INC. via MILLER STRATEGIES, LLC (2026 second_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/d357bdd9-cf01-4a31-bc95-0b9c3aec1bed/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d357bdd9-cf01-4a31-bc95-0b9c3aec1bed</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PALO ALTO NETWORKS, INC. via MAYER BROWN LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/cebff0c8-884c-4bc8-b9a0-983db40262bb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cebff0c8-884c-4bc8-b9a0-983db40262bb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PALO ALTO NETWORKS, INC. via AMERICAN DEFENSE INTERNATIONAL (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/935cbe25-2743-4829-84ef-ba2831bbb101/print/</link>
+      <guid isPermaLink="false">lobbying-filings:935cbe25-2743-4829-84ef-ba2831bbb101</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PALO ALTO NETWORKS, INC. via ROBERTI GLOBAL (FKA ROBERTI WHITE, LLC) (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/91eaa6aa-9c3c-4fb9-a314-f620afcdd229/print/</link>
+      <guid isPermaLink="false">lobbying-filings:91eaa6aa-9c3c-4fb9-a314-f620afcdd229</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PALO ALTO NETWORKS, INC. via MEHLMAN CONSULTING, INC. (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/7921c480-2ee9-4527-b1de-884d117d9c23/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7921c480-2ee9-4527-b1de-884d117d9c23</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PALO ALTO NETWORKS, INC. via MEHLMAN CONSULTING, INC. (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/6dba6c6f-6a7c-4666-8261-15d982c18368/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6dba6c6f-6a7c-4666-8261-15d982c18368</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PALO ALTO NETWORKS, INC. via MAYER BROWN LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/6d8e6000-3166-49e4-99f7-9772ef6971cb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6d8e6000-3166-49e4-99f7-9772ef6971cb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PALO ALTO NETWORKS, INC. via PALO ALTO NETWORKS, INC. (2026 first_quarter) — $590000</title>
+      <link>https://lda.gov/filings/public/filing/69943090-fe4a-4987-b263-3dd8d565a9ff/print/</link>
+      <guid isPermaLink="false">lobbying-filings:69943090-fe4a-4987-b263-3dd8d565a9ff</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PALO ALTO NETWORKS, INC. via PALO ALTO NETWORKS, INC. (2026 second_quarter) — $700000</title>
+      <link>https://lda.gov/filings/public/filing/6413aad7-deb4-4801-b953-b110504fa6f4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6413aad7-deb4-4801-b953-b110504fa6f4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PALO ALTO NETWORKS, INC. via MILLER STRATEGIES, LLC (2026 first_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/567d5cb6-9ca9-40e5-ab27-8466dd40437a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:567d5cb6-9ca9-40e5-ab27-8466dd40437a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PALO ALTO NETWORKS, INC. via AMERICAN DEFENSE INTERNATIONAL (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/28fbf553-c20e-4147-a360-a9477f5f9e05/print/</link>
+      <guid isPermaLink="false">lobbying-filings:28fbf553-c20e-4147-a360-a9477f5f9e05</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

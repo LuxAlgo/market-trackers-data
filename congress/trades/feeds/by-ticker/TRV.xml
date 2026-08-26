@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Congressional trades — TRV</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>John Boozman (senate) sell: TRV — $1,001 - $15,000</title>
+      <link>https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/</link>
+      <guid isPermaLink="false">congress-trades:senate:28e465df-caf1-4a98-8ebc-605e1e1ba99b:3</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:45 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

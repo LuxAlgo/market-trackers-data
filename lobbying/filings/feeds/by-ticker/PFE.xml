@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — PFE</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>PFIZER INC via ALTRIUS GROUP, LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/ff219246-a811-4ba0-ac90-8022b36ad1c2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ff219246-a811-4ba0-ac90-8022b36ad1c2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER INC. via TODD STRATEGY GROUP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/fbad5885-a4be-4f7d-a3d3-41b2386ef55d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fbad5885-a4be-4f7d-a3d3-41b2386ef55d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER INC via ALTRIUS GROUP, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/f5ae57f0-a63c-4e70-8142-a2ba5315b3c2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f5ae57f0-a63c-4e70-8142-a2ba5315b3c2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER INC via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/ee344c4d-3664-4392-9c5a-17753adfb11e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ee344c4d-3664-4392-9c5a-17753adfb11e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER, INC. via THE WASHINGTON TAX &amp; PUBLIC POLICY GROUP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/e8318233-537a-4603-acfe-7603b56f2940/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e8318233-537a-4603-acfe-7603b56f2940</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER INC. via PFIZER INC. (2026 second_quarter) — $1880000</title>
+      <link>https://lda.gov/filings/public/filing/dd31025d-92a7-4fb3-87ab-b3fc6ae1d498/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dd31025d-92a7-4fb3-87ab-b3fc6ae1d498</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER INC. via TODD STRATEGY GROUP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/dd2425d1-a5b8-44b3-8e63-c481f0bce531/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dd2425d1-a5b8-44b3-8e63-c481f0bce531</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER via RESOLUTION PUBLIC AFFAIRS, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/d8b2b1a5-9977-4986-ac59-5984f36765c6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d8b2b1a5-9977-4986-ac59-5984f36765c6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER, INC. via THE WASHINGTON TAX &amp; PUBLIC POLICY GROUP (2026 first_quarter) — $110000</title>
+      <link>https://lda.gov/filings/public/filing/cef2f14b-702f-4e35-bc8c-9f27f093b79b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cef2f14b-702f-4e35-bc8c-9f27f093b79b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER, INC. via MARSHALL &amp; POPP, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/c7539e2c-d92d-43bf-be95-31bf0707ed58/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c7539e2c-d92d-43bf-be95-31bf0707ed58</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER INC. via THE DUBERSTEIN GROUP INC. (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/9cdc8552-13e7-4a50-83eb-10376b07ab0e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9cdc8552-13e7-4a50-83eb-10376b07ab0e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER via FEDERAL HEALTH POLICY STRATEGIES (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/942ff018-4f7b-4fb4-a959-4dcc51b747b6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:942ff018-4f7b-4fb4-a959-4dcc51b747b6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER via FEDERAL HEALTH POLICY STRATEGIES (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/9083d947-ec9e-4e35-8462-b850afd0731a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9083d947-ec9e-4e35-8462-b850afd0731a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER INC. via MILLER STRATEGIES, LLC (2026 first_quarter) — $150000</title>
+      <link>https://lda.gov/filings/public/filing/8f2443e8-3a53-4dc9-b865-a33dae4bc86e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8f2443e8-3a53-4dc9-b865-a33dae4bc86e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER, INC via BGR GOVERNMENT AFFAIRS (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/61228517-02cb-4a4c-a5c7-9efbb0df0556/print/</link>
+      <guid isPermaLink="false">lobbying-filings:61228517-02cb-4a4c-a5c7-9efbb0df0556</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER INC via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/5e1f3419-0ee3-4330-a100-efb78f3b7a26/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5e1f3419-0ee3-4330-a100-efb78f3b7a26</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER INC. via THE DUBERSTEIN GROUP INC. (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/58be6f34-3d49-47c5-b374-344da1198e80/print/</link>
+      <guid isPermaLink="false">lobbying-filings:58be6f34-3d49-47c5-b374-344da1198e80</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER, INC. via MARSHALL &amp; POPP, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/455f86ab-6b7f-44b3-857c-969e1efc374a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:455f86ab-6b7f-44b3-857c-969e1efc374a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER, INC via BGR GOVERNMENT AFFAIRS (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/403140d3-d3c3-48d8-97b1-272d8426a7ee/print/</link>
+      <guid isPermaLink="false">lobbying-filings:403140d3-d3c3-48d8-97b1-272d8426a7ee</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER via RESOLUTION PUBLIC AFFAIRS, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/30c2cad4-c619-4c10-afc0-4a010c90c1bd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:30c2cad4-c619-4c10-afc0-4a010c90c1bd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER via WILLIAMS AND JENSEN, PLLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/2e3b7030-1bb2-4a12-90b5-0c10ad609e87/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2e3b7030-1bb2-4a12-90b5-0c10ad609e87</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER, INC via BGR GOVERNMENT AFFAIRS (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/2db1d393-b505-448f-89b1-89597eb5cacf/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2db1d393-b505-448f-89b1-89597eb5cacf</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER INC. via PFIZER INC. (2026 first_quarter) — $4420000</title>
+      <link>https://lda.gov/filings/public/filing/2cc79e15-9bc4-4964-8548-7e08d69a08b5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2cc79e15-9bc4-4964-8548-7e08d69a08b5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER INC. via MILLER STRATEGIES, LLC (2026 second_quarter) — $150000</title>
+      <link>https://lda.gov/filings/public/filing/17640998-df82-47e3-8ad7-0afe51148524/print/</link>
+      <guid isPermaLink="false">lobbying-filings:17640998-df82-47e3-8ad7-0afe51148524</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER via WILLIAMS AND JENSEN, PLLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/045800a4-9fe8-43df-bd9b-e52c43ebffe5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:045800a4-9fe8-43df-bd9b-e52c43ebffe5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

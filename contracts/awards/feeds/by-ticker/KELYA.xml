@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Government contract awards — KELYA</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>KELLY SERVICES, INC. — $229875.84 from Department of Health and Human Services (2026-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_75N98026F00009_7529_75N95021D00012_7529</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_75N98026F00009_7529_75N95021D00012_7529</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>KELLY SERVICES, INC. — $204062.32 from Department of Health and Human Services (2026-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_75N98026F00008_7529_75N95021D00012_7529</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_75N98026F00008_7529_75N95021D00012_7529</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>KELLY SERVICES, INC. — $0 from Department of Health and Human Services (2026-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_75N95026F00055_7529_75N95021D00012_7529</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_75N95026F00055_7529_75N95021D00012_7529</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>KELLY SERVICES, INC. — $24691.2 from Department of Health and Human Services (2026-09-14)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_7571PS26F68043_7571_75N95021D00012_7529</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_7571PS26F68043_7571_75N95021D00012_7529</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

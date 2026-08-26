@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — LHX</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>L3HARRIS TECHNOLOGIES via MCALLISTER &amp; QUINN, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/e55d0e14-a6e5-42a9-9a02-34f6021b5d4a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e55d0e14-a6e5-42a9-9a02-34f6021b5d4a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>L3HARRIS TECHNOLOGIES INC via L3HARRIS TECHNOLOGIES, INC. (2026 first_quarter) — $960000</title>
+      <link>https://lda.gov/filings/public/filing/c8d9f65a-7040-42f2-853a-b5762ca76fd9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c8d9f65a-7040-42f2-853a-b5762ca76fd9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>L3HARRIS TECHNOLOGIES, INC. via BALLARD PARTNERS (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/a0d62d20-5b4e-43c9-b316-2686cc6949ec/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a0d62d20-5b4e-43c9-b316-2686cc6949ec</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>L3HARRIS TECHNOLOGIES via THE GABOTON GROUP, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/8638c03a-7ade-4dba-a51d-cd627cb36b17/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8638c03a-7ade-4dba-a51d-cd627cb36b17</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>L3HARRIS TECHNOLOGIES INC via PRASAM (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/5d88623c-5806-4783-9c4e-6868a43724db/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5d88623c-5806-4783-9c4e-6868a43724db</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>L3HARRIS TECHNOLOGIES INC via PRASAM (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/104f0da6-c1d6-4cd3-8b94-eb220393a7f0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:104f0da6-c1d6-4cd3-8b94-eb220393a7f0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>L3HARRIS TECHNOLOGIES INC via L3HARRIS TECHNOLOGIES, INC. (2026 second_quarter) — $530000</title>
+      <link>https://lda.gov/filings/public/filing/08e510b3-c300-422d-b04b-018f6df9f182/print/</link>
+      <guid isPermaLink="false">lobbying-filings:08e510b3-c300-422d-b04b-018f6df9f182</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>L3HARRIS TECHNOLOGIES via THE GABOTON GROUP, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/053d248c-d543-4b6a-9e98-495af9c32c84/print/</link>
+      <guid isPermaLink="false">lobbying-filings:053d248c-d543-4b6a-9e98-495af9c32c84</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>L3HARRIS TECHNOLOGIES via MCALLISTER &amp; QUINN, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/01d52248-0fef-4ba1-a50a-bdd0da4575fd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:01d52248-0fef-4ba1-a50a-bdd0da4575fd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

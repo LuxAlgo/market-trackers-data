@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — FMC</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>FMC CORP via DC LEGISLATIVE AND REGULATORY SERVICES, INC. (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/f5bce951-f3f5-4c27-a0ed-0ea3f5b8b56f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f5bce951-f3f5-4c27-a0ed-0ea3f5b8b56f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FMC CORPORATION via MICHAEL BEST STRATEGIES LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/9ce59e3c-984d-489c-be6f-8db6cbba7a9e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9ce59e3c-984d-489c-be6f-8db6cbba7a9e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FMC CORPORATION via FMC CORPORATION (2026 first_quarter) — $165000</title>
+      <link>https://lda.gov/filings/public/filing/98ef4e86-f1c6-4b17-8d03-6a61ea59eb3f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:98ef4e86-f1c6-4b17-8d03-6a61ea59eb3f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FMC CORP via DC LEGISLATIVE AND REGULATORY SERVICES, INC. (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/8ea33a2c-af30-465a-853d-20cf1a5c7e81/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8ea33a2c-af30-465a-853d-20cf1a5c7e81</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FMC CORPORATION via RED FLAG CONSULTING USA(FORMALLY KNOWN AS INTERNATIONAL BUSINESS-GOVERNMENT COUNSELLORS, INC) (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/7f24a036-fbc7-4efe-a974-ff8cdfda5665/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7f24a036-fbc7-4efe-a974-ff8cdfda5665</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FMC CORPORATION via MICHAEL BEST STRATEGIES LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/7474d650-0d74-49ee-a669-e78dc62cbe95/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7474d650-0d74-49ee-a669-e78dc62cbe95</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FMC CORPORATION via RED FLAG CONSULTING USA(FORMALLY KNOWN AS INTERNATIONAL BUSINESS-GOVERNMENT COUNSELLORS, INC) (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/694d1f53-b5d8-4dcc-b722-49325d9ce2f0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:694d1f53-b5d8-4dcc-b722-49325d9ce2f0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FMC via JAMISON AND SULLIVAN, INC. (2026 first_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/6941ff9f-56f9-4473-a9a4-39fdbd5c9378/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6941ff9f-56f9-4473-a9a4-39fdbd5c9378</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FMC via JAMISON AND SULLIVAN, INC. (2026 second_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/4dd2f850-8602-4d72-af00-df85f535d2a3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4dd2f850-8602-4d72-af00-df85f535d2a3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FMC CORPORATION via FMC CORPORATION (2026 second_quarter) — $300000</title>
+      <link>https://lda.gov/filings/public/filing/3ca06982-6666-435c-b269-4ba3f0c4aa58/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3ca06982-6666-435c-b269-4ba3f0c4aa58</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>FMC CORPORATION via FMC CORPORATION (2026 first_quarter) — $160000</title>
+      <link>https://lda.gov/filings/public/filing/0b1eb95a-0236-488c-8084-0e3e93af7cfc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0b1eb95a-0236-488c-8084-0e3e93af7cfc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

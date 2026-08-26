@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — HUM</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>HUMANA via MEHLMAN CONSULTING, INC. (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/f2369fac-eceb-4755-9874-10047cc57a11/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f2369fac-eceb-4755-9874-10047cc57a11</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HUMANA INC via HUMANA, INC. (2026 first_quarter) — $2550000</title>
+      <link>https://lda.gov/filings/public/filing/eea6ae42-9e0a-41b9-b093-0975cae9c527/print/</link>
+      <guid isPermaLink="false">lobbying-filings:eea6ae42-9e0a-41b9-b093-0975cae9c527</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HUMANA, INC. via ALB SOLUTIONS (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/bbb72c1c-8a1b-45ba-8466-9077f5f07ab1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bbb72c1c-8a1b-45ba-8466-9077f5f07ab1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HUMANA, INC. via S-3 GROUP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/9620601c-d659-45a4-aefb-f014f93be02e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9620601c-d659-45a4-aefb-f014f93be02e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HUMANA, INC. via ALB SOLUTIONS (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/93c01303-dfaf-4404-b5be-e7ed441f2202/print/</link>
+      <guid isPermaLink="false">lobbying-filings:93c01303-dfaf-4404-b5be-e7ed441f2202</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HUMANA, INC. via TIBER CREEK GROUP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/81d5e531-b96b-4bc6-837c-2053ddfaef6a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:81d5e531-b96b-4bc6-837c-2053ddfaef6a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HUMANA via MEHLMAN CONSULTING, INC. (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/78d70197-109b-40dd-94f9-1950a84f2952/print/</link>
+      <guid isPermaLink="false">lobbying-filings:78d70197-109b-40dd-94f9-1950a84f2952</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HUMANA, INC. via S-3 GROUP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/77364ccf-311b-4e41-81d6-3f591bf47de3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:77364ccf-311b-4e41-81d6-3f591bf47de3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HUMANA via RESOLUTION PUBLIC AFFAIRS, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/619f2b54-4777-4229-8dbf-097dd396c7e5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:619f2b54-4777-4229-8dbf-097dd396c7e5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HUMANA via RESOLUTION PUBLIC AFFAIRS, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/60fae1b7-a0be-4ec8-ad1f-a46cb2f9e79e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:60fae1b7-a0be-4ec8-ad1f-a46cb2f9e79e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HUMANA, INC. via TIBER CREEK GROUP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/5d4f1c55-d52a-4078-b504-b097092cd821/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5d4f1c55-d52a-4078-b504-b097092cd821</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HUMANA INC via HUMANA, INC. (2026 second_quarter) — $440000</title>
+      <link>https://lda.gov/filings/public/filing/3cbcbd0d-fdb4-4896-b22b-f505f9033e48/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3cbcbd0d-fdb4-4896-b22b-f505f9033e48</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — DKNG</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>DRAFTKINGS via MICHAEL BEST STRATEGIES LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/f4919834-65a0-460e-a1b2-402956ff2f9b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f4919834-65a0-460e-a1b2-402956ff2f9b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DRAFTKINGS via DUNKEL GOVERNMENT RELATIONS (2026 first_quarter) — $15000</title>
+      <link>https://lda.gov/filings/public/filing/a45a6ec5-5ab5-4acb-9379-6e7922096020/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a45a6ec5-5ab5-4acb-9379-6e7922096020</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DRAFTKINGS via MICHAEL BEST STRATEGIES LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/863d1f4a-9ec1-4ed7-862d-92833a14e707/print/</link>
+      <guid isPermaLink="false">lobbying-filings:863d1f4a-9ec1-4ed7-862d-92833a14e707</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DRAFTKINGS via DUNKEL GOVERNMENT RELATIONS (2026 second_quarter) — $15000</title>
+      <link>https://lda.gov/filings/public/filing/76174743-82d4-4dd5-998e-b4d150572381/print/</link>
+      <guid isPermaLink="false">lobbying-filings:76174743-82d4-4dd5-998e-b4d150572381</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DRAFTKINGS INC. via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/732c0ece-ce6f-423a-bb71-9db3bc762fd0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:732c0ece-ce6f-423a-bb71-9db3bc762fd0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DRAFTKINGS INC. via DELTA STRATEGY GROUP (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/616fb223-e898-4727-914c-3852b8cdf68d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:616fb223-e898-4727-914c-3852b8cdf68d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DRAFTKINGS INC. via INVARIANT LLC (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/516fbc2e-da83-4860-844b-784be5128f56/print/</link>
+      <guid isPermaLink="false">lobbying-filings:516fbc2e-da83-4860-844b-784be5128f56</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DRAFTKINGS INC. via DELTA STRATEGY GROUP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/4dffdc53-68d1-4a6a-b3b7-a6535a639250/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4dffdc53-68d1-4a6a-b3b7-a6535a639250</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DRAFTKINGS INC. via DELTA STRATEGY GROUP (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/46431c3c-874c-400f-8801-9d171b65eed2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:46431c3c-874c-400f-8801-9d171b65eed2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DRAFTKINGS INC. via INVARIANT LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/361ef617-4b6a-4421-873f-8ba8def2b124/print/</link>
+      <guid isPermaLink="false">lobbying-filings:361ef617-4b6a-4421-873f-8ba8def2b124</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DRAFTKINGS INC. via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/2c9eddb3-5175-4c2e-a63d-62a363b13f8d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2c9eddb3-5175-4c2e-a63d-62a363b13f8d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

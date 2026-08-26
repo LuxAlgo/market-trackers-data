@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — PNW</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>PINNACLE WEST CAPITAL CORPORATION via RICHARD F. HOHLT (2026 second_quarter) — $12000</title>
+      <link>https://lda.gov/filings/public/filing/e8c23d48-0513-4d82-85fb-17f3155d565a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e8c23d48-0513-4d82-85fb-17f3155d565a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PINNACLE WEST CAPITAL CORPORATION via HERRERA ARELLANO LLP (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/b14bd06d-6976-4578-afb4-774a05f2a1f3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b14bd06d-6976-4578-afb4-774a05f2a1f3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PINNACLE WEST CAPITAL CORPORATION via ALIGNMENT GOVERNMENT STRATEGIES (2026 second_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/9cd74951-1d6f-4190-9d0c-f53299955f3c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9cd74951-1d6f-4190-9d0c-f53299955f3c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PINNACLE WEST CAPITAL CORPORATION via OWEN EVANS INGOLS (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/88f58bd7-90d5-4e25-974e-14c41b390778/print/</link>
+      <guid isPermaLink="false">lobbying-filings:88f58bd7-90d5-4e25-974e-14c41b390778</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PINNACLE WEST CAPITAL CORPORATION via HERRERA ARELLANO LLP (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/77a8644e-3c4f-4cad-ae1d-62cf63ee366a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:77a8644e-3c4f-4cad-ae1d-62cf63ee366a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PINNACLE WEST CAPITAL CORPORATION via OWEN EVANS INGOLS (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/744a3a1e-ab57-48fb-8c30-9f5be34928bc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:744a3a1e-ab57-48fb-8c30-9f5be34928bc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PINNACLE WEST CAPITAL CORPORATION via RICHARD F. HOHLT (2026 first_quarter) — $12000</title>
+      <link>https://lda.gov/filings/public/filing/39e66e72-6130-441f-965e-d6188c18ee85/print/</link>
+      <guid isPermaLink="false">lobbying-filings:39e66e72-6130-441f-965e-d6188c18ee85</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PINNACLE WEST CAPITAL CORPORATION via PINNACLE WEST CAPITAL CORPORATION (2026 second_quarter) — $270000</title>
+      <link>https://lda.gov/filings/public/filing/30707fd0-19c9-4363-be1f-1efc46c827a7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:30707fd0-19c9-4363-be1f-1efc46c827a7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PINNACLE WEST CAPITAL CORPORATION via ALIGNMENT GOVERNMENT STRATEGIES (2026 first_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/204baa75-49bd-447c-a530-6a1e79923cfa/print/</link>
+      <guid isPermaLink="false">lobbying-filings:204baa75-49bd-447c-a530-6a1e79923cfa</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PINNACLE WEST CAPITAL CORPORATION via PINNACLE WEST CAPITAL CORPORATION (2026 first_quarter) — $200000</title>
+      <link>https://lda.gov/filings/public/filing/01be304e-4534-4c92-9cd5-b6851a77efe0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:01be304e-4534-4c92-9cd5-b6851a77efe0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

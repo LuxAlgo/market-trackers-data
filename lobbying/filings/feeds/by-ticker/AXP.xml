@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — AXP</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>AMERICAN EXPRESS COMPANY via AMERICAN EXPRESS COMPANY (2026 second_quarter) — $470000</title>
+      <link>https://lda.gov/filings/public/filing/f76ea2b7-0481-4635-a53f-ed6c8cbdf510/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f76ea2b7-0481-4635-a53f-ed6c8cbdf510</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN EXPRESS COMPANY via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/ea3d5d03-247d-4870-acc8-89cc4eb2f799/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ea3d5d03-247d-4870-acc8-89cc4eb2f799</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN EXPRESS COMPANY via RICH FEUER ANDERSON (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/ce982498-0369-4a05-9e06-59f25e3e428e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ce982498-0369-4a05-9e06-59f25e3e428e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN EXPRESS TRAVEL RELATED SERVICES via ERNST &amp; YOUNG LLP (WASHINGTON COUNCIL ERNST &amp; YOUNG) (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/a7005d2a-14f7-437c-b6ce-84928a9dd0bd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a7005d2a-14f7-437c-b6ce-84928a9dd0bd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN EXPRESS GLOBAL BUSINESS TRAVEL via STEPTOE LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/9d372777-9300-4be9-ae56-40cb800da14b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9d372777-9300-4be9-ae56-40cb800da14b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN EXPRESS TRAVEL RELATED SERVICES via ERNST &amp; YOUNG LLP (WASHINGTON COUNCIL ERNST &amp; YOUNG) (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/74c5d7d9-d0d9-4d2a-9e32-35a8cc00ee02/print/</link>
+      <guid isPermaLink="false">lobbying-filings:74c5d7d9-d0d9-4d2a-9e32-35a8cc00ee02</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN EXPRESS via MAYER BROWN LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/4ab460c5-7290-4a55-9f7c-5e2a5126f7f6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4ab460c5-7290-4a55-9f7c-5e2a5126f7f6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN EXPRESS COMPANY via AMERICAN EXPRESS COMPANY (2026 first_quarter) — $340000</title>
+      <link>https://lda.gov/filings/public/filing/3a6d0b4e-ae69-4cf9-b7d7-ebda55e9e275/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3a6d0b4e-ae69-4cf9-b7d7-ebda55e9e275</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN EXPRESS COMPANY via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/368bc7db-662a-402c-a42f-74b446e7484d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:368bc7db-662a-402c-a42f-74b446e7484d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN EXPRESS COMPANY via RICH FEUER ANDERSON (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/359cc81a-de75-41af-bf52-23a4d10e3846/print/</link>
+      <guid isPermaLink="false">lobbying-filings:359cc81a-de75-41af-bf52-23a4d10e3846</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN EXPRESS GLOBAL BUSINESS TRAVEL via STEPTOE LLP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/330f4eff-8d6d-498a-82b3-50482d383476/print/</link>
+      <guid isPermaLink="false">lobbying-filings:330f4eff-8d6d-498a-82b3-50482d383476</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN EXPRESS GLOBAL BUSINESS TRAVEL via STEPTOE LLP (2026 second_quarter) — $150000</title>
+      <link>https://lda.gov/filings/public/filing/056f75fe-69fc-44f0-a35d-c0dddb37c9d5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:056f75fe-69fc-44f0-a35d-c0dddb37c9d5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN EXPRESS via MAYER BROWN LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/02e31f76-0886-4ffc-bbdf-5a46680dc8ec/print/</link>
+      <guid isPermaLink="false">lobbying-filings:02e31f76-0886-4ffc-bbdf-5a46680dc8ec</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

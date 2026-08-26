@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — ABNB</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>AIRBNB, INC. via AIRBNB, INC. (2026 first_quarter) — $260000</title>
+      <link>https://lda.gov/filings/public/filing/deb1c381-7853-4ac3-8d0a-71ffaf3ba823/print/</link>
+      <guid isPermaLink="false">lobbying-filings:deb1c381-7853-4ac3-8d0a-71ffaf3ba823</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIRBNB via MERCURY PUBLIC AFFAIRS, LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/c0d5b5d1-ac8c-4d70-971b-36f67b015386/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c0d5b5d1-ac8c-4d70-971b-36f67b015386</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIRBNB, INC. via PORTERFIELD, FETTIG &amp; SEARS, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/bd2e34bc-98be-45c3-9a71-68f8bb9153db/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bd2e34bc-98be-45c3-9a71-68f8bb9153db</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIRBNB via MERCURY PUBLIC AFFAIRS, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/b756e9e4-0f40-4b55-bade-fa46caf31433/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b756e9e4-0f40-4b55-bade-fa46caf31433</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIRBNB, INC. via PORTERFIELD, FETTIG &amp; SEARS, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/b42db196-a9e5-4659-99bc-05f848d3218c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b42db196-a9e5-4659-99bc-05f848d3218c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIRBNB via MERCURY PUBLIC AFFAIRS, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/a043f49e-262f-4bd5-bd48-ccccbe55284e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a043f49e-262f-4bd5-bd48-ccccbe55284e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIRBNB via KOUNTOUPES DENHAM CARR &amp; REID, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/979a4796-bc70-4034-b23e-4eb991d4aad5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:979a4796-bc70-4034-b23e-4eb991d4aad5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIRBNB, INC. via FULCRUM PUBLIC AFFAIRS LLC (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/7310bcb8-043b-442f-a963-afa816f7b824/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7310bcb8-043b-442f-a963-afa816f7b824</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIRBNB, INC. via FULCRUM PUBLIC AFFAIRS LLC (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/689fd0d5-928b-4411-b802-efb6bdf288d8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:689fd0d5-928b-4411-b802-efb6bdf288d8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIRBNB, INC. via AIRBNB, INC. (2026 second_quarter) — $480000</title>
+      <link>https://lda.gov/filings/public/filing/1a1aa802-7dd7-48b2-9f24-83cf6cf10b6c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1a1aa802-7dd7-48b2-9f24-83cf6cf10b6c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIRBNB via KOUNTOUPES DENHAM CARR &amp; REID, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/190ab5b1-327b-4e47-a892-848344be8e9d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:190ab5b1-327b-4e47-a892-848344be8e9d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIRBNB via KOUNTOUPES DENHAM CARR &amp; REID, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/0f8e9725-5632-4528-b4a4-b6bb1e973990/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0f8e9725-5632-4528-b4a4-b6bb1e973990</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

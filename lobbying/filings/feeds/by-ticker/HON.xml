@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — HON</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>HONEYWELL via ETHERTON AND ASSOCIATES, INC. (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/f89dc61f-ca5c-432d-b39f-6539554025a2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f89dc61f-ca5c-432d-b39f-6539554025a2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL INC. via AMERICAN DEFENSE INTERNATIONAL (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/f295fa67-6956-4522-bf07-87610c16d27d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f295fa67-6956-4522-bf07-87610c16d27d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL via GUIDEPOSTSTRATEGIES, LLC (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/f1c804d8-fa07-4806-aaa6-5ad4eacbdd94/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f1c804d8-fa07-4806-aaa6-5ad4eacbdd94</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL via HONEYWELL INTERNATIONAL (2026 second_quarter) — $1610000</title>
+      <link>https://lda.gov/filings/public/filing/eac1a96e-6408-4600-8219-7afd51904d5b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:eac1a96e-6408-4600-8219-7afd51904d5b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL via GUIDEPOSTSTRATEGIES, LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/e10e7267-e7bc-4945-97e1-a637bf30391a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e10e7267-e7bc-4945-97e1-a637bf30391a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL INC. via CAPITOL TAX PARTNERS, LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/d67a0d35-c374-4df0-8b54-69ab6835e58c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d67a0d35-c374-4df0-8b54-69ab6835e58c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL, INC. via BGR GOVERNMENT AFFAIRS (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/ccc7cada-ef1d-48de-a6eb-d07dc313c9cb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ccc7cada-ef1d-48de-a6eb-d07dc313c9cb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL via THE DUBERSTEIN GROUP INC. (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/bcd89e97-f67c-48b3-8c23-fc6bb94a7ede/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bcd89e97-f67c-48b3-8c23-fc6bb94a7ede</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL INC. via INNOVATIVE FEDERAL STRATEGIES, LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/ae893963-925e-4538-bed2-9b71abf38970/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ae893963-925e-4538-bed2-9b71abf38970</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL via FARRAGUT PARTNERS LLP (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/a9d7c714-5b75-4d9e-b89a-914481e623b8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a9d7c714-5b75-4d9e-b89a-914481e623b8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL INC. via INNOVATIVE FEDERAL STRATEGIES, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/a68476a8-811f-425b-b486-b8e34f1c7df3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a68476a8-811f-425b-b486-b8e34f1c7df3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL, INC. via HOLLAND &amp; KNIGHT LLP (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/9fb71d1e-d837-4f46-accd-bc14f4b71319/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9fb71d1e-d837-4f46-accd-bc14f4b71319</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL via ETHERTON AND ASSOCIATES, INC. (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/9060bcbd-95af-415a-a3e2-6c8fe2b4fa58/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9060bcbd-95af-415a-a3e2-6c8fe2b4fa58</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL INC. via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/8d74b805-8a7d-4328-8071-5b870bb4b04c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8d74b805-8a7d-4328-8071-5b870bb4b04c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL INC. via AMERICAN DEFENSE INTERNATIONAL (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/81d3c972-17a6-4eff-a196-620af1d2e359/print/</link>
+      <guid isPermaLink="false">lobbying-filings:81d3c972-17a6-4eff-a196-620af1d2e359</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL INC. via ARNOLD &amp; PORTER KAYE SCHOLER LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/7d8e026b-b138-47dc-9620-7403dfe372eb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7d8e026b-b138-47dc-9620-7403dfe372eb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL, INC. via CORRIGAN &amp; USSERY LLC (2026 second_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/66aa19ae-e5c8-4407-bf95-5ebf0653b1c6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:66aa19ae-e5c8-4407-bf95-5ebf0653b1c6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/5c67f908-a089-4956-a061-7bf7d624fbef/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5c67f908-a089-4956-a061-7bf7d624fbef</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL INC. via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/556951fb-e6ac-432c-ae11-4e2ed71d2299/print/</link>
+      <guid isPermaLink="false">lobbying-filings:556951fb-e6ac-432c-ae11-4e2ed71d2299</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL INC. via ARNOLD &amp; PORTER KAYE SCHOLER LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/41c2ea74-6f70-40bd-afe2-817c0e472e3b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:41c2ea74-6f70-40bd-afe2-817c0e472e3b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL, INC. via HOLLAND &amp; KNIGHT LLP (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/3eff7ecb-befb-4d45-bae2-c972aef08026/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3eff7ecb-befb-4d45-bae2-c972aef08026</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL, INC. via BGR GOVERNMENT AFFAIRS (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/38a476a8-497a-4fcc-ada9-ee8f329c8368/print/</link>
+      <guid isPermaLink="false">lobbying-filings:38a476a8-497a-4fcc-ada9-ee8f329c8368</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/29e792f7-d093-492e-a670-302666bac744/print/</link>
+      <guid isPermaLink="false">lobbying-filings:29e792f7-d093-492e-a670-302666bac744</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL, INC. via CORRIGAN &amp; USSERY LLC (2026 second_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/1ff490a1-01b7-4637-96f6-ba43ba21098f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1ff490a1-01b7-4637-96f6-ba43ba21098f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL via HONEYWELL INTERNATIONAL (2026 first_quarter) — $1930000</title>
+      <link>https://lda.gov/filings/public/filing/017063fc-3ea7-4259-bac2-a79b3c0a718a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:017063fc-3ea7-4259-bac2-a79b3c0a718a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HONEYWELL INTERNATIONAL via FARRAGUT PARTNERS LLP (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/012ba653-fb87-4db6-892b-5389c303ef6b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:012ba653-fb87-4db6-892b-5389c303ef6b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

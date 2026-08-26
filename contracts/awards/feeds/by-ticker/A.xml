@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Government contract awards — A</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>AGILENT TECHNOLOGIES INC — $25666.2 from Department of Health and Human Services (2026-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_75N98026P01408_7529_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_75N98026P01408_7529_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>AGILENT TECHNOLOGIES INC — $49388.52 from Department of Health and Human Services (2023-11-21)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_75F40124F80010_7524_GS07F0564X_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_75F40124F80010_7524_GS07F0564X_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>AGILENT TECHNOLOGIES INC — $13865.04 from Department of Transportation (2025-09-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_692M1525F00211_6920_GS07F0564X_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_692M1525F00211_6920_GS07F0564X_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>AGILENT TECHNOLOGIES INC — $294791.78 from Department of Veterans Affairs (2026-09-07)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_36C25726F0115_3600_GS07F0564X_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_36C25726F0115_3600_GS07F0564X_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

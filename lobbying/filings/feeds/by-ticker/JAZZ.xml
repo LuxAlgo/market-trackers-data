@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — JAZZ</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>JAZZ PHARMACEUTICALS, INC. via AVENUE SOLUTIONS (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/e6a67197-87fc-4c77-aa53-4081877229c4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e6a67197-87fc-4c77-aa53-4081877229c4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JAZZ PHARMACEUTICALS via TIBER CREEK GROUP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/c79546d0-ada8-4048-82e9-5523b13844e6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c79546d0-ada8-4048-82e9-5523b13844e6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JAZZ PHARMACEUTICALS, INC. via JAZZ PHARMACEUTICALS, INC. (2026 second_quarter) — $490000</title>
+      <link>https://lda.gov/filings/public/filing/c668dc5b-f055-498e-96bc-f1bd65ab8f01/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c668dc5b-f055-498e-96bc-f1bd65ab8f01</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JAZZ PHARMACEUTICALS, INC. via THE NICKLES GROUP, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/b473f65b-db9e-43ea-b317-fcf6a1c105ab/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b473f65b-db9e-43ea-b317-fcf6a1c105ab</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JAZZ PHARMACEUTICALS, INC. via AVENUE SOLUTIONS (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/908d22a6-f451-4151-ba8f-2ba2e10cf81b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:908d22a6-f451-4151-ba8f-2ba2e10cf81b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JAZZ PHARMACEUTICALS INC. via TARPLIN, DOWNS &amp; YOUNG, LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/8b7651fe-0279-4ba2-9fd4-54d55e41b3aa/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8b7651fe-0279-4ba2-9fd4-54d55e41b3aa</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JAZZ PHARMACEUTICALS via TIBER CREEK GROUP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/8049ca41-cc94-4bd4-944b-0175f670a015/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8049ca41-cc94-4bd4-944b-0175f670a015</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JAZZ PHARMACEUTICALS, INC. via THE NICKLES GROUP, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/7218f500-07be-40fc-bcfd-262809850146/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7218f500-07be-40fc-bcfd-262809850146</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JAZZ PHARMACEUTICALS INC. via TARPLIN, DOWNS &amp; YOUNG, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/40189ff8-5748-4fea-bc5e-63b17a66a53b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:40189ff8-5748-4fea-bc5e-63b17a66a53b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JAZZ PHARMACEUTICALS INC. via TARPLIN, DOWNS &amp; YOUNG, LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/2a429a13-45fd-457b-aa91-dd7fe39255ef/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2a429a13-45fd-457b-aa91-dd7fe39255ef</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JAZZ PHARMACEUTICALS, INC. via JAZZ PHARMACEUTICALS, INC. (2026 first_quarter) — $470000</title>
+      <link>https://lda.gov/filings/public/filing/17cef880-a77f-4b20-bd1f-7b610b6cce42/print/</link>
+      <guid isPermaLink="false">lobbying-filings:17cef880-a77f-4b20-bd1f-7b610b6cce42</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

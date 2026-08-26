@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — AEP</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>AMERICAN ELECTRIC POWER COMPANY, INC. AND AFFILIATED CORPORATIONS via AMERICAN ELECTRIC POWER COMPANY, INC. AND AFFILIATED CORPORATIONS (2026 second_quarter) — $380000</title>
+      <link>https://lda.gov/filings/public/filing/f99c9718-b609-4ba8-b0c5-83c2c578bf88/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f99c9718-b609-4ba8-b0c5-83c2c578bf88</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN ELECTRIC POWER COMPANY, INC. via CASSIDY &amp; ASSOCIATES, INC. (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/f865f775-2c39-4fd5-a2e2-daec9bb6f3b7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f865f775-2c39-4fd5-a2e2-daec9bb6f3b7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN ELECTRIC POWER COMPANY, INC. via ARENTFOX SCHIFF LLP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/c9121e72-6827-49a3-83c2-19ba09963ffc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c9121e72-6827-49a3-83c2-19ba09963ffc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN ELECTRIC POWER D/B/A TRANSOURCE PENNSYLVANIA LLC via BUCHANAN INGERSOLL &amp; ROONEY PC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/c6924aca-6b80-4e15-a948-d5e3d2c3b5dd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c6924aca-6b80-4e15-a948-d5e3d2c3b5dd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN ELECTRIC POWER COMPANY, INC. via CASSIDY &amp; ASSOCIATES, INC. (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/bdcee858-b38b-46a9-93ca-1575ab157cf8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bdcee858-b38b-46a9-93ca-1575ab157cf8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN ELECTRIC POWER SERVICE CORPORATION via VENN STRATEGIES (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/b289ad82-74c1-473a-aaa2-abb0f19f0d0e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b289ad82-74c1-473a-aaa2-abb0f19f0d0e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN ELECTRIC POWER COMPANY, INC. AND AFFILIATED CORPORATIONS via AMERICAN ELECTRIC POWER COMPANY, INC. AND AFFILIATED CORPORATIONS (2026 first_quarter) — $1209000</title>
+      <link>https://lda.gov/filings/public/filing/9bd36a82-3142-4da1-af70-c95d6d900f34/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9bd36a82-3142-4da1-af70-c95d6d900f34</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN ELECTRIC POWER SERVICE CORPORATION via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/83ca77d6-194e-4b4b-95d1-17ae4914c9aa/print/</link>
+      <guid isPermaLink="false">lobbying-filings:83ca77d6-194e-4b4b-95d1-17ae4914c9aa</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN ELECTRIC POWER via MR. BRIAN KELLY (2026 second_quarter) — $15000</title>
+      <link>https://lda.gov/filings/public/filing/7a4ff195-1160-4fe4-845f-475e0f455f2c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7a4ff195-1160-4fe4-845f-475e0f455f2c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN ELECTRIC POWER via VAN NESS FELDMAN, LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/72c1e4fa-c0bc-4137-92e2-8c9b29df7ff7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:72c1e4fa-c0bc-4137-92e2-8c9b29df7ff7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN ELECTRIC POWER D/B/A TRANSOURCE PENNSYLVANIA LLC via BUCHANAN INGERSOLL &amp; ROONEY PC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/71028593-9236-4c36-b663-8c4165ae328a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:71028593-9236-4c36-b663-8c4165ae328a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN ELECTRIC POWER COMPANY, INC. via ARENTFOX SCHIFF LLP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/65e0875f-f363-4f37-be3f-d78963abce0a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:65e0875f-f363-4f37-be3f-d78963abce0a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN ELECTRIC POWER SERVICE CORPORATION via VENN STRATEGIES (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/519bdcff-f328-4447-a349-e44ff58c6a72/print/</link>
+      <guid isPermaLink="false">lobbying-filings:519bdcff-f328-4447-a349-e44ff58c6a72</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN ELECTRIC POWER via MR. BRIAN KELLY (2026 first_quarter) — $15000</title>
+      <link>https://lda.gov/filings/public/filing/4d4a79ec-5559-4fb9-85e5-cf12e9e5319c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4d4a79ec-5559-4fb9-85e5-cf12e9e5319c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN ELECTRIC POWER D/B/A TRANSOURCE PENNSYLVANIA LLC via BUCHANAN INGERSOLL &amp; ROONEY PC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/3a6f4b0a-be6b-4825-ad88-c0c9c1b7e25b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3a6f4b0a-be6b-4825-ad88-c0c9c1b7e25b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERICAN ELECTRIC POWER SERVICE CORPORATION via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/32774788-30de-4c46-81ed-accee3fa5aee/print/</link>
+      <guid isPermaLink="false">lobbying-filings:32774788-30de-4c46-81ed-accee3fa5aee</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

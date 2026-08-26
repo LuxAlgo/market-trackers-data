@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — BAH</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>BOOZ ALLEN HAMILTON via ETHERTON AND ASSOCIATES, INC. (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/f502c6ef-2573-4293-81c8-d007e07868e5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f502c6ef-2573-4293-81c8-d007e07868e5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOZ ALLEN HAMILTON, INC. via THEGROUP DC, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/f1503d10-534c-41f4-a3c6-ddd669d3cf66/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f1503d10-534c-41f4-a3c6-ddd669d3cf66</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOZ ALLEN HAMILTON INC. via MONUMENT ADVOCACY (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/cac9a61f-d2a2-4b65-aad4-109b2ea89eb5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cac9a61f-d2a2-4b65-aad4-109b2ea89eb5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOZ ALLEN HAMILTON INC. via INNOVATIVE FEDERAL STRATEGIES, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/b75558fe-7d81-4d4e-9934-86d3e70c2b52/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b75558fe-7d81-4d4e-9934-86d3e70c2b52</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOZ ALLEN HAMILTON INC. via BOOZ ALLEN HAMILTON INC. (2026 second_quarter) — $560000</title>
+      <link>https://lda.gov/filings/public/filing/b3c52e54-a9f2-4242-9238-cd346715a22b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b3c52e54-a9f2-4242-9238-cd346715a22b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOZ ALLEN HAMILTON INC. via MONUMENT ADVOCACY (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/9bb79a76-4b9c-4dfd-9d34-59db6f90ea00/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9bb79a76-4b9c-4dfd-9d34-59db6f90ea00</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOZ ALLEN HAMILTON INC. via BOOZ ALLEN HAMILTON INC. (2026 first_quarter) — $740000</title>
+      <link>https://lda.gov/filings/public/filing/8c120621-3f49-40f1-82af-851531381fa5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8c120621-3f49-40f1-82af-851531381fa5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOZ ALLEN HAMILTON, INC. via THEGROUP DC, LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/8227cf86-5923-493c-b5cc-e3bfa51d79e3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8227cf86-5923-493c-b5cc-e3bfa51d79e3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOZ ALLEN HAMILTON INC. via INNOVATIVE FEDERAL STRATEGIES, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/7f98b86e-22c0-482d-a482-0d6eeb93e3bb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7f98b86e-22c0-482d-a482-0d6eeb93e3bb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOZ ALLEN HAMILTON INC. via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/78a54244-b510-4719-8615-6385a50b4ba0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:78a54244-b510-4719-8615-6385a50b4ba0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOZ ALLEN HAMILTON INC. via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/67678ec9-6aa0-465a-a9d2-6fdc1fdfe35e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:67678ec9-6aa0-465a-a9d2-6fdc1fdfe35e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOZ ALLEN HAMILTON INC. via BALLARD PARTNERS (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/2f0aace7-1330-4ea7-8b9f-f09899ec79bd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2f0aace7-1330-4ea7-8b9f-f09899ec79bd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOZ ALLEN HAMILTON, INC. via THE NICKLES GROUP, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/0d7996e7-7e6d-4c12-973f-ec95c0a9cf0b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0d7996e7-7e6d-4c12-973f-ec95c0a9cf0b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOZ ALLEN HAMILTON via ETHERTON AND ASSOCIATES, INC. (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/0b29c7f4-db91-4755-8bc8-22b6ba4eec55/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0b29c7f4-db91-4755-8bc8-22b6ba4eec55</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BOOZ ALLEN HAMILTON INC. via BALLARD PARTNERS (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/0786b60a-3e6f-4993-857f-2cf0c3bd119c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0786b60a-3e6f-4993-857f-2cf0c3bd119c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — CXW</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>CORECIVIC INC via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/fcda1056-da29-4c7b-b831-6030c01951de/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fcda1056-da29-4c7b-b831-6030c01951de</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORECIVIC via VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY &amp; QUAYLE VENTURES, LLC) (2026 first_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/fb0ad19f-1a29-4e40-9c1d-ecacaf196207/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fb0ad19f-1a29-4e40-9c1d-ecacaf196207</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORECIVIC via THE SIMMONS &amp; RUSSELL GROUP, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/b66b0d72-d9df-4387-9947-1280d96afa8f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b66b0d72-d9df-4387-9947-1280d96afa8f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORECIVIC INC via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/9fab1e80-9569-4c10-bb2a-def54b1f3e00/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9fab1e80-9569-4c10-bb2a-def54b1f3e00</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORECIVIC via THE VOGEL GROUP (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/8737ebe1-806c-4396-a1a3-daf26f5aa4d2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8737ebe1-806c-4396-a1a3-daf26f5aa4d2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORECIVIC, INC. via MILLER STRATEGIES, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/4b61a564-f226-4c00-b4e4-432ccfd57e4e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4b61a564-f226-4c00-b4e4-432ccfd57e4e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORECIVIC, INC. via MILLER STRATEGIES, LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/2e145b12-5765-4e23-9625-5024f49b04fe/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2e145b12-5765-4e23-9625-5024f49b04fe</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORECIVIC INC via CORECIVIC, INC. (2026 second_quarter) — $490000</title>
+      <link>https://lda.gov/filings/public/filing/1373f614-9cfe-4daf-a6ed-9b1596669c35/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1373f614-9cfe-4daf-a6ed-9b1596669c35</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORECIVIC INC via CORECIVIC, INC. (2026 first_quarter) — $490000</title>
+      <link>https://lda.gov/filings/public/filing/11e58849-d1f9-4922-bf21-3d75b581ab77/print/</link>
+      <guid isPermaLink="false">lobbying-filings:11e58849-d1f9-4922-bf21-3d75b581ab77</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORECIVIC via VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY &amp; QUAYLE VENTURES, LLC) (2026 second_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/0fc56a78-3d83-455a-a3df-321ace9b1787/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0fc56a78-3d83-455a-a3df-321ace9b1787</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORECIVIC via THE VOGEL GROUP (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/0d192784-dcdd-4551-8405-07f289b89688/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0d192784-dcdd-4551-8405-07f289b89688</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORECIVIC via THE SIMMONS &amp; RUSSELL GROUP, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/018c8406-32c2-42ba-a7a5-86ba1f607dbc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:018c8406-32c2-42ba-a7a5-86ba1f607dbc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — COP</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>CONOCOPHILLIPS via S-3 GROUP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/f61aabe4-613c-4f94-8037-414ec3ea75a4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f61aabe4-613c-4f94-8037-414ec3ea75a4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONOCOPHILLIPS via CONOCOPHILLIPS (2026 second_quarter) — $750000</title>
+      <link>https://lda.gov/filings/public/filing/ee390775-f750-47e7-b6c4-5d5ff3a46e08/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ee390775-f750-47e7-b6c4-5d5ff3a46e08</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONOCOPHILLIPS via GREENBERG TRAURIG, LLP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/d6a71e7b-ea66-424b-9e90-9238c36b27e1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d6a71e7b-ea66-424b-9e90-9238c36b27e1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONOCOPHILLIPS via S-3 GROUP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/afcef92f-b9d9-49f3-ba4b-4020a7f86f6b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:afcef92f-b9d9-49f3-ba4b-4020a7f86f6b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONOCOPHILLIPS via GREENBERG TRAURIG, LLP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/6aec8f5a-c3e5-43c6-935a-bb9c055c5988/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6aec8f5a-c3e5-43c6-935a-bb9c055c5988</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONOCOPHILLIPS via S-3 GROUP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/6201fd53-f316-42ee-80ec-0ab273f030a5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6201fd53-f316-42ee-80ec-0ab273f030a5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONOCOPHILLIPS via THE BERNHARDT GROUP LLC (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/49545e81-d5c0-4141-9b40-35a01056a283/print/</link>
+      <guid isPermaLink="false">lobbying-filings:49545e81-d5c0-4141-9b40-35a01056a283</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONOCOPHILLIPS via THE BERNHARDT GROUP LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/24ba7be7-b51d-493f-b5f1-ccab03800ded/print/</link>
+      <guid isPermaLink="false">lobbying-filings:24ba7be7-b51d-493f-b5f1-ccab03800ded</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CONOCOPHILLIPS via CONOCOPHILLIPS (2026 first_quarter) — $1950000</title>
+      <link>https://lda.gov/filings/public/filing/00b5e045-eb74-407f-8bb9-6a5bd3c87135/print/</link>
+      <guid isPermaLink="false">lobbying-filings:00b5e045-eb74-407f-8bb9-6a5bd3c87135</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

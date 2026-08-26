@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — GEV</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>GE VERNOVA INTERNATIONAL LLC via MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP) (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/ef8a73e4-9f14-4e2a-9631-254545c61129/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ef8a73e4-9f14-4e2a-9631-254545c61129</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GE VERNOVA INTERNATIONAL LLC-PREVIOUSLY REPORTED AS GE RENEWABLES NORTH AMERICA via CAPITOL TAX PARTNERS, LLP (2026 second_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/e70a3d40-f6cd-4d29-9aa5-8c0022af118d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e70a3d40-f6cd-4d29-9aa5-8c0022af118d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GE VERNOVA INTERNATIONAL, LLC via MCLARTY INBOUND LLC (2026 first_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/e07a87d0-b3d6-4614-b9b1-2e0576cb7ab7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e07a87d0-b3d6-4614-b9b1-2e0576cb7ab7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GE VERNOVA INTERNATIONAL LLC-PREVIOUSLY REPORTED AS GE RENEWABLES NORTH AMERICA via CAPITOL TAX PARTNERS, LLP (2026 first_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/dc31c3a3-0010-4cf3-9380-953b08bf6d37/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dc31c3a3-0010-4cf3-9380-953b08bf6d37</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GE VERNOVA INTERNATIONAL LLC via GE VERNOVA INTERNATIONAL LLC (2026 first_quarter) — $590000</title>
+      <link>https://lda.gov/filings/public/filing/a7d6d62d-57b2-435f-a066-295e07b783df/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a7d6d62d-57b2-435f-a066-295e07b783df</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GE VERNOVA INTERNATIONAL, LLC via MCLARTY INBOUND LLC (2026 second_quarter) — $110000</title>
+      <link>https://lda.gov/filings/public/filing/93aed54b-9174-4494-b093-9905ce65ac44/print/</link>
+      <guid isPermaLink="false">lobbying-filings:93aed54b-9174-4494-b093-9905ce65ac44</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GE VERNOVA POWER CONVERSION AND STORAGE FKA GENERAL ELECTRIC COMPANY via STRATEGIC MARKETING INNOVATIONS (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/856e3a0e-4620-467e-b16c-26bfcf0625a5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:856e3a0e-4620-467e-b16c-26bfcf0625a5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GE VERNOVA INTERNATIONAL LLC via GE VERNOVA INTERNATIONAL LLC (2026 second_quarter) — $310000</title>
+      <link>https://lda.gov/filings/public/filing/5e366ec2-fcc3-4450-b124-0929120b48b9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5e366ec2-fcc3-4450-b124-0929120b48b9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GE VERNOVA POWER CONVERSION AND STORAGE FKA GENERAL ELECTRIC COMPANY via STRATEGIC MARKETING INNOVATIONS (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/4c9ecb20-9e03-4a6f-bd30-79c1d36858c6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4c9ecb20-9e03-4a6f-bd30-79c1d36858c6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GE VERNOVA INTERNATIONAL LLC via MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP) (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/14ca8cf6-4fdf-4c8c-b203-fb32d96b1f4c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:14ca8cf6-4fdf-4c8c-b203-fb32d96b1f4c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

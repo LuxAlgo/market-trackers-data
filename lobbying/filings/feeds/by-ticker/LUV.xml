@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — LUV</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>SOUTHWEST AIRLINES via THE MONDELLO GROUP LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/fb363728-9ce3-46e0-b2e9-452ffc9a078b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fb363728-9ce3-46e0-b2e9-452ffc9a078b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHWEST AIRLINES via SQUIRE PATTON BOGGS (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/f722f63a-e8a4-456b-ac2e-8e8353901b70/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f722f63a-e8a4-456b-ac2e-8e8353901b70</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHWEST AIRLINES via O'KEEFFE SHAHMORADI STRATEGIES, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/f42dc2cf-4fdf-4b38-a3b2-9c3f9112fdd8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f42dc2cf-4fdf-4b38-a3b2-9c3f9112fdd8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHWEST AIRLINES CO. via S-3 GROUP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/e021727b-73e9-465e-aa52-341400d82e8b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e021727b-73e9-465e-aa52-341400d82e8b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHWEST AIRLINES via SOUTHWEST AIRLINES (2026 second_quarter) — $360000</title>
+      <link>https://lda.gov/filings/public/filing/df1aae64-e043-47a2-9d13-a7ea0ab2e978/print/</link>
+      <guid isPermaLink="false">lobbying-filings:df1aae64-e043-47a2-9d13-a7ea0ab2e978</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHWEST AIRLINES via O'KEEFFE SHAHMORADI STRATEGIES, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/bb33b735-9945-480e-8ae3-1351876aeb8d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bb33b735-9945-480e-8ae3-1351876aeb8d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHWEST AIRLINES via THE JERRY COSTELLO GROUP, LLC (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/af0e6ff5-28c9-40d6-bafc-0e0e57119e22/print/</link>
+      <guid isPermaLink="false">lobbying-filings:af0e6ff5-28c9-40d6-bafc-0e0e57119e22</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHWEST AIRLINES via SOUTHWEST AIRLINES (2026 first_quarter) — $320000</title>
+      <link>https://lda.gov/filings/public/filing/9594a347-3da7-4f83-8a3b-c18ac751454d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9594a347-3da7-4f83-8a3b-c18ac751454d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHWEST AIRLINES via PUBLIC STRATEGIES WASHINGTON, INC. (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/807d146f-2121-4abf-b359-3dd2113a853f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:807d146f-2121-4abf-b359-3dd2113a853f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHWEST AIRLINES CO. via S-3 GROUP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/737a24c4-75b0-49b8-92d8-f4056fa10461/print/</link>
+      <guid isPermaLink="false">lobbying-filings:737a24c4-75b0-49b8-92d8-f4056fa10461</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHWEST AIRLINES CO. via S-3 GROUP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/6422bcb8-4b09-4ffc-af02-1f4134b4093f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6422bcb8-4b09-4ffc-af02-1f4134b4093f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHWEST AIRLINES via SQUIRE PATTON BOGGS (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/5259c751-3d35-4887-9189-28c6a8ab25e9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5259c751-3d35-4887-9189-28c6a8ab25e9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHWEST AIRLINES via THE JERRY COSTELLO GROUP, LLC (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/40f48001-821a-4d86-ad4e-10d77d354aea/print/</link>
+      <guid isPermaLink="false">lobbying-filings:40f48001-821a-4d86-ad4e-10d77d354aea</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

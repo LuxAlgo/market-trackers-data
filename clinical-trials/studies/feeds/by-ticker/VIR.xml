@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Clinical trial registrations — VIR</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>Vir Biotechnology, Inc. — RECRUITING PHASE1/PHASE2: To Access the Safety and Effects of Intravenous Administration of VIR-5818 Alone and in Combination With Pembrolizumab in Adult Participants With Locally Advanced or Metastatic HER2-Expressing Cancers</title>
+      <link>https://clinicaltrials.gov/study/NCT05356741</link>
+      <guid isPermaLink="false">clinical-trials:NCT05356741</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

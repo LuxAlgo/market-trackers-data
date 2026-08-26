@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — SPGI</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>S&amp;P GLOBAL INC. via HARBINGER STRATEGIES, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/c0cbad92-0eb0-47ab-8aff-17525dbf9655/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c0cbad92-0eb0-47ab-8aff-17525dbf9655</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P GLOBAL INC (FORMERLY MCGRAW HILL FINANCIAL) via DALY CONSULTING GROUP (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/bdb46add-1a31-45e0-80ac-bc593c8e2d4d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bdb46add-1a31-45e0-80ac-bc593c8e2d4d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P GLOBAL INC (FORMERLY MCGRAW HILL FINANCIAL) via DALY CONSULTING GROUP (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/a7465cf3-cd84-4a1b-a0bc-f0906dbcd43d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a7465cf3-cd84-4a1b-a0bc-f0906dbcd43d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P GLOBAL INC. (F/K/A MCGRAW HILL FINANCIAL INC.) via S&amp;P GLOBAL INC. (F/K/A MCGRAW HILL FINANCIAL INC.) (2026 first_quarter) — $520000</title>
+      <link>https://lda.gov/filings/public/filing/9054914b-00e2-44be-ade4-fc5083736788/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9054914b-00e2-44be-ade4-fc5083736788</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P GLOBAL INC. (F/K/A MCGRAW HILL FINANCIAL INC.) via S&amp;P GLOBAL INC. (F/K/A MCGRAW HILL FINANCIAL INC.) (2026 first_quarter) — $600000</title>
+      <link>https://lda.gov/filings/public/filing/8834f541-1418-4f57-8e66-b8aa441466f0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8834f541-1418-4f57-8e66-b8aa441466f0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P GLOBAL INC. via HARBINGER STRATEGIES, LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/8762e5d4-8b3f-4d1c-bef0-2793b72bad94/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8762e5d4-8b3f-4d1c-bef0-2793b72bad94</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P GLOBAL via BGR GOVERNMENT AFFAIRS (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/83d31d43-18bb-4066-a6ad-08c2c8e98dcc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:83d31d43-18bb-4066-a6ad-08c2c8e98dcc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P GLOBAL MARKET INTELLIGENCE INC. via INNOVATIVE FEDERAL STRATEGIES, LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/7cb3dd73-d2b7-4af9-92b6-4c353db326a8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7cb3dd73-d2b7-4af9-92b6-4c353db326a8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P GLOBAL MARKET INTELLIGENCE INC. via INNOVATIVE FEDERAL STRATEGIES, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/7bef03f1-7da9-4de6-857b-720b34fd4cbb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7bef03f1-7da9-4de6-857b-720b34fd4cbb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P GLOBAL via BGR GOVERNMENT AFFAIRS (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/674a56a6-e8fe-48d1-864f-9a0b575d5554/print/</link>
+      <guid isPermaLink="false">lobbying-filings:674a56a6-e8fe-48d1-864f-9a0b575d5554</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P GLOBAL F/K/A IHS MARITIME &amp; TRADE via VENABLE LLP (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/43942949-e0ac-4ca8-b7be-0a39a60a425a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:43942949-e0ac-4ca8-b7be-0a39a60a425a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P GLOBAL INC. via STERNHELL GROUP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/405b9902-97d8-42f0-b7fd-c0d7394aa2a9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:405b9902-97d8-42f0-b7fd-c0d7394aa2a9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P GLOBAL INC. via STERNHELL GROUP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/3d8c57de-2cfe-4bac-9230-38b4a8324de3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3d8c57de-2cfe-4bac-9230-38b4a8324de3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P GLOBAL F/K/A IHS MARITIME &amp; TRADE via VENABLE LLP (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/23e39a87-94d4-4415-a88d-1a9d2bbc58e6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:23e39a87-94d4-4415-a88d-1a9d2bbc58e6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P GLOBAL INC. (F/K/A MCGRAW HILL FINANCIAL INC.) via S&amp;P GLOBAL INC. (F/K/A MCGRAW HILL FINANCIAL INC.) (2026 second_quarter) — $370000</title>
+      <link>https://lda.gov/filings/public/filing/20f0a32a-8129-4926-8e60-6ff33ace6d77/print/</link>
+      <guid isPermaLink="false">lobbying-filings:20f0a32a-8129-4926-8e60-6ff33ace6d77</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P GLOBAL via S-3 GROUP (2026 second_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/204b5e38-993a-4152-9069-da50e88068dc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:204b5e38-993a-4152-9069-da50e88068dc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P GLOBAL via S-3 GROUP (2026 first_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/15aa0536-e874-4867-b112-2315e50726d7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:15aa0536-e874-4867-b112-2315e50726d7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

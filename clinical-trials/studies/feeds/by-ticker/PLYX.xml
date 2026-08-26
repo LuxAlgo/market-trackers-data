@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Clinical trial registrations — PLYX</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>Polaryx Therapeutics, Inc. — WITHDRAWN PHASE3: Safety, Tolerability, and Efficacy of PLX-200 in Patients With CLN3</title>
+      <link>https://clinicaltrials.gov/study/NCT04637282</link>
+      <guid isPermaLink="false">clinical-trials:NCT04637282</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

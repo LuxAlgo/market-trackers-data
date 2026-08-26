@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — PFG</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>PRINCIPAL FINANCIAL GROUP via PUBLIC STRATEGIES WASHINGTON, INC. (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/c2b6cdab-9f8c-40c1-8459-28e10b886444/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c2b6cdab-9f8c-40c1-8459-28e10b886444</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRINCIPAL FINANCIAL GROUP via PUBLIC STRATEGIES WASHINGTON, INC. (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/bf4ff8a0-35a1-4301-82b8-3a130399e7f7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bf4ff8a0-35a1-4301-82b8-3a130399e7f7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRINCIPAL FINANCIAL GROUP via PRINCIPAL FINANCIAL GROUP (2026 first_quarter) — $970000</title>
+      <link>https://lda.gov/filings/public/filing/90f9cc2a-4743-4168-8e1f-1f5641e58cc2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:90f9cc2a-4743-4168-8e1f-1f5641e58cc2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRINCIPAL FINANCIAL GROUP via HARBINGER STRATEGIES, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/74c24caf-aac0-4c3b-8785-ff97b10ad9ae/print/</link>
+      <guid isPermaLink="false">lobbying-filings:74c24caf-aac0-4c3b-8785-ff97b10ad9ae</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRINCIPAL FINANCIAL GROUP via THORN RUN PARTNERS (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/73ac6d43-679a-4d54-bb48-3499328bc01c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:73ac6d43-679a-4d54-bb48-3499328bc01c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRINCIPAL FINANCIAL GROUP via HARBINGER STRATEGIES, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/5cd74bee-1c01-4620-94cd-ca8b7b86ae17/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5cd74bee-1c01-4620-94cd-ca8b7b86ae17</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRINCIPAL FINANCIAL GROUP, INC. via RICH FEUER ANDERSON (2026 third_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/4d4e7d39-74a4-4a01-adbb-00d0b7567cca/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4d4e7d39-74a4-4a01-adbb-00d0b7567cca</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRINCIPAL FINANCIAL GROUP via THORN RUN PARTNERS (2026 first_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/459edca3-2fd0-4b26-bdc4-76ba8253513e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:459edca3-2fd0-4b26-bdc4-76ba8253513e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRINCIPAL FINANCIAL GROUP via PRINCIPAL FINANCIAL GROUP (2026 second_quarter) — $401000</title>
+      <link>https://lda.gov/filings/public/filing/1d885c3b-2f31-44a2-8c8f-0ff1b715be2e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1d885c3b-2f31-44a2-8c8f-0ff1b715be2e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRINCIPAL FINANCIAL GROUP via THORN RUN PARTNERS (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/014d4065-c2a5-4140-83cf-90ae2ebb910b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:014d4065-c2a5-4140-83cf-90ae2ebb910b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

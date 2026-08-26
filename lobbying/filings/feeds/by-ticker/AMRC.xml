@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — AMRC</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>AMERESCO via AMERESCO (2026 first_quarter) — $260000</title>
+      <link>https://lda.gov/filings/public/filing/fd7b8413-12f4-4a6b-87ab-935b211c498f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fd7b8413-12f4-4a6b-87ab-935b211c498f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERESCO via ARDEIDAE GROUP LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/fb2d7324-3c83-4651-b1c4-dd5865acec34/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fb2d7324-3c83-4651-b1c4-dd5865acec34</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERESCO, INC. via HOLLAND &amp; KNIGHT LLP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/78d1bd22-b92f-419f-9ca6-9acc23bd3250/print/</link>
+      <guid isPermaLink="false">lobbying-filings:78d1bd22-b92f-419f-9ca6-9acc23bd3250</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERESCO, INC. via HOLLAND &amp; KNIGHT LLP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/6ec6d043-e89d-4a8f-8668-26581ee9c4e3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6ec6d043-e89d-4a8f-8668-26581ee9c4e3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERESCO, INC. via BGR GOVERNMENT AFFAIRS (2026 first_quarter) — $110000</title>
+      <link>https://lda.gov/filings/public/filing/6b5a3a94-c33a-4b66-8651-5bd9c528274f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6b5a3a94-c33a-4b66-8651-5bd9c528274f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERESCO via STRATEGIC MARKETING INNOVATIONS (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/21b58d32-1df7-40c2-bea8-229b9e37cbe6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:21b58d32-1df7-40c2-bea8-229b9e37cbe6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERESCO via ARDEIDAE GROUP LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/1d195a11-dc93-4e68-a717-133186c21d7c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1d195a11-dc93-4e68-a717-133186c21d7c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERESCO via STRATEGIC MARKETING INNOVATIONS (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/1ab8dd10-8138-49b2-bd9d-b5d884617fc2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1ab8dd10-8138-49b2-bd9d-b5d884617fc2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERESCO, INC. via BGR GOVERNMENT AFFAIRS (2026 second_quarter) — $110000</title>
+      <link>https://lda.gov/filings/public/filing/17c4228b-e468-49d8-bc5d-34008ab72eb3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:17c4228b-e468-49d8-bc5d-34008ab72eb3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMERESCO via AMERESCO (2026 second_quarter) — $260000</title>
+      <link>https://lda.gov/filings/public/filing/08dd2f69-6895-4e89-b6ac-ac76cccc6437/print/</link>
+      <guid isPermaLink="false">lobbying-filings:08dd2f69-6895-4e89-b6ac-ac76cccc6437</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

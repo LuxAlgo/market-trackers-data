@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Wikipedia pageviews — MU</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Daily per-article Wikipedia pageview counts for a curated map of public-company articles, from the Wikimedia REST pageviews API (keyless, CC0 counts). Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>Micron_Technology (MU): 1269 views on 2026-08-25</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Micron_Technology/daily/2026082300/2026082500</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Micron_Technology:2026-08-25</guid>
+      <pubDate>Wed, 26 Aug 2026 20:33:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Micron_Technology (MU): 1232 views on 2026-08-24</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Micron_Technology/daily/2026082300/2026082500</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Micron_Technology:2026-08-24</guid>
+      <pubDate>Wed, 26 Aug 2026 20:33:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Micron_Technology (MU): 1193 views on 2026-08-23</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Micron_Technology/daily/2026082300/2026082500</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Micron_Technology:2026-08-23</guid>
+      <pubDate>Wed, 26 Aug 2026 20:33:20 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

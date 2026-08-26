@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — JBLU</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>JETBLUE AIRWAYS CORPORATION via ECKERT SEAMANS CHERIN &amp; MELLOTT, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/f3908834-f3c1-4490-8b93-9687f3a94c19/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f3908834-f3c1-4490-8b93-9687f3a94c19</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JETBLUE AIRWAYS CORPORATION via JETBLUE AIRWAYS CORPORATION (2026 second_quarter) — $480000</title>
+      <link>https://lda.gov/filings/public/filing/efe236b0-5609-4773-a9f3-fd6db9232307/print/</link>
+      <guid isPermaLink="false">lobbying-filings:efe236b0-5609-4773-a9f3-fd6db9232307</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JETBLUE AIRWAYS CORPORATION via FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC) (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/cc12eebb-b828-4eb7-b908-fe12f4ef5dde/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cc12eebb-b828-4eb7-b908-fe12f4ef5dde</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JETBLUE AIRWAYS CORPORATION via JETBLUE AIRWAYS CORPORATION (2026 first_quarter) — $723000</title>
+      <link>https://lda.gov/filings/public/filing/c849e866-f041-4f81-8f99-38592316c091/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c849e866-f041-4f81-8f99-38592316c091</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JETBLUE AIRWAYS CORPORATION via ECKERT SEAMANS CHERIN &amp; MELLOTT, LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/affdc083-6944-4938-adec-6bd3d60383d8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:affdc083-6944-4938-adec-6bd3d60383d8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JETBLUE AIRWAYS CORPORATION via FEDERAL HILL GROUP, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/9e2cb473-1b45-42cf-9599-0e3b55da5596/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9e2cb473-1b45-42cf-9599-0e3b55da5596</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JETBLUE AIRWAYS via JTR STRATEGIES LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/9b00e452-f391-431f-9f43-baf562aa906b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9b00e452-f391-431f-9f43-baf562aa906b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JETBLUE AIRWAYS CORPORATION via FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC) (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/91fed5bc-bd76-47a8-9e66-34043a889412/print/</link>
+      <guid isPermaLink="false">lobbying-filings:91fed5bc-bd76-47a8-9e66-34043a889412</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JETBLUE AIRWAYS via JTR STRATEGIES LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/8d58cb8b-61be-40e0-8976-89404c7a5527/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8d58cb8b-61be-40e0-8976-89404c7a5527</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JETBLUE AIRWAYS CORPORATION via HOLLIS PUBLIC AFFAIRS (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/8c1e963c-d7c3-4a3a-9d76-93f0dea1afd4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8c1e963c-d7c3-4a3a-9d76-93f0dea1afd4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JETBLUE AIRWAYS CORPORATION via HOLLIS PUBLIC AFFAIRS (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/5cc8738e-f0a8-4546-a478-a6d05932a7a8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5cc8738e-f0a8-4546-a478-a6d05932a7a8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>JETBLUE AIRWAYS CORPORATION via FEDERAL HILL GROUP, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/46f0721e-d7ed-44cf-92ad-ee1e28ef5087/print/</link>
+      <guid isPermaLink="false">lobbying-filings:46f0721e-d7ed-44cf-92ad-ee1e28ef5087</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

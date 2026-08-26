@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — RKLB</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>ROCKET LAB USA, INC. via VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY &amp; QUAYLE VENTURES, LLC) (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/b8c1c0d5-5bd3-4613-bc5d-278f5b4c774a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b8c1c0d5-5bd3-4613-bc5d-278f5b4c774a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROCKET LAB USA INC. via DLA PIPER LLP (US) (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/b0ec7dd5-53d8-4812-b9b0-5c7f2341d0a1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b0ec7dd5-53d8-4812-b9b0-5c7f2341d0a1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROCKET LAB USA via J.SULLIVAN ADVOCACY (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/7bfd995e-a845-44cb-b4ca-d12cb8943770/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7bfd995e-a845-44cb-b4ca-d12cb8943770</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROCKET LAB USA via J.SULLIVAN ADVOCACY (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/717328dc-794f-4d6d-9390-798875f03111/print/</link>
+      <guid isPermaLink="false">lobbying-filings:717328dc-794f-4d6d-9390-798875f03111</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROCKET LAB USA, INC. via ROCKET LAB USA, INC. (2026 first_quarter) — $300000</title>
+      <link>https://lda.gov/filings/public/filing/59772870-0c2c-4469-80a2-c67caead62d9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:59772870-0c2c-4469-80a2-c67caead62d9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROCKET LAB USA, INC. via ROCKET LAB USA, INC. (2026 second_quarter) — $280000</title>
+      <link>https://lda.gov/filings/public/filing/490b1684-3eea-4c3d-a5e0-aecb2b8c5bed/print/</link>
+      <guid isPermaLink="false">lobbying-filings:490b1684-3eea-4c3d-a5e0-aecb2b8c5bed</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROCKET LAB CORPORATION via GUIDEPOSTSTRATEGIES, LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/454a1dbb-ae20-41e3-b7f4-98b2b33bd93f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:454a1dbb-ae20-41e3-b7f4-98b2b33bd93f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROCKET LAB CORPORATION via GUIDEPOSTSTRATEGIES, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/2776fa24-0f22-4aba-8fe9-861d22bdfce1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2776fa24-0f22-4aba-8fe9-861d22bdfce1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROCKET LAB USA INC. via DLA PIPER LLP (US) (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/0e904fa7-9398-42a7-ba5c-8ee1b5c8270e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0e904fa7-9398-42a7-ba5c-8ee1b5c8270e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROCKET LAB USA, INC. via VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY &amp; QUAYLE VENTURES, LLC) (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/0034dd13-ce72-4096-b22c-468a39a60229/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0034dd13-ce72-4096-b22c-468a39a60229</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — GATX</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>GATX CORPORATION via GATX CORPORATION (2026 first_quarter) — $330000</title>
+      <link>https://lda.gov/filings/public/filing/d28b05b3-5e22-4ff5-ae03-36fd9b416603/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d28b05b3-5e22-4ff5-ae03-36fd9b416603</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GATX CORPORATION via MR. EDWARD MERLIS (2026 first_quarter) — $22500</title>
+      <link>https://lda.gov/filings/public/filing/d00ba0a2-0ee1-4717-9b70-1c3f7943a396/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d00ba0a2-0ee1-4717-9b70-1c3f7943a396</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GATX CORPORATION via AXADVOCACY GOVERNMENT RELATIONS (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/b8444cd0-4045-4f3e-8c40-dd5743e03d0f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b8444cd0-4045-4f3e-8c40-dd5743e03d0f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GATX CORPORATION via ELEVATE GOVERNMENT AFFAIRS, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/9407b83f-94d0-4b5f-b358-21f38f6ec6a7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9407b83f-94d0-4b5f-b358-21f38f6ec6a7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GATX CORPORATION via MR. EDWARD MERLIS (2026 second_quarter) — $15000</title>
+      <link>https://lda.gov/filings/public/filing/91317c93-75ce-4916-bc26-5a252ea35c73/print/</link>
+      <guid isPermaLink="false">lobbying-filings:91317c93-75ce-4916-bc26-5a252ea35c73</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GATX CORPORATION via AXADVOCACY GOVERNMENT RELATIONS (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/77f7a896-8cd1-4e3b-8bdc-a22e00cee6f6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:77f7a896-8cd1-4e3b-8bdc-a22e00cee6f6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GATX CORPORATION via AXADVOCACY GOVERNMENT RELATIONS (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/60a5275a-3376-4b6d-9fff-8a82ba63777e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:60a5275a-3376-4b6d-9fff-8a82ba63777e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GATX CORPORATION via GATX CORPORATION (2026 second_quarter) — $300000</title>
+      <link>https://lda.gov/filings/public/filing/3b170159-c913-4028-9983-1c9f4fc638d3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3b170159-c913-4028-9983-1c9f4fc638d3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GATX CORPORATION via ELEVATE GOVERNMENT AFFAIRS, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/31740a4f-9d7d-43c3-9a37-139617bf99a5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:31740a4f-9d7d-43c3-9a37-139617bf99a5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

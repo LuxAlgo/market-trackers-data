@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — APO</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>APOLLO GLOBAL MANAGEMENT via CAPITOL TAX PARTNERS, LLP (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/f7276d5d-36a2-4c9e-b72d-c4f3a5669265/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f7276d5d-36a2-4c9e-b72d-c4f3a5669265</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APOLLO GLOBAL MANAGEMENT, INC. via AVENUE SOLUTIONS (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/dba80d8d-d55d-4899-87de-c9692e49a6a7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dba80d8d-d55d-4899-87de-c9692e49a6a7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APOLLO GLOBAL MANAGEMENT via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 first_quarter) — $260000</title>
+      <link>https://lda.gov/filings/public/filing/c058d5af-a044-4a69-8f34-b53559162130/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c058d5af-a044-4a69-8f34-b53559162130</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APOLLO GLOBAL MANAGEMENT via TODD STRATEGY GROUP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/a5cf79ca-c799-4d6a-9229-350e9c2876d8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a5cf79ca-c799-4d6a-9229-350e9c2876d8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APOLLO GLOBAL MANAGEMENT via CAPITOL TAX PARTNERS, LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/9fb96e9d-4117-4257-9b6b-3bdfc66d16cf/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9fb96e9d-4117-4257-9b6b-3bdfc66d16cf</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APOLLO GLOBAL MANAGEMENT, INC. via AVENUE SOLUTIONS (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/97988a89-528a-414c-876e-8b52c6266a4f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:97988a89-528a-414c-876e-8b52c6266a4f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APOLLO GLOBAL MANAGEMENT via THE NICKLES GROUP, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/8a8e79f1-b74d-4285-9f4d-3a8ec89d34bd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8a8e79f1-b74d-4285-9f4d-3a8ec89d34bd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APOLLO GLOBAL MANAGEMENT via TODD STRATEGY GROUP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/6d538393-13a5-4d47-a089-a083a28e9719/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6d538393-13a5-4d47-a089-a083a28e9719</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APOLLO GLOBAL MANAGEMENT. INC. via RUTLEDGE POLICY GROUP, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/696026ef-8ad2-43c2-acc0-3304277fad1a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:696026ef-8ad2-43c2-acc0-3304277fad1a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APOLLO GLOBAL MANAGEMENT. INC. via RUTLEDGE POLICY GROUP, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/662484f5-89f7-4fcb-9f33-e88f8e374140/print/</link>
+      <guid isPermaLink="false">lobbying-filings:662484f5-89f7-4fcb-9f33-e88f8e374140</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APOLLO GLOBAL MANAGEMENT via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $260000</title>
+      <link>https://lda.gov/filings/public/filing/36d80058-fa83-4204-aa69-049b0687f8b5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:36d80058-fa83-4204-aa69-049b0687f8b5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APOLLO GLOBAL MANAGEMENT via THE NICKLES GROUP, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/2f121d53-14da-4646-8403-d86fd5f5863c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2f121d53-14da-4646-8403-d86fd5f5863c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

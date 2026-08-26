@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Government contract awards — ECL</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>ECOLAB INC — $77.36 from General Services Administration (2026-08-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QSWA26P1E06_4732_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QSWA26P1E06_4732_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ECOLAB INC — $257680.43 from Department of Veterans Affairs (2024-04-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_36C26324P0554_3600_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_36C26324P0554_3600_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ECOLAB INC — $6334 from Department of Justice (2026-05-07)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_15B50826P00000150_1540_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_15B50826P00000150_1540_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

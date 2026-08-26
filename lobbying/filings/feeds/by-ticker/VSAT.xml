@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — VSAT</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>VIASAT, INC. via MERCURY PUBLIC AFFAIRS, LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/fce46b68-cc4a-40e7-aab0-406ae07d10dc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fce46b68-cc4a-40e7-aab0-406ae07d10dc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT, INC. via PRASAM (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/f7a36c7e-a49f-4d21-a205-3ebe8eb066ae/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f7a36c7e-a49f-4d21-a205-3ebe8eb066ae</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT, INC. via PRASAM (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/ed9f5ea3-de7f-472d-91d8-37029494f085/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ed9f5ea3-de7f-472d-91d8-37029494f085</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT INC via VIASAT, INC. (2026 second_quarter) — $410000</title>
+      <link>https://lda.gov/filings/public/filing/e961d8af-7133-48d3-89fd-a1e1f2988916/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e961d8af-7133-48d3-89fd-a1e1f2988916</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT, INC. via HOLLAND &amp; KNIGHT LLP (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/e320b196-4d15-4dd8-8b4a-728cae429bbf/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e320b196-4d15-4dd8-8b4a-728cae429bbf</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT, INC. via HOLLAND &amp; KNIGHT LLP (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/db37c481-e530-4464-b087-24194f39b8ea/print/</link>
+      <guid isPermaLink="false">lobbying-filings:db37c481-e530-4464-b087-24194f39b8ea</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT, INC. via GORMAN STRATEGY GROUP, TOO (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/d2732dfe-6927-4b5a-8242-a69888dde4a4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d2732dfe-6927-4b5a-8242-a69888dde4a4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT, INC. via THE ARTEMIS GROUP, LLC (OKLAHOMA) (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/c47925a0-122e-4e81-be0b-fc2cdc6ec1de/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c47925a0-122e-4e81-be0b-fc2cdc6ec1de</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT, INC. via DLA PIPER LLP (US) (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/b82c0c61-f5ea-4f57-9a80-a69582ed5afa/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b82c0c61-f5ea-4f57-9a80-a69582ed5afa</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT, INC. via FIERCE GOVERNMENT RELATIONS (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/b67d2e7a-4dc1-490f-9214-dbfb41a228cc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b67d2e7a-4dc1-490f-9214-dbfb41a228cc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT, INC. via FIERCE GOVERNMENT RELATIONS (2026 second_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/b5a98b11-5e59-42bf-9852-8aa594874e8b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b5a98b11-5e59-42bf-9852-8aa594874e8b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT, INC. via THE ARTEMIS GROUP, LLC (OKLAHOMA) (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/b0849c08-e150-496e-9ced-9ad67e1c4770/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b0849c08-e150-496e-9ced-9ad67e1c4770</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT, INC. via S-3 GROUP (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/a85bd647-5400-44d1-9ea6-dcc9b5f78088/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a85bd647-5400-44d1-9ea6-dcc9b5f78088</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT, INC. via MERCURY PUBLIC AFFAIRS, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/a69a0712-d50d-478c-b156-e79d9c700296/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a69a0712-d50d-478c-b156-e79d9c700296</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT, INC. via NELSON MULLINS RILEY &amp; SCARBOROUGH (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/8b9d2b8d-2586-4a54-9eb0-a30e1e04aeeb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8b9d2b8d-2586-4a54-9eb0-a30e1e04aeeb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT, INC. via S-3 GROUP (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/84fb5495-c094-4086-83de-e59e642ef650/print/</link>
+      <guid isPermaLink="false">lobbying-filings:84fb5495-c094-4086-83de-e59e642ef650</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT, INC. via GORMAN STRATEGY GROUP, TOO (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/79e617b6-8d8e-4b42-bcfc-65361c8157e7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:79e617b6-8d8e-4b42-bcfc-65361c8157e7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT INC via VIASAT, INC. (2026 first_quarter) — $420000</title>
+      <link>https://lda.gov/filings/public/filing/6b6dc407-dde2-4ef4-b805-ec9496da787c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6b6dc407-dde2-4ef4-b805-ec9496da787c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT, INC. via PRASAM (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/422c0163-a160-44c2-bf6a-c3c9470bf4e2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:422c0163-a160-44c2-bf6a-c3c9470bf4e2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT, INC. via DLA PIPER LLP (US) (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/1fb35d29-8219-4805-9d38-3e8c64dab97d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1fb35d29-8219-4805-9d38-3e8c64dab97d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIASAT, INC. via NELSON MULLINS RILEY &amp; SCARBOROUGH (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/0391286e-f9aa-4a62-8f89-bfc4021d4cf1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0391286e-f9aa-4a62-8f89-bfc4021d4cf1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

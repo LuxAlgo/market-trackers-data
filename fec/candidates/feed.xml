@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — FEC candidate totals</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Candidate-cycle campaign-finance summaries (receipts, disbursements, cash on hand) from the FEC's keyless bulk downloads, joined to congress members via FEC candidate ids. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>JENKINS, EVAN H (REP, S-WV) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8WV00127/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8WV00127:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>SWEARENGIN, PAULA JEAN (DEM, S-WV) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8WV00119/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8WV00119:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>DEVILLE, KATRINA (DEM, S-WI) 2026: $22219.71 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8WI00257/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8WI00257:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>CANTWELL, MARIA (DEM, S-WA) 2026: $789840.99 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8WA00194/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8WA00194:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>MIZUSAWA, BERT K (REP, S-VA) 2026: $418742.24 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8VA00321/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8VA00321:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAIKLIN, IVAN ERIC (REP, S-VA) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8VA00305/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8VA00305:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>YAHNE, RUSSELL JAY (DEM, S-UT) 2026: $2554.08 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8UT00341/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8UT00341:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>KENNEDY, MIKE (REP, S-UT) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8UT00242/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8UT00242:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>TZINTZUN RAMIREZ, CRISTINA (DEM, S-TX) 2026: $32.62 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8TX00459/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8TX00459:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>FINCHER, STEPHEN (REP, S-TN) 2026: $53530.49 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8TN00352/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8TN00352:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>BLACKBURN, MARSHA MRS. (REP, S-TN) 2026: $3087690.15 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8TN00337/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8TN00337:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>MACKLER, JAMES (DEM, S-TN) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8TN00311/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8TN00311:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHRISTIANA, JAMES JOSEPH III (REP, S-PA) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8PA00270/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8PA00270:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>MERKLEY, JEFFREY ALAN (DEM, S-OR) 2026: $4540973.95 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8OR00207/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8OR00207:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>FARIS, STEPHEN I MR (IND, S-OH) 2026: $2082.47 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8OH00144/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8OH00144:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>COCHRAN, HEIDI (DEM, S-NY) 2026: $9855.92 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8NY00330/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8NY00330:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHUMER, CHARLES E. (DEM, S-NY) 2026: $990635.71 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8NY00082/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8NY00082:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROSEN, JACKY (DEM, S-NV) 2026: $1473353.35 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8NV00156/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8NV00156:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>SINGH, HIRSH (REP, S-NJ) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8NJ00483/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8NJ00483:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>ANDREWS, ROBERT E (DEM, S-NJ) 2026: $58.11 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8NJ00392/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8NJ00392:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>CRAMER, KEVIN MR. (REP, S-ND) 2026: $1139407.09 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8ND00120/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8ND00120:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIAMS, MARCUS W. (DEM, S-NC) 2026: $5656.28 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8NC00270/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8NC00270:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROSENDALE, MATT MR. (REP, S-MT) 2026: $920.41 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8MT00234/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8MT00234:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>ESPY, MICHAEL (DEM, S-MS) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8MS00287/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8MS00287:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>HYDE-SMITH, CINDY (REP, S-MS) 2026: $3825454.97 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8MS00261/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8MS00261:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>WICKER, ROGER SEN. (REP, S-MS) 2026: $224073.35 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8MS00196/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8MS00196:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>SYKES, B COURTLAND (REP, S-MO) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8MO00178/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8MO00178:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>HAWLEY, JOSHUA DAVID SEN (REP, S-MO) 2026: $1696757.65 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8MO00160/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8MO00160:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>HOUSLEY, KARIN (REP, S-MN) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8MN00586/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8MN00586:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMITH, TINA (DEM, S-MN) 2026: $48764.24 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8MN00578/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8MN00578:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>JAMES, JOHN (REP, S-MI) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8MI00372/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8MI00372:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>STABENOW, DEBBIE (DEM, S-MI) 2026: $8350.36 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8MI00281/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8MI00281:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>AYYADURAI, SHIVA DR (IND, S-MA) 2026: $269035.14 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8MA00268/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8MA00268:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROKITA, THEODORE EDWARD (REP, S-IN) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8IN00189/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8IN00189:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAYH, EVAN (DEM, S-IN) 2026: $331957.09 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8IN00049/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8IN00049:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCCLANAHAN, ZACHARY (REP, S-IL) 2026: $2558.5 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8IL00223/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8IL00223:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>RISCH, JAMES E MR. (UNK, S-ID) 2026: $3357516.42 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8ID00092/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8ID00092:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>CRAPO, MICHAEL D (REP, S-ID) 2026: $1090241.69 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8ID00027/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8ID00027:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSSOFF, T. JONATHAN (DEM, S-GA) 2026: $77279766.48 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8GA00180/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8GA00180:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCOTT, RICK SEN (REP, S-FL) 2026: $1582501.06 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8FL00273/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8FL00273:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRUONO, EUGENE (GENE) J JR (REP, S-DE) 2026: $1686.71 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8DE00129/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8DE00129:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>CARPER, THOMAS R. (DEM, S-DE) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8DE00079/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8DE00079:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>COREY, MATTHEW MCKINNON (REP, S-CT) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8CT00121/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8CT00121:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>BRADLEY, JAMES (REP, S-CA) 2026: $1325.01 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8CA00515/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8CA00515:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLS, LONNIE MR. (REP, S-AZ) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8AZ00379/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8AZ00379:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>SINEMA, KYRSTEN (IND, S-AZ) 2026: $162529.87 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8AZ00197/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8AZ00197:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>STRANGE, LUTHER J III (REP, S-AL) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S8AL00308/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S8AL00308:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>MEAD, SAMUEL (REP, S-WY) 2026: $288667.76 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6WY00225/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6WY00225:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>BYRD, JAMES WILLARD MR. (DEM, S-WY) 2026: $22558.71 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6WY00217/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6WY00217:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>HAGEMAN, HARRIET (REP, S-WY) 2026: $2435022.54 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6WY00209/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6WY00209:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>SKOVGARD, JIMMY MR (REP, S-WY) 2026: $10379.85 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6WY00191/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6WY00191:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>BARRASSO, JOHN A (REP, S-WY) 2026: $1554351.61 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6WY00068/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6WY00068:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILSON, S. MARSHALL (CON, S-WV) 2026: $2420.31 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6WV00204/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6WV00204:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>FETTY ANDERSON, RACHEL LEE (DEM, S-WV) 2026: $49913.08 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6WV00188/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6WV00188:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>PHILLIPS, RIO (IND, S-WV) 2026: $13776.25 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6WV00170/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6WV00170:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIS, THOMAS EDWARD II (REP, S-WV) 2026: $641739.27 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6WV00162/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6WV00162:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>GAASERUD, ALEXANDER (REP, S-WV) 2026: $3000 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6WV00154/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6WV00154:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>EVANS, JONATHAN DERRICK (REP, S-WV) 2026: $1220939.72 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6WV00147/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6WV00147:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>DE PAULA, ALEX (REP, S-VA) 2026: $5675.01 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6VA00226/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6VA00226:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIAMS, DAVID EARL MR. (REP, S-VA) 2026: $97044.76 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6VA00200/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6VA00200:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>EICHELBERGER, GREGORY (DEM, S-VA) 2026: $5697.72 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6VA00192/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6VA00192:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANIELS, LORITA DR. (DEM, S-VA) 2026: $57159.63 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6VA00184/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6VA00184:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>REEVES, BRYCE (REP, S-VA) 2026: $106324.12 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6VA00176/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6VA00176:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>FARINGTON, KIM (REP, S-VA) 2026: $144778.14 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6VA00143/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6VA00143:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>WARNER, MARK ROBERT (DEM, S-VA) 2026: $17889335.15 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6VA00093/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6VA00093:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>SIMS, DANIEL M (LIB, S-TX) 2026: $11665.57 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6TX00586/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6TX00586:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>BENDER, ANNA (REP, S-TX) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6TX00560/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6TX00560:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>CROCKETT, JASMINE (DEM, S-TX) 2026: $11096965.96 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6TX00552/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6TX00552:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>CANADY, SARA LARUE (REP, S-TX) 2026: $770 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6TX00545/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6TX00545:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>HUNT, WESLEY (REP, S-TX) 2026: $2129887.39 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6TX00511/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6TX00511:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>SIMMONS, JADE (IND, S-TX) 2026: $9324.49 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6TX00495/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6TX00495:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>TALARICO, JAMES (DEM, S-TX) 2026: $68555930.42 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6TX00479/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6TX00479:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIRTS, TERRY (DEM, S-TX) 2026: $665422.59 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6TX00412/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6TX00412:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>SWANSON, MICHAEL (DEM, S-TX) 2026: $6991.29 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6TX00396/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6TX00396:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAXTON, WARREN KENNETH JR. (REP, S-TX) 2026: $9248698.53 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6TX00388/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6TX00388:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>KHAN, GULREZ (REP, S-TX) 2026: $10793.07 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6TX00362/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6TX00362:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHMOKER, TONY (REP, S-TX) 2026: $2500 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6TX00321/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6TX00321:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALLEN, KEITH (REP, S-TX) 2026: $156626.79 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6TX00305/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6TX00305:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>SUTMAN, DAVID JR (IND, S-TN) 2026: $9149.47 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6TN00398/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6TN00398:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>BREWER, MARIA A (DEM, S-TN) 2026: $9068.72 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6TN00380/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6TN00380:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>JONES, ROBERT THOMAS (IND, S-TN) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6TN00372/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6TN00372:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>MATTHEWS, YOSHI D. (IND, S-TN) 2026: $0 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6TN00364/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6TN00364:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORKER, ROBERT P JR (REP, S-TN) 2026: $1632015.88 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6TN00216/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6TN00216:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCNEAL, JUSTIN S (REP, S-SD) 2026: $10993.13 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6SD01133/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6SD01133:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>BEAUDION, JULIAN C (DEM, S-SD) 2026: $228295.15 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6SD01125/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6SD01125:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>BENGS, BRIAN (IND, S-SD) 2026: $782049.78 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6SD01117/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6SD01117:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>PARKER, GLENDA GAIL (REP, S-SC) 2026: $13455.49 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6SC04460/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6SC04460:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>SANFORD, MARSHALL C HON. (REP, S-SC) 2026: $206237.49 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6SC04452/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6SC04452:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>NORMAN, RALPH (REP, S-SC) 2026: $934891.94 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6SC04445/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6SC04445:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRAHAM, DARLINE (REP, S-SC) 2026: $346782.64 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6SC04437/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6SC04437:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>FRY, RUSSELL (REP, S-SC) 2026: $495026.63 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6SC04403/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6SC04403:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>BUCKNER, DUKE (REP, S-SC) 2026: $10960 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6SC04395/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6SC04395:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>COWEN, CALVIN (REP, S-SC) 2026: $13190 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6SC04379/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6SC04379:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>DISMUKES, THOMAS KEITH (REP, S-SC) 2026: $24841.84 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6SC04361/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6SC04361:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>LOUIS, DONAVAN ARTHUR MR (IND, S-SC) 2026: $3170 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6SC04353/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6SC04353:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>HERRMANN, PATRICK JOSEPH (REP, S-SC) 2026: $17072.79 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6SC04346/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6SC04346:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANS, PAUL (REP, S-SC) 2026: $1081243.72 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6SC04296/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6SC04296:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>JOHNSON, LEE (DEM, S-SC) 2026: $569185.56 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6SC04288/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6SC04288:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROWN, BRANDON (DEM, S-SC) 2026: $85648.93 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6SC04270/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6SC04270:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAUER, ANDRE (REP, S-SC) 2026: $216272.42 receipts</title>
+      <link>https://www.fec.gov/data/candidate/S6SC04262/?cycle=2026</link>
+      <guid isPermaLink="false">fec-candidates:S6SC04262:2026</guid>
+      <pubDate>Wed, 26 Aug 2026 19:33:28 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

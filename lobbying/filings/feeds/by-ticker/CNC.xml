@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — CNC</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>CENTENE CORPORATION via WILLIAMS AND JENSEN, PLLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/e1c52f0a-9828-49f6-828f-6a0aa8859fc0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e1c52f0a-9828-49f6-828f-6a0aa8859fc0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENTENE CORPORATION via BGR GOVERNMENT AFFAIRS (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/cd1905e9-e187-42f7-9424-73a64548a823/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cd1905e9-e187-42f7-9424-73a64548a823</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENTENE CORPORATION via BGR GOVERNMENT AFFAIRS (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/bbab4a73-debc-4343-afcf-614f1828fd61/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bbab4a73-debc-4343-afcf-614f1828fd61</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENTENE CORPORATION via CENTENE CORPORATION (2026 first_quarter) — $1030000</title>
+      <link>https://lda.gov/filings/public/filing/adc2d0a9-e1fa-489b-926e-f2eb16534a20/print/</link>
+      <guid isPermaLink="false">lobbying-filings:adc2d0a9-e1fa-489b-926e-f2eb16534a20</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENTENE CORPORATION via WILLIAMS AND JENSEN, PLLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/88f36d98-3c9e-4b59-8cbc-8a8d4b754a2c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:88f36d98-3c9e-4b59-8cbc-8a8d4b754a2c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENTENE CORPORATION via CENTENE CORPORATION (2026 second_quarter) — $1460000</title>
+      <link>https://lda.gov/filings/public/filing/3e6c5f38-2bd0-4493-beea-51efe239e79b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3e6c5f38-2bd0-4493-beea-51efe239e79b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENTENE CORPORATION via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/3a48b3d5-8dca-4ae8-9d35-6c5a6ca7048c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3a48b3d5-8dca-4ae8-9d35-6c5a6ca7048c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENTENE CORPORATION via CONTINENTAL STRATEGY, LLC (2026 first_quarter) — $105000</title>
+      <link>https://lda.gov/filings/public/filing/276a9290-2471-4639-9c6e-1ca2634d9534/print/</link>
+      <guid isPermaLink="false">lobbying-filings:276a9290-2471-4639-9c6e-1ca2634d9534</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENTENE CORPORATION via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/220951a0-333b-43a3-ba75-3186b4a86ac8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:220951a0-333b-43a3-ba75-3186b4a86ac8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENTENE CORPORATION via CONTINENTAL STRATEGY, LLC (2026 second_quarter) — $105000</title>
+      <link>https://lda.gov/filings/public/filing/0243e7bd-01f2-4d92-a109-e3c3000c2ecc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0243e7bd-01f2-4d92-a109-e3c3000c2ecc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

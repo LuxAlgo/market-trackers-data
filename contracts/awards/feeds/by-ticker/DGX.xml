@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Government contract awards — DGX</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>QUEST DIAGNOSTICS INCORPORATED — $35293.09 from Department of Justice (2026-01-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_15BFTD26F00000098_1540_15BNAS26A00000038_1540</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_15BFTD26F00000098_1540_15BNAS26A00000038_1540</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUEST DIAGNOSTICS INCORPORATED — $24371.49 from Department of Justice (2025-10-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_15B51526F00000023_1540_15BNAS20A00000070_1540</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_15B51526F00000023_1540_15BNAS20A00000070_1540</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUEST DIAGNOSTICS INCORPORATED — $1302.87 from Department of Justice (2026-05-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_15B40726F00000157_1540_15BNAS26A00000038_1540</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_15B40726F00000157_1540_15BNAS26A00000038_1540</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUEST DIAGNOSTICS INCORPORATED — $2179.07 from Department of Justice (2026-01-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_15B21826F00000016_1540_15BNAS26A00000038_1540</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_15B21826F00000016_1540_15BNAS26A00000038_1540</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUEST DIAGNOSTICS INCORPORATED — $5719.05 from Department of Justice (2025-10-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_15B21826F00000004_1540_15BNAS20A00000070_1540</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_15B21826F00000004_1540_15BNAS20A00000070_1540</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

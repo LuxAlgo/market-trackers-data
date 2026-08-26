@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — CMCSA</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>COMCAST CORPORATION via STEWART STRATEGIES AND SOLUTIONS, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/fc64c2fc-ba67-4e66-9516-41220359b201/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fc64c2fc-ba67-4e66-9516-41220359b201</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via THEGROUP DC, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/f8ee63f6-8419-4dc8-ab5d-7388b481987d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f8ee63f6-8419-4dc8-ab5d-7388b481987d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via DB3, LLC (FKA THE DASCHLE GROUP) (2026 first_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/f32ca3f5-9d39-466a-b8a1-e484922c6e54/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f32ca3f5-9d39-466a-b8a1-e484922c6e54</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via BALLARD PARTNERS (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/f2e32b62-e3fc-47a8-9971-ed5ab3ac671c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f2e32b62-e3fc-47a8-9971-ed5ab3ac671c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via THE DUBERSTEIN GROUP INC. (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/ea5a8813-5705-414f-94b5-041048d0c3e7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ea5a8813-5705-414f-94b5-041048d0c3e7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via WILLIAMS AND JENSEN, PLLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/e8b35c43-8d90-4ded-9d5b-be9bedf922f6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e8b35c43-8d90-4ded-9d5b-be9bedf922f6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via THE NICKLES GROUP, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/e6cfa643-cc86-4371-a01e-d2ecd4c8e0eb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e6cfa643-cc86-4371-a01e-d2ecd4c8e0eb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via COMCAST CORPORATION (2026 first_quarter) — $3080000</title>
+      <link>https://lda.gov/filings/public/filing/e6cee2a6-4416-4138-9cd6-22fac11be144/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e6cee2a6-4416-4138-9cd6-22fac11be144</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via SMART POLICY GROUP LLC (2026 first_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/da8c91dd-99a8-4ae6-bf0c-d6c3a05afbaf/print/</link>
+      <guid isPermaLink="false">lobbying-filings:da8c91dd-99a8-4ae6-bf0c-d6c3a05afbaf</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via FARRAGUT PARTNERS LLP (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/cc157648-045d-4d23-beb3-f997dfdf3cf4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cc157648-045d-4d23-beb3-f997dfdf3cf4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via FARRAGUT PARTNERS LLP (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/c9c7560a-89a3-45a6-af22-26a3d7696a22/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c9c7560a-89a3-45a6-af22-26a3d7696a22</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via BALLARD PARTNERS (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/bd07cbb4-88d8-491a-9d38-1cc520346350/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bd07cbb4-88d8-491a-9d38-1cc520346350</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via RADIUS ADVOCACY, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/ba630014-59f2-4159-80f5-67ea178a1f10/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ba630014-59f2-4159-80f5-67ea178a1f10</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via AQUIA GROUP, LLC (2026 first_quarter) — $15000</title>
+      <link>https://lda.gov/filings/public/filing/ae03cc89-bacb-48c0-a0d1-aa05a8ad0e5d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ae03cc89-bacb-48c0-a0d1-aa05a8ad0e5d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via SALT POINT STRATEGIES (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/a9ff8ca5-8472-4a74-a736-f6cd9d8c3010/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a9ff8ca5-8472-4a74-a736-f6cd9d8c3010</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via RIVENDELL GROUP LLP (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/a3ce36c6-52ab-4b54-8082-eaea3cf4968a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a3ce36c6-52ab-4b54-8082-eaea3cf4968a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via SALT POINT STRATEGIES (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/a394f45f-32d9-4793-b4d2-c83cdbcd8750/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a394f45f-32d9-4793-b4d2-c83cdbcd8750</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via KING &amp; SPALDING LLP (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/a1bfd249-72aa-4eda-88ba-946e84f12d56/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a1bfd249-72aa-4eda-88ba-946e84f12d56</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via D&amp;P CREATIVE STRATEGIES, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/955488f8-d59d-4fb3-a924-b072cba4971e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:955488f8-d59d-4fb3-a924-b072cba4971e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via DLA PIPER LLP (US) (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/951bf7cf-929b-4f01-a088-33405b9649e6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:951bf7cf-929b-4f01-a088-33405b9649e6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via BELLWETHER GOVERNMENT AFFAIRS LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/907c4fda-7604-432f-a121-ad044101f11d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:907c4fda-7604-432f-a121-ad044101f11d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via VAN SCOYOC ASSOCIATES (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/8d78057a-2529-4a1d-8c76-fee571609a96/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8d78057a-2529-4a1d-8c76-fee571609a96</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via WILLIAMS AND JENSEN, PLLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/868415e8-8acd-4a04-9cd0-5f3cdf3f669f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:868415e8-8acd-4a04-9cd0-5f3cdf3f669f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via PENN AVENUE PARTNERS (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/81c9b3f7-7b42-46e1-87d6-eb3c25d8d857/print/</link>
+      <guid isPermaLink="false">lobbying-filings:81c9b3f7-7b42-46e1-87d6-eb3c25d8d857</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via ACG ADVOCACY (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/81a52183-db9b-4b4a-9688-80a5335a7ac4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:81a52183-db9b-4b4a-9688-80a5335a7ac4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via DAVID RUDD &amp; ASSOCIATES LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/80655732-9897-4e53-b21c-4da892d2b4a9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:80655732-9897-4e53-b21c-4da892d2b4a9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via D&amp;P CREATIVE STRATEGIES, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/7ce92eb3-0e1e-4d41-b47f-34bfb5faed76/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7ce92eb3-0e1e-4d41-b47f-34bfb5faed76</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via ACG ADVOCACY (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/77635f79-8e06-475e-ac37-c21c54e22468/print/</link>
+      <guid isPermaLink="false">lobbying-filings:77635f79-8e06-475e-ac37-c21c54e22468</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via BELLWETHER GOVERNMENT AFFAIRS LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/768ff9cd-0190-4b9e-b606-575574f50448/print/</link>
+      <guid isPermaLink="false">lobbying-filings:768ff9cd-0190-4b9e-b606-575574f50448</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via THE NICKLES GROUP, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/732852e4-59e7-4542-9df2-c0cf9930929f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:732852e4-59e7-4542-9df2-c0cf9930929f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via AQUIA GROUP, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/639a3a78-4ea9-4a2c-92d3-96118b0e06f1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:639a3a78-4ea9-4a2c-92d3-96118b0e06f1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via NVG, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/5e199a82-08fa-4678-839e-de598bf3a301/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5e199a82-08fa-4678-839e-de598bf3a301</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via THEGROUP DC, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/5c7c43e8-939f-41a8-b40d-a5ff63b137a2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5c7c43e8-939f-41a8-b40d-a5ff63b137a2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via COMCAST CORPORATION (2026 second_quarter) — $3020000</title>
+      <link>https://lda.gov/filings/public/filing/581e5369-e910-4c83-8f43-e0afd61fe39a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:581e5369-e910-4c83-8f43-e0afd61fe39a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via D&amp;P CREATIVE STRATEGIES, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/5780ae9b-ab9a-4df2-b240-d154eef9c35b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5780ae9b-ab9a-4df2-b240-d154eef9c35b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via AQUIA GROUP, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/5568e22c-9e6c-44d5-b1d0-9c27f15f576b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5568e22c-9e6c-44d5-b1d0-9c27f15f576b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via THE HOBBS GROUP, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/535df8b1-ee52-41ec-9bc4-8f3d0b62c940/print/</link>
+      <guid isPermaLink="false">lobbying-filings:535df8b1-ee52-41ec-9bc4-8f3d0b62c940</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via RADIUS ADVOCACY, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/4f7e0c06-8a2d-4f24-abf6-deab71cde14c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4f7e0c06-8a2d-4f24-abf6-deab71cde14c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via GUIDEPOSTSTRATEGIES, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/4e6af4c8-b955-4fff-9864-8f37332fb666/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4e6af4c8-b955-4fff-9864-8f37332fb666</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via AQUIA GROUP, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/47d28600-b9cb-4336-9934-1e94c762a1bb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:47d28600-b9cb-4336-9934-1e94c762a1bb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via VAN SCOYOC ASSOCIATES (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/41a07378-5d61-410e-af43-40bbfe29b30e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:41a07378-5d61-410e-af43-40bbfe29b30e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via THE HOBBS GROUP, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/31e7f392-3906-4934-b19a-bc9d950b4636/print/</link>
+      <guid isPermaLink="false">lobbying-filings:31e7f392-3906-4934-b19a-bc9d950b4636</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via DLA PIPER LLP (US) (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/3169191a-f130-4b2c-a5ab-3bdce89a1506/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3169191a-f130-4b2c-a5ab-3bdce89a1506</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via MILLER STRATEGIES, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/30a65478-8b16-4bb8-a87b-ce41272f5be4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:30a65478-8b16-4bb8-a87b-ce41272f5be4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via KING &amp; SPALDING LLP (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/298d41f6-d451-464e-b9c5-f1e793ffde88/print/</link>
+      <guid isPermaLink="false">lobbying-filings:298d41f6-d451-464e-b9c5-f1e793ffde88</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via HARBINGER STRATEGIES, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/285c62ce-8681-4a4d-8474-fdfb8faa2f8a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:285c62ce-8681-4a4d-8474-fdfb8faa2f8a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via FIERCE GOVERNMENT RELATIONS (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/1844b101-5903-4e78-b496-df7cee7a81de/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1844b101-5903-4e78-b496-df7cee7a81de</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via THEGROUP DC, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/17d09333-6674-4e74-b839-c1532b276bb7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:17d09333-6674-4e74-b839-c1532b276bb7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via AQUIA GROUP, LLC (2026 first_quarter) — $15000</title>
+      <link>https://lda.gov/filings/public/filing/178eacea-cc43-4e30-abeb-d670bc835617/print/</link>
+      <guid isPermaLink="false">lobbying-filings:178eacea-cc43-4e30-abeb-d670bc835617</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via STEWART STRATEGIES AND SOLUTIONS, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/16543c92-2e4a-4378-b904-9ae86e0d83b3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:16543c92-2e4a-4378-b904-9ae86e0d83b3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via PENN AVENUE PARTNERS (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/139b0630-6e47-41c0-9813-b4e7613fe166/print/</link>
+      <guid isPermaLink="false">lobbying-filings:139b0630-6e47-41c0-9813-b4e7613fe166</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via GUIDEPOSTSTRATEGIES, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/10b97bae-ab92-45c5-b6f4-3306cdb23329/print/</link>
+      <guid isPermaLink="false">lobbying-filings:10b97bae-ab92-45c5-b6f4-3306cdb23329</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via HARBINGER STRATEGIES, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/0ff7d12f-1d5a-4378-9e80-27729b83aaef/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0ff7d12f-1d5a-4378-9e80-27729b83aaef</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via NVG, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/0b28a61e-1e38-4e05-a120-762efa7bcafc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0b28a61e-1e38-4e05-a120-762efa7bcafc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via MILLER STRATEGIES, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/0a9a047a-4ee8-43a3-bc25-4cbba88e1f27/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0a9a047a-4ee8-43a3-bc25-4cbba88e1f27</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via BLOOM STRATEGIC COUNSEL (2026 first_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/08f2b130-f045-44fa-a34f-cb39fefdc9e1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:08f2b130-f045-44fa-a34f-cb39fefdc9e1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>COMCAST CORPORATION via FIERCE GOVERNMENT RELATIONS (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/06503fff-6782-4785-af39-bf8433aada4d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:06503fff-6782-4785-af39-bf8433aada4d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

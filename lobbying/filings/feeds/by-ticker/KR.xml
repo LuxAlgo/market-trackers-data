@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — KR</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>THE KROGER CO. via THE WAYFINDER GROUP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/eb8e2136-c5f8-4383-830a-b11e2240c933/print/</link>
+      <guid isPermaLink="false">lobbying-filings:eb8e2136-c5f8-4383-830a-b11e2240c933</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE KROGER CO. via SQUIRE PATTON BOGGS (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/d050a54a-a717-4e59-8a0c-cb53c827cca2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d050a54a-a717-4e59-8a0c-cb53c827cca2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE KROGER CO. via THE SMITH-FREE GROUP, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/ced7d90a-a38f-4f21-962a-260a957d5ff0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ced7d90a-a38f-4f21-962a-260a957d5ff0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE KROGER CO. via THE WAYFINDER GROUP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/c17bd8ef-a867-4e4d-9f0f-7c1e09f79a60/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c17bd8ef-a867-4e4d-9f0f-7c1e09f79a60</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE KROGER CO. via THE WAYFINDER GROUP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/b77f0fee-4460-4655-a7f7-bdb60fda7c9b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b77f0fee-4460-4655-a7f7-bdb60fda7c9b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>KROGER CO via THE KROGER CO. (2026 first_quarter) — $400000</title>
+      <link>https://lda.gov/filings/public/filing/a45a2249-b9cd-4bd3-966b-42f8789cf072/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a45a2249-b9cd-4bd3-966b-42f8789cf072</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>KROGER CO via THE KROGER CO. (2026 second_quarter) — $350000</title>
+      <link>https://lda.gov/filings/public/filing/4191c18f-d024-4a45-b1ab-4d78ae32f2fb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4191c18f-d024-4a45-b1ab-4d78ae32f2fb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE KROGER CO. via SQUIRE PATTON BOGGS (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/1d51bb9f-2736-4738-80f4-668baaf2a91e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1d51bb9f-2736-4738-80f4-668baaf2a91e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE KROGER CO. via THE SMITH-FREE GROUP, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/05a8d7ac-4dea-459d-b930-6178b54682bd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:05a8d7ac-4dea-459d-b930-6178b54682bd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

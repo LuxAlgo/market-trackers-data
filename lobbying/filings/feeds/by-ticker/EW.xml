@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — EW</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>EDWARDS LIFESCIENCES LLC via EDWARDS LIFESCIENCES, LLC (2026 first_quarter) — $340000</title>
+      <link>https://lda.gov/filings/public/filing/f0a86210-85bb-42bf-867c-e45534b57761/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f0a86210-85bb-42bf-867c-e45534b57761</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EDWARDS LIFESCIENCES LLC via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/e4b1ba8f-ec55-4657-8fe6-f1c752c3c0e1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e4b1ba8f-ec55-4657-8fe6-f1c752c3c0e1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EDWARDS LIFESCIENCES, LLC via FARRAGUT PARTNERS LLP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/8aed73cc-b792-456f-a757-40687e027671/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8aed73cc-b792-456f-a757-40687e027671</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EDWARDS LIFESCIENCES LLC via AVENUE SOLUTIONS (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/7c851c0f-4257-4895-bfb5-27eaa63c714b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7c851c0f-4257-4895-bfb5-27eaa63c714b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EDWARDS LIFESCIENCES LLC via EDWARDS LIFESCIENCES, LLC (2026 second_quarter) — $280000</title>
+      <link>https://lda.gov/filings/public/filing/6130dd6e-30ec-4616-aedb-f1780d958944/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6130dd6e-30ec-4616-aedb-f1780d958944</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EDWARDS LIFESCIENCES LLC via BGR GOVERNMENT AFFAIRS (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/60389e46-4c66-4ebb-94b0-3ae505799ebd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:60389e46-4c66-4ebb-94b0-3ae505799ebd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EDWARDS LIFESCIENCES, LLC via FARRAGUT PARTNERS LLP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/44b90de2-78ec-44aa-851b-92309c8c5859/print/</link>
+      <guid isPermaLink="false">lobbying-filings:44b90de2-78ec-44aa-851b-92309c8c5859</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EDWARDS LIFESCIENCES LLC via BGR GOVERNMENT AFFAIRS (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/442a1ac0-b607-4ea5-8c0c-aa36a570b855/print/</link>
+      <guid isPermaLink="false">lobbying-filings:442a1ac0-b607-4ea5-8c0c-aa36a570b855</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EDWARDS LIFESCIENCES LLC via AVENUE SOLUTIONS (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/35235ae5-8a6e-4c88-adf4-e5f806a97585/print/</link>
+      <guid isPermaLink="false">lobbying-filings:35235ae5-8a6e-4c88-adf4-e5f806a97585</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EDWARDS LIFESCIENCES LLC via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/2e4bf2cf-e36f-4dec-ba15-a3159f0215df/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2e4bf2cf-e36f-4dec-ba15-a3159f0215df</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

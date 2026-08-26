@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — EBAY</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>EBAY INC. via AVOQ, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/fb907d5b-8733-4b5c-bfe4-63f1f98970c5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fb907d5b-8733-4b5c-bfe4-63f1f98970c5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EBAY, INC. via THE GIBSON GROUP, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/f7cf9070-4d4a-4e35-ad87-de23eba38e98/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f7cf9070-4d4a-4e35-ad87-de23eba38e98</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EBAY INC. via AVOQ, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/c5f283e8-48a0-4d7c-8553-e07e23cfceb5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c5f283e8-48a0-4d7c-8553-e07e23cfceb5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EBAY INC. via EBAY INC. (2026 first_quarter) — $580000</title>
+      <link>https://lda.gov/filings/public/filing/6baff27e-9395-42c5-9277-09480d23c678/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6baff27e-9395-42c5-9277-09480d23c678</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EBAY INC. via CGCN GROUP, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/5cb898af-d12c-49ea-87c3-7e4d1cdb35cb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5cb898af-d12c-49ea-87c3-7e4d1cdb35cb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EBAY INC. via EBAY INC. (2026 second_quarter) — $580000</title>
+      <link>https://lda.gov/filings/public/filing/50b40df2-25ca-42f2-9b2c-296b0f4f3f94/print/</link>
+      <guid isPermaLink="false">lobbying-filings:50b40df2-25ca-42f2-9b2c-296b0f4f3f94</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EBAY INC. via CGCN GROUP, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/49c2603e-a51f-406b-95bb-7f489501526b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:49c2603e-a51f-406b-95bb-7f489501526b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EBAY INC. via MILLER STRATEGIES, LLC (2026 second_quarter) — $110000</title>
+      <link>https://lda.gov/filings/public/filing/2eda1d0c-238c-4574-b952-3ba4c9a9a5fa/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2eda1d0c-238c-4574-b952-3ba4c9a9a5fa</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EBAY, INC. via THE GIBSON GROUP, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/2e053f82-6d23-40e3-8bee-c64faaa87c4d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2e053f82-6d23-40e3-8bee-c64faaa87c4d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EBAY INC. via MILLER STRATEGIES, LLC (2026 first_quarter) — $110000</title>
+      <link>https://lda.gov/filings/public/filing/14faf806-0e24-4f6e-bb5b-dd7c476da004/print/</link>
+      <guid isPermaLink="false">lobbying-filings:14faf806-0e24-4f6e-bb5b-dd7c476da004</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

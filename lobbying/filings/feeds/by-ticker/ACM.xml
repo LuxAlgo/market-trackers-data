@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — ACM</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>AECOM via AECOM (2026 second_quarter) — $540000</title>
+      <link>https://lda.gov/filings/public/filing/efbe8248-3089-41f4-9157-ebd6fff7cc02/print/</link>
+      <guid isPermaLink="false">lobbying-filings:efbe8248-3089-41f4-9157-ebd6fff7cc02</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AECOM via THE MCKEON GROUP, INC. (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/e7de7a09-f1f2-46c0-9f4f-b6c07b76d54e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e7de7a09-f1f2-46c0-9f4f-b6c07b76d54e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AECOM via H.A. CUMBER &amp; COMPANY, INC. (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/d088a241-754b-4f93-9a17-aa0071b27609/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d088a241-754b-4f93-9a17-aa0071b27609</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AECOM via AMERICAN DEFENSE INTERNATIONAL (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/ce8d9b13-e8f5-4ad3-b644-b648f860f456/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ce8d9b13-e8f5-4ad3-b644-b648f860f456</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AECOM via COVENANT GOVERNMENT AFFAIRS, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/8b7a19ce-1a44-4a8a-b619-fb64c1ea57ac/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8b7a19ce-1a44-4a8a-b619-fb64c1ea57ac</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AECOM via THE MCKEON GROUP, INC. (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/5e73e9d8-26ea-4afb-9e00-01191748c771/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5e73e9d8-26ea-4afb-9e00-01191748c771</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AECOM via COVENANT GOVERNMENT AFFAIRS, LLC (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/4b7dc029-b7cd-420c-8956-27caef5e7c74/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4b7dc029-b7cd-420c-8956-27caef5e7c74</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AECOM via AMERICAN DEFENSE INTERNATIONAL (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/3eee4970-c993-4373-a172-2d66944167aa/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3eee4970-c993-4373-a172-2d66944167aa</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AECOM via BALLARD PARTNERS (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/3ad94f49-eeb3-4311-b171-589caf3045df/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3ad94f49-eeb3-4311-b171-589caf3045df</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AECOM via BALLARD PARTNERS (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/38d172d9-da22-4f97-9c9a-8d5b22944b62/print/</link>
+      <guid isPermaLink="false">lobbying-filings:38d172d9-da22-4f97-9c9a-8d5b22944b62</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AECOM via FIERCE GOVERNMENT RELATIONS (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/356c6163-899a-4ab0-a6d6-5ca11555a854/print/</link>
+      <guid isPermaLink="false">lobbying-filings:356c6163-899a-4ab0-a6d6-5ca11555a854</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AECOM via FIERCE GOVERNMENT RELATIONS (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/1d2e6db0-3575-4bd3-a406-ccb8d77f0f95/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1d2e6db0-3575-4bd3-a406-ccb8d77f0f95</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AECOM via AECOM (2026 first_quarter) — $490000</title>
+      <link>https://lda.gov/filings/public/filing/13097669-3b34-44e8-ad7f-a05f63b81236/print/</link>
+      <guid isPermaLink="false">lobbying-filings:13097669-3b34-44e8-ad7f-a05f63b81236</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AECOM via H.A. CUMBER &amp; COMPANY, INC. (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/1123300a-4ef1-44ee-9d08-3e4be6a35aad/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1123300a-4ef1-44ee-9d08-3e4be6a35aad</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AECOM via COVENANT GOVERNMENT AFFAIRS, LLC (2026 second_quarter) — $38000</title>
+      <link>https://lda.gov/filings/public/filing/028cbe35-9012-4a9d-8e8d-590aaa935831/print/</link>
+      <guid isPermaLink="false">lobbying-filings:028cbe35-9012-4a9d-8e8d-590aaa935831</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

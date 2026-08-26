@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Clinical trial registrations — AGIO</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>Agios Pharmaceuticals, Inc. — ACTIVE_NOT_RECRUITING PHASE2: A Dose-Finding Study of Tebapivat to Assess Efficacy, and Safety in Participants With Sickle Cell Disease (SCD)</title>
+      <link>https://clinicaltrials.gov/study/NCT06924970</link>
+      <guid isPermaLink="false">clinical-trials:NCT06924970</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — MU</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>MICRON TECHNOLOGY INC via KING &amp; SPALDING LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/dbdccdb1-faae-45bc-bfbc-c9c5d65da53b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dbdccdb1-faae-45bc-bfbc-c9c5d65da53b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MICRON TECHNOLOGY, INC. via AVOQ, LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/b7e76afb-5ed3-4657-ab87-89b236d9b9e0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b7e76afb-5ed3-4657-ab87-89b236d9b9e0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MICRON TECHNOLOGY, INC. via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/b7dc4d96-a84c-425c-a353-046271a70bdc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b7dc4d96-a84c-425c-a353-046271a70bdc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MICRON TECHNOLOGY, INC. via MILLER STRATEGIES, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/b755ddb6-2ab6-4e69-b5b7-4ffa7de0ec25/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b755ddb6-2ab6-4e69-b5b7-4ffa7de0ec25</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MICRON TECHNOLOGY, INC. via HILL EAST GROUP, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/a65f5c97-ba8d-49de-9ef3-60e0587a63ab/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a65f5c97-ba8d-49de-9ef3-60e0587a63ab</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MICRON TECHNOLOGY, INC. via AVOQ, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/9fe7fbc6-f5fa-4c74-877d-926074ab420b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9fe7fbc6-f5fa-4c74-877d-926074ab420b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MICRON TECHNOLOGY, INC. via HILL EAST GROUP, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/9fb6f024-caa3-446b-baa0-abef8d74ef9e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9fb6f024-caa3-446b-baa0-abef8d74ef9e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MICRON TECHNOLOGY, INC. via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/94cd8380-2275-4b2e-892d-1a84b20ac798/print/</link>
+      <guid isPermaLink="false">lobbying-filings:94cd8380-2275-4b2e-892d-1a84b20ac798</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MICRON TECHNOLOGY INC via KING &amp; SPALDING LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/7f976618-ff2e-4b30-a396-06d0e4dbcdd2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7f976618-ff2e-4b30-a396-06d0e4dbcdd2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MICRON TECHNOLOGY, INC. via MILLER STRATEGIES, LLC (2026 first_quarter) — $150000</title>
+      <link>https://lda.gov/filings/public/filing/6595819b-bd3e-4a72-bc88-45f839333cf7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6595819b-bd3e-4a72-bc88-45f839333cf7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MICRON TECHNOLOGY, INC. via BELLWETHER GOVERNMENT AFFAIRS LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/5604102a-a531-405e-9d1a-ec71f1e44c68/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5604102a-a531-405e-9d1a-ec71f1e44c68</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MICRON TECHNOLOGY, INC. via BELLWETHER GOVERNMENT AFFAIRS LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/321e4135-f671-4de5-8d9f-9034fa6136aa/print/</link>
+      <guid isPermaLink="false">lobbying-filings:321e4135-f671-4de5-8d9f-9034fa6136aa</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MICRON TECHNOLOGY, INC. via MICRON TECHNOLOGY, INC. (2026 second_quarter) — $670000</title>
+      <link>https://lda.gov/filings/public/filing/1509b2bb-c913-49db-b8c3-e6fe0ac997ef/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1509b2bb-c913-49db-b8c3-e6fe0ac997ef</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MICRON TECHNOLOGY, INC. via MICRON TECHNOLOGY, INC. (2026 first_quarter) — $800000</title>
+      <link>https://lda.gov/filings/public/filing/09c8ec14-5e22-4e89-96bc-24b7dca944e2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:09c8ec14-5e22-4e89-96bc-24b7dca944e2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

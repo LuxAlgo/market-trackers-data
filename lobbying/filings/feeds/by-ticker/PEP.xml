@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — PEP</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>PEPSICO, INC. via BGR GOVERNMENT AFFAIRS (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/f66758ee-7f5b-4dbb-a541-5995ddb9fece/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f66758ee-7f5b-4dbb-a541-5995ddb9fece</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEPSICO, INC. via MONUMENT ADVOCACY (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/ea06f667-ecf6-44b8-b9f5-0acb6eafe66b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ea06f667-ecf6-44b8-b9f5-0acb6eafe66b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEPSICO, INC. via MONUMENT ADVOCACY (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/e02df783-6ab4-4f6b-bd7b-2045dd1fc681/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e02df783-6ab4-4f6b-bd7b-2045dd1fc681</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEPSICO INC via PEPSICO, INC (2026 second_quarter) — $1020000</title>
+      <link>https://lda.gov/filings/public/filing/83cf0a38-64b4-45c9-8829-a20df2d517e3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:83cf0a38-64b4-45c9-8829-a20df2d517e3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEPSICO, INC. via INVARIANT LLC (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/708d832b-09da-4aed-8af6-b7841b3587ce/print/</link>
+      <guid isPermaLink="false">lobbying-filings:708d832b-09da-4aed-8af6-b7841b3587ce</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEPSICO, INC. via FIERCE GOVERNMENT RELATIONS (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/5e5b28e3-e8a2-40e8-9759-16a4e991d6f5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5e5b28e3-e8a2-40e8-9759-16a4e991d6f5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEPSICO, INC. via FIERCE GOVERNMENT RELATIONS (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/45dafd76-76cf-4fee-8e06-03cd50040daf/print/</link>
+      <guid isPermaLink="false">lobbying-filings:45dafd76-76cf-4fee-8e06-03cd50040daf</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEPSICO INC via PEPSICO, INC (2026 first_quarter) — $1800000</title>
+      <link>https://lda.gov/filings/public/filing/3d327f7f-596f-4929-abe6-fdc36be9bef3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3d327f7f-596f-4929-abe6-fdc36be9bef3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEPSICO, INC. via BGR GOVERNMENT AFFAIRS (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/33dbb67f-1ca8-448c-b8ee-e229263a235e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:33dbb67f-1ca8-448c-b8ee-e229263a235e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEPSICO, INC. via INVARIANT LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/138110b0-a4e0-4e3c-9461-02d20c2d980b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:138110b0-a4e0-4e3c-9461-02d20c2d980b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

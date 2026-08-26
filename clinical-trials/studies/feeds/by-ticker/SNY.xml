@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Clinical trial registrations — SNY</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>Sanofi — NOT_YET_RECRUITING PHASE1/PHASE2: Study to Assess Safety and Immunogenicity of an Egg-based H5N8 Influenza Vaccine at Multiple Dose Levels Adjuvanted With Matrix-M in Healthy Participants 18 Years of Age and Above.</title>
+      <link>https://clinicaltrials.gov/study/NCT07779408</link>
+      <guid isPermaLink="false">clinical-trials:NCT07779408</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanofi — RECRUITING: Real-World Study of Patients With Type 1 Diabetes Treated With Teplizumab as Part of Managed Access Programs (MAPs)</title>
+      <link>https://clinicaltrials.gov/study/NCT07457580</link>
+      <guid isPermaLink="false">clinical-trials:NCT07457580</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanofi — RECRUITING: Long-Term Outcomes of Teplizumab in Routine Clinical Care</title>
+      <link>https://clinicaltrials.gov/study/NCT07360080</link>
+      <guid isPermaLink="false">clinical-trials:NCT07360080</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanofi — RECRUITING PHASE3: An Induction Study to Investigate the Efficacy and Safety of Duvakitug in Participants With Moderately to Severely Active Ulcerative Colitis</title>
+      <link>https://clinicaltrials.gov/study/NCT07184996</link>
+      <guid isPermaLink="false">clinical-trials:NCT07184996</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanofi — RECRUITING PHASE2: Brivekimig for the Treatment of Moderate to Severe Hidradenitis Suppurativa</title>
+      <link>https://clinicaltrials.gov/study/NCT07170917</link>
+      <guid isPermaLink="false">clinical-trials:NCT07170917</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanofi — RECRUITING PHASE2: A Study of Belumosudil in Children With Chronic Graft Versus Host Disease (schoolROCK)</title>
+      <link>https://clinicaltrials.gov/study/NCT07116031</link>
+      <guid isPermaLink="false">clinical-trials:NCT07116031</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanofi — RECRUITING PHASE3: A Study to Investigate the Efficacy, Safety, and Pharmacokinetics of Oral Rilzabrutinib Compared With Placebo in Participants 18 Years of Age and Older With Warm Autoimmune Hemolytic Anemia</title>
+      <link>https://clinicaltrials.gov/study/NCT07086976</link>
+      <guid isPermaLink="false">clinical-trials:NCT07086976</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanofi — RECRUITING NA: Early Detection of Type 1 Diabetes in First Degree Relatives of Type 1 Diabetes Patients (DETECT T1D GULF)</title>
+      <link>https://clinicaltrials.gov/study/NCT07038473</link>
+      <guid isPermaLink="false">clinical-trials:NCT07038473</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanofi — COMPLETED PHASE2: A Proof-of-Concept Study to Assess the Efficacy, Safety and Tolerability of Itepekimab (Anti--IL-33 mAb) in Participants With Chronic Rhinosinusitis Without Nasal Polyps</title>
+      <link>https://clinicaltrials.gov/study/NCT06691113</link>
+      <guid isPermaLink="false">clinical-trials:NCT06691113</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanofi — RECRUITING PHASE3: A Study to Test the Efficacy and Safety of Riliprubart Against the Usual Treatment of Intravenous Immunoglobulin (IVIg) in People With Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)</title>
+      <link>https://clinicaltrials.gov/study/NCT06290141</link>
+      <guid isPermaLink="false">clinical-trials:NCT06290141</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanofi — ACTIVE_NOT_RECRUITING PHASE2: BIVV020 (SAR445088) in Prevention and Treatment of Antibody-mediated Rejection (AMR)</title>
+      <link>https://clinicaltrials.gov/study/NCT05156710</link>
+      <guid isPermaLink="false">clinical-trials:NCT05156710</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanofi — ACTIVE_NOT_RECRUITING PHASE2: Phase I/II Follow-up Study of SAR422459 in Patients With Stargardt's Macular Degeneration</title>
+      <link>https://clinicaltrials.gov/study/NCT01736592</link>
+      <guid isPermaLink="false">clinical-trials:NCT01736592</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

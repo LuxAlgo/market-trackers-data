@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — ESLT</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>ELBIT SYSTEMS OF AMERICA, LLC via S. VACA &amp; ASSOCIATES, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/fc598698-4c9e-4233-8344-e1eb52ff24dc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fc598698-4c9e-4233-8344-e1eb52ff24dc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELBIT SYSTEMS OF AMERICA, LLC via S. VACA &amp; ASSOCIATES, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/e61b2ba0-3a7b-4330-b7e1-888978e5c5e7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e61b2ba0-3a7b-4330-b7e1-888978e5c5e7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELBIT SYSTEMS OF AMERICA, LLC via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/de069440-3b10-4dcd-b9b6-88f7cf027896/print/</link>
+      <guid isPermaLink="false">lobbying-filings:de069440-3b10-4dcd-b9b6-88f7cf027896</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELBIT SYSTEMS OF AMERICA via STAPLETON &amp; ASSOCIATES, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/c0ea93b1-ecd9-45c9-81ce-12b39bb20168/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c0ea93b1-ecd9-45c9-81ce-12b39bb20168</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELBIT SYSTEMS AMERICA via SANDHILLS STRATEGIC SOLUTIONS (2026 second_quarter) — $12000</title>
+      <link>https://lda.gov/filings/public/filing/bde9b62f-2536-4fec-b3b0-bb426c2866f9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bde9b62f-2536-4fec-b3b0-bb426c2866f9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELBIT SYSTEMS OF AMERICA via J.A. GREEN AND COMPANY (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/bd45dbba-8abd-4924-813b-0d080039c966/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bd45dbba-8abd-4924-813b-0d080039c966</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELBIT SYSTEMS - CYCLONE LTD. via ELWELL &amp; ASSOCIATES, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/b7132788-15fd-4f3d-962d-aeea41f179fa/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b7132788-15fd-4f3d-962d-aeea41f179fa</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELBIT SYSTEMS OF AMERICA, LLC via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/9329bf9f-f128-48dd-ae9e-3de006e75797/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9329bf9f-f128-48dd-ae9e-3de006e75797</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELBIT SYSTEMS OF AMERICA via STAPLETON &amp; ASSOCIATES, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/78c2ffe7-a6c0-45f6-9bb7-70514685b596/print/</link>
+      <guid isPermaLink="false">lobbying-filings:78c2ffe7-a6c0-45f6-9bb7-70514685b596</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELBIT SYSTEMS OF AMERICA, LLC via ELBIT SYSTEMS OF AMERICA, LLC (2026 second_quarter) — $240000</title>
+      <link>https://lda.gov/filings/public/filing/77c7d4c1-4e55-4b9c-a0d6-b8b1b571d6d7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:77c7d4c1-4e55-4b9c-a0d6-b8b1b571d6d7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELBIT SYSTEMS AMERICA via SANDHILLS STRATEGIC SOLUTIONS (2026 first_quarter) — $18000</title>
+      <link>https://lda.gov/filings/public/filing/7052eaf8-1d25-4d7d-a32e-0a77e7705f7a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7052eaf8-1d25-4d7d-a32e-0a77e7705f7a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELBIT SYSTEMS OF AMERICA via J.A. GREEN AND COMPANY (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/489c3f3a-ad0b-41c1-85ef-4ba9df77d6da/print/</link>
+      <guid isPermaLink="false">lobbying-filings:489c3f3a-ad0b-41c1-85ef-4ba9df77d6da</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELBIT SYSTEMS OF AMERICA, LLC via ELBIT SYSTEMS OF AMERICA, LLC (2026 first_quarter) — $220000</title>
+      <link>https://lda.gov/filings/public/filing/26f847d6-de53-4e60-bbc9-ded1e65a2d31/print/</link>
+      <guid isPermaLink="false">lobbying-filings:26f847d6-de53-4e60-bbc9-ded1e65a2d31</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

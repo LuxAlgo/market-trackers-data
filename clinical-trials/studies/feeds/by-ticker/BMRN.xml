@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Clinical trial registrations — BMRN</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>BioMarin Pharmaceutical — RECRUITING PHASE2/PHASE3: Study to Evaluate the Efficacy and Safety of BMN 333 Versus Vosoritide in Children With Achondroplasia</title>
+      <link>https://clinicaltrials.gov/study/NCT07441876</link>
+      <guid isPermaLink="false">clinical-trials:NCT07441876</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>BioMarin Pharmaceutical — RECRUITING PHASE2: A Study of Vosoritide in Children With Noonan Syndrome With Inadequate Growth During or After Human Growth Hormone Treatment</title>
+      <link>https://clinicaltrials.gov/study/NCT06668805</link>
+      <guid isPermaLink="false">clinical-trials:NCT06668805</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

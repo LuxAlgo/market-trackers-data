@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — DHR</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>DANAHER CORPORATION via FULCRUM PUBLIC AFFAIRS LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/ffe1a73c-278f-44cf-906b-954a99de6ad3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ffe1a73c-278f-44cf-906b-954a99de6ad3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANAHER CORPORATION via DANAHER CORPORATION (2026 first_quarter) — $190000</title>
+      <link>https://lda.gov/filings/public/filing/f7f79a77-db03-4b3a-83a5-1ddc4ee0f764/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f7f79a77-db03-4b3a-83a5-1ddc4ee0f764</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANAHER CORPORATION via DENTONS US LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/f3eba932-7205-4019-9f25-fc561b428e69/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f3eba932-7205-4019-9f25-fc561b428e69</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANAHER CORPORATION via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/f0306f23-6192-457b-86b5-2a8b2c1e4e96/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f0306f23-6192-457b-86b5-2a8b2c1e4e96</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANAHER CORPORATION via LEWIS-BURKE ASSOCIATES, LLC (2026 second_quarter) — $36000</title>
+      <link>https://lda.gov/filings/public/filing/e7ab7f2c-3977-4240-b028-8b20cb6f3e2e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e7ab7f2c-3977-4240-b028-8b20cb6f3e2e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANAHER CORPORATION via LEWIS-BURKE ASSOCIATES, LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/db1d750b-d6f4-44c5-acad-a01d7f2778c8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:db1d750b-d6f4-44c5-acad-a01d7f2778c8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANAHER CORPORATION via FULCRUM PUBLIC AFFAIRS LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/5e0b8c58-7c2b-4d66-9d6c-8b9c64e2fe9a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5e0b8c58-7c2b-4d66-9d6c-8b9c64e2fe9a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANAHER CORPORATION via DANAHER CORPORATION (2026 second_quarter) — $200000</title>
+      <link>https://lda.gov/filings/public/filing/1b443c94-02b2-4653-b1ec-dd9104a4e1d1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1b443c94-02b2-4653-b1ec-dd9104a4e1d1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANAHER CORPORATION via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/0f2fe528-ffc9-4ba1-8f29-1fc35a109a24/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0f2fe528-ffc9-4ba1-8f29-1fc35a109a24</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANAHER CORPORATION via DENTONS US LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/0586b428-3ed9-45bb-a19a-e7c6473d37a8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0586b428-3ed9-45bb-a19a-e7c6473d37a8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

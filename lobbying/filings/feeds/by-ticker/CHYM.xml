@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — CHYM</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>CHIME FINANCIAL, INC. via FS VECTOR LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/f5cd93c4-d4a4-4452-a8fd-9dbbd30448bf/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f5cd93c4-d4a4-4452-a8fd-9dbbd30448bf</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHIME FINANCIAL, INC. via CHIME FINANCIAL, INC. (2026 first_quarter) — $650000</title>
+      <link>https://lda.gov/filings/public/filing/d4812b07-82c9-41a7-835b-d890563056d0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d4812b07-82c9-41a7-835b-d890563056d0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHIME FINANCIAL, INC. via MINDSET ADVOCACY, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/d08d6211-f71e-4aa6-b96f-51e00706d543/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d08d6211-f71e-4aa6-b96f-51e00706d543</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHIME FINANCIAL INC. via RICH FEUER ANDERSON (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/bc753cfb-a4ec-43fe-a95d-e91295803034/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bc753cfb-a4ec-43fe-a95d-e91295803034</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHIME FINANCIAL, INC. via DALY CONSULTING GROUP (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/5bb3b4f2-9582-4c48-a3e1-5378268c4be9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5bb3b4f2-9582-4c48-a3e1-5378268c4be9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHIME FINANCIAL INC. via RICH FEUER ANDERSON (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/3ec94770-6af5-463f-a286-579d3a9ad8b3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3ec94770-6af5-463f-a286-579d3a9ad8b3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHIME FINANCIAL, INC. via MINDSET ADVOCACY, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/2b0fdc5c-a9ca-4390-a4bc-e34e229abc8d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2b0fdc5c-a9ca-4390-a4bc-e34e229abc8d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHIME FINANCIAL, INC. via FS VECTOR LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/1683998d-b729-45a8-a452-5e40df535e0a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1683998d-b729-45a8-a452-5e40df535e0a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHIME FINANCIAL, INC. via CHIME FINANCIAL, INC. (2026 second_quarter) — $350000</title>
+      <link>https://lda.gov/filings/public/filing/11d0cbf9-2251-4473-9f64-e7efe82fa1a3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:11d0cbf9-2251-4473-9f64-e7efe82fa1a3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHIME FINANCIAL, INC. via DALY CONSULTING GROUP (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/10a187c3-51f0-43f4-ace0-4e250a221d9c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:10a187c3-51f0-43f4-ace0-4e250a221d9c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

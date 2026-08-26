@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — MMS</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>MAXIMUS, INC. via DENTONS US LLP (2026 third_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/dc481a3f-3400-4a90-8137-02b8143067d1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dc481a3f-3400-4a90-8137-02b8143067d1</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS via DOGWOOD STRATEGIES (2026 second_quarter) — $5625</title>
+      <link>https://lda.gov/filings/public/filing/f16f1dd0-3d19-43d3-a524-e760a5a108b2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f16f1dd0-3d19-43d3-a524-e760a5a108b2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS via MR. ALBERT WYNN (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/e4537916-e3f4-409f-bf51-dcd959b55423/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e4537916-e3f4-409f-bf51-dcd959b55423</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS, INC. via HOLLAND &amp; KNIGHT LLP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/e2c9cc01-23c5-417f-83ad-2bfc852ff93c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e2c9cc01-23c5-417f-83ad-2bfc852ff93c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS via BRICK STREET STRATEGY (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/df037ce4-2eea-4ce6-bb81-c8df2531904e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:df037ce4-2eea-4ce6-bb81-c8df2531904e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS, INC. via HOLLAND &amp; KNIGHT LLP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/d57ab806-7124-420c-acbb-bb067c37ca77/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d57ab806-7124-420c-acbb-bb067c37ca77</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS INC. via ICE MILLER LLP (2026 second_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/d4ad6f79-7a45-4fee-832e-1e17d1e09257/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d4ad6f79-7a45-4fee-832e-1e17d1e09257</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS INC via MAXIMUS, INC. (2026 second_quarter) — $600000</title>
+      <link>https://lda.gov/filings/public/filing/cb0b6d23-9c41-4401-9ae0-c603ba801c08/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cb0b6d23-9c41-4401-9ae0-c603ba801c08</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS, INC. via SIRONA STRATEGIES LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/ca918ef5-c350-4843-a4df-691e4bf17b45/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ca918ef5-c350-4843-a4df-691e4bf17b45</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS via DININO ASSOCIATES, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/c8c2336b-d93b-487e-bcf1-ae61599a9165/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c8c2336b-d93b-487e-bcf1-ae61599a9165</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS INC via M.J. SIMON &amp; COMPANY, LLC (2026 first_quarter) — $15000</title>
+      <link>https://lda.gov/filings/public/filing/b7e2234d-d64d-400d-bf92-b26bfb4ffbd1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b7e2234d-d64d-400d-bf92-b26bfb4ffbd1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS via DOGWOOD STRATEGIES (2026 first_quarter) — $5625</title>
+      <link>https://lda.gov/filings/public/filing/b3e99482-52a9-48d4-88b3-0b1b0dcb5650/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b3e99482-52a9-48d4-88b3-0b1b0dcb5650</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS INC. via ICE MILLER LLP (2026 first_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/b367864c-aee9-40fa-a3fc-e33dd3e9f7c9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b367864c-aee9-40fa-a3fc-e33dd3e9f7c9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS via CAPITOL HILL PARTNERS (2026 first_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/b0da475c-6873-46df-82b5-df72350a7cac/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b0da475c-6873-46df-82b5-df72350a7cac</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS via JOHN J. FASO CONSULTING LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/a9991173-7eed-49d9-821b-d3fb981a0e98/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a9991173-7eed-49d9-821b-d3fb981a0e98</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS, INC. via MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP) (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/9c35e34a-33cf-41df-b6ae-6a5167ffeb8d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9c35e34a-33cf-41df-b6ae-6a5167ffeb8d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS via JOHN J. FASO CONSULTING LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/7a6a6eb2-bc16-4844-b296-3fa972664e97/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7a6a6eb2-bc16-4844-b296-3fa972664e97</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS, INC. via GUIDEPOSTSTRATEGIES, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/79fe46e2-1887-4303-acd5-8dd9ad8930dd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:79fe46e2-1887-4303-acd5-8dd9ad8930dd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS INC via MAXIMUS, INC. (2026 first_quarter) — $620000</title>
+      <link>https://lda.gov/filings/public/filing/6c64fa5e-02bc-48f2-94ca-1cf97d373709/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6c64fa5e-02bc-48f2-94ca-1cf97d373709</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS via MEHLMAN CONSULTING, INC. (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/5977c1f2-2464-4d45-b0c4-c6c36c7f62e5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5977c1f2-2464-4d45-b0c4-c6c36c7f62e5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS via MEHLMAN CONSULTING, INC. (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/570e24c4-6a5c-480d-83a0-e634f9a0a6e3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:570e24c4-6a5c-480d-83a0-e634f9a0a6e3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS via CAPITOL HILL PARTNERS (2026 second_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/4faac2e3-16b3-4a1c-9ed3-d73c0d5d641f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4faac2e3-16b3-4a1c-9ed3-d73c0d5d641f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS, INC. via SIRONA STRATEGIES LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/4099356f-b955-4c45-9360-73c7ca9fff46/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4099356f-b955-4c45-9360-73c7ca9fff46</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS, INC. via MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP) (2026 first_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/4070bbd2-9ef0-48d0-ad1b-030c759c897f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4070bbd2-9ef0-48d0-ad1b-030c759c897f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS INC via M.J. SIMON &amp; COMPANY, LLC (2026 second_quarter) — $15000</title>
+      <link>https://lda.gov/filings/public/filing/2dfbd42a-04a2-40cd-9342-79b4db859cdf/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2dfbd42a-04a2-40cd-9342-79b4db859cdf</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS via BRICK STREET STRATEGY (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/20096845-3cd5-4a31-b391-0bce05fb4f51/print/</link>
+      <guid isPermaLink="false">lobbying-filings:20096845-3cd5-4a31-b391-0bce05fb4f51</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS via MR. ALBERT WYNN (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/19722f00-74e8-4ca3-93b2-76028efd4ad5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:19722f00-74e8-4ca3-93b2-76028efd4ad5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS, INC. via GUIDEPOSTSTRATEGIES, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/0af795bd-52c7-410b-a487-1ca6c4e1ffb0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0af795bd-52c7-410b-a487-1ca6c4e1ffb0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAXIMUS via DININO ASSOCIATES, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/01bf6416-d4d3-4882-83f9-db933fc14d51/print/</link>
+      <guid isPermaLink="false">lobbying-filings:01bf6416-d4d3-4882-83f9-db933fc14d51</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

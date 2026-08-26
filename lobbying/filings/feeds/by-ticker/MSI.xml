@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — MSI</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>MOTOROLA SOLUTIONS, INC. via CROSSROADS STRATEGIES, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/e0b13949-1a33-44b0-b93a-6d00a4e6ee46/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e0b13949-1a33-44b0-b93a-6d00a4e6ee46</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MOTOROLA SOLUTIONS, INC. via FORZA DC, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/db7e8f46-69a0-4dca-9508-ce3ac0544435/print/</link>
+      <guid isPermaLink="false">lobbying-filings:db7e8f46-69a0-4dca-9508-ce3ac0544435</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MOTOROLA SOLUTIONS, INC. via FORZA DC, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/d27dd2a8-51c1-4114-83cc-b22663ccaff9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d27dd2a8-51c1-4114-83cc-b22663ccaff9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MOTOROLA SOLUTIONS, INC. via SALT POINT STRATEGIES (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/c38ede49-4404-475d-982d-189e7c8c04c7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c38ede49-4404-475d-982d-189e7c8c04c7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MOTOROLA SOLUTIONS, INC. via GRANT CONSULTING GROUP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/a06441ae-3301-4c57-a495-609aa0d289cb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a06441ae-3301-4c57-a495-609aa0d289cb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MOTOROLA SOLUTIONS, INC. via SALT POINT STRATEGIES (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/99452b0a-992f-4180-947a-0f83fc140dc6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:99452b0a-992f-4180-947a-0f83fc140dc6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MOTOROLA SOLUTIONS via POLARIS GOVERNMENT RELATIONS, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/7ae45ee9-0081-4a67-8c19-985df445f7d9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7ae45ee9-0081-4a67-8c19-985df445f7d9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MOTOROLA SOLUTIONS via POLARIS GOVERNMENT RELATIONS, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/593a3a26-eab2-4807-9ae5-4f69307c2609/print/</link>
+      <guid isPermaLink="false">lobbying-filings:593a3a26-eab2-4807-9ae5-4f69307c2609</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MOTOROLA SOLUTIONS, INC. via CROSSROADS STRATEGIES, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/51c98248-353d-41ad-816b-72764e932fae/print/</link>
+      <guid isPermaLink="false">lobbying-filings:51c98248-353d-41ad-816b-72764e932fae</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MOTOROLA SOLUTIONS, INC. via GRANT CONSULTING GROUP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/4736bf60-9bb7-4130-be7a-d0d29fa03fa0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4736bf60-9bb7-4130-be7a-d0d29fa03fa0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MOTOROLA SOLUTIONS INC via MOTOROLA SOLUTIONS, INC (2026 first_quarter) — $600000</title>
+      <link>https://lda.gov/filings/public/filing/3c9cdfbd-9777-4bd4-b2a8-e5dd31878b6b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3c9cdfbd-9777-4bd4-b2a8-e5dd31878b6b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MOTOROLA SOLUTIONS INC via MOTOROLA SOLUTIONS, INC (2026 second_quarter) — $520000</title>
+      <link>https://lda.gov/filings/public/filing/2b2f4c38-2eb6-4991-affd-a3f35cb335b1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2b2f4c38-2eb6-4991-affd-a3f35cb335b1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MOTOROLA SOLUTIONS via MR. MARK KOPEC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/18c96d7f-2b7d-4b58-a51a-9224fabb4976/print/</link>
+      <guid isPermaLink="false">lobbying-filings:18c96d7f-2b7d-4b58-a51a-9224fabb4976</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

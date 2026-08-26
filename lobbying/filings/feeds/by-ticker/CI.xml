@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — CI</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>CIGNA CORPORATION via INVARIANT LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/ff0d7ab1-0edc-4110-adc0-558978045b95/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ff0d7ab1-0edc-4110-adc0-558978045b95</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CIGNA CORPORATION via POLARIS GOVERNMENT RELATIONS, LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/caeab211-9eab-427f-b106-e0adef0f9330/print/</link>
+      <guid isPermaLink="false">lobbying-filings:caeab211-9eab-427f-b106-e0adef0f9330</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CIGNA CORPORATION via INVARIANT LLC (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/bfbdb796-41e6-4938-bbdf-9f7c6babe610/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bfbdb796-41e6-4938-bbdf-9f7c6babe610</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE CIGNA GROUP via RED+BLUE STRATEGIES (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/ade43965-e146-4d85-ae29-3da06d66c292/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ade43965-e146-4d85-ae29-3da06d66c292</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE CIGNA GROUP AND SUBSIDIARIES (FKA CIGNA CORPORATION AND SUBSIDIARIES) via BANNER PUBLIC AFFAIRS, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/9ea4c43a-8a9c-4560-9b6e-7968573c3ff5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9ea4c43a-8a9c-4560-9b6e-7968573c3ff5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE CIGNA GROUP AND SUBSIDIARIES (FORMERLY CIGNA CORPORATION AND SUBSIDIARIES) via THE CIGNA GROUP AND SUBSIDIARIES (FORMERLY CIGNA CORPORATION AND SUBSIDIARIES) (2026 second_quarter) — $2120000</title>
+      <link>https://lda.gov/filings/public/filing/960dfc23-83b5-4a7c-9c10-5504c089ad34/print/</link>
+      <guid isPermaLink="false">lobbying-filings:960dfc23-83b5-4a7c-9c10-5504c089ad34</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE CIGNA GROUP AND SUBSIDIARIES (FORMERLY CIGNA CORPORATION AND SUBSIDIARIES) via THE CIGNA GROUP AND SUBSIDIARIES (FORMERLY CIGNA CORPORATION AND SUBSIDIARIES) (2026 first_quarter) — $3490000</title>
+      <link>https://lda.gov/filings/public/filing/8b0c29d9-e6af-4e47-8953-6c568a1ec49e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8b0c29d9-e6af-4e47-8953-6c568a1ec49e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE CIGNA GROUP AND SUBSIDIARIES via ATLAS CROSSING LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/77ee703f-2e58-4791-82f1-77422c06f704/print/</link>
+      <guid isPermaLink="false">lobbying-filings:77ee703f-2e58-4791-82f1-77422c06f704</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE CIGNA GROUP via RED+BLUE STRATEGIES (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/734b4994-8942-4749-904d-c9116233724a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:734b4994-8942-4749-904d-c9116233724a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE CIGNA GROUP AND SUBSIDIARIES (FKA CIGNA CORPORATION AND SUBSIDIARIES) via BANNER PUBLIC AFFAIRS, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/7124f0d6-fae4-4da2-a940-d9eb12c814df/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7124f0d6-fae4-4da2-a940-d9eb12c814df</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CIGNA via CAPITOL HILL CONSULTING GROUP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/6b364671-5617-454a-b4b0-011d252835ef/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6b364671-5617-454a-b4b0-011d252835ef</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CIGNA CORPORATION via POLARIS GOVERNMENT RELATIONS, LLC (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/562fb909-6696-4638-8c44-02a464d56f56/print/</link>
+      <guid isPermaLink="false">lobbying-filings:562fb909-6696-4638-8c44-02a464d56f56</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE CIGNA GROUP AND SUBSIDIARIES via BELLWETHER GOVERNMENT AFFAIRS LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/4fb98ee6-865d-48a4-a311-a71fd00f4ac3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4fb98ee6-865d-48a4-a311-a71fd00f4ac3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE CIGNA GROUP AND SUBSIDIARIES (FORMERLY CIGNA CORPORATION AND SUBSIDIARIES) via WILMER CUTLER PICKERING HALE AND DORR LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/3317d575-5ff4-4f9c-b1ae-ffec31acd62b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3317d575-5ff4-4f9c-b1ae-ffec31acd62b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE CIGNA GROUP AND SUBSIDIARIES (FORMERLY CIGNA CORPORATION AND SUBSIDIARIES) via WILMER CUTLER PICKERING HALE AND DORR LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/2a4b55d7-5eb8-438e-aadd-848aa67c9d03/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2a4b55d7-5eb8-438e-aadd-848aa67c9d03</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE CIGNA GROUP AND SUBSIDIARIES via ATLAS CROSSING LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/13e6f03f-a65f-4d05-a14d-b8a4bae0b662/print/</link>
+      <guid isPermaLink="false">lobbying-filings:13e6f03f-a65f-4d05-a14d-b8a4bae0b662</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE CIGNA GROUP AND SUBSIDIARIES via BELLWETHER GOVERNMENT AFFAIRS LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/036e9154-987f-4ea7-80ef-5b62b0cbee0c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:036e9154-987f-4ea7-80ef-5b62b0cbee0c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CIGNA via CAPITOL HILL CONSULTING GROUP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/011e702a-1459-4a52-8103-97c55fbe39e9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:011e702a-1459-4a52-8103-97c55fbe39e9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — ETN</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>EATON CORPORATION via RIDGELINE ADVOCACY GROUP LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/e5ae7fcf-dee8-424a-90e4-78d9c36c8463/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e5ae7fcf-dee8-424a-90e4-78d9c36c8463</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EATON CORPORATION via CASSIDY &amp; ASSOCIATES, INC. (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/bf026477-d87a-49b7-a93f-d14e617a3073/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bf026477-d87a-49b7-a93f-d14e617a3073</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EATON CORPORATION via RIDGELINE ADVOCACY GROUP LLC (2026 second_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/a94df07a-8a2f-45a3-8c45-64696f323146/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a94df07a-8a2f-45a3-8c45-64696f323146</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EATON CORPORATION via RIDGELINE ADVOCACY GROUP LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/7fa24263-e6bc-4e44-a255-533a8ace0b88/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7fa24263-e6bc-4e44-a255-533a8ace0b88</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EATON CORPORATION via EATON CORPORATION (2026 second_quarter) — $340000</title>
+      <link>https://lda.gov/filings/public/filing/7e70bb88-6783-4321-8fe9-8acaf04d371a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7e70bb88-6783-4321-8fe9-8acaf04d371a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EATON CORPORATION via EATON CORPORATION (2026 first_quarter) — $280000</title>
+      <link>https://lda.gov/filings/public/filing/599a3a54-e14f-4348-86f9-95dc9c63961e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:599a3a54-e14f-4348-86f9-95dc9c63961e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EATON CORPORATION via ALPINE GROUP PARTNERS, LLC. (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/4123abfe-b808-4a36-ace1-f3b2f5c4b4d5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4123abfe-b808-4a36-ace1-f3b2f5c4b4d5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EATON CORPORATION via ALPINE GROUP PARTNERS, LLC. (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/2b8bc7a9-cb95-4a26-b327-b42407859e97/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2b8bc7a9-cb95-4a26-b327-b42407859e97</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EATON CORPORATION via CASSIDY &amp; ASSOCIATES, INC. (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/1f0b8958-ee0c-4301-9d76-1158edaea8d1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1f0b8958-ee0c-4301-9d76-1158edaea8d1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — ILMN</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>ILLUMINA, INC. via TODD STRATEGY GROUP (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/f1aa4223-0b94-4a49-aa35-47b799d55137/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f1aa4223-0b94-4a49-aa35-47b799d55137</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ILLUMINA, INC. via TODD STRATEGY GROUP (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/ed09b8ac-e61c-444b-ba8f-8d702636f8d1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ed09b8ac-e61c-444b-ba8f-8d702636f8d1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ILLUMINA, INC. via AVENUE SOLUTIONS (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/dde80150-9e83-4f08-8581-1f48f85ec450/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dde80150-9e83-4f08-8581-1f48f85ec450</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ILLUMINA, INC. via AVENUE SOLUTIONS (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/dd97b118-f61b-4b1b-8a36-a9da834fed02/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dd97b118-f61b-4b1b-8a36-a9da834fed02</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ILLUMINA, INC. via ILLUMINA, INC. (2026 second_quarter) — $300000</title>
+      <link>https://lda.gov/filings/public/filing/d2e1e711-01b1-4a06-8eae-7a78d4fc0531/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d2e1e711-01b1-4a06-8eae-7a78d4fc0531</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ILLUMINA, INC. via THORN RUN PARTNERS (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/d05efceb-ee82-44df-ab18-c05cf37847da/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d05efceb-ee82-44df-ab18-c05cf37847da</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ILLUMINA, INC. via ILLUMINA, INC. (2026 first_quarter) — $320000</title>
+      <link>https://lda.gov/filings/public/filing/ae3b5fb0-d025-4100-991f-749bed80ac2a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ae3b5fb0-d025-4100-991f-749bed80ac2a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ILLUMINA, INC. via JEFFREY J. KIMBELL &amp; ASSOCIATES, INC. (2026 second_quarter) — $18750</title>
+      <link>https://lda.gov/filings/public/filing/7e36a790-d657-4944-9b20-64e69c85a8c6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7e36a790-d657-4944-9b20-64e69c85a8c6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ILLUMINA, INC. via MILLER STRATEGIES, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/79a175e8-6aca-4cd8-8e10-9b0ce3b914c0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:79a175e8-6aca-4cd8-8e10-9b0ce3b914c0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ILLUMINA, INC. via MILLER STRATEGIES, LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/5cb9c972-edc9-4c0b-8eb0-d2c2db99fc2d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5cb9c972-edc9-4c0b-8eb0-d2c2db99fc2d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ILLUMINA, INC. via JEFFREY J. KIMBELL &amp; ASSOCIATES, INC. (2026 first_quarter) — $18750</title>
+      <link>https://lda.gov/filings/public/filing/46646d6a-4d0d-4d33-b0a9-642686c2eb59/print/</link>
+      <guid isPermaLink="false">lobbying-filings:46646d6a-4d0d-4d33-b0a9-642686c2eb59</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ILLUMINA, INC. via THORN RUN PARTNERS (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/10b7a22d-b8f3-4ec1-877b-208b0ec56d5e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:10b7a22d-b8f3-4ec1-877b-208b0ec56d5e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Government contract awards — ACN</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>ACCENTURE FEDERAL SERVICES LLC — $84560 from Department of Homeland Security (2026-08-17)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_70T03026F7667N085_7013_70T03024A7667N004_7013</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_70T03026F7667N085_7013_70T03024A7667N004_7013</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ACCENTURE FEDERAL SERVICES LLC — $136687.99 from Department of Transportation (2025-03-18)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_692M1525F00027_6920_693JK418A600002_6901</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_692M1525F00027_6920_693JK418A600002_6901</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ACCENTURE FEDERAL SERVICES LLC — $2956852.65 from Department of the Interior (2024-10-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_140D0424F1317_1406_140D0424D0085_1406</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_140D0424F1317_1406_140D0424D0085_1406</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

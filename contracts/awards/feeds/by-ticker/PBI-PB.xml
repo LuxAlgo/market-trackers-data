@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Government contract awards — PBI-PB</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>PITNEY BOWES INC. — $3542.08 from Department of Health and Human Services (2026-07-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_75H70726F80018_7527_47QSMA21D08R3_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_75H70726F80018_7527_47QSMA21D08R3_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>PITNEY BOWES INC. — $319962.69 from Department of Veterans Affairs (2024-01-31)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_36C25724N0138_3600_36C10X19D0020_3600</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_36C25724N0138_3600_36C10X19D0020_3600</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>PITNEY BOWES INC. — $493716.84 from Department of Veterans Affairs (2025-07-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_36C25225F0038_3600_47QSMA21D08R3_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_36C25225F0038_3600_47QSMA21D08R3_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>PITNEY BOWES INC. — $273807 from Department of Veterans Affairs (2024-09-16)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_36C24424F0500_3600_36C10X19D0020_3600</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_36C24424F0500_3600_36C10X19D0020_3600</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

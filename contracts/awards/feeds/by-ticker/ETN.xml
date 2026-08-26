@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Government contract awards — ETN</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>EATON CORPORATION — $98994.47 from Department of Transportation (2026-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_6973GH26F01309_6920_6973GH18D00082_6920</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_6973GH26F01309_6920_6973GH18D00082_6920</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>EATON CORPORATION — $145626.35 from Department of Transportation (2026-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_6973GH26F01308_6920_6973GH18D00082_6920</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_6973GH26F01308_6920_6973GH18D00082_6920</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>EATON CORPORATION — $2568331.42 from Department of Transportation (2026-04-06)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_6973GH26F00637_6920_6973GH24D00055_6920</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_6973GH26F00637_6920_6973GH24D00055_6920</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>EATON CORPORATION — $321206.46 from Department of Transportation (2026-01-13)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_6973GH26F00265_6920_6973GH18D00082_6920</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_6973GH26F00265_6920_6973GH18D00082_6920</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

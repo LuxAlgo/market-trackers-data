@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — GRAL</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>GRAIL, INC. via GRANT PARK STRATEGIES (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/ee73fabc-3987-4083-a21a-f158381cd89a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ee73fabc-3987-4083-a21a-f158381cd89a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRAIL, INC. via AVENUE SOLUTIONS (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/da4747c2-5afb-4e7b-b581-600a2c803b7b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:da4747c2-5afb-4e7b-b581-600a2c803b7b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRAIL LLC via MILLER STRATEGIES, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/c6f55e89-621d-4c7c-a60a-81dec91f2b98/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c6f55e89-621d-4c7c-a60a-81dec91f2b98</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRAIL, LLC via WILLIAMS AND JENSEN, PLLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/c670bef0-f160-4e94-8ccd-142613515b53/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c670bef0-f160-4e94-8ccd-142613515b53</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRAIL, INC. via THE HARPLE GROUP, LLC (2026 second_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/bab21a3b-d06a-4b15-be19-048e94877eee/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bab21a3b-d06a-4b15-be19-048e94877eee</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRAIL, INC. via FORBES-TATE (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/b8497117-2a07-4ae0-b6c8-d53e5fa929c8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b8497117-2a07-4ae0-b6c8-d53e5fa929c8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRAIL, INC. via THE MCMANUS GROUP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/b5322910-03a6-4421-9527-4d74733b012e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b5322910-03a6-4421-9527-4d74733b012e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRAIL, INC. via GRANT PARK STRATEGIES (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/aa26d5d4-321b-437d-93fc-c4f28cdb43e6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:aa26d5d4-321b-437d-93fc-c4f28cdb43e6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRAIL, INC. via THE HARPLE GROUP, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/a70368dd-7d9b-4190-a56e-ce0de6fd45f4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a70368dd-7d9b-4190-a56e-ce0de6fd45f4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRAIL, INC. via THE MCMANUS GROUP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/84d3b4c1-fa88-45cc-ba1b-bd665d1f3be0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:84d3b4c1-fa88-45cc-ba1b-bd665d1f3be0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRAIL, INC. via FORBES-TATE (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/82402220-ac70-4973-ab9c-4bcb7a7e1c9e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:82402220-ac70-4973-ab9c-4bcb7a7e1c9e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRAIL, LLC via TIBER CREEK HEALTH STRATEGIES, INC. (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/77c5f643-4b94-49ca-8215-fd5b663abc34/print/</link>
+      <guid isPermaLink="false">lobbying-filings:77c5f643-4b94-49ca-8215-fd5b663abc34</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRAIL, INC. via MARSHALL &amp; POPP, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/681b21db-005d-49c8-8568-c8626dc27e04/print/</link>
+      <guid isPermaLink="false">lobbying-filings:681b21db-005d-49c8-8568-c8626dc27e04</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRAIL LLC via MILLER STRATEGIES, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/5d148f7c-cda9-4fc9-9b21-76feee2b149e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5d148f7c-cda9-4fc9-9b21-76feee2b149e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRAIL, INC. via AVENUE SOLUTIONS (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/419c3db3-1989-4b95-ba9b-292c91e61359/print/</link>
+      <guid isPermaLink="false">lobbying-filings:419c3db3-1989-4b95-ba9b-292c91e61359</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRAIL, INC. via MARSHALL &amp; POPP, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/2d29638e-fde2-489d-b473-6a1ff24d9814/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2d29638e-fde2-489d-b473-6a1ff24d9814</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRAIL, LLC via WILLIAMS AND JENSEN, PLLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/1e15d94d-f69d-4c0e-9192-50761c05a4dc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1e15d94d-f69d-4c0e-9192-50761c05a4dc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRAIL, LLC via TIBER CREEK HEALTH STRATEGIES, INC. (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/15928394-e88e-4957-8737-166ab16ada26/print/</link>
+      <guid isPermaLink="false">lobbying-filings:15928394-e88e-4957-8737-166ab16ada26</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

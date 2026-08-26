@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — BAESF</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>BAE SYSTEMS INC. via CASSIDY &amp; ASSOCIATES, INC. (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/faa770c9-1f5e-4c0b-8edb-bdbc2f6b15dc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:faa770c9-1f5e-4c0b-8edb-bdbc2f6b15dc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAE SYSTEMS, INC. via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/f636b7ce-3f68-468c-b00d-89625e83f4af/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f636b7ce-3f68-468c-b00d-89625e83f4af</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAE SYSTEMS, INC. via HOLLY STRATEGIES INCORPORATED (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/e751bdc0-9c1f-413c-a944-413925d57aae/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e751bdc0-9c1f-413c-a944-413925d57aae</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAE SYSTEMS INC. via CASSIDY &amp; ASSOCIATES, INC. (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/ba0588c7-de92-4a8c-bccb-502eb5dcf94d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ba0588c7-de92-4a8c-bccb-502eb5dcf94d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAE SYSTEMS via MS. PAT YOUNGER (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/aee97e51-0540-42f6-8f76-e7b3e5a6d8be/print/</link>
+      <guid isPermaLink="false">lobbying-filings:aee97e51-0540-42f6-8f76-e7b3e5a6d8be</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAE SYSTEMS INC via BAE SYSTEMS, INC. (2026 first_quarter) — $1410000</title>
+      <link>https://lda.gov/filings/public/filing/82b97e10-b18b-4a28-a09c-ea49dfff8026/print/</link>
+      <guid isPermaLink="false">lobbying-filings:82b97e10-b18b-4a28-a09c-ea49dfff8026</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAE SYSTEMS INC via PRASAM (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/78ec5e06-5425-4608-9fcd-452adf4d9e85/print/</link>
+      <guid isPermaLink="false">lobbying-filings:78ec5e06-5425-4608-9fcd-452adf4d9e85</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAE SYSTEMS, INC. via HOLLY STRATEGIES INCORPORATED (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/66f49dec-b130-417b-80a2-773975d47b78/print/</link>
+      <guid isPermaLink="false">lobbying-filings:66f49dec-b130-417b-80a2-773975d47b78</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAE SYSTEMS, INC. via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/5770d2b9-7f69-4f53-b5e1-48a8d58b0d96/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5770d2b9-7f69-4f53-b5e1-48a8d58b0d96</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAE SYSTEMS INC via PRASAM (2026 first_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/3fbb0516-6693-416c-8af4-fd29a24b0728/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3fbb0516-6693-416c-8af4-fd29a24b0728</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAE SYSTEMS INC via BAE SYSTEMS, INC. (2026 second_quarter) — $1260000</title>
+      <link>https://lda.gov/filings/public/filing/32467520-49ed-44eb-98d8-f267a342cd9c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:32467520-49ed-44eb-98d8-f267a342cd9c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

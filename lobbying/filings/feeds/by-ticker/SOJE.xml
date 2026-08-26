@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — SOJE</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>SOUTHERN COMPANY via POLARIS-HUTTON GROUP, LLC (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/fd68ecb2-c5a2-4909-bdb7-28b80f4eafe3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fd68ecb2-c5a2-4909-bdb7-28b80f4eafe3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHERN COMPANY via LJ CONSULTING, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/fa8416fe-1845-4375-bd7b-54d80bf3ff5b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fa8416fe-1845-4375-bd7b-54d80bf3ff5b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHERN COMPANY via LJ CONSULTING, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/dc76ed37-fd02-41ca-a1ef-08f0ca3d69f5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dc76ed37-fd02-41ca-a1ef-08f0ca3d69f5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHERN COMPANY via MILLER STRATEGIES, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/c58abf4b-806b-4985-bd32-da5b66e131de/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c58abf4b-806b-4985-bd32-da5b66e131de</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHERN COMPANY via BRACEWELL LLP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/a8611329-d7d7-4bd1-9bc1-c61b140d3151/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a8611329-d7d7-4bd1-9bc1-c61b140d3151</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHERN COMPANY via FARRAGUT PARTNERS LLP (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/8ad87b70-7f0b-4567-8a6c-9b47d27e07ff/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8ad87b70-7f0b-4567-8a6c-9b47d27e07ff</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHERN COMPANY via SOUTHERN COMPANY (2026 first_quarter) — $2510000</title>
+      <link>https://lda.gov/filings/public/filing/5d5225b6-e680-4f4f-97fa-13b93fd032f1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5d5225b6-e680-4f4f-97fa-13b93fd032f1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHERN COMPANY via BRACEWELL LLP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/5130ea8d-4718-4e5c-b951-2f58cfcd35b8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5130ea8d-4718-4e5c-b951-2f58cfcd35b8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHERN COMPANY via POLARIS-HUTTON GROUP, LLC (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/3b3dc8fa-e026-4d8f-b6a2-c4214a5b0444/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3b3dc8fa-e026-4d8f-b6a2-c4214a5b0444</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHERN COMPANY via THE SIMMONS &amp; RUSSELL GROUP, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/393fe412-35c8-44f0-a80a-983b0ef9790f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:393fe412-35c8-44f0-a80a-983b0ef9790f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHERN COMPANY via THE SIMMONS &amp; RUSSELL GROUP, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/2a29beb0-0b87-48f6-a7c4-ba9d9de9aa3d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2a29beb0-0b87-48f6-a7c4-ba9d9de9aa3d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHERN COMPANY via MILLER STRATEGIES, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/20a9c98a-9454-4f47-921e-ee9f2a333d04/print/</link>
+      <guid isPermaLink="false">lobbying-filings:20a9c98a-9454-4f47-921e-ee9f2a333d04</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHERN COMPANY via SOUTHERN COMPANY (2026 second_quarter) — $3220000</title>
+      <link>https://lda.gov/filings/public/filing/1f1ebe70-b6dd-4cb4-95dc-f2a3d3f04ffb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1f1ebe70-b6dd-4cb4-95dc-f2a3d3f04ffb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHERN COMPANY via FARRAGUT PARTNERS LLP (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/0c4b265d-d1c9-4c8d-b1cb-c3d6b4402f89/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0c4b265d-d1c9-4c8d-b1cb-c3d6b4402f89</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

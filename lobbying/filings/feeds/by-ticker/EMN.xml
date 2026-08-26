@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — EMN</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>EASTMAN CHEMICAL COMPANY via S-3 GROUP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/f5e6802a-98e0-433f-8238-b476b8c1dfcb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f5e6802a-98e0-433f-8238-b476b8c1dfcb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EASTMAN CHEMICAL COMPANY via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/b1f8049b-cb71-4c82-834f-7821ea823261/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b1f8049b-cb71-4c82-834f-7821ea823261</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EASTMAN CHEMICAL COMPANY via RIDGELINE ADVOCACY GROUP LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/78f3f47c-fcca-40f6-9e09-de96686cca39/print/</link>
+      <guid isPermaLink="false">lobbying-filings:78f3f47c-fcca-40f6-9e09-de96686cca39</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EASTMAN CHEMICAL COMPANY via THE SIMMONS &amp; RUSSELL GROUP, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/6f8e0262-fdca-47a7-b194-1b378c4417db/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6f8e0262-fdca-47a7-b194-1b378c4417db</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EASTMAN CHEMICAL COMPANY via EASTMAN CHEMICAL COMPANY (2026 first_quarter) — $1050000</title>
+      <link>https://lda.gov/filings/public/filing/5914dab5-a8bc-46f4-a1ce-33338d7d060b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5914dab5-a8bc-46f4-a1ce-33338d7d060b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EASTMAN CHEMICAL COMPANY via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/5435b5d1-e2de-4b4c-99ac-ac2aa89eb6ac/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5435b5d1-e2de-4b4c-99ac-ac2aa89eb6ac</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EASTMAN CHEMICAL COMPANY via RIDGELINE ADVOCACY GROUP LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/2f08c66e-d262-4af0-b2f5-6295f43646f1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2f08c66e-d262-4af0-b2f5-6295f43646f1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EASTMAN CHEMICAL COMPANY via THE SIMMONS &amp; RUSSELL GROUP, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/2d9160fa-cd6d-4f0d-96ad-4e6b353db416/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2d9160fa-cd6d-4f0d-96ad-4e6b353db416</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EASTMAN CHEMICAL COMPANY via VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY &amp; QUAYLE VENTURES, LLC) (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/2bd23ec0-f31d-40f9-ac2b-b27972c0f8fc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2bd23ec0-f31d-40f9-ac2b-b27972c0f8fc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EASTMAN CHEMICAL COMPANY via EASTMAN CHEMICAL COMPANY (2026 second_quarter) — $800000</title>
+      <link>https://lda.gov/filings/public/filing/1cbc9383-74d6-4c99-9d83-5df6f0de74d3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1cbc9383-74d6-4c99-9d83-5df6f0de74d3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EASTMAN CHEMICAL COMPANY via S-3 GROUP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/0621199b-56a6-4e89-934e-cc7354c3fd03/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0621199b-56a6-4e89-934e-cc7354c3fd03</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>EASTMAN CHEMICAL COMPANY via VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY &amp; QUAYLE VENTURES, LLC) (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/00bfa1da-f1cf-4f67-b520-ad550b5c06d1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:00bfa1da-f1cf-4f67-b520-ad550b5c06d1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

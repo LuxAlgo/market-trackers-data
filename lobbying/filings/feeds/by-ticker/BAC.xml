@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — BAC</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>BANK OF AMERICA CORPORATION via BANK OF AMERICA CORPORATION (2026 second_quarter) — $290000</title>
+      <link>https://lda.gov/filings/public/filing/ffd8af15-d1a7-4eb1-a2c4-0022c263cab1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ffd8af15-d1a7-4eb1-a2c4-0022c263cab1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BANK OF AMERICA CORPORATION via MERCURY PUBLIC AFFAIRS, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/d8dabee4-07d0-443c-b0de-b175de0b48ee/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d8dabee4-07d0-443c-b0de-b175de0b48ee</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BANK OF AMERICA CORPORATION via TIBER CREEK GROUP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/c3659ca7-e20a-40dc-9354-abceee108c0c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c3659ca7-e20a-40dc-9354-abceee108c0c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BANK OF AMERICA CORPORATION via TIBER CREEK GROUP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/86f20709-267f-4f9d-9f63-d97b8650c3b4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:86f20709-267f-4f9d-9f63-d97b8650c3b4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BANK OF AMERICA CORPORATION via MERCURY PUBLIC AFFAIRS, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/860c6e43-fcf4-4df0-a740-ac2c15c3b2bb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:860c6e43-fcf4-4df0-a740-ac2c15c3b2bb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BANK OF AMERICA CORPORATION via EMPIRE CONSULTING GROUP (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/76648bd7-0dbd-425d-a6d2-291131837c2f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:76648bd7-0dbd-425d-a6d2-291131837c2f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BANK OF AMERICA CORPORATION via EMPIRE CONSULTING GROUP (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/582df721-fad1-4a85-b91a-920199cfe31d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:582df721-fad1-4a85-b91a-920199cfe31d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BANK OF AMERICA CORPORATION via BANK OF AMERICA CORPORATION (2026 first_quarter) — $1680000</title>
+      <link>https://lda.gov/filings/public/filing/4c77d371-8b34-498d-b7b5-8d2b4ca2ba24/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4c77d371-8b34-498d-b7b5-8d2b4ca2ba24</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>BANK OF AMERICA CORPORATION via MERCURY PUBLIC AFFAIRS, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/425802a4-22a0-4f90-9906-6ed5abbeedf2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:425802a4-22a0-4f90-9906-6ed5abbeedf2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

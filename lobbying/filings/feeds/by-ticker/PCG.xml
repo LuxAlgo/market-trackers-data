@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — PCG</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>PG&amp;E via MOUNTAIN VIEW PARTNERS DC, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/f0743455-70c3-470f-8c6b-eb2af75b86be/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f0743455-70c3-470f-8c6b-eb2af75b86be</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PACIFIC GAS &amp; ELECTRIC via CASSIDY &amp; ASSOCIATES, INC. (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/dcaa1317-9760-4b56-bbd8-09246332a0da/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dcaa1317-9760-4b56-bbd8-09246332a0da</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PACIFIC GAS AND ELECTRIC via FORBES-TATE (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/da09cf30-3eca-42dc-b5b6-613111e05ebb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:da09cf30-3eca-42dc-b5b6-613111e05ebb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PACIFIC GAS AND ELECTRIC via FORBES-TATE (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/99074f39-5862-4533-9c3d-c71a220266d1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:99074f39-5862-4533-9c3d-c71a220266d1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PACIFIC GAS &amp; ELECTRIC via CASSIDY &amp; ASSOCIATES, INC. (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/3c2cdde3-668e-4064-bf6a-9a8ee50b907b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3c2cdde3-668e-4064-bf6a-9a8ee50b907b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PACIFIC GAS AND ELECTRIC COMPANY (FORMERLY PG&amp;E CORPORATION) via NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC) (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/3a13785e-e57f-427f-b320-954bca1b4103/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3a13785e-e57f-427f-b320-954bca1b4103</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PACIFIC GAS AND ELECTRIC COMPANY via D&amp;P CREATIVE STRATEGIES, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/392d1f9a-1e6a-4ce0-89a3-367232cfae69/print/</link>
+      <guid isPermaLink="false">lobbying-filings:392d1f9a-1e6a-4ce0-89a3-367232cfae69</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PACIFIC GAS AND ELECTRIC COMPANY via D&amp;P CREATIVE STRATEGIES, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/2c4a5c70-0f68-4747-8587-a7c5c88f66fb/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2c4a5c70-0f68-4747-8587-a7c5c88f66fb</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PACIFIC GAS AND ELECTRIC COMPANY (FORMERLY PG&amp;E CORPORATION) via NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC) (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/2a70f9a5-664f-4155-bb23-ce3d7d8c6738/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2a70f9a5-664f-4155-bb23-ce3d7d8c6738</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PG&amp;E via MOUNTAIN VIEW PARTNERS DC, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/1e20acc1-0fbd-4656-b872-c28514407b8d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1e20acc1-0fbd-4656-b872-c28514407b8d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PACIFIC GAS AND ELECTRIC COMPANY via PACIFIC GAS AND ELECTRIC COMPANY (2026 second_quarter) — $3530000</title>
+      <link>https://lda.gov/filings/public/filing/19a25271-bae4-4f0c-91d7-f25b5d0241f2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:19a25271-bae4-4f0c-91d7-f25b5d0241f2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PACIFIC GAS AND ELECTRIC COMPANY via PACIFIC GAS AND ELECTRIC COMPANY (2026 first_quarter) — $2880000</title>
+      <link>https://lda.gov/filings/public/filing/1105c2f4-6280-476d-ac6a-f1ea48d52779/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1105c2f4-6280-476d-ac6a-f1ea48d52779</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

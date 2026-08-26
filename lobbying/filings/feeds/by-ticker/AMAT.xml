@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — AMAT</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>APPLIED MATERIALS, INC via APPLIED MATERIALS, INC (2026 first_quarter) — $760000</title>
+      <link>https://lda.gov/filings/public/filing/f2b5ddcc-f7af-4da4-963e-f696f1847295/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f2b5ddcc-f7af-4da4-963e-f696f1847295</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APPLIED MATERIALS, INC. via RICCHETTI INCORPORATED (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/e71a31ae-f826-4acc-b0ba-0663dea255b8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e71a31ae-f826-4acc-b0ba-0663dea255b8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APPLIED MATERIALS, INC. via THE WASHINGTON TAX &amp; PUBLIC POLICY GROUP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/dfa0d243-b45e-4ee4-aa53-585b09eba329/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dfa0d243-b45e-4ee4-aa53-585b09eba329</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APPLIED MATERIALS, INC. via THORN RUN PARTNERS (2026 first_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/c46476a1-f41a-4c96-b16a-2b1e71001450/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c46476a1-f41a-4c96-b16a-2b1e71001450</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APPLIED MATERIALS, INC. via MEHLMAN CONSULTING, INC. (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/ab6e2788-bf06-44bb-b424-d4b8f9d4db11/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ab6e2788-bf06-44bb-b424-d4b8f9d4db11</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APPLIED MATERIALS, INC. via THE WASHINGTON TAX &amp; PUBLIC POLICY GROUP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/ab3fda2e-0858-4050-b004-5b29d7ae5b6b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ab3fda2e-0858-4050-b004-5b29d7ae5b6b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APPLIED MATERIALS, INC via APPLIED MATERIALS, INC (2026 second_quarter) — $680000</title>
+      <link>https://lda.gov/filings/public/filing/87431f84-ee8c-470a-b94b-5b5ee39b0ef3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:87431f84-ee8c-470a-b94b-5b5ee39b0ef3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APPLIED MATERIALS, INC. via THORN RUN PARTNERS (2026 second_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/71590e49-6ef3-4136-9d88-8c7b49cc250b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:71590e49-6ef3-4136-9d88-8c7b49cc250b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APPLIED MATERIALS via CONTINENTAL STRATEGY, LLC (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/3c5ac67a-d63a-4e8b-890e-b682153d39ff/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3c5ac67a-d63a-4e8b-890e-b682153d39ff</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APPLIED MATERIALS, INC. via RICCHETTI INCORPORATED (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/373c6473-d0d9-4339-bc38-07bfa3e2ebc2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:373c6473-d0d9-4339-bc38-07bfa3e2ebc2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APPLIED MATERIALS, INC. via MEHLMAN CONSULTING, INC. (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/2ee3121a-cfae-4d90-a5aa-568b0cfd332c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2ee3121a-cfae-4d90-a5aa-568b0cfd332c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>APPLIED MATERIALS via CONTINENTAL STRATEGY, LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/188ba792-9da2-4639-872b-6070c9d5255b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:188ba792-9da2-4639-872b-6070c9d5255b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

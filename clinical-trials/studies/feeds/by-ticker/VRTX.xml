@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Clinical trial registrations — VRTX</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>Vertex Pharmaceuticals Incorporated — COMPLETED PHASE2: Inaxaplin in Participants With Proteinuric APOL1 Mediated Kidney Disease With or Without Comorbidities</title>
+      <link>https://clinicaltrials.gov/study/NCT06794996</link>
+      <guid isPermaLink="false">clinical-trials:NCT06794996</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vertex Pharmaceuticals Incorporated — ACTIVE_NOT_RECRUITING PHASE1/PHASE2: A Phase 1/2 Study of VX-670 in Adult Participants With Myotonic Dystrophy 1 (DM1)</title>
+      <link>https://clinicaltrials.gov/study/NCT06185764</link>
+      <guid isPermaLink="false">clinical-trials:NCT06185764</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vertex Pharmaceuticals Incorporated — RECRUITING PHASE2/PHASE3: Phase 2/3 Adaptive Study of VX-147 in Adult and Pediatric Participants With APOL1-Mediated Proteinuric Kidney Disease</title>
+      <link>https://clinicaltrials.gov/study/NCT05312879</link>
+      <guid isPermaLink="false">clinical-trials:NCT05312879</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

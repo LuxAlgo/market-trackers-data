@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — WFC</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via 535 GROUP, LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/ec612d68-379b-4e79-8115-af7d9200229e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ec612d68-379b-4e79-8115-af7d9200229e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via RMP STRATEGIES, LLC (2026 first_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/ebdc75f3-df47-4a67-8400-cfa98c3d725b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ebdc75f3-df47-4a67-8400-cfa98c3d725b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via 535 GROUP, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/de3a3b18-bf52-4ba2-92b7-98e1ca63239d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:de3a3b18-bf52-4ba2-92b7-98e1ca63239d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via FEDERAL STREET STRATEGIES, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/d79d9658-b7e6-44d9-8df9-9b3b18043cb5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d79d9658-b7e6-44d9-8df9-9b3b18043cb5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via OGR (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/d0874cf3-8788-471c-b1e5-3eabb576e145/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d0874cf3-8788-471c-b1e5-3eabb576e145</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via HAAS STRATEGIES LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/cd98d35c-ecf9-4c2f-b133-9b94dd6a0525/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cd98d35c-ecf9-4c2f-b133-9b94dd6a0525</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via EMERGENT STRATEGIES (2026 first_quarter) — $33000</title>
+      <link>https://lda.gov/filings/public/filing/cac42a39-3711-4b45-b1e4-0d6aa3d129c3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cac42a39-3711-4b45-b1e4-0d6aa3d129c3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via FEDERAL STREET STRATEGIES, LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/c0721802-bd43-444c-983d-12c5e524fbd5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c0721802-bd43-444c-983d-12c5e524fbd5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via GEOFFREY P. GRAY (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/b2afe29f-a165-4515-931c-bf87beb88178/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b2afe29f-a165-4515-931c-bf87beb88178</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via COGENT STRATEGIES LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/b2415cac-0abc-4cb5-90a4-7080a8a7abf3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b2415cac-0abc-4cb5-90a4-7080a8a7abf3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via WELLS FARGO &amp; COMPANY (2026 second_quarter) — $720000</title>
+      <link>https://lda.gov/filings/public/filing/a4ddba05-c4bc-4407-a162-c17faa70a128/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a4ddba05-c4bc-4407-a162-c17faa70a128</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via RMP STRATEGIES, LLC (2026 second_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/960c8037-2615-4f37-877c-8532d33f51e7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:960c8037-2615-4f37-877c-8532d33f51e7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via EMERGENT STRATEGIES (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/9577653d-409a-4c4e-8070-bac4b2bc0a15/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9577653d-409a-4c4e-8070-bac4b2bc0a15</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via MINDSET ADVOCACY, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/8139b293-0ee7-49cf-84ad-0b92326d1e23/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8139b293-0ee7-49cf-84ad-0b92326d1e23</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via HAAS STRATEGIES LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/61d49b36-27ef-4bd1-aa14-dda9901654b3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:61d49b36-27ef-4bd1-aa14-dda9901654b3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via WELLS FARGO &amp; COMPANY (2026 first_quarter) — $720000</title>
+      <link>https://lda.gov/filings/public/filing/47731033-503c-42ca-bff7-6a1ad4543cf5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:47731033-503c-42ca-bff7-6a1ad4543cf5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via OGR (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/460f600f-1af1-47a4-8c45-50c3bf53183c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:460f600f-1af1-47a4-8c45-50c3bf53183c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via HAAS STRATEGIES LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/154c3419-2998-458b-a79a-a01ea1a2b4a9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:154c3419-2998-458b-a79a-a01ea1a2b4a9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via GEOFFREY P. GRAY (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/1387664d-ca63-4597-9a32-fe0ec875bd05/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1387664d-ca63-4597-9a32-fe0ec875bd05</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via MINDSET ADVOCACY, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/122c883b-0e4d-4be5-a517-06641d2f616b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:122c883b-0e4d-4be5-a517-06641d2f616b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WELLS FARGO &amp; COMPANY via COGENT STRATEGIES LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/046933f1-0af2-4db0-a515-dd7516cce001/print/</link>
+      <guid isPermaLink="false">lobbying-filings:046933f1-0af2-4db0-a515-dd7516cce001</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

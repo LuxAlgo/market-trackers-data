@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — UPS</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>UNITED PARCEL SERVICE via CORNERSTONE GOVERNMENT AFFAIRS, INC. (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/f3ed49f7-7cb6-49b1-900e-025c70583f86/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f3ed49f7-7cb6-49b1-900e-025c70583f86</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITED PARCEL SERVICE via FORBES-TATE (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/e7d8d47f-88da-4edc-91dd-1311105c9b97/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e7d8d47f-88da-4edc-91dd-1311105c9b97</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITED PARCEL SERVICE via RAFFANIELLO &amp; ASSOCIATES (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/c8a5e62a-eb25-43e3-a12c-5a05d4cf9b6c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c8a5e62a-eb25-43e3-a12c-5a05d4cf9b6c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITED PARCEL SERVICE via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/aaca1163-fc4c-46e1-a132-944f1e88e1de/print/</link>
+      <guid isPermaLink="false">lobbying-filings:aaca1163-fc4c-46e1-a132-944f1e88e1de</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITED PARCEL SERVICE via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/9e845409-ccdb-43b1-b90c-bc651a33a985/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9e845409-ccdb-43b1-b90c-bc651a33a985</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITED PARCEL SERVICE via RAFFANIELLO &amp; ASSOCIATES (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/9b4014a0-c83f-4f35-ad52-8ca10fe9c8ce/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9b4014a0-c83f-4f35-ad52-8ca10fe9c8ce</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITED PARCEL SERVICE via NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC) (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/7d63cc55-0213-4348-ac07-563dfb4ebc27/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7d63cc55-0213-4348-ac07-563dfb4ebc27</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITED PARCEL SERVICE via FORBES-TATE (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/3f467996-f8b1-433f-820b-a09ea7fbd1b4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3f467996-f8b1-433f-820b-a09ea7fbd1b4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITED PARCEL SERVICE via NAVIGATORS GLOBAL LLC (FORMERLY DC NAVIGATORS, LLC) (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/2e434931-7d88-4491-831f-b9f5b6223a1f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2e434931-7d88-4491-831f-b9f5b6223a1f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITED PARCEL SERVICE via CORNERSTONE GOVERNMENT AFFAIRS, INC. (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/0105cb78-9025-467b-9f18-0128c5c388dd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0105cb78-9025-467b-9f18-0128c5c388dd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

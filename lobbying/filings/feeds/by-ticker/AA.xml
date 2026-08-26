@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — AA</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>ALCOA CORPORATION via MONUMENT ADVOCACY (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/dcc7f43a-b0ca-47c9-acdf-c914af37872c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:dcc7f43a-b0ca-47c9-acdf-c914af37872c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALCOA CORP via ALCOA CORP (2026 second_quarter) — $960000</title>
+      <link>https://lda.gov/filings/public/filing/ccd7f575-0a40-49f3-95a4-d04cda733128/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ccd7f575-0a40-49f3-95a4-d04cda733128</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALCOA CORPORATION via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/cabdba4a-c0a7-4ce3-b918-9355d8a8a3e0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cabdba4a-c0a7-4ce3-b918-9355d8a8a3e0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALCOA CORP via ALCOA CORP (2026 first_quarter) — $540000</title>
+      <link>https://lda.gov/filings/public/filing/b5f08e52-f965-4fe7-8383-6e33cbfa5790/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b5f08e52-f965-4fe7-8383-6e33cbfa5790</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALCOA CORPORATION via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/9d2662de-992e-40a7-8421-674fe7e3542c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9d2662de-992e-40a7-8421-674fe7e3542c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALCOA CORPORATION via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/8a6edc80-1cdf-4b4e-94ab-3af29f4bd33a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8a6edc80-1cdf-4b4e-94ab-3af29f4bd33a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALCOA CORPORATION via BARNES &amp; THORNBURG, LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/80e7208a-ca7e-40c3-bf54-6dcdb1726c1a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:80e7208a-ca7e-40c3-bf54-6dcdb1726c1a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALCOA CORPORATION via BARNES &amp; THORNBURG, LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/5a5cf4d6-efc0-484d-a983-1fe6e35b76b0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5a5cf4d6-efc0-484d-a983-1fe6e35b76b0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALCOA CORPORATION via MONUMENT ADVOCACY (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/30f63181-45ce-461f-8f40-8346642d39f5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:30f63181-45ce-461f-8f40-8346642d39f5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALCOA CORPORATION via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/1d24070f-e9d0-48ac-85f1-14c55422a157/print/</link>
+      <guid isPermaLink="false">lobbying-filings:1d24070f-e9d0-48ac-85f1-14c55422a157</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

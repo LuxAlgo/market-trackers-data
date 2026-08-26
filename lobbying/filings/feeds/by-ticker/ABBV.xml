@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — ABBV</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>ABBVIE, INC. via FEDERAL STREET STRATEGIES, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/f8b218ce-9661-470c-b105-c817e34e7c6b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f8b218ce-9661-470c-b105-c817e34e7c6b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE INC. via ABBVIE, INC. (2026 second_quarter) — $1160000</title>
+      <link>https://lda.gov/filings/public/filing/f5e22dcd-3bc5-4c83-87a5-4758414daabe/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f5e22dcd-3bc5-4c83-87a5-4758414daabe</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/f16f5b53-df2a-4453-b78e-0c84b4500a04/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f16f5b53-df2a-4453-b78e-0c84b4500a04</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE via CAPITOL TAX PARTNERS, LLP (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/efaa03cd-c74c-404d-8606-63ea8818b067/print/</link>
+      <guid isPermaLink="false">lobbying-filings:efaa03cd-c74c-404d-8606-63ea8818b067</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE INC. via CORNERSTONE GOVERNMENT AFFAIRS, INC. (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/d803829f-05d7-4747-956c-4893f8e264f4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d803829f-05d7-4747-956c-4893f8e264f4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE INC. via CORNERSTONE GOVERNMENT AFFAIRS, INC. (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/d3f79ead-efa8-4585-9725-341ed6f72c3a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d3f79ead-efa8-4585-9725-341ed6f72c3a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE via ACG ADVOCACY (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/bcd81e62-719f-4a4e-8c96-98102e8d8a04/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bcd81e62-719f-4a4e-8c96-98102e8d8a04</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE INC. via MARSHALL &amp; POPP, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/b9a2206b-9cb9-4cbc-811f-d338fc92945e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b9a2206b-9cb9-4cbc-811f-d338fc92945e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE, INC. via WILLIAMS AND JENSEN, PLLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/acbb7f14-2818-4f84-8006-feb0d66b9301/print/</link>
+      <guid isPermaLink="false">lobbying-filings:acbb7f14-2818-4f84-8006-feb0d66b9301</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE INC. via MARSHALL &amp; POPP, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/8b2ab503-baad-459d-a0b8-c61737a1eb51/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8b2ab503-baad-459d-a0b8-c61737a1eb51</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE, INC. via WILLIAMS AND JENSEN, PLLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/861b4b45-8e79-4dbe-ae2c-47ffe4f7524d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:861b4b45-8e79-4dbe-ae2c-47ffe4f7524d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE INC. via W STRATEGIES, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/7206baea-eb69-4605-b040-736a5b35864a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7206baea-eb69-4605-b040-736a5b35864a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE INC. via CHECKMATE GOVERNMENT RELATIONS (2026 first_quarter) — $180000</title>
+      <link>https://lda.gov/filings/public/filing/4fba4096-381e-4f0c-928b-0618e4bdda4d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4fba4096-381e-4f0c-928b-0618e4bdda4d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE via CAPITOL TAX PARTNERS, LLP (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/49d6d4d9-c29d-4df9-8497-544cb0c59e45/print/</link>
+      <guid isPermaLink="false">lobbying-filings:49d6d4d9-c29d-4df9-8497-544cb0c59e45</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE, INC. via BAKER &amp; HOSTETLER LLP (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/40a7ab51-a345-4d1f-9114-c26e07dfd937/print/</link>
+      <guid isPermaLink="false">lobbying-filings:40a7ab51-a345-4d1f-9114-c26e07dfd937</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE INC. via TARPLIN, DOWNS &amp; YOUNG, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/404698bf-f0f9-4a28-86dc-ffd1b6e98e2c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:404698bf-f0f9-4a28-86dc-ffd1b6e98e2c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE, INC. via WILLIAMS AND JENSEN, PLLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/3fac4d9f-a643-4a93-9160-1855e4394779/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3fac4d9f-a643-4a93-9160-1855e4394779</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE, INC. via BAKER &amp; HOSTETLER LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/3cc8bbbf-bd37-448e-a6a9-26be0954ce37/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3cc8bbbf-bd37-448e-a6a9-26be0954ce37</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE via ACG ADVOCACY (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/31c6c065-b5d1-4b26-8ee1-ae0f38f89d83/print/</link>
+      <guid isPermaLink="false">lobbying-filings:31c6c065-b5d1-4b26-8ee1-ae0f38f89d83</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE INC. via TARPLIN, DOWNS &amp; YOUNG, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/2950cdc4-c738-440b-a2f0-6d92f35ae6f2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2950cdc4-c738-440b-a2f0-6d92f35ae6f2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/27873c03-93bf-4371-96e8-924b08daad0f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:27873c03-93bf-4371-96e8-924b08daad0f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE INC. via ABBVIE, INC. (2026 first_quarter) — $2080000</title>
+      <link>https://lda.gov/filings/public/filing/125765fc-df56-433f-bd28-e6ae08da30dd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:125765fc-df56-433f-bd28-e6ae08da30dd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE INC. via W STRATEGIES, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/0e0540d8-fa6d-446a-84c2-867e513021b4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0e0540d8-fa6d-446a-84c2-867e513021b4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE INC. via CHECKMATE GOVERNMENT RELATIONS (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/0da2c9e1-8cc0-44ee-a230-51d22d57ebbe/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0da2c9e1-8cc0-44ee-a230-51d22d57ebbe</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE, INC. via FEDERAL STREET STRATEGIES, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/07b2d296-8ba9-48ab-835d-5587abdec24a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:07b2d296-8ba9-48ab-835d-5587abdec24a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABBVIE INC. via CHECKMATE GOVERNMENT RELATIONS (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/04de9cac-d92d-483b-99c8-2d1e7fd961af/print/</link>
+      <guid isPermaLink="false">lobbying-filings:04de9cac-d92d-483b-99c8-2d1e7fd961af</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

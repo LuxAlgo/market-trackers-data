@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Government contract awards</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>ECC ENVIRONMENTAL LLC — $954600.88 from Department of Defense (2025-09-17)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_W912DQ25F3059_9700_W912DQ22D3019_9700</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_W912DQ25F3059_9700_W912DQ22D3019_9700</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>AECOM TECHNICAL SERVICES, INC. — $6746283.12 from Department of Defense (2023-03-13)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_W912DQ23F3017_9700_W912DQ21D3000_9700</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_W912DQ23F3017_9700_W912DQ21D3000_9700</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ARJO INC — $170251.96 from Department of Veterans Affairs (2014-10-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_VA25815F0016_3600_VA25812A0008_3600</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_VA25815F0016_3600_VA25812A0008_3600</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ARKANSAS CRIME INFORMATION CENTER — $19292.19 from Department of Veterans Affairs (2016-10-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_VA25616P1512_3600_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_VA25616P1512_3600_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>CADDELL CONSTRUCTION CO. (DE), LLC — $239210315.14 from Department of State (2017-09-29)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_SAQMMA17C0314_1900_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_SAQMMA17C0314_1900_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>INSTITUTO NACIONAL DE TECNICA AEROESPACIAL ESTEBAN TERRADAS MDE — $407393152.45 from National Aeronautics and Space Administration (2005-10-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_NNN05AA02C_8000_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_NNN05AA02C_8000_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>BUSINESS INTEGRA TECHNOLOGY SOLUTIONS, INC. — $149298874.57 from National Aeronautics and Space Administration (2017-02-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_NNG16VU01C_8000_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_NNG16VU01C_8000_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAE SYSTEMS SPACE &amp; MISSION SYSTEMS INC. — $482892042.65 from National Aeronautics and Space Administration (2010-09-10)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_NNG10XA01C_8000_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_NNG10XA01C_8000_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHWEST RESEARCH INSTITUTE — $39069557 from National Aeronautics and Space Administration (2005-03-16)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_NNG05EC87C_8000_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_NNG05EC87C_8000_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>TELEDYNE FLIR DEFENSE, INC. — $37921 from Department of Defense (2026-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_N0016426FL150_9700_N0016423DJQ05_9700</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_N0016426FL150_9700_N0016423DJQ05_9700</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIGIERS COMPUTER SERVICES LLC — $126565 from Department of Homeland Security (2017-09-26)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HSFE6017C0203_7022_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HSFE6017C0203_7022_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>FEDERAL EXPRESS CORP — $18746.01 from Department of Homeland Security (2016-03-28)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HSFE4016J0205_7022_HSFE4016A0027_7022</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HSFE4016J0205_7022_HSFE4016A0027_7022</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>MANHATTAN ASSOCIATES, INC. — $41269694.78 from Department of Homeland Security (2017-06-19)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HSFE3017C0200_7022_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HSFE3017C0200_7022_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>UBEO WEST LLC — $16988.64 from Department of Homeland Security (2017-04-03)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HSFE0917P0028_7022_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HSFE0917P0028_7022_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>CACI NSS, LLC — $28817901.34 from Department of Homeland Security (2017-04-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HSBP1017J00112_7014_HSHQDC13DE2098_7001</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HSBP1017J00112_7014_HSHQDC13DE2098_7001</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>FISHER BIOSERVICES INC — $240644.96 from Department of Health and Human Services (2014-09-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSN27500003_7529_HHSN275201400003I_7529</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSN27500003_7529_HHSN275201400003I_7529</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>TACONIC BIOSCIENCES, INC. — $9396821.5 from Department of Health and Human Services (2017-09-22)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSN272201700058C_7529_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSN272201700058C_7529_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>DUKE UNIVERSITY — $1054926.1 from Department of Health and Human Services (2016-09-19)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSN27200017_7529_HHSN272201300017I_7529</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSN27200017_7529_HHSN272201300017I_7529</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>MGA RESEARCH CORPORATION — $193643.66 from Department of Health and Human Services (2011-03-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSD254201138281C_7523_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSD254201138281C_7523_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>MGA RESEARCH CORPORATION — $232983.75 from Department of Health and Human Services (2011-03-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSD254201138280C_7523_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSD254201138280C_7523_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>AVI-SPL GLOBAL LLC — $327.03 from Department of Health and Human Services (2016-09-26)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSD2002016F92331_7523_HHSD2002012M51413B_7523</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSD2002016F92331_7523_HHSD2002012M51413B_7523</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>INFOTECH SOFT INC — $796922 from Department of Health and Human Services (2013-09-30)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSD200201357559C_7523_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSD200201357559C_7523_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>RUMPH &amp; ASSOCIATES, P.C. — $2230447 from Department of Health and Human Services (2012-10-22)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSD200201353833C_7523_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSD200201353833C_7523_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE JOHNS HOPKINS UNIVERSITY — $1634308.85 from Department of Health and Human Services (2011-09-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSD200201140800C_7523_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSD200201140800C_7523_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>FAMILY HEALTH INTERNATIONAL — $91354.33 from Department of Health and Human Services (2012-08-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSD2002010357700009_7523_HHSD200201035770I_7523</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSD2002010357700009_7523_HHSD200201035770I_7523</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>FAMILY HEALTH INTERNATIONAL — $173760.43 from Department of Health and Human Services (2012-03-27)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSD2002010357700008_7523_HHSD200201035770I_7523</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSD2002010357700008_7523_HHSD200201035770I_7523</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANYA INTERNATIONAL LLC — $119684 from Department of Health and Human Services (2014-09-15)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSD2002009313720059_7523_HHSD200200931372I_7523</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSD2002009313720059_7523_HHSD200200931372I_7523</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANYA INTERNATIONAL LLC — $573970.88 from Department of Health and Human Services (2014-07-16)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSD2002009313720057_7523_HHSD200200931372I_7523</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSD2002009313720057_7523_HHSD200200931372I_7523</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANYA INTERNATIONAL LLC — $1753436.13 from Department of Health and Human Services (2014-07-18)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSD2002009313720055_7523_HHSD200200931372I_7523</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSD2002009313720055_7523_HHSD200200931372I_7523</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANYA INTERNATIONAL LLC — $290179.85 from Department of Health and Human Services (2014-09-30)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSD2002009313720053_7523_HHSD200200931372I_7523</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSD2002009313720053_7523_HHSD200200931372I_7523</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANYA INTERNATIONAL LLC — $1162503.47 from Department of Health and Human Services (2014-01-25)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSD2002009313720051_7523_HHSD200200931372I_7523</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSD2002009313720051_7523_HHSD200200931372I_7523</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANYA INTERNATIONAL LLC — $612547.77 from Department of Health and Human Services (2014-01-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSD2002009313720050_7523_HHSD200200931372I_7523</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSD2002009313720050_7523_HHSD200200931372I_7523</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANYA INTERNATIONAL LLC — $1721758.33 from Department of Health and Human Services (2013-07-18)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSD2002009313720043_7523_HHSD200200931372I_7523</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSD2002009313720043_7523_HHSD200200931372I_7523</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK — $4624575.2 from Department of Health and Human Services (2007-09-28)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSD200200723654C_7523_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSD200200723654C_7523_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE JOHNS HOPKINS UNIVERSITY — $298842.47 from Department of Health and Human Services (2005-08-22)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSD2002004053150002_7523_HHSD200200405315I_7523</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSD2002004053150002_7523_HHSD200200405315I_7523</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ACADEMY FOR EDUCATIONAL DEVELOPMENT, INC. — $681119.34 from Department of Health and Human Services (2005-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HHSD2002004053110004_7523_HHSD200200405311I_7523</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HHSD2002004053110004_7523_HHSD200200405311I_7523</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRACE SYSTEMS INC. — $562.68 from Department of Defense (2026-08-17)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_HC101326FB791_9700_HC101322D0005_9700</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_HC101326FB791_9700_HC101322D0005_9700</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN ASTRONOMY, INC. — $2533788480 from National Aeronautics and Space Administration (1987-09-15)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_GSFC0198106DNAS526555_8000_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_GSFC0198106DNAS526555_8000_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>HINES REPORTERS.COM, INC. — $50000 from Department of Housing and Urban Development (2017-08-11)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_DU203NP17P0038_8600_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_DU203NP17P0038_8600_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>CREATIVE ENTERPRISE SOLUTIONS, L.L.C. — $891917.4 from District of Columbia Courts (2026-09-29)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_95C67826P0321_9534_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_95C67826P0321_9534_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>TPHASE ENTERPRISE, LLC — $208000 from District of Columbia Courts (2026-01-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_95C67826P0083_9534_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_95C67826P0083_9534_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHREIBER TRANSLATIONS, INC — $33066.67 from District of Columbia Courts (2025-09-28)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_95C67825P0363_9534_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_95C67825P0363_9534_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLENNIUM UPS LLC — $61517.59 from District of Columbia Courts (2025-03-28)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_95C67825P0202_9534_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_95C67825P0202_9534_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>PACIFIC GAS AND ELECTRIC COMPANY — $88107.88 from Department of the Treasury (2017-12-12)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_95914718F0002_9577_GS00P14BSD1137_4740</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_95914718F0002_9577_GS00P14BSD1137_4740</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>S.J. BASHEN, INC. — $40000 from Consumer Financial Protection Bureau (2025-02-03)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_9531CB25F0017_955F_9531CB25A0006_955F</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_9531CB25F0017_955F_9531CB25A0006_955F</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ENTERPRISE TECHNOLOGY SOLUTIONS, INC. — $1359099.86 from Consumer Financial Protection Bureau (2022-09-21)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_9531CB22F0084_955F_NNG15SD76B_8000</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_9531CB22F0084_955F_NNG15SD76B_8000</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE WINVALE GROUP, LLC — $595659.6 from National Transportation Safety Board (2023-09-05)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_9531BM23F0061_9508_47QTCA23D007Q_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_9531BM23F0061_9508_47QTCA23D007Q_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOVSMART, INC. — $43183.15 from United States Chemical Safety Board (2026-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_95315826F00010_9565_NNG15SD11B_8000</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_95315826F00010_9565_NNG15SD11B_8000</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>DIVERSEUS LLC — $526121.6 from Defense Nuclear Facilities Safety Board (2023-06-29)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_95314223P0004_9516_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_95314223P0004_9516_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLIMMER TECHNOLOGIES INC — $350000 from U.S. Agency for Global Media (2026-08-25)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_95170026K0034_9568_95170022A0352_9568</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_95170026K0034_9568_95170022A0352_9568</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>MISCELLANEOUS FOREIGN AWARDEES — $23963.06 from U.S. Agency for Global Media (2023-07-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_95170023K0333_9568_95170021A0079_9568</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_95170023K0333_9568_95170021A0079_9568</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>BASECAMP CONSULTING AND SOLUTIONS LLC — $706661.08 from Department of Education (2026-08-26)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_91990026F0086_9100_47QTCA18D0099_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_91990026F0086_9100_47QTCA18D0099_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>VALIANT SOLUTIONS, LLC — $12872130.02 from Department of Education (2024-07-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_91990024F0319_9100_91990024A0002_9100</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_91990024F0319_9100_91990024A0002_9100</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>TACTILE DESIGN GROUP LLC — $3483482.07 from Department of Education (2022-09-30)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_91990022F0384_9100_91990022A0011_9100</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_91990022F0384_9100_91990022A0011_9100</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>MBL TECHNOLOGIES, INC. — $6138293.99 from Department of Education (2020-07-02)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_91990020F0023_9100_GS35F0475X_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_91990020F0023_9100_GS35F0475X_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>MERLIN INTERNATIONAL, INC. — $436916.91 from Department of Education (2026-07-31)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_91003126F0050_9100_NNG15SC17B_8000</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_91003126F0050_9100_NNG15SC17B_8000</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>PPS INFOTECH LLC — $1356315.38 from Department of Education (2026-07-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_91003126F0041_9100_47QTCA20D000E_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_91003126F0041_9100_47QTCA20D000E_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>PPS INFOTECH LLC — $5388068.51 from Department of Education (2026-07-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_91003126F0040_9100_47QTCA20D000E_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_91003126F0040_9100_47QTCA20D000E_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>CENTRAL RESEARCH INC — $62222425.6 from Department of Education (2026-04-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_91003126F0019_9100_91003123D0002_9100</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_91003126F0019_9100_91003123D0002_9100</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>EDFINANCIAL SERVICES LLC — $87451735.33 from Department of Education (2025-10-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_91003125F0042_9100_91003123D0003_9100</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_91003125F0042_9100_91003123D0003_9100</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>EDFINANCIAL SERVICES LLC — $209310339.07 from Department of Education (2024-07-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_91003124F0319_9100_91003123D0003_9100</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_91003124F0319_9100_91003123D0003_9100</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>RELX INC. — $28314 from Department of Energy (2026-08-25)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89603026F0055_8960_47QREA22D0014_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89603026F0055_8960_47QREA22D0014_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ADVANCED EEO SOLUTIONS LLC — $4000 from Department of Energy (2026-05-25)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89603026F0031_8960_47QREA22D000E_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89603026F0031_8960_47QREA22D000E_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>TYNDALE ENTERPRISES, INC. — $127537.01 from Department of Energy (2023-09-27)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89603023P0035_8960_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89603023P0035_8960_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALEXTON INCORPORATED — $742090.9 from Department of Energy (2026-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89503426FWA401872_8900_GS23F0096V_4730</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89503426FWA401872_8900_GS23F0096V_4730</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALTEC INDUSTRIES, INC. — $622642 from Department of Energy (2024-05-30)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89503424FWA401635_8900_GS30F026GA_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89503424FWA401635_8900_GS30F026GA_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROCK &amp; ASSOCIATES — $30135.6 from Department of Energy (2026-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89503226FWA400868_8900_89503422DWA000010_8900</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89503226FWA400868_8900_89503422DWA000010_8900</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAHFED CORP — $85563 from Department of Energy (2026-09-23)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89503026FWA401215_8900_NNG15SD09B_8000</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89503026FWA401215_8900_NNG15SD09B_8000</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>OPEN SYSTEMS INTERNATIONAL INC — $3150537.07 from Department of Energy (2024-09-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89503024CWA000031_8900_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89503024CWA000031_8900_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>SALMON GROUP INC — $125985.17 from Department of Energy (2023-12-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89303924FEM000265_8900_89303923AEM000023_8900</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89303924FEM000265_8900_89303923AEM000023_8900</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>S &amp; K FEDERAL SERVICES LLC — $695700.25 from Department of Energy (2025-05-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89303325FEM400456_8900_89303320DEM000035_8900</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89303325FEM400456_8900_89303320DEM000035_8900</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>BATTELLE SAVANNAH RIVER ALLIANCE, LLC — $1611506000.72 from Department of Energy (2021-02-16)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89303321CEM000080_8900_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89303321CEM000080_8900_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHERN OHIO CLEANUP COMPANY LLC — $368804997.56 from Department of Energy (2025-09-19)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89303125FEM400428_8900_89303323DEM000089_8900</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89303125FEM400428_8900_89303323DEM000089_8900</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOUR RIVERS NUCLEAR PARTNERSHIP LLC — $18550000 from Department of Energy (2022-12-12)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89303123FEM400244_8900_DEEM0004895_8900</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89303123FEM400244_8900_DEEM0004895_8900</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>EDGEWATER FEDERAL SOLUTIONS, INC. — $5625000 from Department of Energy (2026-02-11)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89303026FEI400163_8900_89303024DEI000003_8900</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89303026FEI400163_8900_89303024DEI000003_8900</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>COHNREZNICK LLP — $438644.1 from Department of Energy (2025-01-16)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89303025FEM000096_8900_89303022AMA000041_8900</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89303025FEM000096_8900_89303022AMA000041_8900</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOFTWARE INFORMATION RESOURCE CORP. — $324516.3 from Department of Energy (2024-07-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89303024PIG000134_8900_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89303024PIG000134_8900_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ONLOCATION, INC — $647312.87 from Department of Energy (2024-09-30)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89303024FOP400008_8900_GS10F0126U_4730</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89303024FOP400008_8900_GS10F0126U_4730</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>VERIZON BUSINESS NETWORK SERVICES LLC — $1289914.87 from Department of Energy (2021-09-28)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89303021FIM400058_8900_GS00Q17NSD3009_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89303021FIM400058_8900_GS00Q17NSD3009_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE BUILDING PEOPLE LLC — $224805 from Department of Energy (2026-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89243426FEE000622_8900_89243423AEE000005_8900</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89243426FEE000622_8900_89243423AEE000005_8900</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>RACK-WILDNER &amp; REESE, INC. — $1319470 from Department of Energy (2026-07-31)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89243426FEE000621_8900_89243423AEE000009_8900</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89243426FEE000621_8900_89243423AEE000009_8900</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>DOW MOUNTAIN LLC — $0 from Department of Energy (2025-09-02)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89243425FFP400009_8900_47QSHA22D0011_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89243425FFP400009_8900_47QSHA22D0011_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ENERGY TECHNOLOGY ALLIANCE LLC — $267195.74 from Department of Energy (2025-04-29)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89243425FEE000504_8900_89243423AEE000008_8900</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89243425FEE000504_8900_89243423AEE000008_8900</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ENERGY TECHNOLOGY ALLIANCE LLC — $1453639.11 from Department of Energy (2025-04-30)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89243425FEE000497_8900_89243423AEE000008_8900</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89243425FEE000497_8900_89243423AEE000008_8900</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>KBC ENERGY SOLUTIONS LLC — $157629527.45 from Department of Energy (2023-04-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89243323CFE000074_8900_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89243323CFE000074_8900_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>L. E. PEABODY &amp; ASSOCIATES, INC — $525258 from Department of Energy (2025-03-17)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89243225CNE000041_8900_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89243225CNE000041_8900_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOUTHWEST RESEARCH INSTITUTE — $1550000 from Department of Energy (2026-07-15)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89233126CNA000450_8900_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89233126CNA000450_8900_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>BVG &amp; CO CONSULTING LLC — $15428994.43 from Department of Energy (2026-03-18)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89233126CNA000441_8900_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89233126CNA000441_8900_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>MELE ASSOCIATES INC — $10374939 from Department of Energy (2024-12-20)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89233125FNA400663_8900_GS00F243CA_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89233125FNA400663_8900_GS00F243CA_4732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>SKOOKUM EDUCATIONAL PROGRAMS — $3811988.3 from Department of Energy (2025-06-16)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89233125CNA000412_8900_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89233125CNA000412_8900_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHENEGA RELIABLE SERVICES LLC — $4767773.75 from Department of Energy (2025-05-19)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89233125CNA000403_8900_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89233125CNA000403_8900_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>THUNDERCAT TECHNOLOGY, LLC — $12019657.1 from Department of Energy (2024-04-15)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89233124FNA400606_8900_NNG15SD26B_8000</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89233124FNA400606_8900_NNG15SD26B_8000</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>BWXT NUCLEAR OPERATIONS GROUP, INC. — $95797076.23 from Department of Energy (2023-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89233123FNA400535_8900_89233120DNA000025_8900</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89233123FNA400535_8900_89233120DNA000025_8900</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>HARKCON, INC. — $13461757.84 from Department of Energy (2022-08-10)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_89233122FNA400443_8900_GS10F0164V_4730</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_89233122FNA400443_8900_GS10F0164V_4730</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>NCS TECHNOLOGIES INC — $711844 from National Archives and Records Administration (2026-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_88310326F00191_8800_NNG15SD85B_8000</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_88310326F00191_8800_NNG15SD85B_8000</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>GAYLORD BROS., INC. — $4941.79 from National Archives and Records Administration (2026-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_88310326F00190_8800_88310322D00001_8800</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_88310326F00190_8800_88310322D00001_8800</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>TELE-MEDIA SFP LLC — $13723.41 from National Archives and Records Administration (2026-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_88310326F00189_8800_88310323D00002_8800</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_88310326F00189_8800_88310323D00002_8800</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE GLOVE BOX, INC — $1459.56 from National Archives and Records Administration (2026-08-24)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_88310326F00188_8800_88310323D00003_8800</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_88310326F00188_8800_88310323D00003_8800</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALILEO DIGITAL LLC — $474580 from National Archives and Records Administration (2024-08-12)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_88310324P00026_8800_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_88310324P00026_8800_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRIBAL ONE TECHNOLOGY, LLC — $2793323.55 from Department of Housing and Urban Development (2024-09-30)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_86615624C00009_8600_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_86615624C00009_8600_-NONE-_-NONE-</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

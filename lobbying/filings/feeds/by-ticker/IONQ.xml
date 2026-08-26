@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — IONQ</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>IONQ, INC via MICHAEL BEST STRATEGIES LLC (2026 third_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/d1e51dbe-8851-4c52-a63a-8af1bd4f12ac/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d1e51dbe-8851-4c52-a63a-8af1bd4f12ac</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>IONQ, INC. via HOLLAND &amp; KNIGHT LLP (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/f51409c9-834f-4723-b5e8-4dcc8bea6596/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f51409c9-834f-4723-b5e8-4dcc8bea6596</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IONQ, INC. via IONQ, INC. (2026 second_quarter) — $440000</title>
+      <link>https://lda.gov/filings/public/filing/ececcf28-092f-4db1-86d5-1fef6bcaf4f1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ececcf28-092f-4db1-86d5-1fef6bcaf4f1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IONQ INC. via THE BERNHARDT GROUP LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/ec7ae3ed-16da-48e1-9ccf-c8895e3570f0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ec7ae3ed-16da-48e1-9ccf-c8895e3570f0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IONQ, INC. via BALLARD PARTNERS (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/d437824b-6ddc-4025-9688-3551c0a1c147/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d437824b-6ddc-4025-9688-3551c0a1c147</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IONQ, INC. via BALLARD PARTNERS (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/bb52679d-a13a-4d06-a724-33e7405e3ca1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bb52679d-a13a-4d06-a724-33e7405e3ca1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IONQ INC. via CLARK STREET ASSOCIATES (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/9f9c6e5f-6cee-4b99-b051-811f6aa86a05/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9f9c6e5f-6cee-4b99-b051-811f6aa86a05</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IONQ, INC. via HOLLAND &amp; KNIGHT LLP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/7b196082-04ad-49f0-a705-2ce25694b34c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7b196082-04ad-49f0-a705-2ce25694b34c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IONQ, INC. via IONQ, INC. (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/5d1893c2-f0a5-46ce-94cf-4b0301f807ac/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5d1893c2-f0a5-46ce-94cf-4b0301f807ac</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IONQ INC. via THE BERNHARDT GROUP LLC (2026 second_quarter) — $110000</title>
+      <link>https://lda.gov/filings/public/filing/53da9b55-4fb4-4619-ba35-41ce84cf9c67/print/</link>
+      <guid isPermaLink="false">lobbying-filings:53da9b55-4fb4-4619-ba35-41ce84cf9c67</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>IONQ, INC. via HOLLAND &amp; KNIGHT LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/01e58e74-c819-41d6-8b8a-9f399d4d61b1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:01e58e74-c819-41d6-8b8a-9f399d4d61b1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

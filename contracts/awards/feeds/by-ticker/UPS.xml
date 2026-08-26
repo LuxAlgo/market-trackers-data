@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Government contract awards — UPS</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>UNITED PARCEL SERVICE CO. — $1845.98 from Department of Homeland Security (2024-11-28)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_70FBR825F00000001_7022_HTC71123DC025_9700</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_70FBR825F00000001_7022_HTC71123DC025_9700</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITED PARCEL SERVICE CO. — $4500 from Department of Homeland Security (2026-07-16)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_70FBR526F00000016_7022_HTC71123DC025_9700</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_70FBR526F00000016_7022_HTC71123DC025_9700</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITED PARCEL SERVICE CO. — $9018.43 from Department of Homeland Security (2024-04-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_70FBR224F00000055_7022_HTC71123DC025_9700</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_70FBR224F00000055_7022_HTC71123DC025_9700</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITED PARCEL SERVICE CO. — $6561.44 from Department of Homeland Security (2024-10-09)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_70FBR125F00000001_7022_HTC71123DC025_9700</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_70FBR125F00000001_7022_HTC71123DC025_9700</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITED PARCEL SERVICE CO. — $3781.31 from Department of Homeland Security (2024-12-16)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_70FA4025F00000072_7022_HTC71123DC025_9700</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_70FA4025F00000072_7022_HTC71123DC025_9700</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITED PARCEL SERVICE CO. — $26242.87 from Department of Homeland Security (2024-10-30)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_70FA2025F00000005_7022_HTC71123DC025_9700</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_70FA2025F00000005_7022_HTC71123DC025_9700</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>UNITED PARCEL SERVICE CO. — $1617.01 from Department of Justice (2026-01-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_15B41426F00000079_1540_HTC71123DC025_9700</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_15B41426F00000079_1540_HTC71123DC025_9700</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — TE</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>T1 ENERGY INC. via CHECKMATE GOVERNMENT RELATIONS (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/e4251ceb-223c-4210-822f-bcb0b2ca443a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e4251ceb-223c-4210-822f-bcb0b2ca443a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T1 ENERGY INC. via GREENBERG TRAURIG, LLP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/c5b99816-0ac1-43c0-b657-715d76c47f8a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c5b99816-0ac1-43c0-b657-715d76c47f8a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T1 ENERGY INC. via CONTINENTAL STRATEGY, LLC (2026 second_quarter) — $135000</title>
+      <link>https://lda.gov/filings/public/filing/a13e88a1-d7ed-4ff8-806e-c8ee9ef340b8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a13e88a1-d7ed-4ff8-806e-c8ee9ef340b8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T1 ENERGY, INC. via TOWER STRATEGY, LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/97f7f186-f4a1-475b-a17f-25ea684387fc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:97f7f186-f4a1-475b-a17f-25ea684387fc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T1 ENERGY INC via T1 ENERGY INC (2026 second_quarter) — $410000</title>
+      <link>https://lda.gov/filings/public/filing/8fe16218-da36-42a1-aeb2-0e21ed47c40e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8fe16218-da36-42a1-aeb2-0e21ed47c40e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T1 ENERGY INC. via GREENBERG TRAURIG, LLP (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/8d6cc94e-dc35-4942-a6a4-a8fa45e2ba98/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8d6cc94e-dc35-4942-a6a4-a8fa45e2ba98</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T1 ENERGY INC. via CHECKMATE GOVERNMENT RELATIONS (2026 second_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/851115c1-ead1-4ed9-860d-483e36d15d6d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:851115c1-ead1-4ed9-860d-483e36d15d6d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T1 ENERGY INC. via GREENBERG TRAURIG, LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/8448be5e-9acb-44a5-b244-c26dfad05be0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8448be5e-9acb-44a5-b244-c26dfad05be0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T1 ENERGY, INC. via TOWER STRATEGY, LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/6cc174f3-4887-4f80-b38a-41b99eb52262/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6cc174f3-4887-4f80-b38a-41b99eb52262</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T1 ENERGY INC. via CONTINENTAL STRATEGY, LLC (2026 first_quarter) — $135000</title>
+      <link>https://lda.gov/filings/public/filing/4e91f28a-9482-43f4-a337-2eca8d3d7cac/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4e91f28a-9482-43f4-a337-2eca8d3d7cac</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T1 ENERGY INC via T1 ENERGY INC (2026 first_quarter) — $400000</title>
+      <link>https://lda.gov/filings/public/filing/4090db24-fe23-4bee-86db-a6ceb3fbfda7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4090db24-fe23-4bee-86db-a6ceb3fbfda7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>T1 ENERGY INC. via GREENBERG TRAURIG, LLP (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/3a025799-9a82-4d9e-89cd-8b6c90939901/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3a025799-9a82-4d9e-89cd-8b6c90939901</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

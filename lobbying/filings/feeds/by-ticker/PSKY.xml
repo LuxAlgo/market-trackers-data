@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — PSKY</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>PARAMOUNT SKYDANCE CORPORATION via ACG ADVOCACY (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/f6c44547-3531-4b14-8d76-fda9393178a5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f6c44547-3531-4b14-8d76-fda9393178a5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PARAMOUNT SKYDANCE CORPORATION via PARAMOUNT SKYDANCE CORPORATION (2026 first_quarter) — $1340000</title>
+      <link>https://lda.gov/filings/public/filing/f6a40d63-8332-44c9-9778-e7b0835b7e92/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f6a40d63-8332-44c9-9778-e7b0835b7e92</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PARAMOUNT SKYDANCE CORPORATION via ACG ADVOCACY (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/f3c9da6a-793e-4ca9-8c78-8b9e3fc0b688/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f3c9da6a-793e-4ca9-8c78-8b9e3fc0b688</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PARAMOUNT SKYDANCE CORPORATION via INNOVATIVE POLICY, PLLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/a40296a4-0c2f-4e5a-9665-8c1f655099d1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a40296a4-0c2f-4e5a-9665-8c1f655099d1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PARAMOUNT SKYDANCE CORPORATION via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 first_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/8417fb95-faa7-4305-915a-13bf270260ad/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8417fb95-faa7-4305-915a-13bf270260ad</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PARAMOUNT SKYDANCE CORPORATION via PARAMOUNT SKYDANCE CORPORATION (2026 second_quarter) — $1520000</title>
+      <link>https://lda.gov/filings/public/filing/6bf9067d-c841-44b3-a644-524a2c45bc55/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6bf9067d-c841-44b3-a644-524a2c45bc55</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PARAMOUNT SKYDANCE CORPORATION via INNOVATIVE POLICY, PLLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/49dd8070-42c2-4fe7-8bf0-bb8f6868f2a1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:49dd8070-42c2-4fe7-8bf0-bb8f6868f2a1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PARAMOUNT SKYDANCE CORPORATION via INNOVATIVE POLICY, PLLC (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/483c4914-53ab-4164-b289-1825121e8df0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:483c4914-53ab-4164-b289-1825121e8df0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PARAMOUNT SKYDANCE CORPORATION via INNOVATIVE POLICY, PLLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/3726fa67-7d43-4143-b2f8-501e74f0b539/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3726fa67-7d43-4143-b2f8-501e74f0b539</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PARAMOUNT SKYDANCE CORPORATION via BROWNSTEIN HYATT FARBER SCHRECK, LLP (2026 second_quarter) — $120000</title>
+      <link>https://lda.gov/filings/public/filing/2796ce0d-5acc-4f21-b168-52151589333b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2796ce0d-5acc-4f21-b168-52151589333b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

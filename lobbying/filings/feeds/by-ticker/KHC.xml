@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — KHC</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>KRAFT HEINZ COMPANY via THE RUSSELL GROUP, INC. (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/d46f5531-02b8-4cbc-9f9a-a23a3ce1191b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d46f5531-02b8-4cbc-9f9a-a23a3ce1191b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>KRAFT HEINZ COMPANY via BGR GOVERNMENT AFFAIRS (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/b81d87bf-a726-4265-bc39-76073dbbb83e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b81d87bf-a726-4265-bc39-76073dbbb83e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE KRAFT HEINZ COMPANY via WILMER CUTLER PICKERING HALE AND DORR LLP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/97e414ce-3e9f-49a6-b0f7-dd1ad9874fb3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:97e414ce-3e9f-49a6-b0f7-dd1ad9874fb3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>KRAFT HEINZ COMPANY via THE KRAFT HEINZ COMPANY (2026 second_quarter) — $350000</title>
+      <link>https://lda.gov/filings/public/filing/68894e9a-99b9-468a-b528-e178512d8d4c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:68894e9a-99b9-468a-b528-e178512d8d4c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE KRAFT HEINZ COMPANY via WILMER CUTLER PICKERING HALE AND DORR LLP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/4c4416fa-ffbb-4b5b-8194-8400d65a0671/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4c4416fa-ffbb-4b5b-8194-8400d65a0671</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>KRAFT HEINZ COMPANY via BGR GOVERNMENT AFFAIRS (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/3cf6f4bb-482f-453b-88b6-ea96d7c73bc7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3cf6f4bb-482f-453b-88b6-ea96d7c73bc7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>KRAFT HEINZ COMPANY via THE RUSSELL GROUP, INC. (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/312b7c28-9f33-4608-af88-64f95fbe73b2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:312b7c28-9f33-4608-af88-64f95fbe73b2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE KRAFT HEINZ COMPANY via INVARIANT LLC (2026 third_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/2e723bf4-dbbd-46fb-af82-fbd36a9dace8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2e723bf4-dbbd-46fb-af82-fbd36a9dace8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>KRAFT HEINZ COMPANY via THE KRAFT HEINZ COMPANY (2026 first_quarter) — $410000</title>
+      <link>https://lda.gov/filings/public/filing/0052e601-5d13-478d-b9d8-cad4b999472f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0052e601-5d13-478d-b9d8-cad4b999472f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

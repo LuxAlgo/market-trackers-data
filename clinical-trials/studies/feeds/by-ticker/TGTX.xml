@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Clinical trial registrations — TGTX</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>TG Therapeutics, Inc. — RECRUITING PHASE2: Study to Evaluate the Safety and Efficacy of Ublituximab in Participants With Schizophrenia</title>
+      <link>https://clinicaltrials.gov/study/NCT07680946</link>
+      <guid isPermaLink="false">clinical-trials:NCT07680946</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>TG Therapeutics, Inc. — RECRUITING PHASE2: A Study to Evaluate the Efficacy and Safety of Maintenance Ublituximab Following Induction With Efgartigimod Administration in Participants With Myasthenia Gravis (MG)</title>
+      <link>https://clinicaltrials.gov/study/NCT07673744</link>
+      <guid isPermaLink="false">clinical-trials:NCT07673744</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>TG Therapeutics, Inc. — RECRUITING PHASE2: A Study to Evaluate Pharmacokinetics (PK) and Safety of Subcutaneous (SC) Ublituximab Administered at Various Injection Sites and Relative Bioavailability Via Autoinjector (AI) Versus Syringe Subcutaneously in Participants With Multiple Sclerosis (MS)</title>
+      <link>https://clinicaltrials.gov/study/NCT07503873</link>
+      <guid isPermaLink="false">clinical-trials:NCT07503873</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>TG Therapeutics, Inc. — RECRUITING PHASE2/PHASE3: Study to Assess Effects of Ublituximab in Pediatric Participants With Relapsing Forms of Multiple Sclerosis</title>
+      <link>https://clinicaltrials.gov/study/NCT07220252</link>
+      <guid isPermaLink="false">clinical-trials:NCT07220252</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>TG Therapeutics, Inc. — ACTIVE_NOT_RECRUITING PHASE3: A Study to Evaluate the Pharmacokinetics, Pharmacodynamics, Safety, Radiological and Clinical Effects of Subcutaneous Ublituximab in Participants With Relapsing Multiple Sclerosis (RMS)</title>
+      <link>https://clinicaltrials.gov/study/NCT07211633</link>
+      <guid isPermaLink="false">clinical-trials:NCT07211633</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>TG Therapeutics, Inc. — RECRUITING: A Study Evaluating the Effect of BRIUMVI® (Ublituximab) on Pregnancy and Infant Outcomes in Participants With Multiple Sclerosis (MS)</title>
+      <link>https://clinicaltrials.gov/study/NCT06433765</link>
+      <guid isPermaLink="false">clinical-trials:NCT06433765</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>TG Therapeutics, Inc. — RECRUITING: A Study Evaluating the Presence and Concentration of BRIUMVI™ (Ublituximab) in Breast Milk</title>
+      <link>https://clinicaltrials.gov/study/NCT06143514</link>
+      <guid isPermaLink="false">clinical-trials:NCT06143514</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>TG Therapeutics, Inc. — RECRUITING PHASE3: Study to Evaluate Safety, Efficacy and Pharmacokinetics (PK) of a Modified Regimen of Ublituximab</title>
+      <link>https://clinicaltrials.gov/study/NCT05877963</link>
+      <guid isPermaLink="false">clinical-trials:NCT05877963</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>TG Therapeutics, Inc. — ACTIVE_NOT_RECRUITING PHASE3: An Extension Study of Ublituximab in Participants With Relapsing Multiple Sclerosis</title>
+      <link>https://clinicaltrials.gov/study/NCT04130997</link>
+      <guid isPermaLink="false">clinical-trials:NCT04130997</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

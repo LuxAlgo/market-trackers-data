@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — AVAV</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>AEROVIRONMENT INC. via AEROVIRONMENT, INC. (2026 first_quarter) — $160000</title>
+      <link>https://lda.gov/filings/public/filing/eeebc8fd-2e1e-449a-853b-513241dfa64b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:eeebc8fd-2e1e-449a-853b-513241dfa64b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEROVIRONMENT, INC. via VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY &amp; QUAYLE VENTURES, LLC) (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/ee7097de-e509-4236-8783-c1854385bbcd/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ee7097de-e509-4236-8783-c1854385bbcd</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEROVIRONMENT, INC. via DLA PIPER LLP (US) (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/eb79e483-fad0-44e7-b428-7a1802fab28e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:eb79e483-fad0-44e7-b428-7a1802fab28e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEROVIRONMENT INC. via THE DIONNE COMPANY (2026 second_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/e7febb14-0a09-40bf-8e14-a6ec48c15cf9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e7febb14-0a09-40bf-8e14-a6ec48c15cf9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEROVIRONMENT INC. via THE DIONNE COMPANY (2026 first_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/e05bf467-d934-4a20-94a7-a1e4b0abda0d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e05bf467-d934-4a20-94a7-a1e4b0abda0d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEROVIRONMENT, INC. via BRIAN GLACKIN &amp; ASSOCIATES LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/a2ec7392-7220-4576-82f9-5603b5d4f9c7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a2ec7392-7220-4576-82f9-5603b5d4f9c7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEROVIRONMENT, INC. via BRIAN GLACKIN &amp; ASSOCIATES LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/96b527fa-bfdb-436d-afb4-60d18ec66083/print/</link>
+      <guid isPermaLink="false">lobbying-filings:96b527fa-bfdb-436d-afb4-60d18ec66083</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEROVIRONMENT, INC. via VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY &amp; QUAYLE VENTURES, LLC) (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/51a76f27-00a1-4e41-9bf9-e1f07cb6aee1/print/</link>
+      <guid isPermaLink="false">lobbying-filings:51a76f27-00a1-4e41-9bf9-e1f07cb6aee1</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEROVIRONMENT INC. via AEROVIRONMENT, INC. (2026 second_quarter) — $160000</title>
+      <link>https://lda.gov/filings/public/filing/3aaabbf7-dff8-4faa-98ed-ddef91828c91/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3aaabbf7-dff8-4faa-98ed-ddef91828c91</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEROVIRONMENT, INC. via DLA PIPER LLP (US) (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/2222d088-5b6c-4fdd-a3a5-bf082239254f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2222d088-5b6c-4fdd-a3a5-bf082239254f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

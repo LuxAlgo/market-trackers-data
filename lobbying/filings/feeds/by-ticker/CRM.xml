@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — CRM</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>SALESFORCE, INC. via CHECKMATE GOVERNMENT RELATIONS (2026 second_quarter) — $150000</title>
+      <link>https://lda.gov/filings/public/filing/f725f42b-c84d-4f69-841a-bc5adfedbede/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f725f42b-c84d-4f69-841a-bc5adfedbede</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SALESFORCE.COM, INC via AKIN GUMP STRAUSS HAUER &amp; FELD (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/ccb26fe4-761c-4867-829a-bf1eb7e1390f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ccb26fe4-761c-4867-829a-bf1eb7e1390f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SALESFORCE.COM, INC. via BRIDGE PUBLIC AFFAIRS, LLC (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/b0e66689-487d-4445-9223-bdfce6634495/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b0e66689-487d-4445-9223-bdfce6634495</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SALESFORCE.COM INC. via FRANKLIN SQUARE GROUP, LLC (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/9b71d2a0-eddd-40bc-8a5f-9152050b8e78/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9b71d2a0-eddd-40bc-8a5f-9152050b8e78</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SALESFORCE.COM, INC. via BRIDGE PUBLIC AFFAIRS, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/9674703e-a012-4874-b9a8-ec180f934902/print/</link>
+      <guid isPermaLink="false">lobbying-filings:9674703e-a012-4874-b9a8-ec180f934902</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SALESFORCE, INC. via INVARIANT LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/8f26fe77-b7e9-4e61-bc4e-a31819382d51/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8f26fe77-b7e9-4e61-bc4e-a31819382d51</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SALESFORCE.COM INC. via FRANKLIN SQUARE GROUP, LLC (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/8a819900-a8df-414d-b59f-3b56abf49824/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8a819900-a8df-414d-b59f-3b56abf49824</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SALESFORCE, INC. via SALESFORCE, INC. (2026 second_quarter) — $1540000</title>
+      <link>https://lda.gov/filings/public/filing/7f080c11-5d6c-45d9-abf8-33454f2f19f6/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7f080c11-5d6c-45d9-abf8-33454f2f19f6</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SALESFORCE.COM, INC. via MORAN GLOBAL STRATEGIES, INC. (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/73e0699f-0485-44bd-9495-3b063e0456c3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:73e0699f-0485-44bd-9495-3b063e0456c3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SALESFORCE, INC. via INVARIANT LLC (2026 second_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/6e4a56f1-285f-4028-a7a9-7abd956da78b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6e4a56f1-285f-4028-a7a9-7abd956da78b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SALESFORCE, INC. via SALESFORCE, INC. (2026 first_quarter) — $1220000</title>
+      <link>https://lda.gov/filings/public/filing/624fa747-ddd8-42dc-90f7-dc8ede5e502c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:624fa747-ddd8-42dc-90f7-dc8ede5e502c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SALESFORCE, INC. via DETERMINANT LLC (2026 third_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/5b178419-71ee-49a3-a1db-22be95043889/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5b178419-71ee-49a3-a1db-22be95043889</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SALESFORCE, INC. via SALESFORCE, INC. (2026 first_quarter) — $1050000</title>
+      <link>https://lda.gov/filings/public/filing/4739975d-6161-439b-8e51-1acc72ddacb5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4739975d-6161-439b-8e51-1acc72ddacb5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SALESFORCE, INC. via CHECKMATE GOVERNMENT RELATIONS (2026 second_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/3c3830e4-1b9f-463a-be9a-6a75a722e832/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3c3830e4-1b9f-463a-be9a-6a75a722e832</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SALESFORCE.COM, INC. via CROSSROADS STRATEGIES, LLC (2026 first_quarter) — $80000</title>
+      <link>https://lda.gov/filings/public/filing/2d0c8251-ab1d-478e-9bdc-fad73be44b37/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2d0c8251-ab1d-478e-9bdc-fad73be44b37</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SALESFORCE.COM, INC. via CROSSROADS STRATEGIES, LLC (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/221a2c06-8be1-4013-9d94-29f0392c619d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:221a2c06-8be1-4013-9d94-29f0392c619d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SALESFORCE.COM, INC. via MORAN GLOBAL STRATEGIES, INC. (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/096989f7-a192-4f64-a2f9-ebf41af19fa7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:096989f7-a192-4f64-a2f9-ebf41af19fa7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SALESFORCE, INC. via SALESFORCE, INC. (2026 first_quarter) — $1010000</title>
+      <link>https://lda.gov/filings/public/filing/048bf09f-e44f-4060-bbb7-23b161da8522/print/</link>
+      <guid isPermaLink="false">lobbying-filings:048bf09f-e44f-4060-bbb7-23b161da8522</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

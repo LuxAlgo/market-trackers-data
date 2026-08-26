@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — OSK</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>OSHKOSH CORPORATION via S-3 GROUP (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/e1399282-591d-4109-859f-1f0fa2c7e46a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e1399282-591d-4109-859f-1f0fa2c7e46a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSHKOSH CORPORATION via STRATEGIC MARKETING INNOVATIONS (2026 first_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/e112feb0-94dd-4b2d-9cc8-7de437030a2c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e112feb0-94dd-4b2d-9cc8-7de437030a2c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSHKOSH CORPORATION via OSHKOSH CORPORATION (2026 second_quarter) — $580000</title>
+      <link>https://lda.gov/filings/public/filing/cfd7575b-b048-4d22-8cdf-18147ba9ef0f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:cfd7575b-b048-4d22-8cdf-18147ba9ef0f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSHKOSH CORPORATION via CORNERSTONE GOVERNMENT AFFAIRS, INC. (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/b01b0c0b-d5f3-46b8-8850-193fbfcae8c4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b01b0c0b-d5f3-46b8-8850-193fbfcae8c4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSHKOSH CORPORATION via J.A. GREEN AND COMPANY (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/a64c83d9-7a30-46ea-9235-130ae834c9d5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a64c83d9-7a30-46ea-9235-130ae834c9d5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSHKOSH CORPORATION via J.A. GREEN AND COMPANY (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/87bb955f-c836-4a0b-ae7c-37957191b74b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:87bb955f-c836-4a0b-ae7c-37957191b74b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSHKOSH CORPORATION via S-3 GROUP (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/72727a7a-9382-4888-9150-8e4a029ad84a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:72727a7a-9382-4888-9150-8e4a029ad84a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSHKOSH CORPORATION via OSHKOSH CORPORATION (2026 first_quarter) — $670000</title>
+      <link>https://lda.gov/filings/public/filing/5204ca0a-a147-426d-8705-09928c6d71d5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5204ca0a-a147-426d-8705-09928c6d71d5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSHKOSH CORPORATION via STRATEGIC MARKETING INNOVATIONS (2026 second_quarter) — $90000</title>
+      <link>https://lda.gov/filings/public/filing/303a6a20-dfa2-487f-aa66-b45b45512c55/print/</link>
+      <guid isPermaLink="false">lobbying-filings:303a6a20-dfa2-487f-aa66-b45b45512c55</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSHKOSH CORPORATION via CORNERSTONE GOVERNMENT AFFAIRS, INC. (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/08eb6f66-92eb-48a5-8e47-cc57a8f0af51/print/</link>
+      <guid isPermaLink="false">lobbying-filings:08eb6f66-92eb-48a5-8e47-cc57a8f0af51</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

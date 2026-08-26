@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — COF</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via CARMEN GUZMAN, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/fc96dcd4-454f-4f2d-9432-bd5e15e78e92/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fc96dcd4-454f-4f2d-9432-bd5e15e78e92</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via CAPITOL TAX PARTNERS, LLP (2026 second_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/f9e05245-4494-4c3e-b863-1760e327c067/print/</link>
+      <guid isPermaLink="false">lobbying-filings:f9e05245-4494-4c3e-b863-1760e327c067</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via CROSSROADS STRATEGIES, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/d9fff413-a5d0-45ef-8f71-aee0ddfb832a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d9fff413-a5d0-45ef-8f71-aee0ddfb832a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via 1607 STRATEGIES, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/d1d58e10-f7a2-44c0-ab7c-2f4bcff12f3d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:d1d58e10-f7a2-44c0-ab7c-2f4bcff12f3d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY &amp; QUAYLE VENTURES, LLC) (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/c0bc0ed3-f420-4538-a2a3-6660101530e7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c0bc0ed3-f420-4538-a2a3-6660101530e7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via VENABLE LLP (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/ab325c95-67f7-4710-912e-11249284b4e5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:ab325c95-67f7-4710-912e-11249284b4e5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via FEDERAL HALL POLICY ADVISORS, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/a33a2835-c5f4-43a9-a433-41f73f95db45/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a33a2835-c5f4-43a9-a433-41f73f95db45</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via EMERGENT STRATEGIES (2026 first_quarter) — $36000</title>
+      <link>https://lda.gov/filings/public/filing/a04576ce-f6c0-4427-bccc-eae754baadb5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a04576ce-f6c0-4427-bccc-eae754baadb5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via CROSSROADS STRATEGIES, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/949d7a2a-f22f-4d4b-99fa-6347b780fcdf/print/</link>
+      <guid isPermaLink="false">lobbying-filings:949d7a2a-f22f-4d4b-99fa-6347b780fcdf</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via CAPITAL ONE FINANCIAL CORPORATION (2026 first_quarter) — $950000</title>
+      <link>https://lda.gov/filings/public/filing/8810ccf1-002f-42b7-a1d4-ab9b848aa83e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8810ccf1-002f-42b7-a1d4-ab9b848aa83e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via VENABLE LLP (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/75975243-5757-400a-a7f2-e59364ac5d15/print/</link>
+      <guid isPermaLink="false">lobbying-filings:75975243-5757-400a-a7f2-e59364ac5d15</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via CAPITOL TAX PARTNERS, LLP (2026 first_quarter) — $70000</title>
+      <link>https://lda.gov/filings/public/filing/73c677ee-71be-4357-adac-e0e69434b5b5/print/</link>
+      <guid isPermaLink="false">lobbying-filings:73c677ee-71be-4357-adac-e0e69434b5b5</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY &amp; QUAYLE VENTURES, LLC) (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/73b098b5-a43d-401b-8ede-d57cfb1471c3/print/</link>
+      <guid isPermaLink="false">lobbying-filings:73b098b5-a43d-401b-8ede-d57cfb1471c3</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via EMERGENT STRATEGIES (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/6d82406d-c770-43fa-811e-ce64a34ea75f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6d82406d-c770-43fa-811e-ce64a34ea75f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via VENABLE LLP (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/6a49073b-494f-4a97-b62d-cf6102a415dc/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6a49073b-494f-4a97-b62d-cf6102a415dc</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via CAPITAL ONE FINANCIAL CORPORATION (2026 second_quarter) — $1240000</title>
+      <link>https://lda.gov/filings/public/filing/676e0a80-df4a-4e81-8cc6-68eff2ac773b/print/</link>
+      <guid isPermaLink="false">lobbying-filings:676e0a80-df4a-4e81-8cc6-68eff2ac773b</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via FEDERAL HALL POLICY ADVISORS, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/4d26129c-c4d2-4890-b95e-924bfd3b5428/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4d26129c-c4d2-4890-b95e-924bfd3b5428</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORP. via CAPITOL COUNSEL LLC (2026 second_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/45845fcc-78b8-4830-94b8-089c7e011735/print/</link>
+      <guid isPermaLink="false">lobbying-filings:45845fcc-78b8-4830-94b8-089c7e011735</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via HARBINGER STRATEGIES, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/437eb095-f8b0-4166-8962-3f4b595cda07/print/</link>
+      <guid isPermaLink="false">lobbying-filings:437eb095-f8b0-4166-8962-3f4b595cda07</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via CARMEN GUZMAN, LLC (2026 first_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/3631cdb9-901d-455b-9b2a-0f553c0a6fe7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3631cdb9-901d-455b-9b2a-0f553c0a6fe7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via FEDERAL HALL POLICY ADVISORS, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/2e46876c-a5d4-4f5e-a411-00b5c03f8946/print/</link>
+      <guid isPermaLink="false">lobbying-filings:2e46876c-a5d4-4f5e-a411-00b5c03f8946</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via HARBINGER STRATEGIES, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/293ce199-06b0-4a07-a5fd-28602b92cb9e/print/</link>
+      <guid isPermaLink="false">lobbying-filings:293ce199-06b0-4a07-a5fd-28602b92cb9e</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via 1607 STRATEGIES, LLC (2026 first_quarter) — $45000</title>
+      <link>https://lda.gov/filings/public/filing/19095844-3739-4ce5-ae02-b7aa77bc02bf/print/</link>
+      <guid isPermaLink="false">lobbying-filings:19095844-3739-4ce5-ae02-b7aa77bc02bf</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORPORATION via CROSSROADS STRATEGIES, LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/094e763e-998b-4368-9d9c-3a042e0d9651/print/</link>
+      <guid isPermaLink="false">lobbying-filings:094e763e-998b-4368-9d9c-3a042e0d9651</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAPITAL ONE FINANCIAL CORP. via CAPITOL COUNSEL LLC (2026 first_quarter) — $30000</title>
+      <link>https://lda.gov/filings/public/filing/0107e053-7616-4090-9747-e85afa8d9b7d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0107e053-7616-4090-9747-e85afa8d9b7d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

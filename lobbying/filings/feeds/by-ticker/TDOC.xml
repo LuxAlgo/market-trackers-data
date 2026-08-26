@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — TDOC</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>TELADOC HEALTH, INC. via TELADOC HEALTH, INC. (2026 second_quarter) — $170000</title>
+      <link>https://lda.gov/filings/public/filing/e5fc6587-9e9a-4224-be3a-b85c26ac52a7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e5fc6587-9e9a-4224-be3a-b85c26ac52a7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TELADOC HEALTH, INC. via ATRIO CONSULTING GROUP, LLC (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/c11b73fe-d38c-44a8-9b8f-8ba43b660135/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c11b73fe-d38c-44a8-9b8f-8ba43b660135</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TELADOC HEALTH, INC. via ATRIO CONSULTING GROUP, LLC (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/b7889e5b-3376-4897-b8f2-8134e7d96dca/print/</link>
+      <guid isPermaLink="false">lobbying-filings:b7889e5b-3376-4897-b8f2-8134e7d96dca</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TELADOC HEALTH, INC. via THE PETRIZZO GROUP, INC. (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/a57b4083-4b77-4adb-a768-1d2cdc59ef00/print/</link>
+      <guid isPermaLink="false">lobbying-filings:a57b4083-4b77-4adb-a768-1d2cdc59ef00</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TELADOC HEALTH, INC. via VERITAS HEALTH POLICY, LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/908328ef-a598-493b-9c0c-d3595ce52175/print/</link>
+      <guid isPermaLink="false">lobbying-filings:908328ef-a598-493b-9c0c-d3595ce52175</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TELADOC HEALTH, INC. via VERITAS HEALTH POLICY, LLC (2026 first_quarter) — $15000</title>
+      <link>https://lda.gov/filings/public/filing/623c0a66-6bed-466c-9a9d-d43e2c377d73/print/</link>
+      <guid isPermaLink="false">lobbying-filings:623c0a66-6bed-466c-9a9d-d43e2c377d73</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TELADOC HEALTH INC via MEHLMAN CONSULTING, INC. (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/4e0220da-d127-41b8-81ea-791f9b35b83a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4e0220da-d127-41b8-81ea-791f9b35b83a</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TELADOC HEALTH, INC. via THE PETRIZZO GROUP, INC. (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/4aac3ef2-dc83-45c3-b875-a0f483847c1f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4aac3ef2-dc83-45c3-b875-a0f483847c1f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TELADOC HEALTH, INC. via TELADOC HEALTH, INC. (2026 first_quarter) — $170000</title>
+      <link>https://lda.gov/filings/public/filing/48922596-6c22-4314-96b5-3c5a64ce8ff7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:48922596-6c22-4314-96b5-3c5a64ce8ff7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TELADOC HEALTH INC via MEHLMAN CONSULTING, INC. (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/3233178c-02ea-4d8c-b886-bb6f72020674/print/</link>
+      <guid isPermaLink="false">lobbying-filings:3233178c-02ea-4d8c-b886-bb6f72020674</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

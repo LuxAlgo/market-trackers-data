@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — TWLO</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>TWILIO INC. via BGR GOVERNMENT AFFAIRS (2026 third_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/c6dea5e2-c2fe-421d-a8fe-b010d0c3e55a/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c6dea5e2-c2fe-421d-a8fe-b010d0c3e55a</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>TWILIO INC. via DUDDINGTON GLOBAL STRATEGIES LLC (2026 second_quarter) — $20000</title>
+      <link>https://lda.gov/filings/public/filing/fcd3e719-8623-431f-97c5-8b320b37938c/print/</link>
+      <guid isPermaLink="false">lobbying-filings:fcd3e719-8623-431f-97c5-8b320b37938c</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TWILIO via HANBURY STRATEGY (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/e3ba8c73-04e9-44d4-9fcd-9b933ac462e9/print/</link>
+      <guid isPermaLink="false">lobbying-filings:e3ba8c73-04e9-44d4-9fcd-9b933ac462e9</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TWILIO INC. via DUDDINGTON GLOBAL STRATEGIES LLC (2026 first_quarter) — $10000</title>
+      <link>https://lda.gov/filings/public/filing/c961fd9f-6ac8-47f2-a947-e62172d188c7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c961fd9f-6ac8-47f2-a947-e62172d188c7</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TWILIO INC. via TWILIO INC. (2026 second_quarter) — $320000</title>
+      <link>https://lda.gov/filings/public/filing/c5fd591b-fefa-4732-8945-80ac243b1b96/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c5fd591b-fefa-4732-8945-80ac243b1b96</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TWILIO via HANBURY STRATEGY (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/bb289cee-f5e1-4f4a-b3b9-1cde620e67f2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:bb289cee-f5e1-4f4a-b3b9-1cde620e67f2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TWILIO INC. via DUDDINGTON GLOBAL STRATEGIES LLC (2026 first_quarter)</title>
+      <link>https://lda.gov/filings/public/filing/69b5826f-dab0-46a6-bb7c-86390d2053db/print/</link>
+      <guid isPermaLink="false">lobbying-filings:69b5826f-dab0-46a6-bb7c-86390d2053db</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TWILIO INC. via FRANKLIN SQUARE GROUP, LLC (2026 second_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/6442988a-ee5f-463f-b51d-a0be942c4c3d/print/</link>
+      <guid isPermaLink="false">lobbying-filings:6442988a-ee5f-463f-b51d-a0be942c4c3d</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TWILIO via HANBURY STRATEGY (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/5d31f519-5bf9-4409-ae3d-e8f407baccca/print/</link>
+      <guid isPermaLink="false">lobbying-filings:5d31f519-5bf9-4409-ae3d-e8f407baccca</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TWILIO INC. via FRANKLIN SQUARE GROUP, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/4b60bbc9-5b12-4b3c-9320-9a14149b9b61/print/</link>
+      <guid isPermaLink="false">lobbying-filings:4b60bbc9-5b12-4b3c-9320-9a14149b9b61</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TWILIO INC. via TWILIO INC. (2026 first_quarter) — $320000</title>
+      <link>https://lda.gov/filings/public/filing/448920ae-a4ed-4827-9ae0-e047230d9d08/print/</link>
+      <guid isPermaLink="false">lobbying-filings:448920ae-a4ed-4827-9ae0-e047230d9d08</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

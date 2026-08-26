@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Lobbying filings — CRWD</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <item>
+      <title>CROWDSTRIKE, INC. via DLA PIPER LLP (US) (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/c9cb3a4c-03ad-4f6b-8e9e-5dca43c1fdc4/print/</link>
+      <guid isPermaLink="false">lobbying-filings:c9cb3a4c-03ad-4f6b-8e9e-5dca43c1fdc4</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CROWDSTRIKE via FRANKLIN SQUARE GROUP, LLC (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/8d08b259-12e8-4c3d-b2aa-88ef798e7398/print/</link>
+      <guid isPermaLink="false">lobbying-filings:8d08b259-12e8-4c3d-b2aa-88ef798e7398</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CROWDSTRIKE, INC. via VAN SCOYOC ASSOCIATES (2026 second_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/87c8bdea-03f1-41f2-a4c9-9a2d38df0997/print/</link>
+      <guid isPermaLink="false">lobbying-filings:87c8bdea-03f1-41f2-a4c9-9a2d38df0997</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CROWDSTRIKE, INC. via DLA PIPER LLP (US) (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/7b7bb115-40f3-442d-b5ff-d7f15ebc6777/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7b7bb115-40f3-442d-b5ff-d7f15ebc6777</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CROWDSTRIKE, INC. via VAN SCOYOC ASSOCIATES (2026 first_quarter) — $40000</title>
+      <link>https://lda.gov/filings/public/filing/7aee636c-47e7-4c03-a762-4d3187a33e1f/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7aee636c-47e7-4c03-a762-4d3187a33e1f</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CROWDSTRIKE, INC. via CROWDSTRIKE, INC. (2026 second_quarter) — $380000</title>
+      <link>https://lda.gov/filings/public/filing/7a060b1c-a337-42bf-a28d-ad0c4f2066e8/print/</link>
+      <guid isPermaLink="false">lobbying-filings:7a060b1c-a337-42bf-a28d-ad0c4f2066e8</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CROWDSTRIKE, INC. via CORNERSTONE GOVERNMENT AFFAIRS, INC. (2026 second_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/793bbe1e-1723-4baa-bd7f-7af53fe4e9b2/print/</link>
+      <guid isPermaLink="false">lobbying-filings:793bbe1e-1723-4baa-bd7f-7af53fe4e9b2</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CROWDSTRIKE INC. via FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC) (2026 second_quarter) — $150000</title>
+      <link>https://lda.gov/filings/public/filing/60c3b94a-c7ae-49db-aa73-7b854beff467/print/</link>
+      <guid isPermaLink="false">lobbying-filings:60c3b94a-c7ae-49db-aa73-7b854beff467</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CROWDSTRIKE, INC. via CORNERSTONE GOVERNMENT AFFAIRS, INC. (2026 first_quarter) — $60000</title>
+      <link>https://lda.gov/filings/public/filing/391b9d96-978f-48ce-a8e1-796c83878694/print/</link>
+      <guid isPermaLink="false">lobbying-filings:391b9d96-978f-48ce-a8e1-796c83878694</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CROWDSTRIKE INC. via FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC) (2026 first_quarter) — $110000</title>
+      <link>https://lda.gov/filings/public/filing/35c7c320-c0aa-4830-9070-5ea943267d65/print/</link>
+      <guid isPermaLink="false">lobbying-filings:35c7c320-c0aa-4830-9070-5ea943267d65</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CROWDSTRIKE, INC. via CROWDSTRIKE, INC. (2026 first_quarter) — $400000</title>
+      <link>https://lda.gov/filings/public/filing/16b7ab49-f4b3-4644-85a9-b8dec3267624/print/</link>
+      <guid isPermaLink="false">lobbying-filings:16b7ab49-f4b3-4644-85a9-b8dec3267624</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>CROWDSTRIKE via FRANKLIN SQUARE GROUP, LLC (2026 first_quarter) — $50000</title>
+      <link>https://lda.gov/filings/public/filing/0f9d32b4-187e-4930-b2ab-8177fbcfb8e0/print/</link>
+      <guid isPermaLink="false">lobbying-filings:0f9d32b4-187e-4930-b2ab-8177fbcfb8e0</guid>
+      <pubDate>Wed, 26 Aug 2026 16:48:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -4,7 +4,7 @@
     <title>LuxAlgo Alt Data — Clinical trial registrations — AIM</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 15:40:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
     <item>
       <title>AIM ImmunoTech Inc. — SUSPENDED PHASE2: Ampligen Combined With SOC Versus SOC Alone Following First-Line Therapy in Subjects With LAPC</title>
       <link>https://clinicaltrials.gov/study/NCT05494697</link>

@@ -4,48 +4,48 @@
     <title>LuxAlgo Alt Data — Congressional trades — Hon. Kelly Louise Morrison</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 15:40:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
     <item>
       <title>Hon. Kelly Louise Morrison (house) sell: SOLS — $1,001 - $15,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf</link>
       <guid isPermaLink="false">congress-trades:house:20035244:6</guid>
-      <pubDate>Wed, 26 Aug 2026 21:25:47 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:33 GMT</pubDate>
     </item>
     <item>
       <title>Hon. Kelly Louise Morrison (house) sell: SPGI — $1,001 - $15,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf</link>
       <guid isPermaLink="false">congress-trades:house:20035244:5</guid>
-      <pubDate>Wed, 26 Aug 2026 21:25:47 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:33 GMT</pubDate>
     </item>
     <item>
       <title>Hon. Kelly Louise Morrison (house) sell: SPGI — $1,001 - $15,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf</link>
       <guid isPermaLink="false">congress-trades:house:20035244:4</guid>
-      <pubDate>Wed, 26 Aug 2026 21:25:47 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:33 GMT</pubDate>
     </item>
     <item>
       <title>Hon. Kelly Louise Morrison (house) sell: SPGI — $1,001 - $15,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf</link>
       <guid isPermaLink="false">congress-trades:house:20035244:3</guid>
-      <pubDate>Wed, 26 Aug 2026 21:25:47 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:33 GMT</pubDate>
     </item>
     <item>
       <title>Hon. Kelly Louise Morrison (house) sell: ACN — $15,001 - $50,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf</link>
       <guid isPermaLink="false">congress-trades:house:20035244:2</guid>
-      <pubDate>Wed, 26 Aug 2026 21:25:47 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:33 GMT</pubDate>
     </item>
     <item>
       <title>Hon. Kelly Louise Morrison (house) sell: ACN — $1,001 - $15,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf</link>
       <guid isPermaLink="false">congress-trades:house:20035244:1</guid>
-      <pubDate>Wed, 26 Aug 2026 21:25:47 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:33 GMT</pubDate>
     </item>
     <item>
       <title>Hon. Kelly Louise Morrison (house) sell: ACN — $1,001 - $15,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf</link>
       <guid isPermaLink="false">congress-trades:house:20035244:0</guid>
-      <pubDate>Wed, 26 Aug 2026 21:25:47 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:33 GMT</pubDate>
     </item>
   </channel>
 </rss>

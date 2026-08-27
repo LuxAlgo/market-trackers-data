@@ -4,7 +4,25 @@
     <title>LuxAlgo Alt Data — Federal legislation</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Bill status records from GPO GovInfo's bulk BILLSTATUS data (keyless): titles, sponsors, latest actions, and policy areas, verbatim from the record. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 15:40:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
+    <item>
+      <title>S 5375 (119th) — action 2026-07-27: National Defense Authorization Act for Fiscal Year 2027</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/5375</link>
+      <guid isPermaLink="false">bills:119-s-5375</guid>
+      <pubDate>Thu, 27 Aug 2026 16:32:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 3333 (119th) — action 2025-12-03: Emergency Savings Enhancement Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/3333</link>
+      <guid isPermaLink="false">bills:119-s-3333</guid>
+      <pubDate>Thu, 27 Aug 2026 16:32:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9857 (119th) — action 2026-07-22: Protecting Americans from Doxing and Political Violence Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9857</link>
+      <guid isPermaLink="false">bills:119-hr-9857</guid>
+      <pubDate>Thu, 27 Aug 2026 16:32:02 GMT</pubDate>
+    </item>
     <item>
       <title>SRES 99 (119th) — action 2026-02-25: A resolution celebrating Black History Month.</title>
       <link>https://www.congress.gov/bill/119th-congress/senate-resolution/99</link>
@@ -585,24 +603,6 @@
       <title>SRES 777 (119th) — action 2025-05-19: A resolution designating May 2, 2025, as &quot;United States Foreign Service Day&quot; in recognition of the men and women who have served, or are ...</title>
       <link>https://www.congress.gov/bill/119th-congress/senate-resolution/777</link>
       <guid isPermaLink="false">bills:119-sres-777</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 776 (119th) — action 2026-06-17: A resolution honoring the life of Kyle Busch.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/776</link>
-      <guid isPermaLink="false">bills:119-sres-776</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 775 (119th) — action 2025-06-18: A resolution reaffirming the importance of the United States promoting the safety, health, and well-being of refugees and displaced perso...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/775</link>
-      <guid isPermaLink="false">bills:119-sres-775</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 774 (119th) — action 2026-06-17: A resolution designating June as &quot;National Annuity Awareness Month&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/774</link>
-      <guid isPermaLink="false">bills:119-sres-774</guid>
       <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
     </item>
   </channel>

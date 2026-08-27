@@ -4,17 +4,17 @@
     <title>LuxAlgo Alt Data — Clinical trial registrations — SMMT</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 15:40:17 GMT</lastBuildDate>
-    <item>
-      <title>Summit Therapeutics — RECRUITING PHASE3: Clinical Study of Ivonescimab for First-line Treatment of Metastatic NSCLC Patients With High PD-L1</title>
-      <link>https://clinicaltrials.gov/study/NCT06767514</link>
-      <guid isPermaLink="false">clinical-trials:NCT06767514</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
     <item>
       <title>Summit Therapeutics — RECRUITING PHASE3: Clinical Study of Ivonescimab for First-line Treatment of Metastatic NSCLC Patients</title>
       <link>https://clinicaltrials.gov/study/NCT05899608</link>
       <guid isPermaLink="false">clinical-trials:NCT05899608</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Summit Therapeutics — RECRUITING PHASE3: Clinical Study of Ivonescimab for First-line Treatment of Metastatic NSCLC Patients With High PD-L1</title>
+      <link>https://clinicaltrials.gov/study/NCT06767514</link>
+      <guid isPermaLink="false">clinical-trials:NCT06767514</guid>
       <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
     </item>
   </channel>

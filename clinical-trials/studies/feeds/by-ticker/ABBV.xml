@@ -4,60 +4,186 @@
     <title>LuxAlgo Alt Data — Clinical trial registrations — ABBV</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 15:40:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
     <item>
       <title>AbbVie — RECRUITING PHASE3: A Study to Evaluate the Safety and Effectiveness of Upadacitinib in Pediatric Participants With Alopecia Areata</title>
       <link>https://clinicaltrials.gov/study/NCT07772492</link>
       <guid isPermaLink="false">clinical-trials:NCT07772492</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
     </item>
     <item>
       <title>AbbVie — NOT_YET_RECRUITING PHASE1: A Study to Evaluate Sequential Administration of Injections of AGN-151586 Followed by BOTOX in Adult Participants for Treatment of Glabellar Lines</title>
       <link>https://clinicaltrials.gov/study/NCT07756580</link>
       <guid isPermaLink="false">clinical-trials:NCT07756580</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
     </item>
     <item>
       <title>AbbVie — RECRUITING PHASE2: A Study to Assess the Safety and Efficacy of AGN-151586 Injections for the Treatment of Moderate to Severe Forehead Lines (FHL) in Adult Participants</title>
       <link>https://clinicaltrials.gov/study/NCT07730554</link>
       <guid isPermaLink="false">clinical-trials:NCT07730554</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
     </item>
     <item>
       <title>AbbVie — RECRUITING PHASE1/PHASE2: A Study to Assess the Safety and Effects of ABBV-1758 Following Subcutaneous or Intravenous Injections in Participants With Alzheimer's Disease</title>
       <link>https://clinicaltrials.gov/study/NCT07599670</link>
       <guid isPermaLink="false">clinical-trials:NCT07599670</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
     </item>
     <item>
       <title>AbbVie — RECRUITING PHASE2/PHASE3: Surabgene Lomparvovec Administered in the Suprachoroidal Space in Adult Participants With Diabetic Retinopathy Without Center-Involved Diabetic Macular Edema</title>
       <link>https://clinicaltrials.gov/study/NCT07592273</link>
       <guid isPermaLink="false">clinical-trials:NCT07592273</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
     </item>
     <item>
       <title>AbbVie — RECRUITING PHASE2/PHASE3: A Study to Assess Adverse Events and Change in Disease Activity When Intravenous (IV) Pivekimab Sunirine is Given in Combination With Oral Venetoclax and IV or Subcutaneous Azacitidine in Adult Participants With Acute Myeloid Leukemia (AML)</title>
       <link>https://clinicaltrials.gov/study/NCT07581002</link>
       <guid isPermaLink="false">clinical-trials:NCT07581002</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
     </item>
     <item>
       <title>AbbVie — COMPLETED PHASE1: A Phase 1 Study to Assess the Effect of ABBV-722 on Midazolam, Digoxin, Pitavastatin, Metformin, and Sitagliptin Drug Levels in Healthy Adults.</title>
       <link>https://clinicaltrials.gov/study/NCT07567781</link>
       <guid isPermaLink="false">clinical-trials:NCT07567781</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
     </item>
     <item>
       <title>AbbVie — RECRUITING PHASE3: A Study to Evaluate Adverse Events and Change in Disease Activity of Intravenous ABBV-706 Versus Standard of Care in Adult Participants With Relapsed/Refractory Small Cell Lung Cancer</title>
       <link>https://clinicaltrials.gov/study/NCT07365241</link>
       <guid isPermaLink="false">clinical-trials:NCT07365241</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
     </item>
     <item>
       <title>AbbVie — RECRUITING PHASE1: A Study to Assess Adverse Events and How Intravenous (IV) Pivekimab Sunirine Moves Through the Body in Pediatric Participants With Relapsed or Refractory Acute Myeloid Leukemia (AML)</title>
       <link>https://clinicaltrials.gov/study/NCT07306832</link>
       <guid isPermaLink="false">clinical-trials:NCT07306832</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — RECRUITING PHASE2: Study of ABBV-142 to Assess Adverse Events and Change in Disease Activity in Adult Participants With Idiopathic Pulmonary Fibrosis</title>
+      <link>https://clinicaltrials.gov/study/NCT07230288</link>
+      <guid isPermaLink="false">clinical-trials:NCT07230288</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — RECRUITING PHASE2: Study of AGN-151607-DP to Assess Adverse Events and Change in Disease Activity in Adult Participants Undergoing Open Abdominal Ventral Hernia Repair</title>
+      <link>https://clinicaltrials.gov/study/NCT07226791</link>
+      <guid isPermaLink="false">clinical-trials:NCT07226791</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — RECRUITING PHASE2: A Study to Evaluate the Optimal Dose, Adverse Events and Change in Disease Activity of Intravenous ABBV-706 in Combination With Atezolizumab Versus Standard of Care as First-Line Treatment in Adult Participants With Previously Untreated Extensive Stage Small Cell Lung Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT07155174</link>
+      <guid isPermaLink="false">clinical-trials:NCT07155174</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — RECRUITING PHASE3: A Study to Learn More About How Risankizumab Works in Young Participants With Ulcerative Colitis</title>
+      <link>https://clinicaltrials.gov/study/NCT07071519</link>
+      <guid isPermaLink="false">clinical-trials:NCT07071519</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — RECRUITING PHASE2: A Study to Assess Adverse Events and Change in Disease Activity of Multiple Treatment Combinations With Intravenous Mirvetuximab Soravtansine in Adult Participants With Ovarian Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT07059845</link>
+      <guid isPermaLink="false">clinical-trials:NCT07059845</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — RECRUITING: Study to Assess Real Life Effectiveness of Foslevodopa/Foscarbidopa in Adult German Participants at Initial Stages of Advanced Parkinson's Disease (EARLY-FOS)</title>
+      <link>https://clinicaltrials.gov/study/NCT06916507</link>
+      <guid isPermaLink="false">clinical-trials:NCT06916507</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — RECRUITING PHASE2: A Study to Assess Anti-Tumor Activity of Intravenously (IV) Infused Carboplatin With Mirvetuximab Soravtansine in Participants With Newly Diagnosed Folate Receptor Alpha (FRα)Expressing Advanced-Stage Serous Epithelial Ovarian, Fallopian Tube or Primary Peritoneal Cancer.</title>
+      <link>https://clinicaltrials.gov/study/NCT06890338</link>
+      <guid isPermaLink="false">clinical-trials:NCT06890338</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — RECRUITING PHASE2: A Study to Evaluate the Adverse Events, and Efficacy of Intravenous (IV) of Telisotuzumab Adizutecan in Combination With IV Oxaliplatin, Fluorouracil, Folinic Acid/Leucovorin, Bevacizumab, Panitumumab in Adult Participants With Metastatic Colorectal Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT06820463</link>
+      <guid isPermaLink="false">clinical-trials:NCT06820463</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — RECRUITING PHASE3: A Study of Oral Atogepant Tablets to Assess Adverse Events and Change in Disease Activity To Prevent Migraine in Participants Aged 12 to 17 Years</title>
+      <link>https://clinicaltrials.gov/study/NCT06810505</link>
+      <guid isPermaLink="false">clinical-trials:NCT06810505</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — ACTIVE_NOT_RECRUITING PHASE3: A Study to Assess Disease Activity and Safety of Lutikizumab in Adult and Adolescent Participants With Moderate to Severe Hidradenitis Suppurativa</title>
+      <link>https://clinicaltrials.gov/study/NCT06468228</link>
+      <guid isPermaLink="false">clinical-trials:NCT06468228</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — COMPLETED PHASE3: A Study to Assess BOTOX Injections in Adult Participants for the Change of Masseter Muscle Prominence</title>
+      <link>https://clinicaltrials.gov/study/NCT06387394</link>
+      <guid isPermaLink="false">clinical-trials:NCT06387394</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — ACTIVE_NOT_RECRUITING PHASE2: A Study of Ocular Toxicity Evaluation and Mitigation During Treatment With Mirvetuximab Soravtansine in Participants With Recurrent Ovarian Cancer With High Folate Receptor-Alpha Expression</title>
+      <link>https://clinicaltrials.gov/study/NCT06365853</link>
+      <guid isPermaLink="false">clinical-trials:NCT06365853</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — RECRUITING PHASE2/PHASE3: Study to Evaluate Adverse Events, Optimal Dose, and Change in Disease Activity, With Livmoniplimab in Combination With Budigalimab Plus Chemotherapy Versus IV Infused Pembrolizumab Plus Chemotherapy in Adult Participants With Untreated Metastatic Non-Squamous Non-Small Cell Lung Cancer (NSCLC)</title>
+      <link>https://clinicaltrials.gov/study/NCT06236438</link>
+      <guid isPermaLink="false">clinical-trials:NCT06236438</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — ACTIVE_NOT_RECRUITING PHASE3: Study Assessing Activity of Intravenous (IV) Etentamig Monotherapy Versus Standard Available Therapies in Adult Participants With Relapsed or Refractory Multiple Myeloma</title>
+      <link>https://clinicaltrials.gov/study/NCT06158841</link>
+      <guid isPermaLink="false">clinical-trials:NCT06158841</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — RECRUITING PHASE1: Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Select Advanced Solid Tumor Indications Receiving Intravenous (IV) ABBV-400</title>
+      <link>https://clinicaltrials.gov/study/NCT06084481</link>
+      <guid isPermaLink="false">clinical-trials:NCT06084481</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — ACTIVE_NOT_RECRUITING PHASE3: A Study to Assess Change in Disease Activity and Adverse Events of Oral Upadacitinib in Adult and Adolescent Participants With Moderate to Severe Hidradenitis Suppurativa Who Have Failed Anti-TNF Therapy</title>
+      <link>https://clinicaltrials.gov/study/NCT05889182</link>
+      <guid isPermaLink="false">clinical-trials:NCT05889182</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — RECRUITING PHASE3: A Study to Assess the Adverse Events and Change in Disease Activity of Oral Atogepant Tablets in Pediatric Participants (6-17 Years of Age) With Episodic Migraine</title>
+      <link>https://clinicaltrials.gov/study/NCT05711394</link>
+      <guid isPermaLink="false">clinical-trials:NCT05711394</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — RECRUITING: A Study to Assess Change in Disease State in Adult Participants With Acute Myeloid Leukemia (AML) Receiving Oral Venetoclax Tablets in Combination With Subcutaneously (SC) or Intravenously (IV) Injected Azacitidine in Colombia</title>
+      <link>https://clinicaltrials.gov/study/NCT05587049</link>
+      <guid isPermaLink="false">clinical-trials:NCT05587049</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — TERMINATED PHASE2: A Study to Evaluate Safety and Tolerability of CVL-231 (Emraclidine) in Adult Participants With Schizophrenia</title>
+      <link>https://clinicaltrials.gov/study/NCT05443724</link>
+      <guid isPermaLink="false">clinical-trials:NCT05443724</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — RECRUITING PHASE3: Study to Assess Adverse Events and Disease Activity of Oral Ubrogepant Tablets for the Acute Treatment of Migraine in Children and Adolescents (Ages 6-17)</title>
+      <link>https://clinicaltrials.gov/study/NCT05125302</link>
+      <guid isPermaLink="false">clinical-trials:NCT05125302</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AbbVie — AVAILABLE: Expanded Access to Upadacitinib</title>
+      <link>https://clinicaltrials.gov/study/NCT04159597</link>
+      <guid isPermaLink="false">clinical-trials:NCT04159597</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
     </item>
     <item>
       <title>AbbVie — RECRUITING PHASE1: A Study to Assess the Adverse Events, Change in Disease Activity, and How Oral ABBV-711 Tablets Move Through the Body as a Monotherapy and in Combination With Intravenously Infused Budigalimab (ABBV-181), in Adults With Advanced Squamous Tumors</title>
@@ -66,135 +192,9 @@
       <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
     </item>
     <item>
-      <title>AbbVie — RECRUITING PHASE2: Study of ABBV-142 to Assess Adverse Events and Change in Disease Activity in Adult Participants With Idiopathic Pulmonary Fibrosis</title>
-      <link>https://clinicaltrials.gov/study/NCT07230288</link>
-      <guid isPermaLink="false">clinical-trials:NCT07230288</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — RECRUITING PHASE2: Study of AGN-151607-DP to Assess Adverse Events and Change in Disease Activity in Adult Participants Undergoing Open Abdominal Ventral Hernia Repair</title>
-      <link>https://clinicaltrials.gov/study/NCT07226791</link>
-      <guid isPermaLink="false">clinical-trials:NCT07226791</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — RECRUITING PHASE2: A Study to Evaluate the Optimal Dose, Adverse Events and Change in Disease Activity of Intravenous ABBV-706 in Combination With Atezolizumab Versus Standard of Care as First-Line Treatment in Adult Participants With Previously Untreated Extensive Stage Small Cell Lung Cancer</title>
-      <link>https://clinicaltrials.gov/study/NCT07155174</link>
-      <guid isPermaLink="false">clinical-trials:NCT07155174</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — RECRUITING PHASE3: A Study to Learn More About How Risankizumab Works in Young Participants With Ulcerative Colitis</title>
-      <link>https://clinicaltrials.gov/study/NCT07071519</link>
-      <guid isPermaLink="false">clinical-trials:NCT07071519</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — RECRUITING PHASE2: A Study to Assess Adverse Events and Change in Disease Activity of Multiple Treatment Combinations With Intravenous Mirvetuximab Soravtansine in Adult Participants With Ovarian Cancer</title>
-      <link>https://clinicaltrials.gov/study/NCT07059845</link>
-      <guid isPermaLink="false">clinical-trials:NCT07059845</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — RECRUITING: Study to Assess Real Life Effectiveness of Foslevodopa/Foscarbidopa in Adult German Participants at Initial Stages of Advanced Parkinson's Disease (EARLY-FOS)</title>
-      <link>https://clinicaltrials.gov/study/NCT06916507</link>
-      <guid isPermaLink="false">clinical-trials:NCT06916507</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — RECRUITING PHASE2: A Study to Assess Anti-Tumor Activity of Intravenously (IV) Infused Carboplatin With Mirvetuximab Soravtansine in Participants With Newly Diagnosed Folate Receptor Alpha (FRα)Expressing Advanced-Stage Serous Epithelial Ovarian, Fallopian Tube or Primary Peritoneal Cancer.</title>
-      <link>https://clinicaltrials.gov/study/NCT06890338</link>
-      <guid isPermaLink="false">clinical-trials:NCT06890338</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — RECRUITING PHASE2: A Study to Evaluate the Adverse Events, and Efficacy of Intravenous (IV) of Telisotuzumab Adizutecan in Combination With IV Oxaliplatin, Fluorouracil, Folinic Acid/Leucovorin, Bevacizumab, Panitumumab in Adult Participants With Metastatic Colorectal Cancer</title>
-      <link>https://clinicaltrials.gov/study/NCT06820463</link>
-      <guid isPermaLink="false">clinical-trials:NCT06820463</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — RECRUITING PHASE3: A Study of Oral Atogepant Tablets to Assess Adverse Events and Change in Disease Activity To Prevent Migraine in Participants Aged 12 to 17 Years</title>
-      <link>https://clinicaltrials.gov/study/NCT06810505</link>
-      <guid isPermaLink="false">clinical-trials:NCT06810505</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — ACTIVE_NOT_RECRUITING PHASE3: A Study to Assess Disease Activity and Safety of Lutikizumab in Adult and Adolescent Participants With Moderate to Severe Hidradenitis Suppurativa</title>
-      <link>https://clinicaltrials.gov/study/NCT06468228</link>
-      <guid isPermaLink="false">clinical-trials:NCT06468228</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — COMPLETED PHASE3: A Study to Assess BOTOX Injections in Adult Participants for the Change of Masseter Muscle Prominence</title>
-      <link>https://clinicaltrials.gov/study/NCT06387394</link>
-      <guid isPermaLink="false">clinical-trials:NCT06387394</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — ACTIVE_NOT_RECRUITING PHASE2: A Study of Ocular Toxicity Evaluation and Mitigation During Treatment With Mirvetuximab Soravtansine in Participants With Recurrent Ovarian Cancer With High Folate Receptor-Alpha Expression</title>
-      <link>https://clinicaltrials.gov/study/NCT06365853</link>
-      <guid isPermaLink="false">clinical-trials:NCT06365853</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — RECRUITING PHASE2/PHASE3: Study to Evaluate Adverse Events, Optimal Dose, and Change in Disease Activity, With Livmoniplimab in Combination With Budigalimab Plus Chemotherapy Versus IV Infused Pembrolizumab Plus Chemotherapy in Adult Participants With Untreated Metastatic Non-Squamous Non-Small Cell Lung Cancer (NSCLC)</title>
-      <link>https://clinicaltrials.gov/study/NCT06236438</link>
-      <guid isPermaLink="false">clinical-trials:NCT06236438</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — ACTIVE_NOT_RECRUITING PHASE3: Study Assessing Activity of Intravenous (IV) Etentamig Monotherapy Versus Standard Available Therapies in Adult Participants With Relapsed or Refractory Multiple Myeloma</title>
-      <link>https://clinicaltrials.gov/study/NCT06158841</link>
-      <guid isPermaLink="false">clinical-trials:NCT06158841</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — RECRUITING PHASE1: Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Select Advanced Solid Tumor Indications Receiving Intravenous (IV) ABBV-400</title>
-      <link>https://clinicaltrials.gov/study/NCT06084481</link>
-      <guid isPermaLink="false">clinical-trials:NCT06084481</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — ACTIVE_NOT_RECRUITING PHASE3: A Study to Assess Change in Disease Activity and Adverse Events of Oral Upadacitinib in Adult and Adolescent Participants With Moderate to Severe Hidradenitis Suppurativa Who Have Failed Anti-TNF Therapy</title>
-      <link>https://clinicaltrials.gov/study/NCT05889182</link>
-      <guid isPermaLink="false">clinical-trials:NCT05889182</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — RECRUITING PHASE3: A Study to Assess the Adverse Events and Change in Disease Activity of Oral Atogepant Tablets in Pediatric Participants (6-17 Years of Age) With Episodic Migraine</title>
-      <link>https://clinicaltrials.gov/study/NCT05711394</link>
-      <guid isPermaLink="false">clinical-trials:NCT05711394</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — RECRUITING: A Study to Assess Change in Disease State in Adult Participants With Acute Myeloid Leukemia (AML) Receiving Oral Venetoclax Tablets in Combination With Subcutaneously (SC) or Intravenously (IV) Injected Azacitidine in Colombia</title>
-      <link>https://clinicaltrials.gov/study/NCT05587049</link>
-      <guid isPermaLink="false">clinical-trials:NCT05587049</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — TERMINATED PHASE2: A Study to Evaluate Safety and Tolerability of CVL-231 (Emraclidine) in Adult Participants With Schizophrenia</title>
-      <link>https://clinicaltrials.gov/study/NCT05443724</link>
-      <guid isPermaLink="false">clinical-trials:NCT05443724</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — RECRUITING PHASE3: Study to Assess Adverse Events and Disease Activity of Oral Ubrogepant Tablets for the Acute Treatment of Migraine in Children and Adolescents (Ages 6-17)</title>
-      <link>https://clinicaltrials.gov/study/NCT05125302</link>
-      <guid isPermaLink="false">clinical-trials:NCT05125302</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
       <title>AbbVie — ACTIVE_NOT_RECRUITING PHASE2: RGX-314 Gene Therapy Administered in the Suprachoroidal Space for Participants With Diabetic Retinopathy (DR) With and Without Center Involved-Diabetic Macular Edema (CI-DME)</title>
       <link>https://clinicaltrials.gov/study/NCT04567550</link>
       <guid isPermaLink="false">clinical-trials:NCT04567550</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AbbVie — AVAILABLE: Expanded Access to Upadacitinib</title>
-      <link>https://clinicaltrials.gov/study/NCT04159597</link>
-      <guid isPermaLink="false">clinical-trials:NCT04159597</guid>
       <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
     </item>
     <item>

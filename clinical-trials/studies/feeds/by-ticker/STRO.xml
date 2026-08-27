@@ -4,12 +4,12 @@
     <title>LuxAlgo Alt Data — Clinical trial registrations — STRO</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 15:40:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
     <item>
       <title>Sutro Biopharma, Inc. — RECRUITING PHASE1: A Study of STRO-004 in Adults With Refractory/Recurrent Metastatic Cancer</title>
       <link>https://clinicaltrials.gov/study/NCT07227168</link>
       <guid isPermaLink="false">clinical-trials:NCT07227168</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
     </item>
   </channel>
 </rss>

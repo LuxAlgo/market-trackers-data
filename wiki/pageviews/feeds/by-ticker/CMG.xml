@@ -4,7 +4,7 @@
     <title>LuxAlgo Alt Data — Wikipedia pageviews — CMG</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Daily per-article Wikipedia pageview counts for a curated map of public-company articles, from the Wikimedia REST pageviews API (keyless, CC0 counts). Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 15:40:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
     <item>
       <title>Chipotle_Mexican_Grill (CMG): 1064 views on 2026-08-26</title>
       <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Chipotle_Mexican_Grill/daily/2026082600/2026082600</link>

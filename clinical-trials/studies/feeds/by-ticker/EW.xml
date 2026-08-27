@@ -4,7 +4,7 @@
     <title>LuxAlgo Alt Data — Clinical trial registrations — EW</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 15:40:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
     <item>
       <title>Edwards Lifesciences — ACTIVE_NOT_RECRUITING: MiCLASP Post Market Clinical Follow-Up (PMCF) Study</title>
       <link>https://clinicaltrials.gov/study/NCT04430075</link>

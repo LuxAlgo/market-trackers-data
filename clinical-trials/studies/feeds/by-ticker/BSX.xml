@@ -4,35 +4,101 @@
     <title>LuxAlgo Alt Data — Clinical trial registrations — BSX</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 15:40:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
     <item>
       <title>Boston Scientific Corporation — NOT_YET_RECRUITING NA: Impact of Endoscopic Sleeve Gastroplasty (ESG) in Obese Adults With Type 2 Diabetes (T2D)</title>
       <link>https://clinicaltrials.gov/study/NCT07639684</link>
       <guid isPermaLink="false">clinical-trials:NCT07639684</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
     </item>
     <item>
       <title>Boston Scientific Corporation — RECRUITING NA: TheraSphere Japan Pre-Market Study</title>
       <link>https://clinicaltrials.gov/study/NCT07377487</link>
       <guid isPermaLink="false">clinical-trials:NCT07377487</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Boston Scientific Corporation — RECRUITING NA: A Study on the Acquisition of 2D ICE Images With the CHORUS IDx System in Subjects Undergoing an Ablation Procedure</title>
-      <link>https://clinicaltrials.gov/study/NCT07353710</link>
-      <guid isPermaLink="false">clinical-trials:NCT07353710</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
     </item>
     <item>
       <title>Boston Scientific Corporation — RECRUITING NA: Orbera365 Intragastric Balloon System (Abbreviated as'Orbera365')</title>
       <link>https://clinicaltrials.gov/study/NCT07195708</link>
       <guid isPermaLink="false">clinical-trials:NCT07195708</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
     </item>
     <item>
       <title>Boston Scientific Corporation — RECRUITING NA: Endo-SPONGE for Treatment of Anastomotic or Hartmann's Stump Leakages in Lower Pelvic Area</title>
       <link>https://clinicaltrials.gov/study/NCT07035431</link>
       <guid isPermaLink="false">clinical-trials:NCT07035431</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boston Scientific Corporation — RECRUITING NA: AGENT DCB STANCE: Safety and Effectiveness Study of AGENT Drug-Coated Balloon Compared to Standard of Care Percutaneous Coronary Intervention (PCI) Treatment for de Novo Coronary Lesions</title>
+      <link>https://clinicaltrials.gov/study/NCT06959524</link>
+      <guid isPermaLink="false">clinical-trials:NCT06959524</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boston Scientific Corporation — RECRUITING: Intracept Minimally-invasive PROcedure for VErtebrogenic Back Pain</title>
+      <link>https://clinicaltrials.gov/study/NCT06827262</link>
+      <guid isPermaLink="false">clinical-trials:NCT06827262</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boston Scientific Corporation — RECRUITING: FARAPULSE™ Pulsed Field Ablation System</title>
+      <link>https://clinicaltrials.gov/study/NCT06762717</link>
+      <guid isPermaLink="false">clinical-trials:NCT06762717</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boston Scientific Corporation — ACTIVE_NOT_RECRUITING PHASE3: A Clinical Trial to Assess the Agent Paclitaxel Coated PTCA Balloon Catheter for the Treatment of Subjects With In-Stent Restenosis (ISR) - Long Lesion Cohort</title>
+      <link>https://clinicaltrials.gov/study/NCT06492174</link>
+      <guid isPermaLink="false">clinical-trials:NCT06492174</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boston Scientific Corporation — ACTIVE_NOT_RECRUITING NA: Dose Escalation Study Evaluating Safety of TheraSphere Prostate Cancer (PCa) Device</title>
+      <link>https://clinicaltrials.gov/study/NCT06192758</link>
+      <guid isPermaLink="false">clinical-trials:NCT06192758</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boston Scientific Corporation — RECRUITING PHASE1: A Feasibility Study to Evaluate the Safety of the TheraSphere Glioblastoma (GBM) Device in Patients With Recurrent GBM</title>
+      <link>https://clinicaltrials.gov/study/NCT05303467</link>
+      <guid isPermaLink="false">clinical-trials:NCT05303467</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boston Scientific Corporation — ACTIVE_NOT_RECRUITING PHASE2: TheraSphere With Durvalumab and Tremelimumab for HCC</title>
+      <link>https://clinicaltrials.gov/study/NCT05063565</link>
+      <guid isPermaLink="false">clinical-trials:NCT05063565</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boston Scientific Corporation — RECRUITING: BoStOn SCientific Rhythm MAnagemenT REgiStry</title>
+      <link>https://clinicaltrials.gov/study/NCT04823663</link>
+      <guid isPermaLink="false">clinical-trials:NCT04823663</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boston Scientific Corporation — ACTIVE_NOT_RECRUITING PHASE3: A Clinical Trial to Assess the Agent Paclitaxel Coated PTCA Balloon Catheter for the Treatment of Subjects With In-Stent Restenosis (ISR)</title>
+      <link>https://clinicaltrials.gov/study/NCT04647253</link>
+      <guid isPermaLink="false">clinical-trials:NCT04647253</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boston Scientific Corporation — ACTIVE_NOT_RECRUITING: A Post-Approval, Single-Arm Study of the SYNERGY Stent System in China</title>
+      <link>https://clinicaltrials.gov/study/NCT03736226</link>
+      <guid isPermaLink="false">clinical-trials:NCT03736226</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boston Scientific Corporation — TERMINATED NA: Assessment of the WATCHMAN™ Device in Patients Unsuitable for Oral Anticoagulation</title>
+      <link>https://clinicaltrials.gov/study/NCT02928497</link>
+      <guid isPermaLink="false">clinical-trials:NCT02928497</guid>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boston Scientific Corporation — RECRUITING NA: A Study on the Acquisition of 2D ICE Images With the CHORUS IDx System in Subjects Undergoing an Ablation Procedure</title>
+      <link>https://clinicaltrials.gov/study/NCT07353710</link>
+      <guid isPermaLink="false">clinical-trials:NCT07353710</guid>
       <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
     </item>
     <item>
@@ -42,81 +108,15 @@
       <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
     </item>
     <item>
-      <title>Boston Scientific Corporation — RECRUITING NA: AGENT DCB STANCE: Safety and Effectiveness Study of AGENT Drug-Coated Balloon Compared to Standard of Care Percutaneous Coronary Intervention (PCI) Treatment for de Novo Coronary Lesions</title>
-      <link>https://clinicaltrials.gov/study/NCT06959524</link>
-      <guid isPermaLink="false">clinical-trials:NCT06959524</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Boston Scientific Corporation — RECRUITING: Intracept Minimally-invasive PROcedure for VErtebrogenic Back Pain</title>
-      <link>https://clinicaltrials.gov/study/NCT06827262</link>
-      <guid isPermaLink="false">clinical-trials:NCT06827262</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Boston Scientific Corporation — RECRUITING: FARAPULSE™ Pulsed Field Ablation System</title>
-      <link>https://clinicaltrials.gov/study/NCT06762717</link>
-      <guid isPermaLink="false">clinical-trials:NCT06762717</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Boston Scientific Corporation — ACTIVE_NOT_RECRUITING PHASE3: A Clinical Trial to Assess the Agent Paclitaxel Coated PTCA Balloon Catheter for the Treatment of Subjects With In-Stent Restenosis (ISR) - Long Lesion Cohort</title>
-      <link>https://clinicaltrials.gov/study/NCT06492174</link>
-      <guid isPermaLink="false">clinical-trials:NCT06492174</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Boston Scientific Corporation — ACTIVE_NOT_RECRUITING NA: Dose Escalation Study Evaluating Safety of TheraSphere Prostate Cancer (PCa) Device</title>
-      <link>https://clinicaltrials.gov/study/NCT06192758</link>
-      <guid isPermaLink="false">clinical-trials:NCT06192758</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
       <title>Boston Scientific Corporation — ACTIVE_NOT_RECRUITING: Real World Data Collection in Subjects Treated With the FARAPULSE Pulsed Field Ablation System</title>
       <link>https://clinicaltrials.gov/study/NCT05501873</link>
       <guid isPermaLink="false">clinical-trials:NCT05501873</guid>
       <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
     </item>
     <item>
-      <title>Boston Scientific Corporation — RECRUITING PHASE1: A Feasibility Study to Evaluate the Safety of the TheraSphere Glioblastoma (GBM) Device in Patients With Recurrent GBM</title>
-      <link>https://clinicaltrials.gov/study/NCT05303467</link>
-      <guid isPermaLink="false">clinical-trials:NCT05303467</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Boston Scientific Corporation — ACTIVE_NOT_RECRUITING PHASE2: TheraSphere With Durvalumab and Tremelimumab for HCC</title>
-      <link>https://clinicaltrials.gov/study/NCT05063565</link>
-      <guid isPermaLink="false">clinical-trials:NCT05063565</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Boston Scientific Corporation — RECRUITING: BoStOn SCientific Rhythm MAnagemenT REgiStry</title>
-      <link>https://clinicaltrials.gov/study/NCT04823663</link>
-      <guid isPermaLink="false">clinical-trials:NCT04823663</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
       <title>Boston Scientific Corporation — RECRUITING: Drug-Eluting Registry: Real-World Treatment of Lesions in the Peripheral Vasculature</title>
       <link>https://clinicaltrials.gov/study/NCT04674969</link>
       <guid isPermaLink="false">clinical-trials:NCT04674969</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Boston Scientific Corporation — ACTIVE_NOT_RECRUITING PHASE3: A Clinical Trial to Assess the Agent Paclitaxel Coated PTCA Balloon Catheter for the Treatment of Subjects With In-Stent Restenosis (ISR)</title>
-      <link>https://clinicaltrials.gov/study/NCT04647253</link>
-      <guid isPermaLink="false">clinical-trials:NCT04647253</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Boston Scientific Corporation — ACTIVE_NOT_RECRUITING: A Post-Approval, Single-Arm Study of the SYNERGY Stent System in China</title>
-      <link>https://clinicaltrials.gov/study/NCT03736226</link>
-      <guid isPermaLink="false">clinical-trials:NCT03736226</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Boston Scientific Corporation — TERMINATED NA: Assessment of the WATCHMAN™ Device in Patients Unsuitable for Oral Anticoagulation</title>
-      <link>https://clinicaltrials.gov/study/NCT02928497</link>
-      <guid isPermaLink="false">clinical-trials:NCT02928497</guid>
       <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
     </item>
   </channel>

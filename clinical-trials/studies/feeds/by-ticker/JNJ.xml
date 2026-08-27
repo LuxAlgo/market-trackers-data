@@ -4,18 +4,18 @@
     <title>LuxAlgo Alt Data — Clinical trial registrations — JNJ</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 15:40:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
     <item>
       <title>Johnson &amp; Johnson Vision Care, Inc. — NOT_YET_RECRUITING NA: Comparison of ACUVUE® OASYS MAX 1-Day Multifocal and DAILIES® AquaComfort Plus® Multifocal</title>
       <link>https://clinicaltrials.gov/study/NCT07788521</link>
       <guid isPermaLink="false">clinical-trials:NCT07788521</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
     </item>
     <item>
       <title>Johnson &amp; Johnson Surgical Vision, Inc. — COMPLETED NA: Clinical Investigation of the TECNIS® Next-Generation Intraocular Lens</title>
       <link>https://clinicaltrials.gov/study/NCT06377514</link>
       <guid isPermaLink="false">clinical-trials:NCT06377514</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
     </item>
   </channel>
 </rss>

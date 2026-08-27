@@ -4,7 +4,7 @@
     <title>LuxAlgo Alt Data — FEC candidate totals</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Candidate-cycle campaign-finance summaries (receipts, disbursements, cash on hand) from the FEC's keyless bulk downloads, joined to congress members via FEC candidate ids. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 15:40:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
     <item>
       <title>JENKINS, EVAN H (REP, S-WV) 2026: $0 receipts</title>
       <link>https://www.fec.gov/data/candidate/S8WV00127/?cycle=2026</link>

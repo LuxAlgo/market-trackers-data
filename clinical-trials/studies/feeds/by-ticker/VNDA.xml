@@ -4,7 +4,7 @@
     <title>LuxAlgo Alt Data — Clinical trial registrations — VNDA</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 15:40:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
     <item>
       <title>Vanda Pharmaceuticals — ACTIVE_NOT_RECRUITING PHASE1/PHASE2: Treatment of Charcot-Marie-Tooth Disease, Axonal, Type 2S (CMT2S) in an Individual Patient</title>
       <link>https://clinicaltrials.gov/study/NCT07223632</link>

@@ -4,12 +4,12 @@
     <title>LuxAlgo Alt Data — Congressional trades — ORCL</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 26 Aug 2026 23:36:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 02:08:39 GMT</lastBuildDate>
     <item>
       <title>John Boozman (senate) buy: ORCL — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/</link>
       <guid isPermaLink="false">congress-trades:senate:f727289a-4d72-4c90-a3ea-63d5bcd23398:1</guid>
-      <pubDate>Wed, 26 Aug 2026 23:34:52 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 02:04:51 GMT</pubDate>
     </item>
   </channel>
 </rss>

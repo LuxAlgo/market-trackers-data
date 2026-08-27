@@ -4,24 +4,36 @@
     <title>LuxAlgo Alt Data — Clinical trial registrations — BNTX</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 15:40:17 GMT</lastBuildDate>
     <item>
       <title>BioNTech SE — RECRUITING PHASE1: A Clinical Trial to Look at the Safety and Immune Responses of the RNA-based Vaccine BNT168 in Adults Living With or Without HIV</title>
       <link>https://clinicaltrials.gov/study/NCT07698600</link>
       <guid isPermaLink="false">clinical-trials:NCT07698600</guid>
-      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>BioNTech SE — RECRUITING PHASE1/PHASE2: A Clinical Trial to Test if the Investigational Drug BNT329 is Safe and Potentially Beneficial for People With Advanced Solid Tumors Known to Express the Tumor Marker CA19-9</title>
+      <link>https://clinicaltrials.gov/study/NCT07186842</link>
+      <guid isPermaLink="false">clinical-trials:NCT07186842</guid>
+      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
     </item>
     <item>
       <title>BioNTech SE — RECRUITING PHASE1/PHASE2: A Clinical Study to Investigate the Efficacy and Safety of an Investigational Combination Therapy With BNT324 and BNT327 in Patients With Advanced Lung Cancer</title>
       <link>https://clinicaltrials.gov/study/NCT06892548</link>
       <guid isPermaLink="false">clinical-trials:NCT06892548</guid>
-      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>BioNTech SE — RECRUITING PHASE1/PHASE2: A Clinical Study to Find the Optimal Dose of an Investigational Treatment Called BNT323 When Used in Combination With Another Investigational Treatment, BNT327, and to Test if That Combination Treatment is Safe and Beneficial for Patients With Advanced Breast Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT06827236</link>
+      <guid isPermaLink="false">clinical-trials:NCT06827236</guid>
+      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
     </item>
     <item>
       <title>BioNTech SE — COMPLETED PHASE1/PHASE2: A Study to Learn About Flu and COVID-19 Vaccine Responses in Healthy People</title>
       <link>https://clinicaltrials.gov/study/NCT06683352</link>
       <guid isPermaLink="false">clinical-trials:NCT06683352</guid>
-      <pubDate>Wed, 26 Aug 2026 21:25:59 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
     </item>
   </channel>
 </rss>

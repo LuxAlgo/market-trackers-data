@@ -4,7 +4,7 @@
     <title>LuxAlgo Alt Data — Short-sale volume — ACRT</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 26 Aug 2026 21:26:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 15:40:17 GMT</lastBuildDate>
     <item>
       <title>ACRT 2026-08-26: 18/48.9887 short (36.7%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260826.txt</link>

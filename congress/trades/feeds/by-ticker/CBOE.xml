@@ -4,18 +4,18 @@
     <title>LuxAlgo Alt Data — Congressional trades — CBOE</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 04:15:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 14:09:37 GMT</lastBuildDate>
     <item>
       <title>John Boozman (senate) buy: CBOE — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/</link>
       <guid isPermaLink="false">congress-trades:senate:f727289a-4d72-4c90-a3ea-63d5bcd23398:7</guid>
-      <pubDate>Thu, 27 Aug 2026 04:14:07 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 14:06:55 GMT</pubDate>
     </item>
     <item>
       <title>John Boozman (senate) sell: CBOE — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/</link>
       <guid isPermaLink="false">congress-trades:senate:28e465df-caf1-4a98-8ebc-605e1e1ba99b:0</guid>
-      <pubDate>Thu, 27 Aug 2026 04:14:06 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 14:06:54 GMT</pubDate>
     </item>
   </channel>
 </rss>

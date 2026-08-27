@@ -4,7 +4,7 @@
     <title>LuxAlgo Alt Data — Congressional trades — AMD</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 18:13:49 GMT</lastBuildDate>
     <item>
       <title>Hon. Richard W. Allen (house) buy: AMD — $1,001 - $15,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035260.pdf</link>

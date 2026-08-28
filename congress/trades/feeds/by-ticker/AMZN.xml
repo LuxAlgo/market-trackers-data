@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Congressional trades — AMZN</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 20:24:12 GMT</lastBuildDate>
     <item>
       <title>Hon. Thomas H. Kean Jr (house) buy: AMZN — $1,001 - $15,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf</link>
       <guid isPermaLink="false">congress-trades:house:20035273:1</guid>
-      <pubDate>Thu, 27 Aug 2026 16:31:29 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 20:22:11 GMT</pubDate>
     </item>
   </channel>
 </rss>

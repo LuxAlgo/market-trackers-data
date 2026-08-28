@@ -4,18 +4,18 @@
     <title>LuxAlgo Alt Data — Congressional trades — EL</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 18:13:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 01:55:56 GMT</lastBuildDate>
     <item>
       <title>John Boozman (senate) buy: EL — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/4a558db2-e492-4e8f-8a28-7b703a5c8e08/</link>
       <guid isPermaLink="false">congress-trades:senate:4a558db2-e492-4e8f-8a28-7b703a5c8e08:3</guid>
-      <pubDate>Thu, 27 Aug 2026 18:11:39 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 01:52:22 GMT</pubDate>
     </item>
     <item>
       <title>John Boozman (senate) buy: EL — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/</link>
       <guid isPermaLink="false">congress-trades:senate:4184cc9a-78e0-45f3-84f7-642011e6ff98:3</guid>
-      <pubDate>Thu, 27 Aug 2026 18:11:39 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 01:52:21 GMT</pubDate>
     </item>
   </channel>
 </rss>

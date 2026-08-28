@@ -4,18 +4,18 @@
     <title>LuxAlgo Alt Data — Congressional trades — MSFT</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 18:13:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 01:55:56 GMT</lastBuildDate>
     <item>
       <title>John Boozman (senate) buy: MSFT — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/</link>
       <guid isPermaLink="false">congress-trades:senate:f727289a-4d72-4c90-a3ea-63d5bcd23398:3</guid>
-      <pubDate>Thu, 27 Aug 2026 18:11:40 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 01:52:23 GMT</pubDate>
     </item>
     <item>
       <title>John Boozman (senate) buy: MSFT — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/</link>
       <guid isPermaLink="false">congress-trades:senate:f727289a-4d72-4c90-a3ea-63d5bcd23398:2</guid>
-      <pubDate>Thu, 27 Aug 2026 18:11:40 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 01:52:23 GMT</pubDate>
     </item>
     <item>
       <title>Hon. David J. Taylor (house) sell: MSFT — $15,001 - $50,000</title>

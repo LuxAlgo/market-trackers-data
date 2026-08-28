@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>LuxAlgo Alt Data — Clinical trial registrations — JAZZ</title>
-    <link>https://github.com/LuxAlgo/alt-data</link>
+    <title>LuxAlgo Market Trackers — Clinical trial registrations — JAZZ</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
     <item>
       <title>Jazz Pharmaceuticals — NOT_YET_RECRUITING: Zanidatamab Outcomes and Lived Experiences in Advanced HER2+ GEA</title>
       <link>https://clinicaltrials.gov/study/NCT07780968</link>
       <guid isPermaLink="false">clinical-trials:NCT07780968</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Jazz Pharmaceuticals — NOT_YET_RECRUITING PHASE4: A Study to Investigate the Effect of Gradual Titration to Optimize Cannabidiol Treatment in Adults With LGS</title>
       <link>https://clinicaltrials.gov/study/NCT07728097</link>
       <guid isPermaLink="false">clinical-trials:NCT07728097</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Jazz Pharmaceuticals — RECRUITING PHASE2: A Phase 2 Neoadjuvant Study of Zanidatamab in Combination With Chemotherapy in Participants With HER2-positive Breast Cancer</title>
       <link>https://clinicaltrials.gov/study/NCT07102381</link>
       <guid isPermaLink="false">clinical-trials:NCT07102381</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Jazz Pharmaceuticals — RECRUITING: Pregnancy Surveillance Program of Patients Exposed to Epidiolex/Epidyolex During Pregnancy</title>
       <link>https://clinicaltrials.gov/study/NCT06113237</link>
       <guid isPermaLink="false">clinical-trials:NCT06113237</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Jazz Pharmaceuticals — COMPLETED PHASE4: A Study to Investigate the Effect of XYWAV on Sleepiness, Polysomnography, and Functional Outcomes in Participants With Idiopathic Hypersomnia or Narcolepsy</title>
       <link>https://clinicaltrials.gov/study/NCT05875974</link>
       <guid isPermaLink="false">clinical-trials:NCT05875974</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Jazz Pharmaceuticals — ACTIVE_NOT_RECRUITING PHASE4: Assessment of Potential for Chronic Liver Injury in Participants Treated With Epidiolex (Cannabidiol) Oral Solution</title>
       <link>https://clinicaltrials.gov/study/NCT05044819</link>
       <guid isPermaLink="false">clinical-trials:NCT05044819</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Jazz Pharmaceuticals — RECRUITING PHASE3: A Study Evaluating the Efficacy and Safety of Xywav Expanded Dosing vs Placebo in Participants With Narcolepsy or IH</title>

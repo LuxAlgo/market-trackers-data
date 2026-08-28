@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>LuxAlgo Alt Data — Congressional trades — SPGI</title>
-    <link>https://github.com/LuxAlgo/alt-data</link>
+    <title>LuxAlgo Market Trackers — Congressional trades — SPGI</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 14:31:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
     <item>
       <title>Hon. Kelly Louise Morrison (house) sell: SPGI — $1,001 - $15,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf</link>

@@ -1,45 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>LuxAlgo Alt Data — Clinical trial registrations — IONS</title>
-    <link>https://github.com/LuxAlgo/alt-data</link>
+    <title>LuxAlgo Market Trackers — Clinical trial registrations — IONS</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
     <item>
       <title>Ionis Pharmaceuticals, Inc. — NOT_YET_RECRUITING PHASE3: CHAMPION: A Study to Evaluate the Efficacy and Safety of Obudanersen (ION582) in Children and Adults With Angelman Syndrome (AS)</title>
       <link>https://clinicaltrials.gov/study/NCT07782827</link>
       <guid isPermaLink="false">clinical-trials:NCT07782827</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Ionis Pharmaceuticals, Inc. — RECRUITING PHASE3: A Study of Olezarsen for the Treatment of Familial Chylomicronemia Syndrome (FCS) in Pediatric Participants</title>
       <link>https://clinicaltrials.gov/study/NCT07727538</link>
       <guid isPermaLink="false">clinical-trials:NCT07727538</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ionis Pharmaceuticals, Inc. — RECRUITING PHASE3: REVEAL: A Phase 3 Study of Obudanersen (ION582) in Angelman Syndrome</title>
+      <link>https://clinicaltrials.gov/study/NCT06914609</link>
+      <guid isPermaLink="false">clinical-trials:NCT06914609</guid>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Ionis Pharmaceuticals, Inc. — ACTIVE_NOT_RECRUITING PHASE1/PHASE2: PrProfile: A Study to Assess the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of ION717</title>
       <link>https://clinicaltrials.gov/study/NCT06153966</link>
       <guid isPermaLink="false">clinical-trials:NCT06153966</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Ionis Pharmaceuticals, Inc. — ACTIVE_NOT_RECRUITING PHASE1/PHASE2: HALOS: A Safety, Tolerability, Pharmacokinetics and Pharmacodynamics Study of Multiple Ascending Doses of ION582 in Participants With Angelman Syndrome</title>
       <link>https://clinicaltrials.gov/study/NCT05127226</link>
       <guid isPermaLink="false">clinical-trials:NCT05127226</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Ionis Pharmaceuticals, Inc. — ACTIVE_NOT_RECRUITING PHASE3: A Study to Evaluate the Safety and Efficacy of Zilganersen (ION373) in Patients With Alexander Disease (AxD)</title>
       <link>https://clinicaltrials.gov/study/NCT04849741</link>
       <guid isPermaLink="false">clinical-trials:NCT04849741</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Ionis Pharmaceuticals, Inc. — COMPLETED PHASE3: CARDIO-TTRansform: A Study to Evaluate the Efficacy and Safety of Eplontersen (Formerly Known as ION-682884, IONIS-TTR-LRx and AKCEA-TTR-LRx) in Participants With Transthyretin-Mediated Amyloid Cardiomyopathy (ATTR CM)</title>
       <link>https://clinicaltrials.gov/study/NCT04136171</link>
       <guid isPermaLink="false">clinical-trials:NCT04136171</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
   </channel>
 </rss>

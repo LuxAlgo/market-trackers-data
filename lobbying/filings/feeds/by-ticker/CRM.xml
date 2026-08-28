@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>LuxAlgo Alt Data — Lobbying filings — CRM</title>
-    <link>https://github.com/LuxAlgo/alt-data</link>
+    <title>LuxAlgo Market Trackers — Lobbying filings — CRM</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
     <item>
       <title>SALESFORCE, INC. via CHECKMATE GOVERNMENT RELATIONS (2026 second_quarter) — $150000</title>
       <link>https://lda.gov/filings/public/filing/f725f42b-c84d-4f69-841a-bc5adfedbede/print/</link>

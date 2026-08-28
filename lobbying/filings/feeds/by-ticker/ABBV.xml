@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>LuxAlgo Alt Data — Lobbying filings — ABBV</title>
-    <link>https://github.com/LuxAlgo/alt-data</link>
+    <title>LuxAlgo Market Trackers — Lobbying filings — ABBV</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
     <item>
       <title>ABBVIE, INC. via FEDERAL STREET STRATEGIES, LLC (2026 second_quarter) — $50000</title>
       <link>https://lda.gov/filings/public/filing/f8b218ce-9661-470c-b105-c817e34e7c6b/print/</link>

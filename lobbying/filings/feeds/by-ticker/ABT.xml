@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>LuxAlgo Alt Data — Lobbying filings — ABT</title>
-    <link>https://github.com/LuxAlgo/alt-data</link>
+    <title>LuxAlgo Market Trackers — Lobbying filings — ABT</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
     <item>
       <title>ABBOTT LABORATORIES via KOUNTOUPES DENHAM CARR &amp; REID, LLC (2026 second_quarter) — $60000</title>
       <link>https://lda.gov/filings/public/filing/fb3cce7f-613e-416d-af8d-3afd1692d359/print/</link>

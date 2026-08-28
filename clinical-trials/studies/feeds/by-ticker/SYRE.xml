@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>LuxAlgo Alt Data — Clinical trial registrations — SYRE</title>
-    <link>https://github.com/LuxAlgo/alt-data</link>
+    <title>LuxAlgo Market Trackers — Clinical trial registrations — SYRE</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
     <item>
       <title>Spyre Therapeutics, Inc. — ENROLLING_BY_INVITATION PHASE2: Long-term Safety and Efficacy of Multiple Long-acting Antibodies Alone and in Combinations for IBD</title>
       <link>https://clinicaltrials.gov/study/NCT07652294</link>
       <guid isPermaLink="false">clinical-trials:NCT07652294</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Spyre Therapeutics, Inc. — RECRUITING PHASE2: A Study of Long-acting Antibodies Alone and in Combinations for Moderate to Severe Ulcerative Colitis</title>
       <link>https://clinicaltrials.gov/study/NCT07012395</link>
       <guid isPermaLink="false">clinical-trials:NCT07012395</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Spyre Therapeutics, Inc. — COMPLETED PHASE1: A Study of SPY002-091 in Healthy Volunteers</title>
       <link>https://clinicaltrials.gov/study/NCT06672718</link>
       <guid isPermaLink="false">clinical-trials:NCT06672718</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Spyre Therapeutics, Inc. — COMPLETED PHASE1: A Study of SPY002-072 in Healthy Volunteers</title>
       <link>https://clinicaltrials.gov/study/NCT06622070</link>
       <guid isPermaLink="false">clinical-trials:NCT06622070</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
   </channel>
 </rss>

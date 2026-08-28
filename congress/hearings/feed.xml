@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>LuxAlgo Alt Data — Congressional hearing transcripts</title>
-    <link>https://github.com/LuxAlgo/alt-data</link>
+    <title>LuxAlgo Market Trackers — Congressional hearing transcripts</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Published hearing transcript packages from GPO GovInfo's CHRG collection (keyless): title, committees, witnesses, member bioguide ids, and deep links to the transcript — an index with receipts; the text stays at govinfo. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
+    <item>
+      <title>senate hearing 2026-06-02 — Committee on Commerce, Science, and Transportation: THE BLUE ECONOMY: ADVANCING AMERICAN FISHERIES, MARITIME STRENGTH, AND COASTAL ECONOMIES</title>
+      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119shrg64450/mods.xml</link>
+      <guid isPermaLink="false">congress-hearings:CHRG-119shrg64450</guid>
+      <pubDate>Fri, 28 Aug 2026 14:56:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>senate hearing 2025-11-19 — Committee on the Judiciary: CONFIRMATION HEARING ON FEDERAL APPOINTMENTS</title>
+      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119shrg62970/mods.xml</link>
+      <guid isPermaLink="false">congress-hearings:CHRG-119shrg62970</guid>
+      <pubDate>Fri, 28 Aug 2026 14:56:12 GMT</pubDate>
+    </item>
     <item>
       <title>senate hearing 2026-05-20 — Committee on Commerce, Science, and Transportation: NO SURE BETS: PROTECTING SPORTS INTEGRITY IN AMERICA</title>
       <link>https://www.govinfo.gov/metadata/pkg/CHRG-119shrg64426/mods.xml</link>
@@ -591,18 +603,6 @@
       <title>senate hearing 2025-09-03 — Committee on Commerce, Science, and Transportation: THERE'S A BAD MOON ON THE RISE: WHY CONGRESS AND NASA MUST THWART CHINA IN THE SPACE RACE</title>
       <link>https://www.govinfo.gov/metadata/pkg/CHRG-119shrg62738/mods.xml</link>
       <guid isPermaLink="false">congress-hearings:CHRG-119shrg62738</guid>
-      <pubDate>Fri, 28 Aug 2026 02:47:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>senate hearing 2025-04-02 — Committee on Environment and Public Works: HEARING ON CONSTRUCTING THE SURFACE TRANSPORTATION REAUTHORIZATION BILL: UNITED STATES SECRETARY OF TRANSPORTATION'S PERSPECTIVE</title>
-      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119shrg62718/mods.xml</link>
-      <guid isPermaLink="false">congress-hearings:CHRG-119shrg62718</guid>
-      <pubDate>Fri, 28 Aug 2026 02:47:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>senate hearing 2026-01-29 — Select Committee on Intelligence: OPEN HEARING: NOMINATION OF LIEUTENANT GENERAL JOSHUA M. RUDD, TO BE DIRECTOR OF THE NATIONAL SECURITY AGENCY</title>
-      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119shrg62707/mods.xml</link>
-      <guid isPermaLink="false">congress-hearings:CHRG-119shrg62707</guid>
       <pubDate>Fri, 28 Aug 2026 02:47:43 GMT</pubDate>
     </item>
   </channel>

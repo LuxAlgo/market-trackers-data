@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>LuxAlgo Alt Data — Lobbying filings — SOJC</title>
-    <link>https://github.com/LuxAlgo/alt-data</link>
+    <title>LuxAlgo Market Trackers — Lobbying filings — SOJC</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
     <item>
       <title>SOUTHERN COMPANY via POLARIS-HUTTON GROUP, LLC (2026 first_quarter) — $40000</title>
       <link>https://lda.gov/filings/public/filing/fd68ecb2-c5a2-4909-bdb7-28b80f4eafe3/print/</link>

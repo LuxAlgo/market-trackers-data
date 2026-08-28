@@ -1,105 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>LuxAlgo Alt Data — Clinical trial registrations — REGN</title>
-    <link>https://github.com/LuxAlgo/alt-data</link>
+    <title>LuxAlgo Market Trackers — Clinical trial registrations — REGN</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
     <item>
       <title>Regeneron Pharmaceuticals — AVAILABLE: Compassionate Use of Vonsetamig</title>
       <link>https://clinicaltrials.gov/study/NCT07780110</link>
       <guid isPermaLink="false">clinical-trials:NCT07780110</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Regeneron Pharmaceuticals — RECRUITING PHASE2: Study of Olatorepatide in Adult Participants Living With Overweight or Obesity Without Diabetes</title>
       <link>https://clinicaltrials.gov/study/NCT07685808</link>
       <guid isPermaLink="false">clinical-trials:NCT07685808</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Regeneron Pharmaceuticals — RECRUITING PHASE3: Stroke and Systemic Embolism Prevention in Adult Participants With Atrial Fibrillation</title>
       <link>https://clinicaltrials.gov/study/NCT07626411</link>
       <guid isPermaLink="false">clinical-trials:NCT07626411</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Regeneron Pharmaceuticals — RECRUITING PHASE4: Adult Outpatient Linvoseltamab With Tocilizumab Prophylaxis to Mitigate the Risk of Cytokine Release Syndrome (CRS)</title>
       <link>https://clinicaltrials.gov/study/NCT07609940</link>
       <guid isPermaLink="false">clinical-trials:NCT07609940</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Regeneron Pharmaceuticals — NOT_YET_RECRUITING PHASE3: A Study to Investigate the Safety, Pharmacokinetics (PK), and Efficacy of Garetosmab in Children and Adolescents With Fibrodysplasia Ossificans Progressiva (FOP)</title>
       <link>https://clinicaltrials.gov/study/NCT07559513</link>
       <guid isPermaLink="false">clinical-trials:NCT07559513</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Regeneron Pharmaceuticals — RECRUITING PHASE1: A Phase 1 Study of BPX-601 CAR T-Cell Therapy in Adult Participants With Prostate Cancer That Has Returned, is Resistant to Treatment and Has Spread</title>
+      <link>https://clinicaltrials.gov/study/NCT07543055</link>
+      <guid isPermaLink="false">clinical-trials:NCT07543055</guid>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Regeneron Pharmaceuticals — RECRUITING PHASE1: A First in Human Study to Assess Safety, Tolerability and Pharmacokinetics of a Single Dose of REGN22044 in Healthy Adults</title>
       <link>https://clinicaltrials.gov/study/NCT07526116</link>
       <guid isPermaLink="false">clinical-trials:NCT07526116</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Regeneron Pharmaceuticals — RECRUITING PHASE1/PHASE2: A Trial to Study if REGN17372 in Combination With Linvoseltamab is Tolerable for Adult Participants With Relapsed/Refractory Multiple Myeloma</title>
       <link>https://clinicaltrials.gov/study/NCT07455851</link>
       <guid isPermaLink="false">clinical-trials:NCT07455851</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Regeneron Pharmaceuticals — RECRUITING PHASE3: REGN7508 in Adult Participants for Prevention of Cancer-Associated Thrombosis</title>
       <link>https://clinicaltrials.gov/study/NCT07410117</link>
       <guid isPermaLink="false">clinical-trials:NCT07410117</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Regeneron Pharmaceuticals — RECRUITING PHASE2: Safety in Adult Participants With Atrial Fibrillation Who Are Treated With Anticoagulation</title>
       <link>https://clinicaltrials.gov/study/NCT07175428</link>
       <guid isPermaLink="false">clinical-trials:NCT07175428</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Regeneron Pharmaceuticals — RECRUITING PHASE2: A Study to Investigate Ubamatamab With and Without Marlotamig (REGN7075) in Adult Participants With Advanced/Metastatic Non-Small Cell Lung Cancer (NSCLC)</title>
       <link>https://clinicaltrials.gov/study/NCT07154290</link>
       <guid isPermaLink="false">clinical-trials:NCT07154290</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Regeneron Pharmaceuticals — RECRUITING PHASE3: A Study of Dupilumab in Small Children With an Allergic Condition of the Esophagus (Food Pipe): Eosinophilic Esophagitis</title>
       <link>https://clinicaltrials.gov/study/NCT07112378</link>
       <guid isPermaLink="false">clinical-trials:NCT07112378</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Regeneron Pharmaceuticals — RECRUITING PHASE2: A Study to See if Giving Fianlimab and Cemiplimab Together is Better Than Cemiplimab Alone at Treating Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma</title>
       <link>https://clinicaltrials.gov/study/NCT06769698</link>
       <guid isPermaLink="false">clinical-trials:NCT06769698</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Regeneron Pharmaceuticals — RECRUITING PHASE3: A Study Investigating Subcutaneously Administered Pozelimab in Combination With Cemdisiran or Cemdisiran Alone in Adult Participants With Geographic Atrophy</title>
       <link>https://clinicaltrials.gov/study/NCT06541704</link>
       <guid isPermaLink="false">clinical-trials:NCT06541704</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Regeneron Pharmaceuticals — ACTIVE_NOT_RECRUITING PHASE2: A Study of Cemiplimab Plus Chemotherapy Versus Cemiplimab Plus Chemotherapy Plus Other Cancer Treatments for Adult Patients With Operable Non-Small Cell Lung Cancer (NSCLC)</title>
       <link>https://clinicaltrials.gov/study/NCT06465329</link>
       <guid isPermaLink="false">clinical-trials:NCT06465329</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Regeneron Pharmaceuticals — RECRUITING PHASE3: A Study to Compare How Well Odronextamab Combined With Chemotherapy Works and How Safe it is Against Rituximab Combined With Chemotherapy, in Adult Patients With Previously Untreated Diffuse Large B-cell Lymphoma</title>
       <link>https://clinicaltrials.gov/study/NCT06091865</link>
       <guid isPermaLink="false">clinical-trials:NCT06091865</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Regeneron Pharmaceuticals — RECRUITING PHASE1/PHASE2: A Study to Find Out How Safe REGN5668 is and How Well it Works In Adult Women When Given With Either Cemiplimab, or Cemiplimab + Fianlimab, or Ubamatamab</title>
       <link>https://clinicaltrials.gov/study/NCT04590326</link>
       <guid isPermaLink="false">clinical-trials:NCT04590326</guid>
-      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Regeneron Pharmaceuticals — RECRUITING PHASE3: Treatment and Secondary Prevention of Venous Thromboembolism (VTE) in Adult Participants With Solid and Hematologic Cancers</title>

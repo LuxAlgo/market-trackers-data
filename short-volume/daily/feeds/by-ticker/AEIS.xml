@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Short-sale volume — AEIS</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
+    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
+    <item>
+      <title>AEIS 2026-08-27: 109025.9404/249818.026109 short (43.6%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260827.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-27:AEIS:CNMS</guid>
+      <pubDate>Fri, 28 Aug 2026 02:16:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEIS 2026-08-26: 95878.679604/214865.489785 short (44.6%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260826.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-26:AEIS:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEIS 2026-08-25: 48698.497297/176290.830056 short (27.6%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260825.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-25:AEIS:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEIS 2026-08-24: 79402.362249/371385.128791 short (21.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260824.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-24:AEIS:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:58 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

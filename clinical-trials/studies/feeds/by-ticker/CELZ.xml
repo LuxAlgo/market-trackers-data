@@ -4,12 +4,12 @@
     <title>LuxAlgo Alt Data — Clinical trial registrations — CELZ</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
     <item>
       <title>Creative Medical Technology Holdings Inc — ACTIVE_NOT_RECRUITING PHASE1/PHASE2: Safety, Tolerability, and Effectiveness of Intramuscular Injection of CELZ-201-DDT for the Treatment of Chronic Lower Back Pain</title>
       <link>https://clinicaltrials.gov/study/NCT06053242</link>
       <guid isPermaLink="false">clinical-trials:NCT06053242</guid>
-      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

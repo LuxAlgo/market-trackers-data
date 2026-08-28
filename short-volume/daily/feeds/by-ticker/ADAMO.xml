@@ -4,7 +4,13 @@
     <title>LuxAlgo Alt Data — Short-sale volume — ADAMO</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
+    <item>
+      <title>ADAMO 2026-08-27: 2199/5711.1197 short (38.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260827.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-27:ADAMO:CNMS</guid>
+      <pubDate>Fri, 28 Aug 2026 02:16:31 GMT</pubDate>
+    </item>
     <item>
       <title>ADAMO 2026-08-26: 2409/5714.0488 short (42.2%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260826.txt</link>

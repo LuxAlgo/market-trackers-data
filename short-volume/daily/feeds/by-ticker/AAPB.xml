@@ -4,7 +4,13 @@
     <title>LuxAlgo Alt Data — Short-sale volume — AAPB</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
+    <item>
+      <title>AAPB 2026-08-27: 4531.977477/7527.11695 short (60.2%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260827.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-27:AAPB:CNMS</guid>
+      <pubDate>Fri, 28 Aug 2026 02:16:31 GMT</pubDate>
+    </item>
     <item>
       <title>AAPB 2026-08-26: 912.094234/3215.915067 short (28.4%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260826.txt</link>

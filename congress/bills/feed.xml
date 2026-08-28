@@ -4,606 +4,372 @@
     <title>LuxAlgo Alt Data — Federal legislation</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Bill status records from GPO GovInfo's bulk BILLSTATUS data (keyless): titles, sponsors, latest actions, and policy areas, verbatim from the record. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
     <item>
-      <title>S 5375 (119th) — action 2026-07-27: National Defense Authorization Act for Fiscal Year 2027</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-bill/5375</link>
-      <guid isPermaLink="false">bills:119-s-5375</guid>
-      <pubDate>Thu, 27 Aug 2026 16:32:02 GMT</pubDate>
+      <title>S 5368 (119th) — action 2026-08-07: Water Cyber Shield Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/5368</link>
+      <guid isPermaLink="false">bills:119-s-5368</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>S 3333 (119th) — action 2025-12-03: Emergency Savings Enhancement Act of 2025</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-bill/3333</link>
-      <guid isPermaLink="false">bills:119-s-3333</guid>
-      <pubDate>Thu, 27 Aug 2026 16:32:02 GMT</pubDate>
+      <title>S 5214 (119th) — action 2025-01-21: Protect and Serve Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/5214</link>
+      <guid isPermaLink="false">bills:119-s-5214</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>HR 9857 (119th) — action 2026-07-22: Protecting Americans from Doxing and Political Violence Act</title>
-      <link>https://www.congress.gov/bill/119th-congress/house-bill/9857</link>
-      <guid isPermaLink="false">bills:119-hr-9857</guid>
-      <pubDate>Thu, 27 Aug 2026 16:32:02 GMT</pubDate>
+      <title>S 5141 (119th) — action 2026-02-26: TAS Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/5141</link>
+      <guid isPermaLink="false">bills:119-s-5141</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 99 (119th) — action 2026-02-25: A resolution celebrating Black History Month.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/99</link>
-      <guid isPermaLink="false">bills:119-sres-99</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 5127 (119th) — action 2025-06-26: To amend the Internal Revenue Code of 1986 to exclude from gross income certain compensation to clinical trial participants, and for othe...</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/5127</link>
+      <guid isPermaLink="false">bills:119-s-5127</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 98 (119th) — action 2025-04-28: A resolution condemning Beijing's destruction of Hong Kong's democracy and rule of law.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/98</link>
-      <guid isPermaLink="false">bills:119-sres-98</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 5084 (119th) — action 2026-07-22: A bill to amend the Internal Revenue Code of 1986 to apply inflation adjustments to the base amount and adjusted base amount for purposes...</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/5084</link>
+      <guid isPermaLink="false">bills:119-s-5084</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 97 (119th) — action 2025-02-25: A resolution honoring the life of Nebraska community leader Howard L. Hawks.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/97</link>
-      <guid isPermaLink="false">bills:119-sres-97</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 5042 (119th) — action 2026-06-29: Social Security 2100 Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/5042</link>
+      <guid isPermaLink="false">bills:119-s-5042</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 96 (119th) — action 2025-02-25: A resolution designating the week of February 24 through February 28, 2025, as &quot;Public Schools Week&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/96</link>
-      <guid isPermaLink="false">bills:119-sres-96</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 4980 (119th) — action 2026-07-14: Water Emergency and Technical Assistance Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/4980</link>
+      <guid isPermaLink="false">bills:119-s-4980</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 95 (119th) — action 2025-02-25: A resolution expressing support for the designation of February 23, 2025, to March 1, 2025, as &quot;National Fentanyl Awareness Week&quot; and rai...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/95</link>
-      <guid isPermaLink="false">bills:119-sres-95</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 4949 (119th) — action 2026-07-15: Water Resources Development Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/4949</link>
+      <guid isPermaLink="false">bills:119-s-4949</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 94 (119th) — action 2025-02-27: An original resolution authorizing expenditures by committees of the Senate for the periods March 1, 2025, through September 30, 2025, Oc...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/94</link>
-      <guid isPermaLink="false">bills:119-sres-94</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 4784 (119th) — action 2025-12-02: Servicewomen and Veterans Menopause Research Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/4784</link>
+      <guid isPermaLink="false">bills:119-s-4784</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 93 (119th) — action 2025-02-25: A resolution expressing the sense of the Senate that the operations of the National Institutes of Health should not experience any interr...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/93</link>
-      <guid isPermaLink="false">bills:119-sres-93</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 458 (119th) — action 2025-02-06: Senior Citizens Tax Elimination Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/458</link>
+      <guid isPermaLink="false">bills:119-s-458</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 92 (119th) — action 2026-02-26: A resolution designating February 16, 2026, as &quot;National Elizabeth Peratrovich Day&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/92</link>
-      <guid isPermaLink="false">bills:119-sres-92</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 3967 (119th) — action 2026-07-20: FLOWS Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/3967</link>
+      <guid isPermaLink="false">bills:119-s-3967</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 91 (119th) — action 2025-02-24: A resolution acknowledging the third anniversary of Russia's further invasion of Ukraine and expressing support for the people of Ukraine.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/91</link>
-      <guid isPermaLink="false">bills:119-sres-91</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 3931 (119th) — action 2026-04-15: Improving IRS Customer Service Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/3931</link>
+      <guid isPermaLink="false">bills:119-s-3931</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 90 (119th) — action 2025-02-24: An original resolution authorizing expenditures by the Committee on Foreign Relations.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/90</link>
-      <guid isPermaLink="false">bills:119-sres-90</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 358 (119th) — action 2025-03-21: RETIREES FIRST Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/358</link>
+      <guid isPermaLink="false">bills:119-s-358</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 9 (119th) — action 2025-01-03: A resolution notifying the President of the United States of the election of a Secretary of the Senate.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/9</link>
-      <guid isPermaLink="false">bills:119-sres-9</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 3015 (119th) — action 2026-08-20: AWRC Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/3015</link>
+      <guid isPermaLink="false">bills:119-s-3015</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 89 (119th) — action 2025-02-13: Expressing support for the designation of February 15 through February 22, 2025, as &quot;National FFA Week&quot;, recognizing the important role o...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/89</link>
-      <guid isPermaLink="false">bills:119-sres-89</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 2251 (119th) — action 2026-01-13: Say No to Indoctrination Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/2251</link>
+      <guid isPermaLink="false">bills:119-s-2251</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 88 (119th) — action 2025-02-04: Raising awareness and encouraging the prevention of stalking by designating January 2025 as &quot;National Stalking Awareness Month&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/88</link>
-      <guid isPermaLink="false">bills:119-sres-88</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 2113 (119th) — action 2025-12-11: End the Fed’s Big Bank Bailout Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/2113</link>
+      <guid isPermaLink="false">bills:119-s-2113</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 87 (119th) — action 2025-02-21: A resolution designating February 2025 as &quot;American Heart Month&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/87</link>
-      <guid isPermaLink="false">bills:119-sres-87</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 1791 (119th) — action 2025-05-15: Gunnison Outdoor Resources Protection Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1791</link>
+      <guid isPermaLink="false">bills:119-s-1791</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 86 (119th) — action 2025-02-21: Expressing the sense of the House of Representatives regarding United Nations General Assembly Resolution 2758 (XXVI) and the harmful con...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/86</link>
-      <guid isPermaLink="false">bills:119-sres-86</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 167 (119th) — action 2026-08-03: Protect and Serve Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/167</link>
+      <guid isPermaLink="false">bills:119-s-167</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 85 (119th) — action 2025-02-19: A resolution congratulating the Jackson State University Tigers for winning the 2024 Celebration Bowl.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/85</link>
-      <guid isPermaLink="false">bills:119-sres-85</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 1549 (119th) — action 2025-10-28: Water Cybersecurity Enhancement Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1549</link>
+      <guid isPermaLink="false">bills:119-s-1549</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 849 (119th) — action 2025-09-11: Expressing support for the designation of the week of September 11 through September 17, 2025, as &quot;Patriot Week&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/849</link>
-      <guid isPermaLink="false">bills:119-sres-849</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 1118 (119th) — action 2025-03-25: Water ISAC Threat Protection Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1118</link>
+      <guid isPermaLink="false">bills:119-s-1118</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 848 (119th) — action 2026-08-08: A resolution celebrating the 80th anniversary of the Centers for Disease Control and Prevention, the premier public health institute of t...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/848</link>
-      <guid isPermaLink="false">bills:119-sres-848</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 1109 (119th) — action 2025-03-25: Social Security Check Tax Cut Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1109</link>
+      <guid isPermaLink="false">bills:119-s-1109</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 847 (119th) — action 2026-08-08: A resolution commending and congratulating the Pennsylvania State University Nittany Lions men's wrestling team for winning the 2026 Nati...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/847</link>
-      <guid isPermaLink="false">bills:119-sres-847</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>S 1018 (119th) — action 2025-03-13: Cybersecurity for Rural Water Systems Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1018</link>
+      <guid isPermaLink="false">bills:119-s-1018</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 846 (119th) — action 2025-08-02: A resolution designating August 21, 2025, as &quot;Fentanyl Prevention and Awareness Day&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/846</link>
-      <guid isPermaLink="false">bills:119-sres-846</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 9921 (119th) — action 2025-05-01: SHIPS for America Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9921</link>
+      <guid isPermaLink="false">bills:119-hr-9921</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 845 (119th) — action 2026-08-07: A resolution designating September 2026 as &quot;National Child Awareness Month&quot; to promote awareness of charities that benefit children as we...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/845</link>
-      <guid isPermaLink="false">bills:119-sres-845</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 9776 (119th) — action 2026-03-03: FLOWS Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9776</link>
+      <guid isPermaLink="false">bills:119-hr-9776</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 844 (119th) — action 2026-08-07: A resolution honoring the lives and service of Emily Barker, Nicholas Hutcherson, Sydney Watson, Nathan Matthews, Nicholas Dale, and all ...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/844</link>
-      <guid isPermaLink="false">bills:119-sres-844</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 9773 (119th) — action 2026-07-07: Permanent Trump Secure Border Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9773</link>
+      <guid isPermaLink="false">bills:119-hr-9773</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 843 (119th) — action 2026-08-07: A resolution expressing support for the designation of the first week of August 2026, as &quot;National Community Health Center Week&quot;, encoura...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/843</link>
-      <guid isPermaLink="false">bills:119-sres-843</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 9725 (119th) — action 2026-07-22: H.R. 9725, Restoring Integrity and Efficiency to Inspector General Oversight Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9725</link>
+      <guid isPermaLink="false">bills:119-hr-9725</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 842 (119th) — action 2026-08-07: A resolution expressing recognition and appreciation for the contributions of hotel employees and supporting the goals and ideals of Nati...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/842</link>
-      <guid isPermaLink="false">bills:119-sres-842</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 9690 (119th) — action 2026-07-14: Water Emergency and Technical Assistance Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9690</link>
+      <guid isPermaLink="false">bills:119-hr-9690</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 841 (119th) — action 2026-08-06: A resolution celebrating the 35th anniversary of the independence of Ukraine from the former Soviet Union.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/841</link>
-      <guid isPermaLink="false">bills:119-sres-841</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 9643 (119th) — action 2026-07-22: H.R. 9643, Comment Integrity and Management Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9643</link>
+      <guid isPermaLink="false">bills:119-hr-9643</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 840 (119th) — action 2026-08-06: A resolution to authorize testimony and representation by the Senate Legal Counsel.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/840</link>
-      <guid isPermaLink="false">bills:119-sres-840</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 9519 (119th) — action 2025-03-05: Keeping Our Field Offices Open Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9519</link>
+      <guid isPermaLink="false">bills:119-hr-9519</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 84 (119th) — action 2025-02-19: A resolution congratulating the Philadelphia Eagles on their victory in Super Bowl LIX in the successful 105th season of the National Foo...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/84</link>
-      <guid isPermaLink="false">bills:119-sres-84</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 9416 (119th) — action 2026-07-01: Ocmulgee Mounds National Park Redesignation Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9416</link>
+      <guid isPermaLink="false">bills:119-hr-9416</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 839 (119th) — action 2026-08-06: A resolution to authorize representation by the Senate Legal Counsel in Federal Trade Commission v. Key Investment Group, LLC, et al.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/839</link>
-      <guid isPermaLink="false">bills:119-sres-839</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 904 (119th) — action 2025-09-04: You Earned It, You Keep It Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/904</link>
+      <guid isPermaLink="false">bills:119-hr-904</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 838 (119th) — action 2026-08-06: A resolution commemorating the first anniversary of the mass shooting at Fort Stewart, Georgia, on August 6, 2025.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/838</link>
-      <guid isPermaLink="false">bills:119-sres-838</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 8278 (119th) — action 2026-06-24: H.R. 8278, Fostering the Use of Technology to Uphold Regulatory Effectiveness in Supervision Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/8278</link>
+      <guid isPermaLink="false">bills:119-hr-8278</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 837 (119th) — action 2026-08-06: A resolution designating the week of August 22 through August 30, 2026, as &quot;National Park Week&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/837</link>
-      <guid isPermaLink="false">bills:119-sres-837</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 8202 (119th) — action 2026-08-07: A bill to provide for a ten-year statute of limitations for export control violations under the Export Control Reform Act of 2018.</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/8202</link>
+      <guid isPermaLink="false">bills:119-hr-8202</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 836 (119th) — action 2025-07-31: A resolution designating August 16, 2025, &quot;National Airborne Day&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/836</link>
-      <guid isPermaLink="false">bills:119-sres-836</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 8141 (119th) — action 2026-06-30: Fair Credit Reporting Reseller Accuracy Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/8141</link>
+      <guid isPermaLink="false">bills:119-hr-8141</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 835 (119th) — action 2026-08-06: A resolution celebrating the July 2026 North Atlantic Treaty Organization Summit in Ankara, Turkiye, and reaffirming priorities pertainin...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/835</link>
-      <guid isPermaLink="false">bills:119-sres-835</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 8065 (119th) — action 2026-03-26: H.R. 8065, Restoring Executive Branch Authorities to Oversee Offices of the United States Attorneys Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/8065</link>
+      <guid isPermaLink="false">bills:119-hr-8065</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 834 (119th) — action 2026-08-06: A resolution honoring and commending the 100th anniversary of the Golf Course Superintendents Association of America.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/834</link>
-      <guid isPermaLink="false">bills:119-sres-834</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 7994 (119th) — action 2026-07-21: HERO Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/7994</link>
+      <guid isPermaLink="false">bills:119-hr-7994</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 833 (119th) — action 2026-08-06: A resolution recognizing the 1960 University of Missouri Tigers Football Team for its undefeated regular season, Orange Bowl victory, and...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/833</link>
-      <guid isPermaLink="false">bills:119-sres-833</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 7889 (119th) — action 2025-10-16: AWRC Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/7889</link>
+      <guid isPermaLink="false">bills:119-hr-7889</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 832 (119th) — action 2026-08-06: A resolution establishing a process to assure the long-term fiscal stability of the Federal Old-Age and Survivors Insurance Trust Fund an...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/832</link>
-      <guid isPermaLink="false">bills:119-sres-832</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 6893 (119th) — action 2026-02-26: Chesapeake WATERS Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/6893</link>
+      <guid isPermaLink="false">bills:119-hr-6893</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 831 (119th) — action 2026-08-05: A resolution recognizing the 100th anniversary of Northwest Mississippi Community College and celebrating a century of educational excell...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/831</link>
-      <guid isPermaLink="false">bills:119-sres-831</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 6417 (119th) — action 2026-08-05: Emergency Savings Enhancement Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/6417</link>
+      <guid isPermaLink="false">bills:119-hr-6417</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 830 (119th) — action 2026-08-04: A resolution recognizing the 80th anniversary of the Fulbright Program.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/830</link>
-      <guid isPermaLink="false">bills:119-sres-830</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 6322 (119th) — action 2026-05-21: Stop Stealing our Chips Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/6322</link>
+      <guid isPermaLink="false">bills:119-hr-6322</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 83 (119th) — action 2025-02-13: Expressing support for the designation of February 2025 as &quot;Hawaiian Language Month&quot; or &quot;'Ōlelo Hawai'i Month&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/83</link>
-      <guid isPermaLink="false">bills:119-sres-83</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 5584 (119th) — action 2026-04-28: LIFT AI Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/5584</link>
+      <guid isPermaLink="false">bills:119-hr-5584</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 829 (119th) — action 2026-08-04: A resolution reaffirming the policy of the United States to support a peaceful democratic transition in Venezuela through free and fair e...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/829</link>
-      <guid isPermaLink="false">bills:119-sres-829</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 5402 (119th) — action 2025-04-10: Credit Access and Inclusion Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/5402</link>
+      <guid isPermaLink="false">bills:119-hr-5402</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 828 (119th) — action 2026-08-04: A resolution expressing the sense of the Senate that President Trump's lawsuit against the Internal Revenue Service, the resulting settle...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/828</link>
-      <guid isPermaLink="false">bills:119-sres-828</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 5185 (119th) — action 2025-09-10: H.R. 5185, a bill to make improvements in the enactment of title 41, United States Code, into a positive law title and to improve the Code</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/5185</link>
+      <guid isPermaLink="false">bills:119-hr-5185</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 827 (119th) — action 2026-03-25: Recognizing the 100th anniversary of the creation of the Sporting Arms and Ammunition Manufacturers' Institute, Inc., and commending its ...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/827</link>
-      <guid isPermaLink="false">bills:119-sres-827</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 4626 (119th) — action 2026-02-24: Providing for consideration of the bill (H.R. 4626) to amend the Energy Policy and Conservation Act to prohibit the Secretary of Energy f...</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/4626</link>
+      <guid isPermaLink="false">bills:119-hr-4626</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 826 (119th) — action 2026-07-30: A resolution honoring the contributions of small manufacturers of firearms to the economy, culture, and recreational heritage of the Unit...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/826</link>
-      <guid isPermaLink="false">bills:119-sres-826</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 4465 (119th) — action 2025-09-10: H.R. 4465, a bill to amend chapters 4, 10, and 131 of title 5, United States Code, as necessary to keep those chapters current and to cor...</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/4465</link>
+      <guid isPermaLink="false">bills:119-hr-4465</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 825 (119th) — action 2026-07-30: A resolution commending Mississippi Christian University for 200 years of service to the State of Mississippi and the United States.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/825</link>
-      <guid isPermaLink="false">bills:119-sres-825</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 4184 (119th) — action 2026-07-23: Harley Jacobsen Clinical Trial Participant Income Exemption Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/4184</link>
+      <guid isPermaLink="false">bills:119-hr-4184</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 824 (119th) — action 2025-08-01: A resolution designating August 1, 2025, as &quot;Gold Star Children's Day&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/824</link>
-      <guid isPermaLink="false">bills:119-sres-824</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 3420 (119th) — action 2026-03-26: H.R. 3420, Words Matter Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/3420</link>
+      <guid isPermaLink="false">bills:119-hr-3420</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 823 (119th) — action 2026-07-30: A resolution designating the week of August 2 through August 8, 2026, as &quot;National Farmers Market Week&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/823</link>
-      <guid isPermaLink="false">bills:119-sres-823</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 3276 (119th) — action 2026-08-20: Local Communities &amp; Bird Habitat Stewardship Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/3276</link>
+      <guid isPermaLink="false">bills:119-hr-3276</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 822 (119th) — action 2026-07-27: Expressing support for the designation of July 2026 as &quot;American Grown Flower and Foliage Month&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/822</link>
-      <guid isPermaLink="false">bills:119-sres-822</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 3151 (119th) — action 2026-07-23: American Shipyard Investment Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/3151</link>
+      <guid isPermaLink="false">bills:119-hr-3151</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 821 (119th) — action 2026-07-30: A resolution designating July 30, 2026, as &quot;National Whistleblower Appreciation Day&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/821</link>
-      <guid isPermaLink="false">bills:119-sres-821</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 2621 (119th) — action 2025-02-06: Carried Interest Fairness Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/2621</link>
+      <guid isPermaLink="false">bills:119-hr-2621</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 820 (119th) — action 2026-08-07: A resolution designating August 7, 2026, as &quot;National Lighthouse Day&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/820</link>
-      <guid isPermaLink="false">bills:119-sres-820</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 2594 (119th) — action 2025-04-02: To establish a Water Risk and Resilience Organization to develop risk and resilience requirements for the water sector.</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/2594</link>
+      <guid isPermaLink="false">bills:119-hr-2594</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 82 (119th) — action 2025-02-19: An original resolution authorizing expenditures by the Committee on Commerce, Science, and Transportation.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/82</link>
-      <guid isPermaLink="false">bills:119-sres-82</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 2406 (119th) — action 2026-08-20: National Oceanic and Atmospheric Administration Sexual Harassment and Assault Prevention Improvements Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/2406</link>
+      <guid isPermaLink="false">bills:119-hr-2406</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 819 (119th) — action 2026-07-30: A resolution condemning the Government of the Islamic Republic of Iran for its ongoing human rights abuses, including its use of politica...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/819</link>
-      <guid isPermaLink="false">bills:119-sres-819</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 2344 (119th) — action 2025-03-25: Water Intelligence, Security, and Cyber Threat Protection Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/2344</link>
+      <guid isPermaLink="false">bills:119-hr-2344</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 818 (119th) — action 2025-07-17: A resolution recognizing the importance of trademarks in the economy and the role of trademarks in protecting consumer safety, by designa...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/818</link>
-      <guid isPermaLink="false">bills:119-sres-818</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 2266 (119th) — action 2025-02-03: RETIREES FIRST Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/2266</link>
+      <guid isPermaLink="false">bills:119-hr-2266</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 817 (119th) — action 2026-07-30: An executive resolution authorizing the en bloc consideration in Executive Session of certain nominations on the Executive Calendar.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/817</link>
-      <guid isPermaLink="false">bills:119-sres-817</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 2109 (119th) — action 2025-04-04: Cybersecurity for Rural Water Systems Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/2109</link>
+      <guid isPermaLink="false">bills:119-hr-2109</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 816 (119th) — action 2026-07-23: A resolution honoring 35 years of independence for the countries of Central Asia and recognizing the importance of the United States grow...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/816</link>
-      <guid isPermaLink="false">bills:119-sres-816</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 1551 (119th) — action 2026-08-03: Protect and Serve Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/1551</link>
+      <guid isPermaLink="false">bills:119-hr-1551</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 815 (119th) — action 2026-08-07: A resolution commending the Chicago Cubs baseball teams as it celebrates its 150th anniversary on August 29, 2026.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/815</link>
-      <guid isPermaLink="false">bills:119-sres-815</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 1483 (119th) — action 2026-06-30: H.R. 1483, Protecting Investors’ Personally Identifiable Information Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/1483</link>
+      <guid isPermaLink="false">bills:119-hr-1483</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 814 (119th) — action 2026-07-23: A resolution recognizing the importance of independent living and economic self-sufficiency for individuals with disabilities made possib...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/814</link>
-      <guid isPermaLink="false">bills:119-sres-814</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 1266 (119th) — action 2026-04-15: Combating Illicit Xylazine Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/1266</link>
+      <guid isPermaLink="false">bills:119-hr-1266</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 813 (119th) — action 2025-07-28: A resolution designating July 26, 2025, as &quot;National Day of the American Cowboy&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/813</link>
-      <guid isPermaLink="false">bills:119-sres-813</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 1129 (119th) — action 2025-02-07: Tax Relief Unleashed for Seniors by Trump Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/1129</link>
+      <guid isPermaLink="false">bills:119-hr-1129</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 812 (119th) — action 2026-07-23: A resolution recognizing the 179th anniversary of the arrival of pioneers belonging to The Church of Jesus Christ of Latter-day Saints to...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/812</link>
-      <guid isPermaLink="false">bills:119-sres-812</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 1040 (119th) — action 2025-02-06: Senior Citizens Tax Elimination Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/1040</link>
+      <guid isPermaLink="false">bills:119-hr-1040</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>SRES 811 (119th) — action 2026-07-22: A resolution expressing the sense of the Senate regarding the adverse impacts on the United States of the recent Canadian wildfires and t...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/811</link>
-      <guid isPermaLink="false">bills:119-sres-811</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 810 (119th) — action 2026-07-21: A resolution to constitute the majority party's membership on certain committees for the One Hundred Nineteenth Congress, or until their ...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/810</link>
-      <guid isPermaLink="false">bills:119-sres-810</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 81 (119th) — action 2025-02-14: Calling on the United Kingdom, France, and Germany (E3) to initiate the snapback of sanctions on Iran under United Nations Security Counc...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/81</link>
-      <guid isPermaLink="false">bills:119-sres-81</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 809 (119th) — action 2025-06-24: A resolution designating June 15, 2025, as &quot;World Elder Abuse Awareness Day&quot; and the month of June 2025 as &quot;Elder Abuse Awareness Month&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/809</link>
-      <guid isPermaLink="false">bills:119-sres-809</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 808 (119th) — action 2026-07-21: A resolution expressing the sense of the Senate that Eleanor L. Ross, judge of the United States District Court for the Northern District...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/808</link>
-      <guid isPermaLink="false">bills:119-sres-808</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 807 (119th) — action 2026-07-21: A resolution directing the Senate Legal Counsel to bring a civil action in the name of the Senate to enforce the Foreign Emoluments Claus...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/807</link>
-      <guid isPermaLink="false">bills:119-sres-807</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 806 (119th) — action 2025-07-14: A resolution designating July 2025 as &quot;Plastic Pollution Action Month&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/806</link>
-      <guid isPermaLink="false">bills:119-sres-806</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 805 (119th) — action 2026-07-15: A resolution celebrating the historic significance of the 2026 Federation Internationale de Football Association (FIFA) World Cup and wel...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/805</link>
-      <guid isPermaLink="false">bills:119-sres-805</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 804 (119th) — action 2026-07-15: A resolution commemorating the tenth anniversary of the 2016 West Virginia floods.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/804</link>
-      <guid isPermaLink="false">bills:119-sres-804</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 803 (119th) — action 2026-07-14: A resolution congratulating the 2025-2026 Carolina Hurricanes for winning the Stanley Cup.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/803</link>
-      <guid isPermaLink="false">bills:119-sres-803</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 802 (119th) — action 2026-07-14: A resolution honoring and celebrating National Boys and Girls Club Week.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/802</link>
-      <guid isPermaLink="false">bills:119-sres-802</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 801 (119th) — action 2026-07-16: A resolution honoring the life and legacy of the Honorable Lindsey Olin Graham, a Senator from the State of South Carolina.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/801</link>
-      <guid isPermaLink="false">bills:119-sres-801</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 800 (119th) — action 2025-07-10: A resolution commending the courage, bravery, and resolve of the fathers, mothers, sons, and daughters of Cuba, who, 4 years ago, stood i...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/800</link>
-      <guid isPermaLink="false">bills:119-sres-800</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 80 (119th) — action 2025-02-13: A resolution expressing gratitude to the Joint Congressional Committee on Inaugural Ceremonies, the Architect of the Capitol, the Sergean...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/80</link>
-      <guid isPermaLink="false">bills:119-sres-80</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 8 (119th) — action 2025-01-03: A resolution electing Jackie Barber as Secretary of the Senate.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/8</link>
-      <guid isPermaLink="false">bills:119-sres-8</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 799 (119th) — action 2025-07-08: A resolution expressing condolences of the Senate and honoring the memory of the victims on the third anniversary of the mass shooting at...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/799</link>
-      <guid isPermaLink="false">bills:119-sres-799</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 798 (119th) — action 2025-06-16: A resolution designating June 2025 as &quot;Great Outdoors Month&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/798</link>
-      <guid isPermaLink="false">bills:119-sres-798</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 797 (119th) — action 2026-06-24: A resolution requesting information on Israel's human rights practices pursuant to section 502B(c) of the Foreign Assistance Act of 1961.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/797</link>
-      <guid isPermaLink="false">bills:119-sres-797</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 796 (119th) — action 2026-06-30: Recognizing the upcoming 250th anniversary of the United States of America and reaffirming the commitment of the House of Representatives...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/796</link>
-      <guid isPermaLink="false">bills:119-sres-796</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 795 (119th) — action 2026-06-24: A resolution commemorating the 150th anniversary of the Battle of the Little Bighorn.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/795</link>
-      <guid isPermaLink="false">bills:119-sres-795</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 794 (119th) — action 2025-07-10: A resolution expressing support for the designation of July 10, 2025, as Journeyman Lineworkers Recognition Day.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/794</link>
-      <guid isPermaLink="false">bills:119-sres-794</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 793 (119th) — action 2026-06-24: A resolution congratulating the Johnson County Community College Cavaliers on winning the 2026 National Junior College Athletic Associati...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/793</link>
-      <guid isPermaLink="false">bills:119-sres-793</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 792 (119th) — action 2026-06-24: A resolution designating June 30, 2026, as &quot;Asteroid Day&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/792</link>
-      <guid isPermaLink="false">bills:119-sres-792</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 791 (119th) — action 2026-06-24: A resolution condemning the People's Republic of China's Ethnic Unity and Progress Law, concerned with its implications on the rights and...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/791</link>
-      <guid isPermaLink="false">bills:119-sres-791</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 790 (119th) — action 2026-08-03: Condemning a legal opinion issued by the U.S. Department of Justice on June 18, 2026, regarding the Olmstead v. L.C., the 1999 Supreme Co...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/790</link>
-      <guid isPermaLink="false">bills:119-sres-790</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 79 (119th) — action 2026-02-12: A resolution honoring the memories of the victims of the senseless attack at Marjory Stoneman Douglas High School on February 14, 2018.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/79</link>
-      <guid isPermaLink="false">bills:119-sres-79</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 789 (119th) — action 2025-07-09: A resolution recognizing June 2025, as &quot;LGBTQ Pride Month&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/789</link>
-      <guid isPermaLink="false">bills:119-sres-789</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 788 (119th) — action 2025-06-24: A resolution commemorating the passage of 4 years since the tragic building collapse in Surfside, Florida, on June 24, 2021.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/788</link>
-      <guid isPermaLink="false">bills:119-sres-788</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 787 (119th) — action 2026-06-24: Celebrating the historic anniversary of the June 24, 2022, decision of the Supreme Court of the United States in Dobbs v. Jackson Women's...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/787</link>
-      <guid isPermaLink="false">bills:119-sres-787</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 786 (119th) — action 2025-05-06: Expressing support for the designation of July 16, 2025, as &quot;Glioblastoma Awareness Day&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/786</link>
-      <guid isPermaLink="false">bills:119-sres-786</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 785 (119th) — action 2026-06-24: Celebrating the accomplishments of title IX of the Education Amendments of 1972, also known as the Patsy Takemoto Mink Equal Opportunity ...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/785</link>
-      <guid isPermaLink="false">bills:119-sres-785</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 784 (119th) — action 2026-06-23: A resolution prohibiting the buying or selling of certain investments by Senators.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/784</link>
-      <guid isPermaLink="false">bills:119-sres-784</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 783 (119th) — action 2026-06-22: A resolution expressing support for the designation of June 11, 2026, as &quot;Anti-Illicit Trade Awareness Day&quot;.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/783</link>
-      <guid isPermaLink="false">bills:119-sres-783</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 782 (119th) — action 2025-06-18: A resolution recognizing the importance of pollinators to ecosystem health and agriculture in the United States by designating June 15 th...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/782</link>
-      <guid isPermaLink="false">bills:119-sres-782</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 781 (119th) — action 2025-06-25: A resolution commemorating June 19, 2025, as &quot;Juneteenth National Independence Day&quot; in recognition of June 19, 1865, the date on which ne...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/781</link>
-      <guid isPermaLink="false">bills:119-sres-781</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 780 (119th) — action 2026-06-18: Expressing support for a &quot;World Sickle Cell Awareness Day&quot; in order to increase public awareness across the United States and global comm...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/780</link>
-      <guid isPermaLink="false">bills:119-sres-780</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 78 (119th) — action 2025-02-13: An original resolution authorizing expenditures by the Committee on the Budget.</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/78</link>
-      <guid isPermaLink="false">bills:119-sres-78</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 779 (119th) — action 2025-06-12: A resolution recognizing the contributions of Black people to the musical heritage of the United States and the need for greater access t...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/779</link>
-      <guid isPermaLink="false">bills:119-sres-779</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 778 (119th) — action 2026-06-18: A resolution recognizing and honoring Cambodian veterans of the Khmer National Armed Forces for their sacrifices, their support of the Ar...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/778</link>
-      <guid isPermaLink="false">bills:119-sres-778</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SRES 777 (119th) — action 2025-05-19: A resolution designating May 2, 2025, as &quot;United States Foreign Service Day&quot; in recognition of the men and women who have served, or are ...</title>
-      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/777</link>
-      <guid isPermaLink="false">bills:119-sres-777</guid>
-      <pubDate>Thu, 27 Aug 2026 14:38:31 GMT</pubDate>
+      <title>HR 10083 (119th) — action 2026-08-13: Water Technology and Resilience Reauthorization Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/10083</link>
+      <guid isPermaLink="false">bills:119-hr-10083</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:24 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,13 @@
     <title>LuxAlgo Alt Data — Wikipedia pageviews — AVGO</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Daily per-article Wikipedia pageview counts for a curated map of public-company articles, from the Wikimedia REST pageviews API (keyless, CC0 counts). Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
+    <item>
+      <title>Broadcom_Inc. (AVGO): 67 views on 2026-08-27</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Broadcom_Inc./daily/2026082700/2026082700</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Broadcom_Inc.:2026-08-27</guid>
+      <pubDate>Fri, 28 Aug 2026 02:41:08 GMT</pubDate>
+    </item>
     <item>
       <title>Broadcom_Inc. (AVGO): 73 views on 2026-08-26</title>
       <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Broadcom_Inc./daily/2026082600/2026082600</link>

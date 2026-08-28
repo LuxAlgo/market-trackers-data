@@ -4,12 +4,12 @@
     <title>LuxAlgo Alt Data — Clinical trial registrations — LXRX</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
     <item>
       <title>Lexicon Pharmaceuticals — ACTIVE_NOT_RECRUITING PHASE3: A Study to Evaluate the Efficacy and Safety of Sotagliflozin in Symptomatic Obstructive and Non-obstructive Hypertrophic Cardiomyopathy</title>
       <link>https://clinicaltrials.gov/study/NCT06481891</link>
       <guid isPermaLink="false">clinical-trials:NCT06481891</guid>
-      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,12 +4,12 @@
     <title>LuxAlgo Alt Data — Clinical trial registrations — CEROW</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
     <item>
       <title>CERo Therapeutics Holdings, Inc. — RECRUITING PHASE1: CER-1236 in Patients With Acute Myeloid Leukemia (AML), Myelodysplastic Syndrome (MDS), and Myelofibrosis (MF)</title>
       <link>https://clinicaltrials.gov/study/NCT06834282</link>
       <guid isPermaLink="false">clinical-trials:NCT06834282</guid>
-      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

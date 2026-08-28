@@ -4,18 +4,18 @@
     <title>LuxAlgo Alt Data — Clinical trial registrations — ATRC</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 16:32:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
     <item>
       <title>AtriCure, Inc. — RECRUITING: Cryo NerVe Block Extremity AmputatioN RegIStry for Post Operative and pHantom Limb Pain</title>
       <link>https://clinicaltrials.gov/study/NCT06908538</link>
       <guid isPermaLink="false">clinical-trials:NCT06908538</guid>
-      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
     </item>
     <item>
       <title>AtriCure, Inc. — RECRUITING: Inappropriate Sinus Tachycardia Registry</title>
       <link>https://clinicaltrials.gov/study/NCT05107635</link>
       <guid isPermaLink="false">clinical-trials:NCT05107635</guid>
-      <pubDate>Thu, 27 Aug 2026 16:31:44 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 02:41:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

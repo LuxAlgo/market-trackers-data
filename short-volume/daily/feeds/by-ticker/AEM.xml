@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Alt Data — Short-sale volume — AEM</title>
+    <link>https://github.com/LuxAlgo/alt-data</link>
+    <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
+    <lastBuildDate>Fri, 28 Aug 2026 02:50:49 GMT</lastBuildDate>
+    <item>
+      <title>AEM 2026-08-27: 338339.000133/760923.585617 short (44.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260827.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-27:AEM:CNMS</guid>
+      <pubDate>Fri, 28 Aug 2026 02:16:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEM 2026-08-26: 691392.421392/1749113.335197 short (39.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260826.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-26:AEM:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEM 2026-08-25: 1069434.653347/1461180.762945 short (73.2%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260825.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-25:AEM:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEM 2026-08-24: 921441.016028/1662360.884523 short (55.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260824.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-24:AEM:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:58 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

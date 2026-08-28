@@ -464,6 +464,8 @@
           bills: (r) => r.latestActionDate || r.introducedDate,
           "fec-candidates": (r) => r.coverageEndDate || (r.cycle ? r.cycle + "-01-01" : null),
           "fec-contributions": (r) => r.date || (r.cycle ? r.cycle + "-01-01" : null),
+          "congress-hearings": (r) => r.heldDate,
+          "fed-communications": (r) => r.date,
         };
         function naturalDate(datasetId, row) {
           var fn = DATASET_DATE_FIELD[datasetId];

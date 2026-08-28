@@ -4,7 +4,7 @@
     <title>LuxAlgo Alt Data — Congressional trades — BE</title>
     <link>https://github.com/LuxAlgo/alt-data</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 03:29:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:31:25 GMT</lastBuildDate>
     <item>
       <title>Hon. Nancy Pelosi (house) buy: BE — $500,001 - $1,000,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf</link>

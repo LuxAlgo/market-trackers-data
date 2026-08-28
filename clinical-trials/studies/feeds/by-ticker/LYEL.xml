@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — LYEL</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
     <item>
       <title>Lyell Immunopharma, Inc. — RECRUITING PHASE1/PHASE2: Study of Rondecabtagene Autoleucel in Aggressive Large B-Cell Lymphoma</title>
       <link>https://clinicaltrials.gov/study/NCT05826535</link>
       <guid isPermaLink="false">clinical-trials:NCT05826535</guid>
-      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
     </item>
   </channel>
 </rss>

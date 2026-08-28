@@ -4,30 +4,30 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — GILD</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
     <item>
       <title>Gilead Sciences — RECRUITING PHASE2: Study of Denikitug (GS-1811) Given Alone or With Nivolumab or Chemotherapy in Adults With Metastatic Gastric, Gastroesophageal Junction (GEJ), and Esophageal Adenocarcinomas</title>
       <link>https://clinicaltrials.gov/study/NCT07546812</link>
       <guid isPermaLink="false">clinical-trials:NCT07546812</guid>
-      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
     </item>
     <item>
       <title>Gilead Sciences — RECRUITING PHASE1/PHASE2: Study of GS-4321 in Healthy Participants and Participants With Chronic Hepatitis Delta Virus</title>
       <link>https://clinicaltrials.gov/study/NCT07096193</link>
       <guid isPermaLink="false">clinical-trials:NCT07096193</guid>
-      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
     </item>
     <item>
       <title>Gilead Sciences — ACTIVE_NOT_RECRUITING PHASE1: Study of Bictegravir/Emtricitabine/Tenofovir Alafenamide in Newborns Exposed to HIV</title>
       <link>https://clinicaltrials.gov/study/NCT07055451</link>
       <guid isPermaLink="false">clinical-trials:NCT07055451</guid>
-      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
     </item>
     <item>
       <title>Gilead Sciences — ACTIVE_NOT_RECRUITING PHASE3: Study of Lenacapavir as a Once-Yearly Injection for HIV Pre-exposure Prophylaxis (PrEP)</title>
       <link>https://clinicaltrials.gov/study/NCT07047716</link>
       <guid isPermaLink="false">clinical-trials:NCT07047716</guid>
-      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
     </item>
     <item>
       <title>Gilead Sciences — RECRUITING: Implementation Study of Lenacapavir Pre-exposure Prophylaxis for HIV Prevention</title>

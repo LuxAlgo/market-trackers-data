@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Wikipedia pageviews — NOC</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Daily per-article Wikipedia pageview counts for a curated map of public-company articles, from the Wikimedia REST pageviews API (keyless, CC0 counts). Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
     <item>
       <title>Northrop_Grumman (NOC): 1262 views on 2026-08-27</title>
       <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Northrop_Grumman/daily/2026082700/2026082700</link>

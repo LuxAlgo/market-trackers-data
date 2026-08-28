@@ -4,24 +4,24 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — BLCO</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
     <item>
       <title>Bausch &amp; Lomb Incorporated — NOT_YET_RECRUITING PHASE2: BL1107 Response and Intensity Guided Dosing for Hyperemia Resolution Trial</title>
       <link>https://clinicaltrials.gov/study/NCT07778888</link>
       <guid isPermaLink="false">clinical-trials:NCT07778888</guid>
-      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
     </item>
     <item>
       <title>Bausch &amp; Lomb Incorporated — COMPLETED NA: 1-Week Dispensing Evaluation of REVIVE™ Toric Soft Contact Lenses</title>
       <link>https://clinicaltrials.gov/study/NCT06053736</link>
       <guid isPermaLink="false">clinical-trials:NCT06053736</guid>
-      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
     </item>
     <item>
       <title>Bausch &amp; Lomb Incorporated — COMPLETED NA: Biotrue ONEday Contact Lenses With EPG03 Packaging Solution Compared to Biotrue ONEday Contact Lenses</title>
       <link>https://clinicaltrials.gov/study/NCT05129488</link>
       <guid isPermaLink="false">clinical-trials:NCT05129488</guid>
-      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
     </item>
   </channel>
 </rss>

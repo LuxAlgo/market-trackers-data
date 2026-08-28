@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Short-sale volume — ADV</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
     <item>
       <title>ADV 2026-08-27: 17484/25720.58031 short (68.0%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260827.txt</link>

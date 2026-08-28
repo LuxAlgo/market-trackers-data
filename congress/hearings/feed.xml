@@ -4,7 +4,43 @@
     <title>LuxAlgo Market Trackers — Congressional hearing transcripts</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Published hearing transcript packages from GPO GovInfo's CHRG collection (keyless): title, committees, witnesses, member bioguide ids, and deep links to the transcript — an index with receipts; the text stays at govinfo. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
+    <item>
+      <title>house hearing 2025-06-12 — Committee on Armed Services: Department of Defense Fiscal Year 2026 Budget Request</title>
+      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119hhrg64330/mods.xml</link>
+      <guid isPermaLink="false">congress-hearings:CHRG-119hhrg64330</guid>
+      <pubDate>Fri, 28 Aug 2026 16:52:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>house hearing 2026-06-30 — Committee on the Judiciary: A MIDLIFE CRISIS? IP AND THE INTERNET AFTER 40</title>
+      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119hhrg64158/mods.xml</link>
+      <guid isPermaLink="false">congress-hearings:CHRG-119hhrg64158</guid>
+      <pubDate>Fri, 28 Aug 2026 16:52:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>house hearing 2026-06-30 — Committee on the Judiciary: SANCTUARY POLICIES: VICTIMS' PERSPECTIVES</title>
+      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119hhrg64139/mods.xml</link>
+      <guid isPermaLink="false">congress-hearings:CHRG-119hhrg64139</guid>
+      <pubDate>Fri, 28 Aug 2026 16:52:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>house hearing 2026-06-24 — Committee on the Judiciary: THE 30,000 FOOT VIEW: COMPETITION AND REGULATION IN THE U.S. AIRLINE INDUSTRY</title>
+      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119hhrg64097/mods.xml</link>
+      <guid isPermaLink="false">congress-hearings:CHRG-119hhrg64097</guid>
+      <pubDate>Fri, 28 Aug 2026 16:52:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>house hearing 2026-06-10 — Committee on the Judiciary: EXAMINING THE SPORTS BROADCASTING ACT</title>
+      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119hhrg63977/mods.xml</link>
+      <guid isPermaLink="false">congress-hearings:CHRG-119hhrg63977</guid>
+      <pubDate>Fri, 28 Aug 2026 16:52:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>house hearing 2026-06-04 — Committee on the Judiciary: MEDICINES AND IP: BALANCING INNOVATION AND ACCESS</title>
+      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119hhrg63912/mods.xml</link>
+      <guid isPermaLink="false">congress-hearings:CHRG-119hhrg63912</guid>
+      <pubDate>Fri, 28 Aug 2026 16:52:12 GMT</pubDate>
+    </item>
     <item>
       <title>senate hearing 2026-06-02 — Committee on Commerce, Science, and Transportation: THE BLUE ECONOMY: ADVANCING AMERICAN FISHERIES, MARITIME STRENGTH, AND COASTAL ECONOMIES</title>
       <link>https://www.govinfo.gov/metadata/pkg/CHRG-119shrg64450/mods.xml</link>
@@ -567,42 +603,6 @@
       <title>senate hearing 2025-10-08 — Committee on Commerce, Science, and Transportation: SHUT YOUR APP: HOW UNCLE SAM JAWBONED BIG TECH INTO SILENCING AMERICANS</title>
       <link>https://www.govinfo.gov/metadata/pkg/CHRG-119shrg62821/mods.xml</link>
       <guid isPermaLink="false">congress-hearings:CHRG-119shrg62821</guid>
-      <pubDate>Fri, 28 Aug 2026 02:47:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>senate hearing 2025-04-09 — Committee on Environment and Public Works: IMPROVING FUTURE MANAGEMENT OF THE SUPERFUND PROGRAM</title>
-      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119shrg62808/mods.xml</link>
-      <guid isPermaLink="false">congress-hearings:CHRG-119shrg62808</guid>
-      <pubDate>Fri, 28 Aug 2026 02:47:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>senate hearing 2025-07-09 — Committee on Commerce, Science, and Transportation: NOMINATIONS TO THE UNITED STATES DEPARTMENT OF COMMERCE</title>
-      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119shrg62766/mods.xml</link>
-      <guid isPermaLink="false">congress-hearings:CHRG-119shrg62766</guid>
-      <pubDate>Fri, 28 Aug 2026 02:47:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>senate hearing 2025-10-22: CONFIRMATION HEARING ON FEDERAL APPOINTMENTS</title>
-      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119shrg62746/mods.xml</link>
-      <guid isPermaLink="false">congress-hearings:CHRG-119shrg62746</guid>
-      <pubDate>Fri, 28 Aug 2026 02:47:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>senate hearing 2026-02-04 — Committee on Veterans' Affairs: INDEPENDENT SPIRITS: VETERAN HEALTH AND HEALING THROUGH ADAPTIVE SPORTS</title>
-      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119shrg62740/mods.xml</link>
-      <guid isPermaLink="false">congress-hearings:CHRG-119shrg62740</guid>
-      <pubDate>Fri, 28 Aug 2026 02:47:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>senate hearing 2025-09-10 — Committee on Commerce, Science, and Transportation: AI'VE GOT A PLAN: AMERICA'S AI ACTION PLAN</title>
-      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119shrg62739/mods.xml</link>
-      <guid isPermaLink="false">congress-hearings:CHRG-119shrg62739</guid>
-      <pubDate>Fri, 28 Aug 2026 02:47:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>senate hearing 2025-09-03 — Committee on Commerce, Science, and Transportation: THERE'S A BAD MOON ON THE RISE: WHY CONGRESS AND NASA MUST THWART CHINA IN THE SPACE RACE</title>
-      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119shrg62738/mods.xml</link>
-      <guid isPermaLink="false">congress-hearings:CHRG-119shrg62738</guid>
       <pubDate>Fri, 28 Aug 2026 02:47:43 GMT</pubDate>
     </item>
   </channel>

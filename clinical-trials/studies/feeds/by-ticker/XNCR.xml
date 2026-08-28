@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — XNCR</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
     <item>
       <title>Xencor, Inc. — RECRUITING PHASE1: Phase 1, Safety and Tolerability Study of XmAb541 in Advanced Solid Tumors</title>
       <link>https://clinicaltrials.gov/study/NCT06276491</link>
       <guid isPermaLink="false">clinical-trials:NCT06276491</guid>
-      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
     </item>
   </channel>
 </rss>

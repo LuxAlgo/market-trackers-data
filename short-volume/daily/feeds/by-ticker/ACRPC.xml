@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Short-sale volume — ACRPC</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
     <item>
       <title>ACRPC 2026-08-27: 5838/8780.6385 short (66.5%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260827.txt</link>

@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — IRON</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 14:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
     <item>
       <title>Disc Medicine, Inc — ACTIVE_NOT_RECRUITING PHASE3: Study of Bitopertin in Participants With EPP or XLP (APOLLO)</title>
       <link>https://clinicaltrials.gov/study/NCT06910358</link>
       <guid isPermaLink="false">clinical-trials:NCT06910358</guid>
-      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
     </item>
     <item>
       <title>Disc Medicine, Inc — ENROLLING_BY_INVITATION PHASE2/PHASE3: HELIOS: Open-Label, Long-Term Extension Study to Investigate the Safety, Tolerability, and Efficacy of DISC-1459 (Bitopertin) in Participants With EPP or XLP</title>
       <link>https://clinicaltrials.gov/study/NCT05883748</link>
       <guid isPermaLink="false">clinical-trials:NCT05883748</guid>
-      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
     </item>
     <item>
       <title>Disc Medicine, Inc — RECRUITING PHASE1: A Phase 1b, Open-Label Study of DISC-3405 in Participants With Sickle Cell Disease (SCD)</title>

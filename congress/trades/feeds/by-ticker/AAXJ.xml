@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Congressional trades — AAXJ</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 22:03:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 22:32:49 GMT</lastBuildDate>
     <item>
       <title>John Boozman (senate) sell: AAXJ — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
       <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:9</guid>
-      <pubDate>Fri, 28 Aug 2026 22:01:59 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 22:30:52 GMT</pubDate>
     </item>
   </channel>
 </rss>

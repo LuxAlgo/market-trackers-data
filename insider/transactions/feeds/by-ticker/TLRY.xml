@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — TLRY</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>SIMON IRWIN D (TLRY) F: 425889 shares @ $4.88</title>
+      <link>https://www.sec.gov/Archives/edgar/data/922748/0001171843-26-005778-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005778:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>SIMON IRWIN D (TLRY) M: 803563 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/922748/0001171843-26-005778-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005778:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>SIMON IRWIN D (TLRY) F: 216561 shares @ $4.88</title>
+      <link>https://www.sec.gov/Archives/edgar/data/922748/0001171843-26-005778-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005778:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>SIMON IRWIN D (TLRY) M: 408605 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/922748/0001171843-26-005778-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005778:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>SIMON IRWIN D (TLRY) M: 803563 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/922748/0001171843-26-005778-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005778:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>SIMON IRWIN D (TLRY) M: 408605 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/922748/0001171843-26-005778-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005778:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merton Carl A (TLRY) F: 61090 shares @ $4.88</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1860546/0001171843-26-005777-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005777:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merton Carl A (TLRY) M: 111072 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1860546/0001171843-26-005777-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005777:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merton Carl A (TLRY) F: 31559 shares @ $4.88</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1860546/0001171843-26-005777-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005777:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merton Carl A (TLRY) M: 57380 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1860546/0001171843-26-005777-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005777:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merton Carl A (TLRY) M: 111072 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1860546/0001171843-26-005777-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005777:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merton Carl A (TLRY) M: 57380 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1860546/0001171843-26-005777-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005777:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gendel Mitchell (TLRY) F: 58167 shares @ $4.88</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1731348/0001171843-26-005776-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005776:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gendel Mitchell (TLRY) M: 109748 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1731348/0001171843-26-005776-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005776:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gendel Mitchell (TLRY) F: 26795 shares @ $4.88</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1731348/0001171843-26-005776-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005776:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gendel Mitchell (TLRY) M: 50556 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1731348/0001171843-26-005776-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005776:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gendel Mitchell (TLRY) M: 109748 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1731348/0001171843-26-005776-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005776:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gendel Mitchell (TLRY) M: 50556 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1731348/0001171843-26-005776-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005776:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>FALTISCHEK DENISE M (TLRY) F: 63610 shares @ $4.88</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1731348/0001171843-26-005775-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005775:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>FALTISCHEK DENISE M (TLRY) M: 120017 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1731348/0001171843-26-005775-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005775:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>FALTISCHEK DENISE M (TLRY) F: 30849 shares @ $4.88</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1731348/0001171843-26-005775-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005775:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>FALTISCHEK DENISE M (TLRY) M: 58204 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1731348/0001171843-26-005775-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005775:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>FALTISCHEK DENISE M (TLRY) M: 120017 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1731348/0001171843-26-005775-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005775:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>FALTISCHEK DENISE M (TLRY) M: 58204 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1731348/0001171843-26-005775-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001171843-26-005775:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:34 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — SEI</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Giesinger Edgar R. JR. (SEI) A: 3246 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-058887-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058887:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Keenan W Howard JR (SEI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-058885-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058885:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Keenan W Howard JR (SEI) A: 2989 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-058885-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058885:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Keenan W Howard JR (SEI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-058885-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058885:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Argo Laurie H (SEI) A: 3331 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-058883-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058883:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>TEAGUE AJ (SEI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-058880-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058880:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>TEAGUE AJ (SEI) A: 3075 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-058880-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058880:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>BURKE JAMES R (SEI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-058868-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058868:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>BURKE JAMES R (SEI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-058868-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058868:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>BURKE JAMES R (SEI) A: 3075 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-058868-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058868:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>BURKE JAMES R (SEI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-058868-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058868:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>YZAGUIRRE MARIO MAX (SEI) A: 3160 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-058862-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058862:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Walker Ray N JR (SEI) A: 3075 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-058860-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058860:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:03 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — AMCR</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>SORRELLS JULIE MARIE (AMCR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822033/0001822033-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001822033-26-000002:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>SORRELLS JULIE MARIE (AMCR) F: 350 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822033/0001822033-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001822033-26-000002:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>SORRELLS JULIE MARIE (AMCR) M: 1047.2 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822033/0001822033-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001822033-26-000002:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>SORRELLS JULIE MARIE (AMCR) F: 272 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822033/0001822033-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001822033-26-000002:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>SORRELLS JULIE MARIE (AMCR) M: 769 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822033/0001822033-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001822033-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>SORRELLS JULIE MARIE (AMCR) M: 1047.2 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822033/0001822033-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001822033-26-000002:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>SORRELLS JULIE MARIE (AMCR) A: 1090 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822033/0001822033-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001822033-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wilson Ian (AMCR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1775837/0001775837-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001775837-26-000004:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wilson Ian (AMCR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1775837/0001775837-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001775837-26-000004:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wilson Ian (AMCR) M: 5616.2 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1775837/0001775837-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001775837-26-000004:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wilson Ian (AMCR) M: 5616.2 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1775837/0001775837-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001775837-26-000004:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wilson Ian (AMCR) A: 8187 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1775837/0001775837-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001775837-26-000004:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wilson Ian (AMCR) A: 5782 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1775837/0001775837-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001775837-26-000004:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Suarez Gonzalez Susana (AMCR) F: 1654 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1748790/0001691234-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691234-26-000007:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Suarez Gonzalez Susana (AMCR) M: 4554 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1748790/0001691234-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691234-26-000007:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Suarez Gonzalez Susana (AMCR) F: 2075 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1748790/0001691234-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691234-26-000007:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Suarez Gonzalez Susana (AMCR) M: 4682 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1748790/0001691234-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691234-26-000007:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Suarez Gonzalez Susana (AMCR) M: 4554 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1748790/0001691234-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691234-26-000007:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Suarez Gonzalez Susana (AMCR) A: 6633 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1748790/0001691234-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691234-26-000007:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Konieczny Peter (AMCR) F: 517 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1748790/0001413007-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001413007-26-000004:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Konieczny Peter (AMCR) M: 9753.2 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1748790/0001413007-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001413007-26-000004:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Konieczny Peter (AMCR) M: 9753.2 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1748790/0001413007-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001413007-26-000004:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Konieczny Peter (AMCR) A: 15768 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1748790/0001413007-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001413007-26-000004:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Konieczny Peter (AMCR) A: 11131 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1748790/0001413007-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001413007-26-000004:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rasin Deborah (AMCR) F: 1614 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1748790/0001353649-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001353649-26-000004:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rasin Deborah (AMCR) M: 3643.2 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1748790/0001353649-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001353649-26-000004:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rasin Deborah (AMCR) F: 1661 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1748790/0001353649-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001353649-26-000004:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rasin Deborah (AMCR) M: 3748 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1748790/0001353649-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001353649-26-000004:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rasin Deborah (AMCR) M: 3643.2 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1748790/0001353649-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001353649-26-000004:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rasin Deborah (AMCR) A: 5308 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1748790/0001353649-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001353649-26-000004:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:21 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

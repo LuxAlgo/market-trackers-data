@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T15:09:10.935Z",
+  "generatedAt": "2026-08-29T16:29:15.051Z",
   "schemaVersion": 2,
   "datasets": {
     "congress-trades": {
@@ -31,34 +31,114 @@
     "insider-transactions": {
       "title": "Insider transactions",
       "exportDir": "insider/transactions",
-      "rows": 0,
-      "lastIngestedAt": null,
-      "stale": true,
+      "rows": 8228,
+      "lastIngestedAt": "2026-08-29T16:29:14.429Z",
+      "stale": false,
       "snapshots": [
         {
+          "file": "snapshot-2022.json.gz",
+          "rows": 2
+        },
+        {
+          "file": "snapshot-2024.json.gz",
+          "rows": 4
+        },
+        {
+          "file": "snapshot-2025.json.gz",
+          "rows": 10
+        },
+        {
+          "file": "snapshot-2026.json.gz",
+          "rows": 8212
+        },
+        {
           "file": "snapshot.json.gz",
-          "rows": 0
+          "rows": 8228
         }
       ],
-      "feed": null,
+      "feed": "insider/transactions/feed.xml",
       "entityFeeds": {
-        "byTicker": 0,
+        "byTicker": 200,
         "byMember": 0
       }
     },
     "thirteenf-holdings": {
       "title": "13F holdings",
       "exportDir": "thirteenf/holdings",
-      "rows": 0,
-      "lastIngestedAt": null,
-      "stale": true,
+      "rows": 68590,
+      "lastIngestedAt": "2026-08-29T16:29:13.273Z",
+      "stale": false,
       "snapshots": [
         {
+          "file": "snapshot-2002.json.gz",
+          "rows": 336
+        },
+        {
+          "file": "snapshot-2003.json.gz",
+          "rows": 363
+        },
+        {
+          "file": "snapshot-2004.json.gz",
+          "rows": 189
+        },
+        {
+          "file": "snapshot-2014.json.gz",
+          "rows": 152
+        },
+        {
+          "file": "snapshot-2015.json.gz",
+          "rows": 236
+        },
+        {
+          "file": "snapshot-2016.json.gz",
+          "rows": 283
+        },
+        {
+          "file": "snapshot-2017.json.gz",
+          "rows": 266
+        },
+        {
+          "file": "snapshot-2018.json.gz",
+          "rows": 303
+        },
+        {
+          "file": "snapshot-2019.json.gz",
+          "rows": 2040
+        },
+        {
+          "file": "snapshot-2020.json.gz",
+          "rows": 5121
+        },
+        {
+          "file": "snapshot-2021.json.gz",
+          "rows": 6362
+        },
+        {
+          "file": "snapshot-2022.json.gz",
+          "rows": 6850
+        },
+        {
+          "file": "snapshot-2023.json.gz",
+          "rows": 6731
+        },
+        {
+          "file": "snapshot-2024.json.gz",
+          "rows": 2892
+        },
+        {
+          "file": "snapshot-2025.json.gz",
+          "rows": 12171
+        },
+        {
+          "file": "snapshot-2026.json.gz",
+          "rows": 24295
+        },
+        {
           "file": "snapshot.json.gz",
-          "rows": 0
+          "rows": 68590
         }
       ],
-      "feed": null,
+      "feed": "thirteenf/holdings/feed.xml",
       "entityFeeds": {
         "byTicker": 0,
         "byMember": 0
@@ -814,9 +894,9 @@
         "thirteenf-holdings"
       ],
       "lastSyncOk": true,
-      "lastSyncAt": "2026-08-29T15:08:22.193Z",
+      "lastSyncAt": "2026-08-29T16:17:34.419Z",
       "lastCanaryStatus": "red",
-      "lastCanaryAt": "2026-08-29T13:09:20.382Z",
+      "lastCanaryAt": "2026-08-29T15:15:34.030Z",
       "watermarks": {
         "daily-index.lastCompletedDay": "2026-08-28"
       }
@@ -828,7 +908,7 @@
       "lastSyncOk": true,
       "lastSyncAt": "2026-08-29T15:08:22.771Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-29T13:09:22.711Z",
+      "lastCanaryAt": "2026-08-29T15:15:36.206Z",
       "watermarks": {
         "efd.lastFiledDate": "2026-08-28"
       }
@@ -840,7 +920,7 @@
       "lastSyncOk": true,
       "lastSyncAt": "2026-08-29T15:08:25.911Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-29T13:09:23.103Z",
+      "lastCanaryAt": "2026-08-29T15:15:36.721Z",
       "watermarks": {
         "clerk.lastFiledDate": "2026-08-27"
       }
@@ -853,7 +933,7 @@
       "lastSyncOk": true,
       "lastSyncAt": "2026-08-29T15:08:26.066Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-29T13:09:23.486Z",
+      "lastCanaryAt": "2026-08-29T15:15:37.291Z",
       "watermarks": {
         "usaspending.grants.lastActionDate": "2026-10-01",
         "usaspending.lastActionDate": "2027-08-31"
@@ -866,7 +946,7 @@
       "lastSyncOk": true,
       "lastSyncAt": "2026-08-29T15:08:28.324Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-29T13:09:24.349Z",
+      "lastCanaryAt": "2026-08-29T15:15:38.347Z",
       "watermarks": {
         "lda.lastPostedDate": "2026-08-29"
       }
@@ -878,7 +958,7 @@
       "lastSyncOk": true,
       "lastSyncAt": "2026-08-29T15:08:36.958Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-29T13:09:25.151Z",
+      "lastCanaryAt": "2026-08-29T15:15:38.794Z",
       "watermarks": {
         "shortvol.CNMS.lastDay": "2026-08-28"
       }
@@ -890,7 +970,7 @@
       "lastSyncOk": true,
       "lastSyncAt": "2026-08-29T15:08:36.959Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-29T13:09:25.975Z",
+      "lastCanaryAt": "2026-08-29T15:15:39.360Z",
       "watermarks": {}
     },
     "patentsview": {
@@ -900,7 +980,7 @@
       "lastSyncOk": true,
       "lastSyncAt": "2026-08-29T15:08:37.619Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-29T13:09:26.300Z",
+      "lastCanaryAt": "2026-08-29T15:15:39.739Z",
       "watermarks": {
         "patentsview.odpRelease": "2026-07-15 09:37:53"
       }
@@ -912,7 +992,7 @@
       "lastSyncOk": true,
       "lastSyncAt": "2026-08-29T15:08:38.062Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-29T13:09:26.460Z",
+      "lastCanaryAt": "2026-08-29T15:15:39.876Z",
       "watermarks": {
         "clinicaltrials.lastUpdatePosted": "2026-08-28"
       }
@@ -924,7 +1004,7 @@
       "lastSyncOk": true,
       "lastSyncAt": "2026-08-29T15:08:51.356Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-29T13:09:26.739Z",
+      "lastCanaryAt": "2026-08-29T15:15:40.282Z",
       "watermarks": {
         "openfda.lastStatusDate": "2026-08-26"
       }
@@ -936,7 +1016,7 @@
       "lastSyncOk": true,
       "lastSyncAt": "2026-08-29T15:08:51.820Z",
       "lastCanaryStatus": "amber",
-      "lastCanaryAt": "2026-08-29T13:09:27.228Z",
+      "lastCanaryAt": "2026-08-29T15:15:40.759Z",
       "watermarks": {}
     },
     "wikimedia": {
@@ -946,7 +1026,7 @@
       "lastSyncOk": true,
       "lastSyncAt": "2026-08-29T15:08:52.488Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-29T13:09:27.372Z",
+      "lastCanaryAt": "2026-08-29T15:15:40.946Z",
       "watermarks": {
         "pageviews.en.wikipedia.AT&T.lastDay": "2026-08-28",
         "pageviews.en.wikipedia.AbbVie.lastDay": "2026-08-28",
@@ -1046,7 +1126,7 @@
       "lastSyncOk": true,
       "lastSyncAt": "2026-08-29T15:09:02.463Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-29T13:09:31.194Z",
+      "lastCanaryAt": "2026-08-29T15:15:45.101Z",
       "watermarks": {
         "billstatus.119.hconres.lastModified": "2026-08-28T08:41:00.000Z",
         "billstatus.119.hjres.lastModified": "2026-08-28T08:38:00.000Z",
@@ -1066,7 +1146,7 @@
       "lastSyncOk": true,
       "lastSyncAt": "2026-08-29T15:09:09.382Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-29T13:09:32.284Z",
+      "lastCanaryAt": "2026-08-29T15:15:46.768Z",
       "watermarks": {
         "fec.2026.lastFetchedAt": "2026-08-29T12:52:59.714Z"
       }
@@ -1078,7 +1158,7 @@
       "lastSyncOk": true,
       "lastSyncAt": "2026-08-29T15:09:09.382Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-29T13:09:32.383Z",
+      "lastCanaryAt": "2026-08-29T15:15:46.837Z",
       "watermarks": {
         "sitemap.2025.lastmod": "2026-08-29T02:30:08.169Z",
         "sitemap.2026.lastmod": "2026-08-28T16:28:00.297Z"
@@ -1091,7 +1171,7 @@
       "lastSyncOk": true,
       "lastSyncAt": "2026-08-29T15:09:09.448Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-29T13:09:32.652Z",
+      "lastCanaryAt": "2026-08-29T15:15:47.097Z",
       "watermarks": {}
     }
   }

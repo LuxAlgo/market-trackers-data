@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — SE</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Wang Yanjun (SE) S: 298 shares @ $121.02</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113214/0001193125-26-369433-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369433:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Yanjun (SE) S: 407 shares @ $120.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113214/0001193125-26-369433-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369433:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Yanjun (SE) S: 795 shares @ $119.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113214/0001193125-26-369433-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369433:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Yanjun (SE) S: 137 shares @ $123.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113214/0001193125-26-369433-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369433:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Yanjun (SE) S: 178 shares @ $122.69</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113214/0001193125-26-369433-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369433:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Yanjun (SE) S: 197 shares @ $121.6</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113214/0001193125-26-369433-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369433:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Yanjun (SE) S: 118 shares @ $120.49</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113214/0001193125-26-369433-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369433:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Yanjun (SE) S: 194 shares @ $119.46</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113214/0001193125-26-369433-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369433:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Yanjun (SE) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113214/0001193125-26-369433-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369433:nd:10</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Yanjun (SE) S: 389 shares @ $118.37</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113214/0001193125-26-369433-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369433:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Yanjun (SE) S: 287 shares @ $117.67</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113214/0001193125-26-369433-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369433:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zhao Feng (SE) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113138/0001193125-26-369439-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369439:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zhao Feng (SE) S: 2000 shares @ $121.33</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113138/0001193125-26-369439-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369439:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zhao Feng (SE) S: 2000 shares @ $120.03</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113138/0001193125-26-369439-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369439:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Feng Zhimin (SE) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113131/0001193125-26-369446-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369446:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Feng Zhimin (SE) S: 1615 shares @ $121.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113131/0001193125-26-369446-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369446:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Feng Zhimin (SE) S: 2257 shares @ $120.55</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113131/0001193125-26-369446-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369446:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Feng Zhimin (SE) S: 6195 shares @ $123.33</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113131/0001193125-26-369446-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369446:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Feng Zhimin (SE) S: 2698 shares @ $122.66</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113131/0001193125-26-369446-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369446:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Feng Zhimin (SE) S: 3027 shares @ $121.65</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113131/0001193125-26-369446-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369446:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Feng Zhimin (SE) S: 3080 shares @ $120.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113131/0001193125-26-369446-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369446:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) S: 9397 shares @ $121.13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-369441-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369441:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) S: 10039 shares @ $120.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-369441-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369441:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) S: 10454 shares @ $119.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-369441-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369441:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) S: 2272 shares @ $123.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-369441-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369441:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) S: 1770 shares @ $122.6</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-369441-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369441:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) S: 2419 shares @ $121.65</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-369441-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369441:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) S: 11725 shares @ $120.14</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-369441-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369441:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) S: 2464 shares @ $119.44</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-369441-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369441:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-369441-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369441:nd:11</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) S: 110 shares @ $121.68</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-369441-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369441:nd:10</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) S: 6654 shares @ $118.32</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-369441-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369441:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) S: 2696 shares @ $117.7</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-369441-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369441:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Li Xiaodong (SE) S: 21400 shares @ $123.33</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1721503/0001193125-26-369435-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369435:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Li Xiaodong (SE) S: 12495 shares @ $122.65</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1721503/0001193125-26-369435-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369435:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Li Xiaodong (SE) S: 14334 shares @ $121.56</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1721503/0001193125-26-369435-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369435:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Li Xiaodong (SE) S: 9461 shares @ $120.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1721503/0001193125-26-369435-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369435:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Yanjun (SE) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113214/0001193125-26-364066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-364066:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Yanjun (SE) S: 473 shares @ $116.6</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113214/0001193125-26-364066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-364066:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Yanjun (SE) S: 670 shares @ $115.96</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113214/0001193125-26-364066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-364066:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Yanjun (SE) S: 357 shares @ $114.97</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113214/0001193125-26-364066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-364066:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Yanjun (SE) S: 231 shares @ $118.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113214/0001193125-26-364066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-364066:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Yanjun (SE) S: 1046 shares @ $117.83</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113214/0001193125-26-364066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-364066:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Yanjun (SE) S: 223 shares @ $116.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113214/0001193125-26-364066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-364066:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-364067-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-364067:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) S: 6077 shares @ $116.61</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-364067-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-364067:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) S: 9064 shares @ $115.97</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-364067-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-364067:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) S: 4859 shares @ $114.98</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-364067-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-364067:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) S: 1433 shares @ $118.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-364067-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-364067:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) S: 14747 shares @ $117.9</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-364067-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-364067:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ye Gang (SE) S: 3820 shares @ $116.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729171/0001193125-26-364067-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-364067:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:07 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

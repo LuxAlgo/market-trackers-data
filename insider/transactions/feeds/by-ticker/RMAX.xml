@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — RMAX</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Lim Christopher Inwhan (RMAX) D: 225706 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2115459/0001104659-26-100389-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100389:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lombardo Victor Stephen (RMAX) D: 219700 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2082271/0001104659-26-100390-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100390:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jenkins Leah R (RMAX) D: 72640 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1991141/0001104659-26-100388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100388:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Winders Susan L (RMAX) D: 302572 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1939519/0001104659-26-100402-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100402:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jenkins Norman K. (RMAX) D: 38896 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1712525/0001104659-26-100393-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100393:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Van De Bogart Teresa S (RMAX) D: 57362 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1674029/0001104659-26-100400-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100400:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Callahan Karri R. (RMAX) D: 524314 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1624701/0001104659-26-100376-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100376:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>RIHI, Inc. (RMAX) J: 12559600 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1587874/0001104659-26-100398-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100398:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dow Roger J. (RMAX) D: 66346 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1586505/0001104659-26-100382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100382:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liniger Gail A. (RMAX) D: 2837149 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1586490/0001104659-26-100385-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100385:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liniger Gail A. (RMAX) D: 8022623 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1586490/0001104659-26-100385-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100385:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liniger Gail A. (RMAX) A: 2837149 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1586490/0001104659-26-100385-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100385:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liniger Gail A. (RMAX) A: 7667912 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1586490/0001104659-26-100385-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100385:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liniger Gail A. (RMAX) J: 12559600 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1586490/0001104659-26-100385-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100385:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liniger David L. (RMAX) D: 2837149 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1586489/0001104659-26-100379-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100379:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liniger David L. (RMAX) D: 8022623 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1586489/0001104659-26-100379-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100379:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liniger David L. (RMAX) A: 2837149 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1586489/0001104659-26-100379-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100379:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liniger David L. (RMAX) A: 7667912 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1586489/0001104659-26-100379-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100379:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liniger David L. (RMAX) J: 12559600 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1586489/0001104659-26-100379-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100379:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scherping Katherine Lee (RMAX) D: 41486 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1581091/0001104659-26-100399-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100399:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAFFAELI C CATHLEEN (RMAX) D: 28021 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1581091/0001104659-26-100396-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100396:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Menogan Annita M (RMAX) D: 42724 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1581091/0001104659-26-100392-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100392:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carlson Erik (RMAX) D: 290323 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1581091/0001104659-26-100378-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100378:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carlson Erik (RMAX) D: 1483776 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1581091/0001104659-26-100378-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100378:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:22 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

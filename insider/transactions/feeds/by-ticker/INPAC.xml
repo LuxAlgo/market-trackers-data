@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — INPAC</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Bennett Jeffrey Mark (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2150310/0002150310-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002150310-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fox Sarah (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2149742/0002149742-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002149742-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liddy James P (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0002009899-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002009899-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deckbar Carol (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0002009696-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002009696-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wong Tony (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001965402-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001965402-26-000006:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ringold Melanie (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001961072-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001961072-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vacheron Terry (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001918146-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001918146-26-000004:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deberghes Adrien (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001832943-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832943-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gregson Mark William (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001811276-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001811276-26-000005:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elizabeth Krentzman (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001780163-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001780163-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brown Beth Ann (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001780130-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001780130-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vandivort Daniel S (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001779711-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001779711-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sharp Douglas J (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001764168-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001764168-26-000006:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kupor Jeffrey H (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001736431-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001736431-26-000006:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>DUKES LAURA ALLISON (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001674244-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001674244-26-000007:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>LaCava Anthony (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001652943-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001652943-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wisdom Crissie (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001618772-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001618772-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perkin Edward J. (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001606924-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606924-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hostetler Cynthia Lynn (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001547404-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001547404-26-000006:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kuehl Todd F (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001396667-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001396667-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brightman Glenn Eugene (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001375102-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001375102-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>JONES ELI (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001285005-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001285005-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>BORDEWICK JAMES R JR (INPAC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2138052/0001226426-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001226426-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:19 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

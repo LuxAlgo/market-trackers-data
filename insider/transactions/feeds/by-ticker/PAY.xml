@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — PAY</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Williams Gregory Hyde (PAY) J: 22558 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2146338/0001193125-26-374900-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374900:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Accel-KKR Holdings GP, LLC (PAY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2047091/0001193125-26-374899-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374899:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Accel-KKR Holdings GP, LLC (PAY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2047091/0001193125-26-374899-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374899:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Accel-KKR Holdings GP, LLC (PAY) J: 94546 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2047091/0001193125-26-374899-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374899:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Accel-KKR Holdings GP, LLC (PAY) J: 600000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2047091/0001193125-26-374899-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374899:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Accel-KKR Holdings GP, LLC (PAY) J: 607024 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2047091/0001193125-26-374899-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374899:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Accel-KKR Holdings GP, LLC (PAY) J: 416038 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2047091/0001193125-26-374899-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374899:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Accel-KKR Holdings GP, LLC (PAY) J: 9736723 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2047091/0001193125-26-374899-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374899:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Klein Jason (PAY) J: 546 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1863374/0001193125-26-374909-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374909:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Klein Jason (PAY) J: 400022 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1863374/0001193125-26-374909-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374909:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Barnds Thomas (PAY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374906-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374906:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Barnds Thomas (PAY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374906-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374906:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Barnds Thomas (PAY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374906-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374906:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Barnds Thomas (PAY) J: 94546 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374906-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374906:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Barnds Thomas (PAY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374906-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374906:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Barnds Thomas (PAY) J: 600000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374906-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374906:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Barnds Thomas (PAY) J: 607024 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374906-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374906:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Barnds Thomas (PAY) J: 416038 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374906-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374906:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Barnds Thomas (PAY) J: 9736723 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374906-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374906:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palumbo Robert (PAY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374895-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374895:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palumbo Robert (PAY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374895-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374895:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palumbo Robert (PAY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374895-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374895:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palumbo Robert (PAY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374895-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374895:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palumbo Robert (PAY) J: 94546 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374895-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374895:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palumbo Robert (PAY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374895-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374895:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palumbo Robert (PAY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374895-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374895:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palumbo Robert (PAY) J: 600000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374895-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374895:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palumbo Robert (PAY) J: 607024 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374895-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374895:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palumbo Robert (PAY) J: 416038 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374895-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374895:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palumbo Robert (PAY) J: 9736723 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1841156/0001193125-26-374895-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-374895:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:34 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

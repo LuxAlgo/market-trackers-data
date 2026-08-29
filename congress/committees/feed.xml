@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Congressional committee assignments</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Current member↔committee/subcommittee assignments from the public-domain unitedstates/congress-legislators dataset — the join between who trades and what their committee oversees. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 29 Aug 2026 15:09:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
     <item>
       <title>Ryan K. Zinke — House Committee on Foreign Affairs / Middle East and North Africa</title>
       <link>https://raw.githubusercontent.com/unitedstates/congress-legislators/main/committee-membership-current.yaml</link>

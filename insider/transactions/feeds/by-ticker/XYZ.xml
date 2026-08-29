@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — XYZ</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Eisen Anthony Mathew (XYZ) S: 6000 shares @ $84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-059300-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059300:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eisen Anthony Mathew (XYZ) S: 6000 shares @ $82</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-059300-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059300:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eisen Anthony Mathew (XYZ) S: 6000 shares @ $81.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-059300-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059300:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jennings Owen Britton (XYZ) S: 1317 shares @ $81.48</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2047775/0001628280-26-058746-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058746:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jennings Owen Britton (XYZ) S: 584 shares @ $80.04</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2047775/0001628280-26-058746-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058746:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jennings Owen Britton (XYZ) F: 17633 shares @ $80.08</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2047775/0001628280-26-058746-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058746:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Esperanza Chrysty (XYZ) F: 8376 shares @ $80.08</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1965569/0001628280-26-058743-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058743:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eisen Anthony Mathew (XYZ) S: 6000 shares @ $81.48</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-058747-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058747:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eisen Anthony Mathew (XYZ) S: 6000 shares @ $80.04</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-058747-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058747:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eisen Anthony Mathew (XYZ) S: 6000 shares @ $80.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-058747-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058747:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Acosta Andrea (XYZ) F: 5709 shares @ $80.08</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818518/0001628280-26-058741-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058741:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grassadonia Brian (XYZ) S: 4343 shares @ $82.9</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1803649/0001628280-26-058745-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058745:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grassadonia Brian (XYZ) S: 3830 shares @ $81.88</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1803649/0001628280-26-058745-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058745:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grassadonia Brian (XYZ) F: 9592 shares @ $80.08</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1803649/0001628280-26-058745-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058745:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ahuja Amrita (XYZ) S: 4875 shares @ $82.92</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1765417/0001628280-26-058744-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058744:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ahuja Amrita (XYZ) S: 4636 shares @ $81.91</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1765417/0001628280-26-058744-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058744:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ahuja Amrita (XYZ) S: 3101 shares @ $80.04</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1765417/0001628280-26-058744-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058744:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ahuja Amrita (XYZ) F: 18401 shares @ $80.08</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1765417/0001628280-26-058744-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058744:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:47 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

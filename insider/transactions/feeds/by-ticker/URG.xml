@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — URG</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Parker Thomas H (URG) S: 87858 shares @ $1.4828</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1401432/0001654954-26-007888-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007888:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Parker Thomas H (URG) M: 87858 shares @ $1.0405</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1401432/0001654954-26-007888-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007888:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Parker Thomas H (URG) M: 87858 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1401432/0001654954-26-007888-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007888:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>HUBER GARY C (URG) S: 87858 shares @ $1.479</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1375205/0001654954-26-007886-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007886:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>HUBER GARY C (URG) M: 87858 shares @ $1.0405</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1375205/0001654954-26-007886-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007886:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>HUBER GARY C (URG) M: 87858 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1375205/0001654954-26-007886-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007886:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>RITCHIE DAVID A. (URG) P: 10000 shares @ $1.42</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2106036/0001654954-26-007868-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007868:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chang Robby Sai Kit (URG) S: 75588 shares @ $1.409</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1732700/0001654954-26-007866-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007866:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chang Robby Sai Kit (URG) M: 87858 shares @ $1.0403</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1732700/0001654954-26-007866-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007866:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chang Robby Sai Kit (URG) M: 87858 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1732700/0001654954-26-007866-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007866:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMITH ROGER L. (URG) S: 103536 shares @ $1.4322</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1595564/0001654954-26-007865-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007865:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMITH ROGER L. (URG) M: 103536 shares @ $1.0403</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1595564/0001654954-26-007865-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007865:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMITH ROGER L. (URG) M: 103536 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1595564/0001654954-26-007865-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007865:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASH JOHN (URG) S: 77751 shares @ $1.4103</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1595535/0001654954-26-007867-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007867:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASH JOHN (URG) M: 77751 shares @ $1.0403</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1595535/0001654954-26-007867-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007867:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASH JOHN (URG) M: 77751 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1595535/0001654954-26-007867-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007867:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>HATTEN STEVEN M. (URG) S: 81576 shares @ $1.388</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1595544/0001654954-26-007831-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007831:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>HATTEN STEVEN M. (URG) M: 81576 shares @ $1.0464</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1595544/0001654954-26-007831-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007831:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>HATTEN STEVEN M. (URG) M: 81576 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1595544/0001654954-26-007831-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007831:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>WALKER KATHY E (URG) S: 72838 shares @ $1.3804</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1375205/0001654954-26-007833-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007833:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>WALKER KATHY E (URG) M: 87858 shares @ $1.0464</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1375205/0001654954-26-007833-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007833:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>WALKER KATHY E (URG) M: 87858 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1375205/0001654954-26-007833-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-007833:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:02 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

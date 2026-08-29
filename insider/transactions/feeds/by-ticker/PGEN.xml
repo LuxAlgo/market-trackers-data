@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — PGEN</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>KINDLER JEFFREY B (PGEN) S: 185000 shares @ $7.44</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1356090/0000950103-26-013201-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-013201:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tennant Phil (PGEN) S: 79166 shares @ $7.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2030874/0000950103-26-012871-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012871:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tennant Phil (PGEN) M: 79166 shares @ $1.61</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2030874/0000950103-26-012871-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012871:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tennant Phil (PGEN) F: 2585 shares @ $7.2</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2030874/0000950103-26-012871-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012871:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tennant Phil (PGEN) M: 5208 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2030874/0000950103-26-012871-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012871:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tennant Phil (PGEN) M: 79166 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2030874/0000950103-26-012871-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012871:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tennant Phil (PGEN) M: 5208 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2030874/0000950103-26-012871-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012871:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Rutul R (PGEN) S: 15342 shares @ $7.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1947221/0000950103-26-012872-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012872:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Rutul R (PGEN) M: 15342 shares @ $2.33</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1947221/0000950103-26-012872-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012872:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Rutul R (PGEN) F: 3647 shares @ $7.2</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1947221/0000950103-26-012872-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012872:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Rutul R (PGEN) M: 7500 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1947221/0000950103-26-012872-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012872:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Rutul R (PGEN) S: 34658 shares @ $7.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1947221/0000950103-26-012872-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012872:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Rutul R (PGEN) M: 34658 shares @ $2.33</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1947221/0000950103-26-012872-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012872:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Rutul R (PGEN) M: 15342 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1947221/0000950103-26-012872-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012872:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Rutul R (PGEN) M: 7500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1947221/0000950103-26-012872-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012872:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Rutul R (PGEN) M: 34658 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1947221/0000950103-26-012872-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012872:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thomasian Harry Jr. (PGEN) F: 3577 shares @ $7.2</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1886301/0000950103-26-012873-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012873:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thomasian Harry Jr. (PGEN) M: 7291 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1886301/0000950103-26-012873-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012873:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thomasian Harry Jr. (PGEN) M: 7291 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1886301/0000950103-26-012873-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012873:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sabzevari Helen (PGEN) F: 10184 shares @ $7.2</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1724195/0000950103-26-012870-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012870:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sabzevari Helen (PGEN) M: 20833 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1724195/0000950103-26-012870-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012870:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sabzevari Helen (PGEN) M: 20833 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1724195/0000950103-26-012870-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012870:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lehr Donald P. (PGEN) F: 2488 shares @ $7.2</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1583187/0000950103-26-012874-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012874:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lehr Donald P. (PGEN) M: 5208 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1583187/0000950103-26-012874-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012874:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lehr Donald P. (PGEN) M: 5208 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1583187/0000950103-26-012874-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012874:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>AGEE NANCY H (PGEN) P: 3411 shares @ $7.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1356090/0000950103-26-012875-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012875:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:34 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

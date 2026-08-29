@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — RSG</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 1067 shares @ $221.0568</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-103265-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103265:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:29:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 47555 shares @ $220.0476</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-103265-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103265:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:29:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 235978 shares @ $219.4076</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-103265-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103265:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:29:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 52068 shares @ $222.1843</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-103265-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103265:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:29:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 211098 shares @ $221.4312</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-103265-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103265:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:29:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 12334 shares @ $220.8399</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-103265-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103265:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:29:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 15774 shares @ $223.7365</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-101497-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101497:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 23321 shares @ $223.0445</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-101497-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101497:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 128729 shares @ $222.0374</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-101497-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101497:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 101653 shares @ $221.1248</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-101497-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101497:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 42177 shares @ $223.728</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-101497-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101497:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 217350 shares @ $222.8427</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-101497-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101497:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 42112 shares @ $222.45</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-101497-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101497:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brummer Gregg (RSG) F: 219 shares @ $220.96</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990713/0001060391-26-000279-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001060391-26-000279:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brummer Gregg (RSG) M: 528 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990713/0001060391-26-000279-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001060391-26-000279:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brummer Gregg (RSG) M: 528 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990713/0001060391-26-000279-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001060391-26-000279:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 931 shares @ $220.9103</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-100306-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100306:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 181392 shares @ $220.377</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-100306-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100306:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 9038 shares @ $219.5873</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-100306-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100306:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 3700 shares @ $221.775</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-100306-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100306:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 78026 shares @ $220.7431</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-100306-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100306:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASCADE INVESTMENT, L.L.C. (RSG) P: 127199 shares @ $219.922</title>
+      <link>https://www.sec.gov/Archives/edgar/data/902012/0001104659-26-100306-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100306:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:11 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

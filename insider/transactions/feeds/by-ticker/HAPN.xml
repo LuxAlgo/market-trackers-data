@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — HAPN</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Cheng Jordan (HAPN) F: 5477 shares @ $18.25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1998222/0001409970-26-000180-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000180:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cheng Jordan (HAPN) M: 2884 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1998222/0001409970-26-000180-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000180:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cheng Jordan (HAPN) M: 3504 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1998222/0001409970-26-000180-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000180:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cheng Jordan (HAPN) M: 5728 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1998222/0001409970-26-000180-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000180:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cheng Jordan (HAPN) M: 2884 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1998222/0001409970-26-000180-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000180:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cheng Jordan (HAPN) M: 3504 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1998222/0001409970-26-000180-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000180:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cheng Jordan (HAPN) M: 5728 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1998222/0001409970-26-000180-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000180:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>LaBenne Andrew (HAPN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1847231/0001409970-26-000182-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000182:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>LaBenne Andrew (HAPN) F: 13371 shares @ $18.25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1847231/0001409970-26-000182-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000182:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>LaBenne Andrew (HAPN) M: 6179 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1847231/0001409970-26-000182-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000182:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>LaBenne Andrew (HAPN) M: 7509 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1847231/0001409970-26-000182-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000182:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>LaBenne Andrew (HAPN) M: 12274 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1847231/0001409970-26-000182-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000182:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>LaBenne Andrew (HAPN) M: 6179 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1847231/0001409970-26-000182-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000182:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>LaBenne Andrew (HAPN) M: 7509 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1847231/0001409970-26-000182-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000182:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>LaBenne Andrew (HAPN) M: 12274 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1847231/0001409970-26-000182-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000182:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stack Fergal (HAPN) F: 2682 shares @ $18.25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1714400/0001409970-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000190:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stack Fergal (HAPN) M: 1569 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1714400/0001409970-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000190:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stack Fergal (HAPN) M: 1907 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1714400/0001409970-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000190:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stack Fergal (HAPN) M: 3117 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1714400/0001409970-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000190:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stack Fergal (HAPN) M: 1569 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1714400/0001409970-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000190:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stack Fergal (HAPN) M: 1907 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1714400/0001409970-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000190:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stack Fergal (HAPN) M: 3117 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1714400/0001409970-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000190:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Selleck Erin (HAPN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1644258/0001409970-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000188:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Selleck Erin (HAPN) S: 2391 shares @ $17.4</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1644258/0001409970-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000188:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mattics Steven C (HAPN) F: 13697 shares @ $18.25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1551764/0001409970-26-000184-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000184:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mattics Steven C (HAPN) M: 6179 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1551764/0001409970-26-000184-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000184:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mattics Steven C (HAPN) M: 21034 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1551764/0001409970-26-000184-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000184:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mattics Steven C (HAPN) M: 6179 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1551764/0001409970-26-000184-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000184:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mattics Steven C (HAPN) M: 21034 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1551764/0001409970-26-000184-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000184:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanborn Scott (HAPN) S: 28750 shares @ $18.2508</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1409970/0001409970-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000186:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanborn Scott (HAPN) F: 14856 shares @ $18.25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1409970/0001409970-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000186:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanborn Scott (HAPN) M: 6621 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1409970/0001409970-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000186:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanborn Scott (HAPN) M: 8045 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1409970/0001409970-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000186:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanborn Scott (HAPN) M: 13151 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1409970/0001409970-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000186:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanborn Scott (HAPN) M: 6621 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1409970/0001409970-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000186:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanborn Scott (HAPN) M: 8045 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1409970/0001409970-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000186:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanborn Scott (HAPN) M: 13151 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1409970/0001409970-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000186:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:08 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

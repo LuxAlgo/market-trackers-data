@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — NMR</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Tobari Akihito (NMR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2127897/0001193125-26-369157-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369157:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tobari Akihito (NMR) A: 65.443 shares @ $9.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2127897/0001193125-26-369157-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369157:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hori Akio (NMR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2127800/0001193125-26-369146-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369146:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hori Akio (NMR) A: 65.442 shares @ $9.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2127800/0001193125-26-369146-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369146:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ozaki Yukiko (NMR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2120479/0001193125-26-369155-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369155:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ozaki Yukiko (NMR) A: 6.545 shares @ $9.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2120479/0001193125-26-369155-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369155:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ogawa Shoji (NMR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2120477/0001193125-26-369150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369150:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ogawa Shoji (NMR) A: 196.31 shares @ $9.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2120477/0001193125-26-369150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369150:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ishizuka Masahiro (NMR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2120468/0001193125-26-369161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369161:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ishizuka Masahiro (NMR) A: 196.312 shares @ $9.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2120468/0001193125-26-369161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369161:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Koike Hiroyasu (NMR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1857372/0001193125-26-369147-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369147:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Koike Hiroyasu (NMR) A: 261.751 shares @ $9.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1857372/0001193125-26-369147-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-369147:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:42 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

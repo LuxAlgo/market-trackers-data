@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — TXG</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Saxonov Serge (TXG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786720/0001610717-26-000393-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000393:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saxonov Serge (TXG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786720/0001610717-26-000393-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000393:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saxonov Serge (TXG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786720/0001610717-26-000393-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000393:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saxonov Serge (TXG) S: 492 shares @ $64.7465</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786720/0001610717-26-000393-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000393:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saxonov Serge (TXG) S: 6494 shares @ $63.9768</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786720/0001610717-26-000393-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000393:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saxonov Serge (TXG) S: 3500 shares @ $63.0229</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786720/0001610717-26-000393-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000393:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Taich Adam (TXG) S: 17166 shares @ $63.023</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1971187/0001610717-26-000391-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000391:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saxonov Serge (TXG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786720/0001610717-26-000392-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000392:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saxonov Serge (TXG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786720/0001610717-26-000392-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000392:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saxonov Serge (TXG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786720/0001610717-26-000392-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000392:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saxonov Serge (TXG) S: 18545 shares @ $63.0237</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786720/0001610717-26-000392-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000392:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hindson Benjamin J. (TXG) S: 13818 shares @ $63.0236</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786391/0001610717-26-000390-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000390:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>SULIMAN SHEHNAAZ (TXG) S: 1646 shares @ $63.9664</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1770787/0001610717-26-000389-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000389:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>SULIMAN SHEHNAAZ (TXG) S: 561 shares @ $62.7259</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1770787/0001610717-26-000389-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000389:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saxonov Serge (TXG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786720/0001610717-26-000386-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000386:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saxonov Serge (TXG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786720/0001610717-26-000386-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000386:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saxonov Serge (TXG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786720/0001610717-26-000386-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000386:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saxonov Serge (TXG) G: 4000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786720/0001610717-26-000386-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000386:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:52 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

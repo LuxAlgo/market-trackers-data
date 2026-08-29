@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — CVSA</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Gangadharan Manjunath (CVSA) S: 1802 shares @ $137.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000052-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000052:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:29:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betz Michael (CVSA) F: 2311 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000051-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000051:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betz Michael (CVSA) A: 5124 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000051-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000051:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betz Michael (CVSA) F: 3302 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000051-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000051:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betz Michael (CVSA) A: 7320 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000051-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000051:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betz Michael (CVSA) F: 945 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000051-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000051:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Phelan Robert J. (CVSA) F: 4466 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000048-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000048:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Phelan Robert J. (CVSA) A: 10080 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000048-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000048:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Phelan Robert J. (CVSA) F: 3126 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000048-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000048:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Phelan Robert J. (CVSA) A: 7056 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000048-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000048:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Phelan Robert J. (CVSA) F: 1279 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000048-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000048:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gangadharan Manjunath (CVSA) F: 440 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000047-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000047:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gangadharan Manjunath (CVSA) A: 1500 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000047-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000047:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gangadharan Manjunath (CVSA) F: 308 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000047-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000047:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gangadharan Manjunath (CVSA) A: 1050 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000047-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000047:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gangadharan Manjunath (CVSA) F: 188 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000047-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000047:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>BECK DOUGLAS G. (CVSA) F: 2746 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000045-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000045:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>BECK DOUGLAS G. (CVSA) A: 6060 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000045-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000045:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>BECK DOUGLAS G. (CVSA) F: 1922 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000045-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000045:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>BECK DOUGLAS G. (CVSA) A: 4242 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000045-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000045:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>BECK DOUGLAS G. (CVSA) F: 784 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000045-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000045:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beard, Stephen W. (CVSA) F: 33633 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000044-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000044:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beard, Stephen W. (CVSA) A: 75920 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000044-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000044:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beard, Stephen W. (CVSA) F: 23543 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000044-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000044:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beard, Stephen W. (CVSA) A: 53144 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000044-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000044:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beard, Stephen W. (CVSA) F: 9621 shares @ $132.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000044-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000044:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:13 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — OMER</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>HANISH ARNOLD C (OMER) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1285819/0001437749-26-029191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029191:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>HANISH ARNOLD C (OMER) S: 5000 shares @ $19.0161</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1285819/0001437749-26-029191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029191:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>HANISH ARNOLD C (OMER) S: 5000 shares @ $18.8762</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1285819/0001437749-26-029191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029191:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>HANISH ARNOLD C (OMER) M: 7500 shares @ $14.66</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1285819/0001437749-26-029191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029191:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>HANISH ARNOLD C (OMER) M: 2500 shares @ $15.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1285819/0001437749-26-029191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029191:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>HANISH ARNOLD C (OMER) S: 5000 shares @ $18.5265</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1285819/0001437749-26-029191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029191:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>HANISH ARNOLD C (OMER) M: 5000 shares @ $15.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1285819/0001437749-26-029191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029191:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>HANISH ARNOLD C (OMER) M: 7500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1285819/0001437749-26-029191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029191:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>HANISH ARNOLD C (OMER) M: 2500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1285819/0001437749-26-029191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029191:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>HANISH ARNOLD C (OMER) M: 5000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1285819/0001437749-26-029191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029191:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Borges David J. (OMER) S: 906 shares @ $19.1</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2005787/0001437749-26-028951-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-028951:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Borges David J. (OMER) M: 906 shares @ $2.94</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2005787/0001437749-26-028951-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-028951:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Borges David J. (OMER) S: 10000 shares @ $18.95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2005787/0001437749-26-028951-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-028951:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Borges David J. (OMER) M: 4094 shares @ $2.94</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2005787/0001437749-26-028951-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-028951:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Borges David J. (OMER) M: 5906 shares @ $3.93</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2005787/0001437749-26-028951-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-028951:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Borges David J. (OMER) M: 906 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2005787/0001437749-26-028951-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-028951:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Borges David J. (OMER) M: 4094 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2005787/0001437749-26-028951-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-028951:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Borges David J. (OMER) M: 5906 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2005787/0001437749-26-028951-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-028951:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:40 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

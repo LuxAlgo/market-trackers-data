@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — KE</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Regrut Andrew Donald (KE) F: 2153 shares @ $22.725</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097000/0001606757-26-000034-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000034:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Regrut Andrew Donald (KE) A: 3623 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097000/0001606757-26-000034-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000034:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Regrut Andrew Donald (KE) M: 1878 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097000/0001606757-26-000034-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000034:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Regrut Andrew Donald (KE) A: 4104 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097000/0001606757-26-000034-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000034:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Regrut Andrew Donald (KE) M: 1878 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097000/0001606757-26-000034-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000034:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Baumann Adam M (KE) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1848130/0001606757-26-000040-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000040:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Baumann Adam M (KE) F: 1533 shares @ $22.725</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1848130/0001606757-26-000040-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000040:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Baumann Adam M (KE) A: 1202 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1848130/0001606757-26-000040-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000040:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Baumann Adam M (KE) M: 2438 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1848130/0001606757-26-000040-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000040:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Baumann Adam M (KE) A: 3849 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1848130/0001606757-26-000040-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000040:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Baumann Adam M (KE) M: 2438 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1848130/0001606757-26-000040-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000040:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Croom Jana T (KE) F: 9838 shares @ $22.725</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1840657/0001606757-26-000042-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000042:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Croom Jana T (KE) A: 8303 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1840657/0001606757-26-000042-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000042:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Croom Jana T (KE) M: 16727 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1840657/0001606757-26-000042-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000042:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Croom Jana T (KE) A: 23453 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1840657/0001606757-26-000042-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000042:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Croom Jana T (KE) M: 16727 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1840657/0001606757-26-000042-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000042:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thomson Kathy R (KE) F: 6743 shares @ $22.725</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1750840/0001606757-26-000036-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000036:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thomson Kathy R (KE) A: 3874 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1750840/0001606757-26-000036-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000036:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thomson Kathy R (KE) M: 10486 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1750840/0001606757-26-000036-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000036:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thomson Kathy R (KE) A: 13531 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1750840/0001606757-26-000036-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000036:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thomson Kathy R (KE) M: 10486 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1750840/0001606757-26-000036-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000036:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeLorenzo Jessica L (KE) F: 4498 shares @ $22.725</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1750651/0001606757-26-000044-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000044:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeLorenzo Jessica L (KE) A: 3438 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1750651/0001606757-26-000044-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000044:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeLorenzo Jessica L (KE) M: 6783 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1750651/0001606757-26-000044-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000044:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeLorenzo Jessica L (KE) A: 8219 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1750651/0001606757-26-000044-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000044:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeLorenzo Jessica L (KE) M: 6783 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1750651/0001606757-26-000044-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000044:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hass Douglas (KE) F: 6751 shares @ $22.725</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1690109/0001606757-26-000046-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000046:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hass Douglas (KE) A: 3422 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1690109/0001606757-26-000046-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000046:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hass Douglas (KE) M: 12132 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1690109/0001606757-26-000046-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000046:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hass Douglas (KE) A: 13831 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1690109/0001606757-26-000046-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000046:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hass Douglas (KE) M: 12132 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1690109/0001606757-26-000046-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000046:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Korn Steven T (KE) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1620769/0001606757-26-000048-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000048:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Korn Steven T (KE) F: 19660 shares @ $22.725</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1620769/0001606757-26-000048-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000048:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Korn Steven T (KE) A: 20065 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1620769/0001606757-26-000048-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000048:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Korn Steven T (KE) M: 25153 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1620769/0001606757-26-000048-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000048:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Korn Steven T (KE) A: 23679 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1620769/0001606757-26-000048-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000048:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Korn Steven T (KE) M: 25153 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1620769/0001606757-26-000048-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000048:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Phillips Richard D (KE) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1606757/0001606757-26-000038-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000038:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Phillips Richard D (KE) F: 30391 shares @ $22.725</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1606757/0001606757-26-000038-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000038:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Phillips Richard D (KE) A: 36277 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1606757/0001606757-26-000038-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000038:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Phillips Richard D (KE) M: 40953 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1606757/0001606757-26-000038-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000038:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Phillips Richard D (KE) A: 58206 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1606757/0001606757-26-000038-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000038:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Phillips Richard D (KE) M: 40953 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1606757/0001606757-26-000038-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001606757-26-000038:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:07 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

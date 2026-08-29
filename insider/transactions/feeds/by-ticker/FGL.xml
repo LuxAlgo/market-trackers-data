@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — FGL</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>HRT FINANCIAL LP (FGL) P: 93151 shares @ $0.171</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1989930/0001475597-26-000219-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001475597-26-000219:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRT FINANCIAL LP (FGL) S: 15788 shares @ $0.224</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1989930/0001475597-26-000219-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001475597-26-000219:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRT FINANCIAL LP (FGL) P: 232055 shares @ $0.225</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1989930/0001475597-26-000217-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001475597-26-000217:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRT FINANCIAL LP (FGL) S: 71987 shares @ $0.278</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1989930/0001475597-26-000217-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001475597-26-000217:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thien Chiet Chai (FGL) A: 7576 shares @ $0.99</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2143461/0001213900-26-092819-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-092819:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thien Chiet Chai (FGL) A: 5357 shares @ $1.4</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2143461/0001213900-26-092819-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-092819:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEE SENG CHI (FGL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097274/0001213900-26-092821-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-092821:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEE SENG CHI (FGL) A: 17677 shares @ $0.99</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097274/0001213900-26-092821-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-092821:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEE SENG CHI (FGL) A: 12500 shares @ $1.4</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097274/0001213900-26-092821-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-092821:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRT FINANCIAL LP (FGL) P: 76711 shares @ $0.265</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1989930/0001475597-26-000211-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001475597-26-000211:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRT FINANCIAL LP (FGL) S: 146713 shares @ $0.326</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1989930/0001475597-26-000211-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001475597-26-000211:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:21 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

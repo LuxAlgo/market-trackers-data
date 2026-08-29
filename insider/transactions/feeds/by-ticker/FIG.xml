@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — FIG</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Reed Andrew Phillips (FIG) J: 143536 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990997/0001990997-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001990997-26-000013:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reed Andrew Phillips (FIG) J: 14533 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990997/0001990997-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001990997-26-000013:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reed Andrew Phillips (FIG) J: 713067 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990997/0001990997-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001990997-26-000013:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reed Andrew Phillips (FIG) J: 2215239 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990997/0001990997-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001990997-26-000013:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reed Andrew Phillips (FIG) J: 58892 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990997/0001990997-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001990997-26-000013:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reed Andrew Phillips (FIG) J: 35320 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990997/0001990997-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001990997-26-000013:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reed Andrew Phillips (FIG) J: 143536 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990997/0001990997-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001990997-26-000013:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reed Andrew Phillips (FIG) J: 14533 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990997/0001990997-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001990997-26-000013:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reed Andrew Phillips (FIG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990997/0001990997-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001990997-26-000013:nd:15</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reed Andrew Phillips (FIG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990997/0001990997-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001990997-26-000013:nd:14</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reed Andrew Phillips (FIG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990997/0001990997-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001990997-26-000013:nd:13</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reed Andrew Phillips (FIG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990997/0001990997-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001990997-26-000013:nd:12</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reed Andrew Phillips (FIG) J: 58892 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990997/0001990997-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001990997-26-000013:nd:11</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reed Andrew Phillips (FIG) J: 35223 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990997/0001990997-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001990997-26-000013:nd:10</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reed Andrew Phillips (FIG) J: 713067 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990997/0001990997-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001990997-26-000013:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reed Andrew Phillips (FIG) J: 2215239 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1990997/0001990997-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001990997-26-000013:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Herb Tyler (FIG) S: 1840 shares @ $27.14</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2073587/0002073587-26-000030-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002073587-26-000030:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:49 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

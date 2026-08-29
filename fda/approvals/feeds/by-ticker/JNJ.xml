@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — FDA drug application events — JNJ</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Drug-application submission events (originals and supplements) with FDA status codes, from openFDA's Drugs@FDA endpoint, with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 29 Aug 2026 15:09:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
     <item>
       <title>JANSSEN BIOTECH BLA761430 SUPPL 2: AP (2026-08-24)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=761430</link>

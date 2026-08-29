@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — PG</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Aguilar Moses Victor Javier (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000160-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000160:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aguilar Moses Victor Javier (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000160-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000160:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aguilar Moses Victor Javier (PG) S: 3053 shares @ $143.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000160-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000160:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Janzaruk Matthew W. (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000159-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000159:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Janzaruk Matthew W. (PG) S: 359 shares @ $145.24</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000159-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000159:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aguilar Moses Victor Javier (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000158-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000158:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aguilar Moses Victor Javier (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000158-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000158:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aguilar Moses Victor Javier (PG) S: 3053 shares @ $143.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000158-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000158:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abd El Hak Hesham (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000157-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000157:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abd El Hak Hesham (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000157-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000157:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abd El Hak Hesham (PG) S: 1936 shares @ $143.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000157-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000157:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raman Sundar G. (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000156-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000156:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raman Sundar G. (PG) S: 3435 shares @ $143.02</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000156-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000156:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Santos de Azevedo Juliana Monteiro (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000155-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000155:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Santos de Azevedo Juliana Monteiro (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000155-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000155:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Santos de Azevedo Juliana Monteiro (PG) S: 2368 shares @ $143.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000155-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000155:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Janzaruk Matthew W. (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000154-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000154:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Janzaruk Matthew W. (PG) S: 156 shares @ $143.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000154-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000154:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schulten Andre (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000153-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000153:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schulten Andre (PG) S: 5402 shares @ $143.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000153-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000153:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bharucha Freddy P. (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000151-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000151:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bharucha Freddy P. (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000151-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000151:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bharucha Freddy P. (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000151-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000151:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bharucha Freddy P. (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000151-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000151:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bharucha Freddy P. (PG) S: 246 shares @ $143.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000151-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000151:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Purushothaman Balaji (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000150:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Purushothaman Balaji (PG) S: 2019 shares @ $143.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000150:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jejurikar Shailesh (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000149-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000149:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jejurikar Shailesh (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000149-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000149:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jejurikar Shailesh (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000149-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000149:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jejurikar Shailesh (PG) S: 6176 shares @ $143.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000149-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000149:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gama Paul (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000148-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000148:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gama Paul (PG) S: 3396 shares @ $143.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000148-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000148:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Whaley Susan Street (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000147-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000147:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Whaley Susan Street (PG) S: 2238 shares @ $143.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000147-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000147:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pritchard Marc S. (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000146-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000146:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pritchard Marc S. (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000146-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000146:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pritchard Marc S. (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000146-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000146:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pritchard Marc S. (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000146-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000146:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pritchard Marc S. (PG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000146-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000146:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pritchard Marc S. (PG) S: 4030 shares @ $143.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/80424/0000080424-26-000146-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000080424-26-000146:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:04 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

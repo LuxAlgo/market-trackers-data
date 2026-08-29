@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — SIG</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Tilzer Brian A (SIG) A: 8.67 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000219-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000832988-26-000219:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>COCHRAN SANDRA B (SIG) A: 8.67 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000218-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000832988-26-000218:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gennette Jeffrey (SIG) A: 9.84 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000217-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000832988-26-000217:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hicks Zackery A (SIG) A: 8.67 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000216-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000832988-26-000216:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCCOLLAM SHARON (SIG) A: 8.67 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000215-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000832988-26-000215:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Graf R. Mark (SIG) A: 8.67 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000214-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000832988-26-000214:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>McCluskey Helen (SIG) A: 15.6 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000213-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000832988-26-000213:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wilson Donta L (SIG) A: 8.67 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000212-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000832988-26-000212:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ulasewicz Eugenia (SIG) A: 8.67 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000211-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000832988-26-000211:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ciccolini Vincent (SIG) A: 21.11 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000832988-26-000210:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sagi Raghunandan R (SIG) A: 47.41 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000209-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000832988-26-000209:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cho Karen Leslie (SIG) A: 31.27 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000208-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000832988-26-000208:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hilson Joan M (SIG) A: 318.45 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000207-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000832988-26-000207:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yoakum Julie (SIG) A: 52.39 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000206-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000832988-26-000206:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cividino Claudia (SIG) A: 34.96 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000205-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000832988-26-000205:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ptak Stash (SIG) A: 25.16 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000204-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000832988-26-000204:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Symancyk James Kevin (SIG) A: 384.04 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000203-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000832988-26-000203:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:08 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — KTCC</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Agress Adam L (KTCC) A: 13404 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0002150553-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002150553-26-000005:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voorhees Anthony Gene (KTCC) A: 18096 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001942685-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001942685-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Courtney Mark R (KTCC) A: 6702 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001786730-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001786730-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Orebaugh Chad Thomas (KTCC) A: 13404 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001708519-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001708519-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Knaggs David H. (KTCC) A: 13404 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001689252-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001689252-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mackleit Duane D (KTCC) A: 13404 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001555394-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001555394-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Larsen Brett R. (KTCC) A: 26809 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001484792-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001484792-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hochberg Philip Scott (KTCC) A: 16756 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001475268-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001475268-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kulkarni Subodh K (KTCC) A: 10723 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001388191-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001388191-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beranek Cheryl (KTCC) A: 10723 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001264406-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001264406-26-000003:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>BEAN JAMES R (KTCC) A: 10723 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001261149-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001261149-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SHAMASH YACOV A (KTCC) A: 10723 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001013589-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001013589-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KLAWITTER RONALD F (KTCC) A: 10723 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001013585-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001013585-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GATES CRAIG D (KTCC) A: 10723 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001013581-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001013581-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:59 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

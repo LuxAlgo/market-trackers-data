@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — PSQL</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Henriet loic Antoine (PSQL) A: 1034244 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2151947/0001193125-26-371423-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-371423:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Henriet loic Antoine (PSQL) A: 332753 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2151947/0001193125-26-371423-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-371423:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aspect Alain Jean (PSQL) A: 973107 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2146016/0001193125-26-371402-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-371402:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reymond Georges-Olivier (PSQL) A: 22185680 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2145091/0001193125-26-371433-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-371433:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reymond Georges-Olivier (PSQL) A: 8000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2145091/0001193125-26-371433-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-371433:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bokhari Wasiq Mahmood (PSQL) A: 665507 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2144684/0001193125-26-371468-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-371468:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gundlach Andrew (PSQL) J: 2461433 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2119292/0001213900-26-094510-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-094510:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gundlach Andrew (PSQL) J: 50233 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2119292/0001213900-26-094510-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-094510:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gundlach Andrew (PSQL) J: 1470000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2119292/0001213900-26-094510-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-094510:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gundlach Andrew (PSQL) J: 30000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2119292/0001213900-26-094510-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-094510:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Combes Michel (PSQL) J: 2511667 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2119292/0001213900-26-094509-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-094509:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Combes Michel (PSQL) J: 1500000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2119292/0001213900-26-094509-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-094509:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:15 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

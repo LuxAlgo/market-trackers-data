@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — TPR</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Dadlani Manesh (TPR) F: 282 shares @ $132.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1816220/0001225208-26-007359-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007359:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Howard David E (TPR) F: 14100 shares @ $130.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1821332/0001225208-26-007325-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007325:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Howard David E (TPR) F: 2029 shares @ $130.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1821332/0001225208-26-007325-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007325:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Howard David E (TPR) F: 1601 shares @ $130.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1821332/0001225208-26-007325-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007325:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Howard David E (TPR) A: 27619 shares @ $33.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1821332/0001225208-26-007325-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007325:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dadlani Manesh (TPR) F: 1099 shares @ $130.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1816220/0001225208-26-007324-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007324:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dadlani Manesh (TPR) F: 976 shares @ $130.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1816220/0001225208-26-007324-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007324:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crevoiserat Joanne C. (TPR) F: 112790 shares @ $130.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1607592/0001225208-26-007323-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007323:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crevoiserat Joanne C. (TPR) F: 8112 shares @ $130.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1607592/0001225208-26-007323-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007323:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crevoiserat Joanne C. (TPR) F: 8001 shares @ $130.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1607592/0001225208-26-007323-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007323:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crevoiserat Joanne C. (TPR) A: 220940 shares @ $33.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1607592/0001225208-26-007323-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007323:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Roe Scott A. (TPR) F: 45819 shares @ $130.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1570308/0001225208-26-007327-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007327:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Roe Scott A. (TPR) F: 3296 shares @ $130.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1570308/0001225208-26-007327-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007327:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Roe Scott A. (TPR) F: 2817 shares @ $130.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1570308/0001225208-26-007327-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007327:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Roe Scott A. (TPR) A: 82854 shares @ $33.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1570308/0001225208-26-007327-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007327:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kahn Todd (TPR) F: 33837 shares @ $130.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1424688/0001225208-26-007326-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007326:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kahn Todd (TPR) F: 2434 shares @ $130.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1424688/0001225208-26-007326-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007326:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kahn Todd (TPR) F: 2001 shares @ $130.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1424688/0001225208-26-007326-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007326:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kahn Todd (TPR) A: 66282 shares @ $33.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1424688/0001225208-26-007326-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007326:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:38 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

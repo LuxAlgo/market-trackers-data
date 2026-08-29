@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — CPAY</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>King Alan (CPAY) S: 3805 shares @ $416.6085</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1681825/0001193125-26-365660-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365660:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clarke Ronald (CPAY) S: 6854 shares @ $409.5609</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506862/0001193125-26-365658-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365658:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clarke Ronald (CPAY) S: 40 shares @ $419.615</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506862/0001193125-26-365658-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365658:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clarke Ronald (CPAY) S: 4039 shares @ $418.8556</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506862/0001193125-26-365658-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365658:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clarke Ronald (CPAY) S: 7545 shares @ $418.0752</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506862/0001193125-26-365658-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365658:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clarke Ronald (CPAY) S: 8409 shares @ $417.292</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506862/0001193125-26-365658-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365658:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clarke Ronald (CPAY) S: 16540 shares @ $415.8169</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506862/0001193125-26-365658-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365658:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clarke Ronald (CPAY) S: 51919 shares @ $415.1213</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506862/0001193125-26-365658-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365658:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clarke Ronald (CPAY) S: 5882 shares @ $414.1562</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506862/0001193125-26-365658-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365658:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clarke Ronald (CPAY) S: 193 shares @ $415.1132</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506862/0001193125-26-365658-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365658:nd:15</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clarke Ronald (CPAY) S: 9581 shares @ $414.572</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506862/0001193125-26-365658-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365658:nd:14</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clarke Ronald (CPAY) S: 24670 shares @ $413.4248</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506862/0001193125-26-365658-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365658:nd:13</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clarke Ronald (CPAY) S: 50504 shares @ $412.585</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506862/0001193125-26-365658-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365658:nd:12</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clarke Ronald (CPAY) S: 15575 shares @ $411.4938</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506862/0001193125-26-365658-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365658:nd:11</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clarke Ronald (CPAY) S: 12109 shares @ $410.5612</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506862/0001193125-26-365658-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365658:nd:10</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clarke Ronald (CPAY) F: 290043 shares @ $417.13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506862/0001193125-26-365658-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365658:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clarke Ronald (CPAY) M: 450000 shares @ $150.74</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506862/0001193125-26-365658-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365658:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clarke Ronald (CPAY) M: 450000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506862/0001193125-26-365658-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365658:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

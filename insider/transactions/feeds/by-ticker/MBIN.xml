@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — MBIN</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Shaffer Mark E. (MBIN) A: 328 shares @ $53.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2135516/0002135516-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002135516-26-000004:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dinwiddie Thomas (MBIN) A: 328 shares @ $53.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1922063/0001922063-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001922063-26-000003:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Catchings Tamika (MBIN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1920856/0001920856-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001920856-26-000003:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Catchings Tamika (MBIN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1920856/0001920856-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001920856-26-000003:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Catchings Tamika (MBIN) A: 328 shares @ $53.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1920856/0001920856-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001920856-26-000003:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>O'Brien Patrick D. (MBIN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1719805/0001719805-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001719805-26-000003:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>O'Brien Patrick D. (MBIN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1719805/0001719805-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001719805-26-000003:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>O'Brien Patrick D. (MBIN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1719805/0001719805-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001719805-26-000003:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>O'Brien Patrick D. (MBIN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1719805/0001719805-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001719805-26-000003:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>O'Brien Patrick D. (MBIN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1719805/0001719805-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001719805-26-000003:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>O'Brien Patrick D. (MBIN) A: 328 shares @ $53.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1719805/0001719805-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001719805-26-000003:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sellers Anne E. (MBIN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1719301/0001719301-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001719301-26-000004:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sellers Anne E. (MBIN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1719301/0001719301-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001719301-26-000004:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sellers Anne E. (MBIN) A: 328 shares @ $53.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1719301/0001719301-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001719301-26-000004:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Curless Michael S (MBIN) A: 328 shares @ $53.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1629019/0001580949-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001580949-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>JUSTER ANDREW (MBIN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1629019/0001235743-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001235743-26-000003:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>JUSTER ANDREW (MBIN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1629019/0001235743-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001235743-26-000003:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>JUSTER ANDREW (MBIN) A: 328 shares @ $53.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1629019/0001235743-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001235743-26-000003:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:30 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

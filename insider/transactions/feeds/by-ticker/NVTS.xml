@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — NVTS</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Amoruso Cristiano (NVTS) A: 9990 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2069371/0001104659-26-101508-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101508:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fischer Gregory Michael (NVTS) A: 9990 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1973342/0001104659-26-101506-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101506:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moxam David (NVTS) A: 9990 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1888290/0001104659-26-101516-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101516:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saluja Dipender (NVTS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1834268/0001104659-26-101499-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101499:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saluja Dipender (NVTS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1834268/0001104659-26-101499-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101499:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saluja Dipender (NVTS) A: 951 shares @ $13.15</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1834268/0001104659-26-101499-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101499:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saluja Dipender (NVTS) A: 9990 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1834268/0001104659-26-101499-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101499:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saluja Dipender (NVTS) A: 864 shares @ $14.47</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1834268/0001104659-26-101499-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101499:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>LONG BRIAN (NVTS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1821769/0001104659-26-101514-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101514:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>LONG BRIAN (NVTS) A: 9990 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1821769/0001104659-26-101514-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101514:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wunderlich Gary Kent JR (NVTS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1821769/0001104659-26-101511-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101511:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wunderlich Gary Kent JR (NVTS) A: 9990 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1821769/0001104659-26-101511-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101511:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>HENDRIX RICHARD J (NVTS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1821769/0001104659-26-101504-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101504:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>HENDRIX RICHARD J (NVTS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1821769/0001104659-26-101504-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101504:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>HENDRIX RICHARD J (NVTS) A: 9990 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1821769/0001104659-26-101504-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101504:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEE DAVIN (NVTS) A: 9990 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1821769/0001104659-26-101502-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101502:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:35 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

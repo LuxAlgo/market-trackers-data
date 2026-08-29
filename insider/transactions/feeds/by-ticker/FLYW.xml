@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — FLYW</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Voss Capital, LP (FLYW) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969435/0002060757-26-000053-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002060757-26-000053:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voss Capital, LP (FLYW) S: 91931 shares @ $18.915</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969435/0002060757-26-000053-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002060757-26-000053:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voss Capital, LP (FLYW) S: 25539 shares @ $18.9948</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969435/0002060757-26-000053-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002060757-26-000053:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voss Capital, LP (FLYW) S: 1996 shares @ $18.9149</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969435/0002060757-26-000053-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002060757-26-000053:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voss Capital, LP (FLYW) S: 555 shares @ $18.9948</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969435/0002060757-26-000053-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002060757-26-000053:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voss Capital, LP (FLYW) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969435/0002060757-26-000053-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002060757-26-000053:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voss Capital, LP (FLYW) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969435/0002060757-26-000053-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002060757-26-000053:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voss Capital, LP (FLYW) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969435/0002060757-26-000052-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002060757-26-000052:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voss Capital, LP (FLYW) S: 169295 shares @ $19.1941</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969435/0002060757-26-000052-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002060757-26-000052:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voss Capital, LP (FLYW) S: 99146 shares @ $19.4886</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969435/0002060757-26-000052-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002060757-26-000052:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voss Capital, LP (FLYW) S: 3678 shares @ $19.1941</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969435/0002060757-26-000052-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002060757-26-000052:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voss Capital, LP (FLYW) S: 2154 shares @ $19.4887</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969435/0002060757-26-000052-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002060757-26-000052:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voss Capital, LP (FLYW) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969435/0002060757-26-000052-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002060757-26-000052:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voss Capital, LP (FLYW) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969435/0002060757-26-000052-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002060757-26-000052:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — UP</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Wells Meaghan Danielle (UP) F: 298 shares @ $5.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2074657/0001104659-26-103402-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103402:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Knopf Matthew J. (UP) F: 377 shares @ $5.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2035382/0001104659-26-103400-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103400:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kedzior Brian Joseph (UP) F: 305 shares @ $5.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2017129/0001104659-26-103399-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103399:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kedzior Brian Joseph (UP) F: 105 shares @ $5.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2017129/0001104659-26-103399-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103399:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Holtz David L (UP) F: 373 shares @ $5.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2010869/0001104659-26-103398-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103398:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Holtz David L (UP) F: 134 shares @ $5.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2010869/0001104659-26-103398-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103398:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Godsman David (UP) F: 362 shares @ $5.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1979642/0001104659-26-103397-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103397:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Godsman David (UP) F: 130 shares @ $5.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1979642/0001104659-26-103397-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103397:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Briffa Mark (UP) F: 646 shares @ $5.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967906/0001104659-26-103395-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103395:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Briffa Mark (UP) F: 257 shares @ $5.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967906/0001104659-26-103395-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103395:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lauria Kristen (UP) F: 383 shares @ $5.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1819516/0001104659-26-103401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103401:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lauria Kristen (UP) F: 146 shares @ $5.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1819516/0001104659-26-103401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103401:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chatkewitz Alexander (UP) F: 274 shares @ $5.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1819516/0001104659-26-103396-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103396:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:30 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

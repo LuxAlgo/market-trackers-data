@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — FBRX</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Kapoor Shivpreet Singh (FBRX) D: 18353 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2038311/0002038311-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002038311-26-000003:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kapoor Shivpreet Singh (FBRX) D: 31000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2038311/0002038311-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002038311-26-000003:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kapoor Shivpreet Singh (FBRX) D: 2000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2038311/0002038311-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002038311-26-000003:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brun Scott C. (FBRX) D: 18353 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1863614/0001863614-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001863614-26-000003:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brun Scott C. (FBRX) D: 31000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1863614/0001863614-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001863614-26-000003:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brun Scott C. (FBRX) D: 2000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1863614/0001863614-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001863614-26-000003:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brun Scott C. (FBRX) D: 1000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1863614/0001863614-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001863614-26-000003:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brun Scott C. (FBRX) D: 2000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1863614/0001863614-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001863614-26-000003:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kornfeld Steven (FBRX) U: 3960 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1814653/0001814653-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001814653-26-000003:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kornfeld Steven (FBRX) D: 18353 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1814653/0001814653-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001814653-26-000003:d:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kornfeld Steven (FBRX) D: 31000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1814653/0001814653-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001814653-26-000003:d:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kornfeld Steven (FBRX) D: 2000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1814653/0001814653-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001814653-26-000003:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kornfeld Steven (FBRX) D: 1000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1814653/0001814653-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001814653-26-000003:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kornfeld Steven (FBRX) D: 1000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1814653/0001814653-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001814653-26-000003:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kornfeld Steven (FBRX) D: 1000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1814653/0001814653-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001814653-26-000003:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kornfeld Steven (FBRX) D: 800 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1814653/0001814653-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001814653-26-000003:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kornfeld Steven (FBRX) D: 1200 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1814653/0001814653-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001814653-26-000003:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wagner Paul A. (FBRX) U: 85482 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1612842/0001612842-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001612842-26-000011:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wagner Paul A. (FBRX) D: 3511 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1612842/0001612842-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001612842-26-000011:d:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wagner Paul A. (FBRX) D: 180000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1612842/0001612842-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001612842-26-000011:d:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wagner Paul A. (FBRX) D: 2500 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1612842/0001612842-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001612842-26-000011:d:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wagner Paul A. (FBRX) D: 500000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1612842/0001612842-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001612842-26-000011:d:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wagner Paul A. (FBRX) D: 270000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1612842/0001612842-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001612842-26-000011:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wagner Paul A. (FBRX) D: 920000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1612842/0001612842-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001612842-26-000011:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wagner Paul A. (FBRX) D: 44000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1612842/0001612842-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001612842-26-000011:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wagner Paul A. (FBRX) D: 11999 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1612842/0001612842-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001612842-26-000011:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wagner Paul A. (FBRX) D: 5400 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1612842/0001612842-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001612842-26-000011:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wagner Paul A. (FBRX) D: 16866 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1612842/0001612842-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001612842-26-000011:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Doberstein Stephen K (FBRX) D: 18353 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1480111/0001480111-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001480111-26-000003:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Doberstein Stephen K (FBRX) D: 31000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1480111/0001480111-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001480111-26-000003:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Doberstein Stephen K (FBRX) D: 2000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1480111/0001480111-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001480111-26-000003:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Doberstein Stephen K (FBRX) D: 1000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1480111/0001480111-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001480111-26-000003:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Doberstein Stephen K (FBRX) D: 1000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1480111/0001480111-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001480111-26-000003:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Doberstein Stephen K (FBRX) D: 2000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1480111/0001480111-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001480111-26-000003:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Riley Antony A (FBRX) U: 42600 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001339375-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001339375-26-000011:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Riley Antony A (FBRX) D: 60000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001339375-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001339375-26-000011:d:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Riley Antony A (FBRX) D: 750 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001339375-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001339375-26-000011:d:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Riley Antony A (FBRX) D: 22000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001339375-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001339375-26-000011:d:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Riley Antony A (FBRX) D: 90000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001339375-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001339375-26-000011:d:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Riley Antony A (FBRX) D: 323000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001339375-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001339375-26-000011:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Riley Antony A (FBRX) D: 14000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001339375-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001339375-26-000011:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Riley Antony A (FBRX) D: 2999 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001339375-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001339375-26-000011:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Riley Antony A (FBRX) D: 1700 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001339375-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001339375-26-000011:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Riley Antony A (FBRX) D: 2976 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001339375-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001339375-26-000011:d:10</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Riley Antony A (FBRX) D: 2999 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001339375-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001339375-26-000011:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Riley Antony A (FBRX) D: 421 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001339375-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001339375-26-000011:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>VINCENT RICHARD G (FBRX) D: 18353 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001269341-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001269341-26-000003:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>VINCENT RICHARD G (FBRX) D: 31000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001269341-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001269341-26-000003:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>VINCENT RICHARD G (FBRX) D: 2000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001269341-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001269341-26-000003:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>FINCK BARBARA K (FBRX) D: 18353 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001242116-26-000001-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001242116-26-000001:d:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>FINCK BARBARA K (FBRX) D: 31000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001242116-26-000001-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001242116-26-000001:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>FINCK BARBARA K (FBRX) D: 7000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001242116-26-000001-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001242116-26-000001:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>FINCK BARBARA K (FBRX) D: 1000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001242116-26-000001-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001242116-26-000001:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>FINCK BARBARA K (FBRX) D: 1000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001242116-26-000001-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001242116-26-000001:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>FINCK BARBARA K (FBRX) D: 166 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001242116-26-000001-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001242116-26-000001:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>FINCK BARBARA K (FBRX) D: 2000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001242116-26-000001-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001242116-26-000001:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRYSKA DAVID W (FBRX) U: 5940 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001202335-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001202335-26-000003:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRYSKA DAVID W (FBRX) D: 18353 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001202335-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001202335-26-000003:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRYSKA DAVID W (FBRX) D: 31000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001202335-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001202335-26-000003:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRYSKA DAVID W (FBRX) D: 2000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001202335-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001202335-26-000003:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRYSKA DAVID W (FBRX) D: 1000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001202335-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001202335-26-000003:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GRYSKA DAVID W (FBRX) D: 2000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/0001202335-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001202335-26-000003:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:09 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

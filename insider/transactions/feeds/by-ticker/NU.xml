@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — NU</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Junqueira Cristina Helena Zingaretti (NU) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1973445/0000950103-26-012947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012947:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Junqueira Cristina Helena Zingaretti (NU) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1973445/0000950103-26-012947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012947:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Junqueira Cristina Helena Zingaretti (NU) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1973445/0000950103-26-012947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012947:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Junqueira Cristina Helena Zingaretti (NU) S: 65000 shares @ $14.7147</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1973445/0000950103-26-012947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012947:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Junqueira Cristina Helena Zingaretti (NU) S: 25000 shares @ $15</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1973445/0000950103-26-012947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012947:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moreno Mejia Luis Alberto (NU) A: 1017 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1855854/0000950103-26-012927-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012927:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>PIACENTINI DIEGO (NU) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691493/0000950103-26-012928-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012928:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>PIACENTINI DIEGO (NU) A: 1356 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691493/0000950103-26-012928-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012928:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sands Anita M (NU) A: 1356 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691493/0000950103-26-012926-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012926:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEONE DOUGLAS M (NU) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691493/0000950103-26-012924-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012924:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEONE DOUGLAS M (NU) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691493/0000950103-26-012924-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012924:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEONE DOUGLAS M (NU) A: 1356 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691493/0000950103-26-012924-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950103-26-012924:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:18 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

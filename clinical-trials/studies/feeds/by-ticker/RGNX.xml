@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — RGNX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 29 Aug 2026 15:09:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
     <item>
       <title>REGENXBIO Inc. — ACTIVE_NOT_RECRUITING: Long-term Follow-Up for RGX-121</title>
       <link>https://clinicaltrials.gov/study/NCT04597385</link>

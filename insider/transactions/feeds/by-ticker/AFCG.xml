@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — AFCG</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>TANNENBAUM LEONARD M (AFCG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822523/0001628280-26-059389-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059389:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>TANNENBAUM LEONARD M (AFCG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822523/0001628280-26-059389-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059389:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>TANNENBAUM LEONARD M (AFCG) P: 15202 shares @ $3.46</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822523/0001628280-26-059389-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059389:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>TANNENBAUM LEONARD M (AFCG) P: 19404 shares @ $3.41</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822523/0001628280-26-059389-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059389:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>TANNENBAUM LEONARD M (AFCG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822523/0001628280-26-059085-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059085:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>TANNENBAUM LEONARD M (AFCG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822523/0001628280-26-059085-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059085:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>TANNENBAUM LEONARD M (AFCG) P: 30000 shares @ $3.4</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822523/0001628280-26-059085-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059085:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>TANNENBAUM LEONARD M (AFCG) P: 30000 shares @ $3.41</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822523/0001628280-26-059085-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059085:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>TANNENBAUM LEONARD M (AFCG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822523/0001628280-26-058642-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058642:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>TANNENBAUM LEONARD M (AFCG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822523/0001628280-26-058642-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058642:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>TANNENBAUM LEONARD M (AFCG) P: 25000 shares @ $3.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822523/0001628280-26-058642-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058642:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

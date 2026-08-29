@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — RVMD</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Cislini Jeff (RVMD) S: 3314 shares @ $212.0583</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969082/0001610717-26-000388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000388:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cislini Jeff (RVMD) S: 4500 shares @ $211.3417</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969082/0001610717-26-000388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000388:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cislini Jeff (RVMD) S: 2540 shares @ $210.2647</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969082/0001610717-26-000388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000388:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cislini Jeff (RVMD) S: 25817 shares @ $209.2497</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969082/0001610717-26-000388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000388:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cislini Jeff (RVMD) S: 17323 shares @ $208.3688</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969082/0001610717-26-000388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000388:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cislini Jeff (RVMD) S: 3400 shares @ $207.2363</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969082/0001610717-26-000388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000388:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cislini Jeff (RVMD) M: 26600 shares @ $21.61</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969082/0001610717-26-000388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000388:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cislini Jeff (RVMD) M: 29680 shares @ $18.56</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969082/0001610717-26-000388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000388:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cislini Jeff (RVMD) M: 26600 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969082/0001610717-26-000388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000388:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cislini Jeff (RVMD) M: 29680 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969082/0001610717-26-000388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000388:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) S: 1351 shares @ $209.2812</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) S: 951 shares @ $208.3648</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) S: 190 shares @ $207.2454</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) S: 3621 shares @ $212.0776</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) S: 6583 shares @ $211.3331</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) S: 3813 shares @ $210.2466</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) S: 35938 shares @ $209.2615</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) S: 24917 shares @ $208.3697</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:19</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) S: 126 shares @ $212.0641</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:18</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) S: 229 shares @ $211.4648</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:17</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) S: 126 shares @ $210.403</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:16</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) S: 1405 shares @ $209.2664</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:15</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) S: 937 shares @ $208.3609</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:14</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) S: 177 shares @ $207.2515</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:13</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) S: 127 shares @ $212.0635</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:12</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) S: 245 shares @ $211.4651</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:11</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) S: 136 shares @ $210.4017</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:10</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) S: 5128 shares @ $207.233</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) M: 80000 shares @ $4.73</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GOLDSMITH MARK A (RVMD) M: 80000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628171/0001610717-26-000387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001610717-26-000387:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:57 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — PLBY</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Edmonds Tracey E (PLBY) S: 16558 shares @ $1.211</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1844982/0001628280-26-059448-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059448:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>FIG Buyer GP, LLC (PLBY) S: 34504 shares @ $1.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024235/0001012975-26-000826-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001012975-26-000826:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>FIG Buyer GP, LLC (PLBY) S: 64298 shares @ $1.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024235/0001012975-26-000826-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001012975-26-000826:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>FIG Buyer GP, LLC (PLBY) S: 66707 shares @ $1.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024235/0001012975-26-000826-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001012975-26-000826:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>FIG Buyer GP, LLC (PLBY) S: 143179 shares @ $1.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024235/0001012975-26-000826-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001012975-26-000826:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>FIG Buyer GP, LLC (PLBY) S: 162438 shares @ $1.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024235/0001012975-26-000826-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001012975-26-000826:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>FIG Buyer GP, LLC (PLBY) S: 443309 shares @ $1.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024235/0001012975-26-000826-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001012975-26-000826:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>FIG Buyer GP, LLC (PLBY) S: 557456 shares @ $1.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024235/0001012975-26-000826-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001012975-26-000826:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>FIG Buyer GP, LLC (PLBY) S: 1385252 shares @ $1.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024235/0001012975-26-000826-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001012975-26-000826:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drawbridge Special Opportunities Fund LP (PLBY) S: 34504 shares @ $1.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1803914/0001012975-26-000827-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001012975-26-000827:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drawbridge Special Opportunities Fund LP (PLBY) S: 64298 shares @ $1.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1803914/0001012975-26-000827-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001012975-26-000827:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drawbridge Special Opportunities Fund LP (PLBY) S: 66707 shares @ $1.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1803914/0001012975-26-000827-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001012975-26-000827:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drawbridge Special Opportunities Fund LP (PLBY) S: 143179 shares @ $1.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1803914/0001012975-26-000827-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001012975-26-000827:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drawbridge Special Opportunities Fund LP (PLBY) S: 162438 shares @ $1.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1803914/0001012975-26-000827-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001012975-26-000827:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drawbridge Special Opportunities Fund LP (PLBY) S: 443309 shares @ $1.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1803914/0001012975-26-000827-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001012975-26-000827:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drawbridge Special Opportunities Fund LP (PLBY) S: 557456 shares @ $1.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1803914/0001012975-26-000827-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001012975-26-000827:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drawbridge Special Opportunities Fund LP (PLBY) S: 1385252 shares @ $1.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1803914/0001012975-26-000827-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001012975-26-000827:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:16 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

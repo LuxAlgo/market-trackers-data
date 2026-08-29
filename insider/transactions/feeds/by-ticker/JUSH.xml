@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — JUSH</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Barack Louis Jon (JUSH) P: 30000 shares @ $0.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1939867/0001628280-26-059395-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059395:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cacioppo James (JUSH) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1909747/0001628280-26-059399-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059399:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cacioppo James (JUSH) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1909747/0001628280-26-059399-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059399:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cacioppo James (JUSH) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1909747/0001628280-26-059399-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059399:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cacioppo James (JUSH) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1909747/0001628280-26-059399-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059399:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cacioppo James (JUSH) P: 500000 shares @ $0.49</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1909747/0001628280-26-059399-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059399:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cacioppo James (JUSH) P: 494000 shares @ $0.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1909747/0001628280-26-059399-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059399:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cacioppo James (JUSH) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1909747/0001628280-26-059077-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059077:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cacioppo James (JUSH) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1909747/0001628280-26-059077-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059077:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cacioppo James (JUSH) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1909747/0001628280-26-059077-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059077:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cacioppo James (JUSH) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1909747/0001628280-26-059077-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059077:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cacioppo James (JUSH) P: 322000 shares @ $0.49</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1909747/0001628280-26-059077-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059077:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cacioppo James (JUSH) P: 384112 shares @ $0.48</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1909747/0001628280-26-059077-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059077:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:47 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

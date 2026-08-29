@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — MNPR</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Tsuchimoto Kim R (MNPR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029235-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029235:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tsuchimoto Kim R (MNPR) S: 590 shares @ $113.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029235-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029235:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tsuchimoto Kim R (MNPR) S: 602 shares @ $112.93</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029235-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029235:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tsuchimoto Kim R (MNPR) S: 1098 shares @ $111.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029235-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029235:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tsuchimoto Kim R (MNPR) S: 700 shares @ $110.65</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029235-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029235:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tsuchimoto Kim R (MNPR) S: 615 shares @ $109.56</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029235-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029235:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tsuchimoto Kim R (MNPR) S: 485 shares @ $108.83</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029235-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029235:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tsuchimoto Kim R (MNPR) M: 2035 shares @ $14</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029235-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029235:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tsuchimoto Kim R (MNPR) M: 2055 shares @ $30</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029235-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029235:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tsuchimoto Kim R (MNPR) M: 2035 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029235-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029235:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tsuchimoto Kim R (MNPR) M: 2055 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029235-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029235:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Raymond (MNPR) S: 1802 shares @ $113.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029228-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029228:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Raymond (MNPR) S: 646 shares @ $111.07</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029228-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029228:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Raymond (MNPR) S: 694 shares @ $110.04</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029228-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029228:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Raymond (MNPR) M: 1740 shares @ $30</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029228-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029228:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Raymond (MNPR) M: 1402 shares @ $30</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029228-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029228:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Raymond (MNPR) M: 1740 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029228-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029228:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Raymond (MNPR) M: 1402 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029228-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029228:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>RIOUX PATRICE (MNPR) S: 1 shares @ $111.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029121:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RIOUX PATRICE (MNPR) M: 1380 shares @ $0.005</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029121:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RIOUX PATRICE (MNPR) M: 1380 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029121:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tsuchimoto Kim R (MNPR) S: 590 shares @ $113.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029116-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029116:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tsuchimoto Kim R (MNPR) S: 602 shares @ $112.93</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029116-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029116:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tsuchimoto Kim R (MNPR) S: 1098 shares @ $111.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029116-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029116:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tsuchimoto Kim R (MNPR) S: 700 shares @ $110.65</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029116-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029116:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tsuchimoto Kim R (MNPR) S: 615 shares @ $109.56</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029116-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029116:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tsuchimoto Kim R (MNPR) S: 485 shares @ $108.83</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029116-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029116:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Raymond (MNPR) S: 1802 shares @ $113.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029115-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029115:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Raymond (MNPR) S: 646 shares @ $110.07</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029115-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029115:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Raymond (MNPR) S: 694 shares @ $110.04</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645469/0001437749-26-029115-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029115:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

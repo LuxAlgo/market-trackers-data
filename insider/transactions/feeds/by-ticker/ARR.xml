@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — ARR</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Losyev Sergey (ARR) F: 1118 shares @ $16.32</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2016863/0002016863-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002016863-26-000009:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Losyev Sergey (ARR) M: 4000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2016863/0002016863-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002016863-26-000009:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Losyev Sergey (ARR) M: 4000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2016863/0002016863-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002016863-26-000009:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Macauley Desmond (ARR) F: 1335 shares @ $16.32</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2016620/0002016620-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002016620-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Macauley Desmond (ARR) M: 4000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2016620/0002016620-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002016620-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Macauley Desmond (ARR) M: 4000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2016620/0002016620-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002016620-26-000008:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Harper Gordon (ARR) F: 2794 shares @ $16.32</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1698344/0001698344-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001698344-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Harper Gordon (ARR) M: 7750 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1698344/0001698344-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001698344-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Harper Gordon (ARR) M: 7750 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1698344/0001698344-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001698344-26-000008:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>ULM SCOTT (ARR) F: 4352 shares @ $16.32</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1469064/0001469064-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001469064-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>ULM SCOTT (ARR) M: 10880 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1469064/0001469064-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001469064-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>ULM SCOTT (ARR) M: 10880 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1469064/0001469064-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001469064-26-000008:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Downey Carolyn (ARR) F: 950 shares @ $16.32</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1455810/0001455810-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001455810-26-000013:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Downey Carolyn (ARR) M: 1900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1455810/0001455810-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001455810-26-000013:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Downey Carolyn (ARR) M: 1900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1455810/0001455810-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001455810-26-000013:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hain Robert C (ARR) F: 950 shares @ $16.32</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001377714-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001377714-26-000010:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hain Robert C (ARR) M: 1900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001377714-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001377714-26-000010:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hain Robert C (ARR) M: 1900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001377714-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001377714-26-000010:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Behar Z Jamie (ARR) M: 1900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001306260-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001306260-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Behar Z Jamie (ARR) M: 1900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001306260-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001306260-26-000008:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>HOLLIHAN JOHN P III (ARR) F: 760 shares @ $16.32</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001248587-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001248587-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>HOLLIHAN JOHN P III (ARR) M: 1900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001248587-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001248587-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>HOLLIHAN JOHN P III (ARR) M: 1900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001248587-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001248587-26-000008:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAPERIN STEWART J (ARR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001207637-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001207637-26-000015:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAPERIN STEWART J (ARR) M: 1900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001207637-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001207637-26-000015:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAPERIN STEWART J (ARR) M: 1900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001207637-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001207637-26-000015:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>BELL MARC H (ARR) M: 480 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001026915-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001026915-26-000009:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>BELL MARC H (ARR) M: 1900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001026915-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001026915-26-000009:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>BELL MARC H (ARR) M: 480 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001026915-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001026915-26-000009:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>BELL MARC H (ARR) M: 1900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001026915-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001026915-26-000009:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>STATON DANIEL C (ARR) M: 480 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001024240-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001024240-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>STATON DANIEL C (ARR) M: 1900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001024240-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001024240-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>STATON DANIEL C (ARR) M: 480 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001024240-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001024240-26-000008:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>STATON DANIEL C (ARR) M: 1900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428205/0001024240-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001024240-26-000008:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:38 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

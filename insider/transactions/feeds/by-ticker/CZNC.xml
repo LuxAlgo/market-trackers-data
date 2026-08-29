@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — CZNC</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>SINGER AARON K (CZNC) J: 96 shares @ $26.08</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001704635-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001704635-26-000010:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>SINGER AARON K (CZNC) J: 64 shares @ $25.96</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001704635-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001704635-26-000010:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shattuck Katherine W (CZNC) J: 102 shares @ $25.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001870473-26-000026-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001870473-26-000026:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Santiago Helen S (CZNC) J: 1 shares @ $25.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001858668-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001858668-26-000008:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Santiago Helen S (CZNC) J: 1 shares @ $25.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001858668-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001858668-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Santiago Helen S (CZNC) J: 108 shares @ $25.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001858668-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001858668-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dorwart Stephen M (CZNC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001816387-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001816387-26-000010:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dorwart Stephen M (CZNC) J: 57 shares @ $25.96</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001816387-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001816387-26-000010:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Loughery Robert G (CZNC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001815916-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001815916-26-000008:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Loughery Robert G (CZNC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001815916-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001815916-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Loughery Robert G (CZNC) J: 114 shares @ $25.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001815916-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001815916-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kilmer Bobbi J (CZNC) J: 64 shares @ $25.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001738341-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001738341-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kilmer Bobbi J (CZNC) J: 131 shares @ $25.96</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001738341-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001738341-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pellegrino Frank G (CZNC) J: 539 shares @ $25.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001667211-26-000024-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001667211-26-000024:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trate Christian C (CZNC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0002089133-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002089133-26-000008:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trate Christian C (CZNC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0002089133-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002089133-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trate Christian C (CZNC) S: 560 shares @ $25.2101</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0002089133-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002089133-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>James Glenn Richard (CZNC) J: 3 shares @ $25.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001981864-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001981864-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>James Glenn Richard (CZNC) J: 8 shares @ $25.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001981864-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001981864-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Balagour Alexander (CZNC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001861523-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001861523-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Balagour Alexander (CZNC) J: 23 shares @ $25.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001861523-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001861523-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rush Blair T (CZNC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001843307-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001843307-26-000010:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rush Blair T (CZNC) J: 31 shares @ $25.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001843307-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001843307-26-000010:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Watkins Tracy Ellen (CZNC) J: 73 shares @ $25.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001727004-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001727004-26-000010:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Watkins Tracy Ellen (CZNC) J: 80 shares @ $25.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001727004-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001727004-26-000010:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunsmore Stan R (CZNC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001629111-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001629111-26-000010:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunsmore Stan R (CZNC) J: 107 shares @ $25.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001629111-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001629111-26-000010:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunsmore Stan R (CZNC) J: 1 shares @ $25.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001629111-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001629111-26-000010:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Runk David S (CZNC) J: 1 shares @ $25.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001397536-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001397536-26-000010:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hoose Harold F III (CZNC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001321738-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001321738-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hoose Harold F III (CZNC) J: 181 shares @ $25.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001321738-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001321738-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>RUDY THOMAS L JR (CZNC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001281535-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001281535-26-000012:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>RUDY THOMAS L JR (CZNC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001281535-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001281535-26-000012:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>RUDY THOMAS L JR (CZNC) J: 160 shares @ $25.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001281535-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001281535-26-000012:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>HUGHES MARK A (CZNC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001242486-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001242486-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>HUGHES MARK A (CZNC) J: 213 shares @ $25.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001242486-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001242486-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>REBER JOHN M (CZNC) J: 110 shares @ $25.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001225817-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225817-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>REBER JOHN M (CZNC) J: 341 shares @ $25.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001225817-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225817-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCOVILL J BRADLEY (CZNC) J: 73 shares @ $25.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001220808-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001220808-26-000010:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCOVILL J BRADLEY (CZNC) J: 400 shares @ $25.95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/810958/0001220808-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001220808-26-000010:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

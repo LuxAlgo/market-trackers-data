@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — JHX</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Skelly Jonathan (JHX) S: 50000 shares @ $30.46</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1814380/0001628280-26-059173-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059173:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Skelly Jonathan (JHX) M: 50000 shares @ $11.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1814380/0001628280-26-059173-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059173:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Skelly Jonathan (JHX) S: 15000 shares @ $30.45</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1814380/0001628280-26-059173-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059173:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Skelly Jonathan (JHX) M: 50000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1814380/0001628280-26-059173-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059173:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Singh Jesse G (JHX) S: 265100 shares @ $30.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1594032/0001628280-26-058879-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058879:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Singh Jesse G (JHX) M: 265100 shares @ $11.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1594032/0001628280-26-058879-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058879:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Singh Jesse G (JHX) S: 120000 shares @ $30.08</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1594032/0001628280-26-058879-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058879:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Singh Jesse G (JHX) S: 265000 shares @ $30.19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1594032/0001628280-26-058879-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058879:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Singh Jesse G (JHX) M: 265000 shares @ $11.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1594032/0001628280-26-058879-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058879:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Singh Jesse G (JHX) S: 118057 shares @ $30.34</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1594032/0001628280-26-058879-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058879:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Singh Jesse G (JHX) S: 103400 shares @ $30.22</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1594032/0001628280-26-058879-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058879:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Singh Jesse G (JHX) M: 265100 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1594032/0001628280-26-058879-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058879:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Singh Jesse G (JHX) M: 265000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1594032/0001628280-26-058879-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058879:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>ERTER AARON M (JHX) A: 60588 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1713958/0001628280-26-058528-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058528:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>ERTER AARON M (JHX) A: 75495 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1713958/0001628280-26-058528-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058528:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:42 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

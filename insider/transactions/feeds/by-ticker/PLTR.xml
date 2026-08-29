@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — PLTR</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Karp Alexander C. (PLTR) S: 62498 shares @ $174.7299</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823951/0001823951-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001823951-26-000009:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karp Alexander C. (PLTR) S: 11602 shares @ $173.845</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823951/0001823951-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001823951-26-000009:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karp Alexander C. (PLTR) S: 4200 shares @ $172.6597</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823951/0001823951-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001823951-26-000009:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karp Alexander C. (PLTR) C: 90000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823951/0001823951-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001823951-26-000009:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karp Alexander C. (PLTR) S: 1304 shares @ $176.3133</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823951/0001823951-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001823951-26-000009:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karp Alexander C. (PLTR) S: 63629 shares @ $175.4185</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823951/0001823951-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001823951-26-000009:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karp Alexander C. (PLTR) S: 306544 shares @ $174.8455</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823951/0001823951-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001823951-26-000009:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karp Alexander C. (PLTR) S: 19493 shares @ $173.7864</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823951/0001823951-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001823951-26-000009:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karp Alexander C. (PLTR) S: 500 shares @ $176.302</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823951/0001823951-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001823951-26-000009:nd:11</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karp Alexander C. (PLTR) S: 11200 shares @ $175.4821</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823951/0001823951-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001823951-26-000009:nd:10</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karp Alexander C. (PLTR) S: 11378 shares @ $172.6542</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823951/0001823951-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001823951-26-000009:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karp Alexander C. (PLTR) C: 402348 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823951/0001823951-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001823951-26-000009:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karp Alexander C. (PLTR) C: 90000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823951/0001823951-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001823951-26-000009:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karp Alexander C. (PLTR) C: 402348 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823951/0001823951-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001823951-26-000009:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karp Alexander C. (PLTR) M: 97500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823951/0001823951-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001823951-26-000009:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karp Alexander C. (PLTR) M: 97500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823951/0001823951-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001823951-26-000009:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karp Alexander C. (PLTR) M: 877500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823951/0001823951-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001823951-26-000009:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karp Alexander C. (PLTR) M: 877500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823951/0001823951-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001823951-26-000009:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Buckley Jeffrey (PLTR) S: 1250 shares @ $174.29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1705189/0001705189-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705189-26-000015:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Buckley Jeffrey (PLTR) S: 7 shares @ $176.3133</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1705189/0001705189-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705189-26-000015:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Buckley Jeffrey (PLTR) S: 325 shares @ $175.4185</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1705189/0001705189-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705189-26-000015:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Buckley Jeffrey (PLTR) S: 1565 shares @ $174.8455</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1705189/0001705189-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705189-26-000015:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Buckley Jeffrey (PLTR) S: 100 shares @ $173.7864</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1705189/0001705189-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705189-26-000015:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Buckley Jeffrey (PLTR) S: 58 shares @ $172.6542</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1705189/0001705189-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705189-26-000015:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:40 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

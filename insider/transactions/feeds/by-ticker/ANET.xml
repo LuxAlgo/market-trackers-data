@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — ANET</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Ullal Jayshree (ANET) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605809/0001596532-26-000216-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000216:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ullal Jayshree (ANET) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605809/0001596532-26-000216-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000216:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ullal Jayshree (ANET) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605809/0001596532-26-000216-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000216:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ullal Jayshree (ANET) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605809/0001596532-26-000216-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000216:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ullal Jayshree (ANET) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605809/0001596532-26-000216-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000216:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ullal Jayshree (ANET) S: 400 shares @ $192.6375</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605809/0001596532-26-000216-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000216:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ullal Jayshree (ANET) S: 10128 shares @ $191.9859</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605809/0001596532-26-000216-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000216:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ullal Jayshree (ANET) S: 3281 shares @ $191.1012</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605809/0001596532-26-000216-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000216:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Battles Kelly Bodnar (ANET) S: 213 shares @ $188.692</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1817763/0001596532-26-000214-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000214:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Battles Kelly Bodnar (ANET) S: 40 shares @ $187.7738</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1817763/0001596532-26-000214-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000214:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Battles Kelly Bodnar (ANET) S: 35 shares @ $186.926</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1817763/0001596532-26-000214-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000214:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Battles Kelly Bodnar (ANET) S: 64 shares @ $185.6091</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1817763/0001596532-26-000214-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000214:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Battles Kelly Bodnar (ANET) S: 70 shares @ $184.7679</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1817763/0001596532-26-000214-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000214:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lavender Robert G (ANET) M: 538 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2058736/0001596532-26-000205-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000205:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lavender Robert G (ANET) M: 538 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2058736/0001596532-26-000205-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000205:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nightingale Todd (ANET) F: 63540 shares @ $186.45</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1944844/0001596532-26-000211-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000211:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nightingale Todd (ANET) M: 10360 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1944844/0001596532-26-000211-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000211:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nightingale Todd (ANET) M: 116515 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1944844/0001596532-26-000211-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000211:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nightingale Todd (ANET) M: 10360 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1944844/0001596532-26-000211-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000211:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nightingale Todd (ANET) A: 10360 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1944844/0001596532-26-000211-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000211:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nightingale Todd (ANET) M: 116515 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1944844/0001596532-26-000211-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000211:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Breithaupt Chantelle Yvette (ANET) F: 6145 shares @ $186.45</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850596/0001596532-26-000209-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000209:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Breithaupt Chantelle Yvette (ANET) M: 1350 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850596/0001596532-26-000209-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000209:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Breithaupt Chantelle Yvette (ANET) M: 10920 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850596/0001596532-26-000209-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000209:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Breithaupt Chantelle Yvette (ANET) M: 1350 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850596/0001596532-26-000209-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000209:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Breithaupt Chantelle Yvette (ANET) M: 10920 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850596/0001596532-26-000209-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000209:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Battles Kelly Bodnar (ANET) M: 538 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1817763/0001596532-26-000202-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000202:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Battles Kelly Bodnar (ANET) M: 538 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1817763/0001596532-26-000202-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000202:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wassenaar Yvonne (ANET) M: 538 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1707744/0001596532-26-000208-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000208:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wassenaar Yvonne (ANET) M: 538 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1707744/0001596532-26-000208-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000208:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ullal Jayshree (ANET) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605809/0001596532-26-000212-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000212:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ullal Jayshree (ANET) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605809/0001596532-26-000212-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000212:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ullal Jayshree (ANET) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605809/0001596532-26-000212-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000212:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ullal Jayshree (ANET) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605809/0001596532-26-000212-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000212:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ullal Jayshree (ANET) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605809/0001596532-26-000212-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000212:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ullal Jayshree (ANET) F: 13855 shares @ $186.45</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605809/0001596532-26-000212-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000212:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ullal Jayshree (ANET) M: 27664 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605809/0001596532-26-000212-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000212:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ullal Jayshree (ANET) M: 27664 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605809/0001596532-26-000212-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000212:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) S: 754 shares @ $186.9698</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) S: 6063 shares @ $186.1257</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) S: 5308 shares @ $185.1821</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) S: 3875 shares @ $184.3297</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) S: 818 shares @ $186.9698</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) S: 6568 shares @ $186.1257</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) S: 5750 shares @ $185.1821</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:21</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:20</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) S: 4197 shares @ $184.3297</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) F: 15541 shares @ $186.45</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:19</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) M: 1350 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:18</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) M: 19816 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:17</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) M: 1832 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:16</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) M: 4148 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:15</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) M: 3880 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:14</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) S: 472 shares @ $186.9698</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:13</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) S: 3789 shares @ $186.1257</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:12</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) S: 3317 shares @ $185.1821</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:11</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) S: 2422 shares @ $184.3297</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:10</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) M: 3999 shares @ $14.1463</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) M: 13334 shares @ $15.2769</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) M: 3880 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:d:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) M: 19816 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:d:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) M: 1832 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) M: 4148 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) M: 4148 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) M: 1350 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) M: 13334 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) M: 3999 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000210:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scheinman Daniel (ANET) M: 538 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605698/0001596532-26-000206-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000206:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scheinman Daniel (ANET) M: 538 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605698/0001596532-26-000206-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000206:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>TEMPLETON MARK B (ANET) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1596532/0001596532-26-000207-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000207:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>TEMPLETON MARK B (ANET) M: 538 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1596532/0001596532-26-000207-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000207:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>TEMPLETON MARK B (ANET) M: 538 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1596532/0001596532-26-000207-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000207:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Giancarlo Charles H (ANET) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1596532/0001596532-26-000204-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000204:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Giancarlo Charles H (ANET) M: 538 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1596532/0001596532-26-000204-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000204:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Giancarlo Charles H (ANET) M: 538 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1596532/0001596532-26-000204-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000204:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHEW LEWIS (ANET) M: 538 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1596532/0001596532-26-000203-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000203:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHEW LEWIS (ANET) M: 538 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1596532/0001596532-26-000203-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000203:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:26 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — AMRC</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Sakellaris George P (AMRC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1496665/0001628280-26-059314-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059314:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sakellaris George P (AMRC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1496665/0001628280-26-059314-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059314:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sakellaris George P (AMRC) P: 4000 shares @ $22.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1496665/0001628280-26-059314-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059314:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sakellaris George P (AMRC) P: 1000 shares @ $21.92</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1496665/0001628280-26-059314-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059314:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Miller Jennifer L (AMRC) P: 2000 shares @ $20.96</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1633385/0001628280-26-059098-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059098:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sakellaris George P (AMRC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1496665/0001628280-26-059096-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059096:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sakellaris George P (AMRC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1496665/0001628280-26-059096-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059096:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sakellaris George P (AMRC) P: 4062 shares @ $22.03</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1496665/0001628280-26-059096-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059096:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sakellaris George P (AMRC) P: 938 shares @ $21.6</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1496665/0001628280-26-059096-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059096:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sakellaris George P (AMRC) P: 5000 shares @ $20.91</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1496665/0001628280-26-059096-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059096:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sutton Joseph W. (AMRC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1496494/0001628280-26-059097-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059097:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sutton Joseph W. (AMRC) P: 9700 shares @ $20.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1496494/0001628280-26-059097-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059097:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cox Brian C (AMRC) P: 4625 shares @ $21.64</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2148272/0001628280-26-058967-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058967:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:02 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

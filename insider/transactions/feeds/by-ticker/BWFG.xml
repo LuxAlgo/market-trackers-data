@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — BWFG</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>SEIDMAN LAWRENCE B (BWFG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1505732/0001505732-26-000108-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001505732-26-000108:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEIDMAN LAWRENCE B (BWFG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1505732/0001505732-26-000108-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001505732-26-000108:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEIDMAN LAWRENCE B (BWFG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1505732/0001505732-26-000108-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001505732-26-000108:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEIDMAN LAWRENCE B (BWFG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1505732/0001505732-26-000108-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001505732-26-000108:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEIDMAN LAWRENCE B (BWFG) P: 144 shares @ $66.01</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1505732/0001505732-26-000108-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001505732-26-000108:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEIDMAN LAWRENCE B (BWFG) P: 262 shares @ $65.94</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1505732/0001505732-26-000108-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001505732-26-000108:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEIDMAN LAWRENCE B (BWFG) P: 662 shares @ $65.9</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1505732/0001505732-26-000108-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001505732-26-000108:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEIDMAN LAWRENCE B (BWFG) P: 219 shares @ $65.96</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1505732/0001505732-26-000108-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001505732-26-000108:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEIDMAN LAWRENCE B (BWFG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1505732/0001505732-26-000108-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001505732-26-000108:nd:11</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEIDMAN LAWRENCE B (BWFG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1505732/0001505732-26-000108-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001505732-26-000108:nd:10</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEIDMAN LAWRENCE B (BWFG) P: 259 shares @ $65.94</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1505732/0001505732-26-000108-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001505732-26-000108:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEIDMAN LAWRENCE B (BWFG) P: 994 shares @ $65.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1505732/0001505732-26-000108-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001505732-26-000108:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:59 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — BPRE</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Farsheed Sohaila Sori (BPRE) J: 378.12 shares @ $13.22</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1934065/0001398344-26-015851-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001398344-26-015851:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Farsheed Sohaila Sori (BPRE) J: 301.02 shares @ $16.61</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1934065/0001398344-26-015851-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001398344-26-015851:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Majumder I. Bobby (BPRE) J: 378.12 shares @ $13.22</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1575503/0001398344-26-015846-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001398344-26-015846:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Majumder I. Bobby (BPRE) J: 301.02 shares @ $16.61</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1575503/0001398344-26-015846-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001398344-26-015846:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Majumder I. Bobby (BPRE) J: 333.33 shares @ $15</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1575503/0001398344-26-015846-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001398344-26-015846:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tio Romano (BPRE) J: 378.12 shares @ $13.22</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1575501/0001398344-26-015847-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001398344-26-015847:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tio Romano (BPRE) J: 301.02 shares @ $16.61</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1575501/0001398344-26-015847-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001398344-26-015847:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tio Romano (BPRE) J: 333.33 shares @ $15</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1575501/0001398344-26-015847-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001398344-26-015847:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jafarnia Kamal (BPRE) J: 378.12 shares @ $13.22</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1568076/0001398344-26-015843-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001398344-26-015843:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jafarnia Kamal (BPRE) J: 301.02 shares @ $16.61</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1568076/0001398344-26-015843-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001398344-26-015843:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jafarnia Kamal (BPRE) J: 333.33 shares @ $15</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1568076/0001398344-26-015843-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001398344-26-015843:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:18 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

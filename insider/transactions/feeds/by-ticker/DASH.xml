@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — DASH</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Adarkar Prabir (DASH) S: 1900 shares @ $234.245</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832612/0001832612-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832612-26-000018:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adarkar Prabir (DASH) S: 11339 shares @ $233.484</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832612/0001832612-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832612-26-000018:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adarkar Prabir (DASH) S: 10995 shares @ $232.292</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832612/0001832612-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832612-26-000018:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adarkar Prabir (DASH) S: 20744 shares @ $231.462</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832612/0001832612-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832612-26-000018:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adarkar Prabir (DASH) S: 4600 shares @ $230.443</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832612/0001832612-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832612-26-000018:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adarkar Prabir (DASH) S: 3298 shares @ $229.31</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832612/0001832612-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832612-26-000018:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adarkar Prabir (DASH) S: 2413 shares @ $227.749</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832612/0001832612-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832612-26-000018:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adarkar Prabir (DASH) M: 43550 shares @ $7.16</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832612/0001832612-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832612-26-000018:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adarkar Prabir (DASH) M: 43550 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832612/0001832612-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832612-26-000018:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sherringham Tia (DASH) S: 100 shares @ $229.94</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1899688/0001899688-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001899688-26-000016:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sherringham Tia (DASH) S: 1265 shares @ $229.08</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1899688/0001899688-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001899688-26-000016:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sherringham Tia (DASH) S: 500 shares @ $227.836</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1899688/0001899688-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001899688-26-000016:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sherringham Tia (DASH) S: 100 shares @ $224.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1899688/0001899688-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001899688-26-000016:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sherringham Tia (DASH) S: 100 shares @ $222.22</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1899688/0001899688-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001899688-26-000016:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sherringham Tia (DASH) S: 200 shares @ $221.03</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1899688/0001899688-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001899688-26-000016:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xu Tony (DASH) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832617/0001832617-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832617-26-000009:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xu Tony (DASH) S: 3767 shares @ $230</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832617/0001832617-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832617-26-000009:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xu Tony (DASH) M: 3767 shares @ $7.16</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832617/0001832617-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832617-26-000009:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xu Tony (DASH) S: 29567 shares @ $230.004</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832617/0001832617-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832617-26-000009:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xu Tony (DASH) M: 29567 shares @ $7.16</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832617/0001832617-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832617-26-000009:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xu Tony (DASH) M: 3767 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832617/0001832617-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832617-26-000009:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xu Tony (DASH) M: 29567 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832617/0001832617-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832617-26-000009:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tang Stanley (DASH) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000030-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000030:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tang Stanley (DASH) S: 10134 shares @ $225</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000030-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000030:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tang Stanley (DASH) J: 10134 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000030-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000030:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tang Stanley (DASH) J: 10134 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000030-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000030:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee Gordon S (DASH) S: 2204 shares @ $222.03</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1792789/0001635648-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001635648-26-000014:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sherringham Tia (DASH) S: 7689 shares @ $220.624</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1899688/0001899688-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001899688-26-000014:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inukonda Ravi (DASH) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849709/0001849709-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001849709-26-000018:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inukonda Ravi (DASH) S: 19505 shares @ $220.624</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849709/0001849709-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001849709-26-000018:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yandell Keith (DASH) S: 7962 shares @ $220.624</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1833552/0001833552-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001833552-26-000014:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tang Stanley (DASH) S: 72367 shares @ $225.165</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000028-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000028:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tang Stanley (DASH) J: 72367 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000028-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000028:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tang Stanley (DASH) S: 9999 shares @ $225</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000028-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000028:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tang Stanley (DASH) J: 7828 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000028-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000028:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tang Stanley (DASH) S: 2160 shares @ $220.624</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000028-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000028:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tang Stanley (DASH) J: 72367 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000028-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000028:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tang Stanley (DASH) J: 7828 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000028-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000028:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adarkar Prabir (DASH) S: 17126 shares @ $220.624</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832612/0001832612-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832612-26-000016:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fang Andy (DASH) S: 1591 shares @ $220.624</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832390/0001832390-26-000021-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832390-26-000021:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee Gordon S (DASH) S: 2911 shares @ $220.624</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1792789/0001635648-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001635648-26-000012:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:53 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

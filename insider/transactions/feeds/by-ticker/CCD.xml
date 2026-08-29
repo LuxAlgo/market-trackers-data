@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — CCD</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>THRIVENT FINANCIAL FOR LUTHERANS (CCD) J: 200000 shares @ $25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/314984/0000314984-26-000034-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000314984-26-000034:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>MetLife Investment Management, LLC (CCD) P: 128000 shares @ $25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1602584/0000905148-26-003938-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003938:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>MetLife Investment Management, LLC (CCD) P: 44000 shares @ $25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1602584/0000905148-26-003938-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003938:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>MetLife Investment Management, LLC (CCD) P: 244000 shares @ $25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1602584/0000905148-26-003938-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003938:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>MetLife Investment Management, LLC (CCD) P: 168000 shares @ $25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1602584/0000905148-26-003938-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003938:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>MetLife Investment Management, LLC (CCD) P: 296000 shares @ $25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1602584/0000905148-26-003938-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003938:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>MetLife Investment Management, LLC (CCD) J: 36000 shares @ $25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1602584/0000905148-26-003938-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003938:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>MetLife Investment Management, LLC (CCD) J: 124000 shares @ $25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1602584/0000905148-26-003938-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003938:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>MetLife Investment Management, LLC (CCD) J: 244000 shares @ $25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1602584/0000905148-26-003938-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003938:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>MetLife Investment Management, LLC (CCD) J: 36000 shares @ $25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1602584/0000905148-26-003938-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003938:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

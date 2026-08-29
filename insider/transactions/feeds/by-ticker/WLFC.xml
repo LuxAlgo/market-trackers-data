@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — WLFC</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-003969-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003969:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-003969-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003969:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-003969-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003969:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) S: 15600 shares @ $55.1139</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-003969-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003969:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) S: 113 shares @ $56.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-003969-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003969:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) S: 11287 shares @ $54.4972</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-003969-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003969:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-003886-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003886:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:17:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-003886-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003886:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:17:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-003886-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003886:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:17:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) S: 13684 shares @ $55.232</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-003886-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003886:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:17:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) S: 3016 shares @ $54.5876</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-003886-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003886:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:17:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) S: 1100 shares @ $54.7891</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-003886-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003886:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:17:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) S: 12400 shares @ $54.4412</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-003886-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003886:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:17:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) S: 116 shares @ $54.66</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-003886-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003886:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:17:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) S: 16184 shares @ $53.9772</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-003886-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-003886:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:17:37 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

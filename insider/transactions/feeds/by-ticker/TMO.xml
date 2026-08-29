@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — TMO</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>CASPER MARC N (TMO) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0001216055-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001216055-26-000012:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0001216055-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001216055-26-000012:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) S: 62 shares @ $628.74</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0001216055-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001216055-26-000012:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) S: 79 shares @ $628.01</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0001216055-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001216055-26-000012:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) S: 33 shares @ $626.59</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0001216055-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001216055-26-000012:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) S: 101 shares @ $625.41</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0001216055-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001216055-26-000012:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) M: 275 shares @ $309.63</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0001216055-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001216055-26-000012:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) M: 275 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0001216055-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001216055-26-000012:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meyer James (TMO) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000153-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000153:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meyer James (TMO) F: 30.945 shares @ $629.27</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000153-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000153:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) S: 80 shares @ $633.99</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) S: 560 shares @ $632.94</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) S: 1430 shares @ $632.01</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) S: 1035 shares @ $630.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) S: 1250 shares @ $629.85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) S: 2601 shares @ $628.82</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) S: 1314 shares @ $627.66</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) S: 821 shares @ $626.83</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:nd:17</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:nd:16</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) S: 321 shares @ $629.1</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:nd:15</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) S: 2147 shares @ $628.61</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:nd:14</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) S: 1791 shares @ $627.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:nd:13</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) S: 3014 shares @ $626.51</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:nd:12</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) S: 2727 shares @ $625.46</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:nd:11</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) M: 10000 shares @ $309.63</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:nd:10</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) S: 909 shares @ $625.45</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) M: 10000 shares @ $309.63</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000152:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:13 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

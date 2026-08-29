@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — MEDP</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Kraft Robert O. (MEDP) S: 3858 shares @ $617.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1668397/0001558592-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001558592-26-000010:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kraft Robert O. (MEDP) M: 3858 shares @ $84.36</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1668397/0001558592-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001558592-26-000010:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kraft Robert O. (MEDP) M: 3858 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1668397/0001558592-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001558592-26-000010:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troendle August J. (MEDP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1668397/0001622058-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001622058-26-000008:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troendle August J. (MEDP) S: 4000 shares @ $620.03</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1668397/0001622058-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001622058-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troendle August J. (MEDP) S: 673 shares @ $620.38</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1668397/0001622058-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001622058-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troendle August J. (MEDP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1668397/0000892251-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000892251-26-000152:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troendle August J. (MEDP) S: 1983 shares @ $620.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1668397/0000892251-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000892251-26-000152:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troendle August J. (MEDP) S: 13995 shares @ $624.45</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1668397/0000892251-26-000152-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000892251-26-000152:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brady Kevin M. (MEDP) S: 3400 shares @ $625.24</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1877121/0000892251-26-000149-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000892251-26-000149:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brady Kevin M. (MEDP) M: 3400 shares @ $138.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1877121/0000892251-26-000149-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000892251-26-000149:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brady Kevin M. (MEDP) M: 3400 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1877121/0000892251-26-000149-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000892251-26-000149:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:10 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

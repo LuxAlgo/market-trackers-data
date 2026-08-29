@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — AMD</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Hu Jean X. (AMD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0001452385-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001452385-26-000008:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hu Jean X. (AMD) S: 100 shares @ $477.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0001452385-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001452385-26-000008:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hu Jean X. (AMD) S: 3100 shares @ $476.53</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0001452385-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001452385-26-000008:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hu Jean X. (AMD) S: 1429 shares @ $475.7</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0001452385-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001452385-26-000008:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hu Jean X. (AMD) S: 3831 shares @ $474.43</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0001452385-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001452385-26-000008:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hu Jean X. (AMD) S: 2327 shares @ $473.43</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0001452385-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001452385-26-000008:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hu Jean X. (AMD) S: 2513 shares @ $472.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0001452385-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001452385-26-000008:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hu Jean X. (AMD) S: 800 shares @ $471.14</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0001452385-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001452385-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hu Jean X. (AMD) S: 900 shares @ $470.13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0001452385-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001452385-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Norrod Forrest Eugene (AMD) S: 301 shares @ $462.59</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0000002488-26-000176-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000002488-26-000176:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Norrod Forrest Eugene (AMD) S: 1500 shares @ $460.64</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0000002488-26-000176-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000002488-26-000176:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Norrod Forrest Eugene (AMD) S: 1630 shares @ $459.68</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0000002488-26-000176-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000002488-26-000176:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Norrod Forrest Eugene (AMD) S: 400 shares @ $458.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0000002488-26-000176-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000002488-26-000176:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Norrod Forrest Eugene (AMD) S: 1904 shares @ $457.44</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0000002488-26-000176-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000002488-26-000176:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Norrod Forrest Eugene (AMD) S: 2312 shares @ $456.49</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0000002488-26-000176-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000002488-26-000176:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Norrod Forrest Eugene (AMD) S: 2125 shares @ $455.62</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0000002488-26-000176-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000002488-26-000176:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Norrod Forrest Eugene (AMD) S: 1182 shares @ $454.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0000002488-26-000176-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000002488-26-000176:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Norrod Forrest Eugene (AMD) S: 2589 shares @ $468.14</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0000002488-26-000176-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000002488-26-000176:nd:13</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Norrod Forrest Eugene (AMD) S: 600 shares @ $466.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0000002488-26-000176-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000002488-26-000176:nd:12</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Norrod Forrest Eugene (AMD) S: 1455 shares @ $465.43</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0000002488-26-000176-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000002488-26-000176:nd:11</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Norrod Forrest Eugene (AMD) S: 321 shares @ $464.27</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0000002488-26-000176-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000002488-26-000176:nd:10</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Norrod Forrest Eugene (AMD) S: 942 shares @ $453.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0000002488-26-000176-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000002488-26-000176:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Norrod Forrest Eugene (AMD) M: 7261 shares @ $84.85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0000002488-26-000176-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000002488-26-000176:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Norrod Forrest Eugene (AMD) M: 7261 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2488/0000002488-26-000176-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000002488-26-000176:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:26 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

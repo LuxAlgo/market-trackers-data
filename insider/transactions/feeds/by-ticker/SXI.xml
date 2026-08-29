@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — SXI</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>GLASS ALAN J (SXI) S: 1391 shares @ $303.185</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000086-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000086:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarcevic Ademir (SXI) S: 2300 shares @ $306.126</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000084-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000084:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASS ALAN J (SXI) F: 156 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000082-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000082:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASS ALAN J (SXI) M: 342 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000082-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000082:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASS ALAN J (SXI) F: 180 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000082-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000082:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASS ALAN J (SXI) M: 395 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000082-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000082:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASS ALAN J (SXI) F: 392 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000082-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000082:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASS ALAN J (SXI) M: 863 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000082-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000082:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASS ALAN J (SXI) F: 393 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000082-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000082:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASS ALAN J (SXI) M: 912 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000082-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000082:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASS ALAN J (SXI) A: 524 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000082-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000082:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASS ALAN J (SXI) M: 342 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000082-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000082:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASS ALAN J (SXI) M: 395 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000082-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000082:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASS ALAN J (SXI) D: 407 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000082-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000082:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASS ALAN J (SXI) M: 863 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000082-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000082:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASS ALAN J (SXI) M: 912 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000082-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000082:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Slaughter Richard Colby (SXI) A: 5734 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000080-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000080:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Slaughter Richard Colby (SXI) A: 1049 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000080-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000080:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Slaughter Richard Colby (SXI) A: 1049 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000080-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000080:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rangel Danielle (SXI) F: 19 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000078:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rangel Danielle (SXI) M: 69 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000078:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rangel Danielle (SXI) F: 11 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000078:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rangel Danielle (SXI) M: 39 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000078:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rangel Danielle (SXI) F: 12 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000078:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rangel Danielle (SXI) F: 26 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000078:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rangel Danielle (SXI) M: 85 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000078:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rangel Danielle (SXI) A: 146 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000078:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rangel Danielle (SXI) A: 146 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000078:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rangel Danielle (SXI) M: 69 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000078:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rangel Danielle (SXI) M: 39 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000078:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rangel Danielle (SXI) D: 40 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000078:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rangel Danielle (SXI) M: 85 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000078:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arets Max (SXI) F: 43 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000076:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arets Max (SXI) F: 41 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000076:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arets Max (SXI) M: 168 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000076:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arets Max (SXI) M: 176 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000076:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arets Max (SXI) A: 0.07 shares @ $308.429</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000076:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arets Max (SXI) A: 1.402 shares @ $308.153</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000076:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arets Max (SXI) A: 2090 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000076:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arets Max (SXI) A: 382 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000076:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arets Max (SXI) A: 382 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000076:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arets Max (SXI) A: 172 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000076:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arets Max (SXI) M: 168 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000076:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arets Max (SXI) M: 176 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000076:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000074:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) F: 817 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000074:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) M: 2076 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000074:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) F: 851 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000074:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) M: 2300 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000074:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) F: 2837 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000074:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) M: 7208 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000074:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) F: 1644 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000074:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) M: 4441 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000074:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) A: 32600 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000074:d:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) A: 4770 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000074:d:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) A: 7156 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000074:d:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) A: 2285 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000074:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) M: 2076 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000074:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) M: 2300 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000074:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) D: 3393 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000074:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) M: 7208 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000074:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) M: 4441 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000074:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarcevic Ademir (SXI) F: 327 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000072:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarcevic Ademir (SXI) M: 830 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000072:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarcevic Ademir (SXI) F: 375 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000072:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarcevic Ademir (SXI) M: 952 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000072:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarcevic Ademir (SXI) F: 327 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000072:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarcevic Ademir (SXI) F: 667 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000072:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarcevic Ademir (SXI) M: 1693 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000072:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarcevic Ademir (SXI) F: 223 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000072:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarcevic Ademir (SXI) M: 602 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000072:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarcevic Ademir (SXI) A: 10571 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000072:d:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarcevic Ademir (SXI) A: 1933 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000072:d:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarcevic Ademir (SXI) A: 1933 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000072:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarcevic Ademir (SXI) M: 830 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000072:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarcevic Ademir (SXI) M: 952 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000072:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarcevic Ademir (SXI) D: 798 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000072:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarcevic Ademir (SXI) M: 1693 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000072:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarcevic Ademir (SXI) M: 602 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000072:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kshirsagar Vineet (SXI) F: 46 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000070:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kshirsagar Vineet (SXI) M: 161 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000070:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kshirsagar Vineet (SXI) F: 41 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000070:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kshirsagar Vineet (SXI) M: 145 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000070:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kshirsagar Vineet (SXI) F: 34 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000070:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kshirsagar Vineet (SXI) F: 68 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000070:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kshirsagar Vineet (SXI) M: 239 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000070:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kshirsagar Vineet (SXI) A: 2195 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000070:d:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kshirsagar Vineet (SXI) A: 401 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000070:d:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kshirsagar Vineet (SXI) A: 401 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000070:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kshirsagar Vineet (SXI) A: 220 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000070:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kshirsagar Vineet (SXI) M: 161 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000070:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kshirsagar Vineet (SXI) M: 145 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000070:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kshirsagar Vineet (SXI) D: 113 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000070:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kshirsagar Vineet (SXI) M: 239 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000070:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Newbury Michelle (SXI) F: 36 shares @ $310.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000068:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Newbury Michelle (SXI) M: 126 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000068:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Newbury Michelle (SXI) A: 1969 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000068:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Newbury Michelle (SXI) A: 360 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000068:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Newbury Michelle (SXI) A: 360 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000068:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Newbury Michelle (SXI) M: 126 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000068:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:08 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

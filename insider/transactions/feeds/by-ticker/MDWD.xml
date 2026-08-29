@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — MDWD</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Hess Shmuel (MDWD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2085305/0001178913-26-004299-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001178913-26-004299:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hess Shmuel (MDWD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2085305/0001178913-26-004299-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001178913-26-004299:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hess Shmuel (MDWD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2085305/0001178913-26-004299-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001178913-26-004299:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hess Shmuel (MDWD) S: 1979 shares @ $13.126</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2085305/0001178913-26-004299-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001178913-26-004299:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hess Shmuel (MDWD) S: 1979 shares @ $12.72</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2085305/0001178913-26-004299-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001178913-26-004299:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hess Shmuel (MDWD) S: 1865 shares @ $13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2085305/0001178913-26-004299-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001178913-26-004299:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hess Shmuel (MDWD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2085305/0001178913-26-004299-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001178913-26-004299:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hess Shmuel (MDWD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2085305/0001178913-26-004299-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001178913-26-004299:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hess Shmuel (MDWD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2085305/0001178913-26-004299-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001178913-26-004299:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hess Shmuel (MDWD) M: 11000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2085305/0001178913-26-004299-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001178913-26-004299:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hess Shmuel (MDWD) M: 5000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2085305/0001178913-26-004299-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001178913-26-004299:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:52 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

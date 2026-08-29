@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — ITRI</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Reeves Donald L. III (ITRI) S: 283 shares @ $99.99</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000214-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000214:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wright David Marshall (ITRI) S: 76 shares @ $98.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000212-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000212:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ware Christopher E. (ITRI) S: 200 shares @ $98.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000210-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000210:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reeves Donald L. III (ITRI) S: 329 shares @ $98.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000208-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000208:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pulatie-Hahn Laurie Ann (ITRI) S: 178 shares @ $98.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000206-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000206:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Patrick Justin K (ITRI) S: 222 shares @ $98.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000204-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000204:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marcolini John F. (ITRI) S: 331 shares @ $98.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000202-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000202:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hooper Joan S (ITRI) S: 455 shares @ $98.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000200-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000200:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deitrich Thomas (ITRI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000198-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000198:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deitrich Thomas (ITRI) S: 887 shares @ $98.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000198-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000198:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reeves Donald L. III (ITRI) S: 247 shares @ $98.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000196-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000196:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hooper Joan S (ITRI) S: 4041 shares @ $98.95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000194:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hooper Joan S (ITRI) M: 1443 shares @ $69.3</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000194:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hooper Joan S (ITRI) M: 4380 shares @ $68.45</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000194:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hooper Joan S (ITRI) S: 365 shares @ $97.8259</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000194:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hooper Joan S (ITRI) M: 4380 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000194:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hooper Joan S (ITRI) M: 1443 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000194:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wright David Marshall (ITRI) S: 58 shares @ $97.8259</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000192:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reeves Donald L. III (ITRI) S: 286 shares @ $97.8259</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000190:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ware Christopher E. (ITRI) S: 195 shares @ $97.8259</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000188:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pulatie-Hahn Laurie Ann (ITRI) S: 187 shares @ $97.8259</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000186:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Patrick Justin K (ITRI) S: 212 shares @ $97.8259</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000184-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000184:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marcolini John F. (ITRI) S: 275 shares @ $97.8259</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000182-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000182:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deitrich Thomas (ITRI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000180-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000180:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deitrich Thomas (ITRI) S: 783 shares @ $97.8259</title>
+      <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000180-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000780571-26-000180:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:02 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

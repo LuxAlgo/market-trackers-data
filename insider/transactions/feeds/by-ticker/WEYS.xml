@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — WEYS</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Combs Dustin (WEYS) S: 1096 shares @ $44.64</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692581/0001692581-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001692581-26-000004:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Combs Dustin (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692581/0001692581-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001692581-26-000004:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Combs Dustin (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692581/0001692581-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001692581-26-000004:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>FLORSHEIM THOMAS W (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/900533/0000900533-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000900533-26-000004:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>FLORSHEIM THOMAS W (WEYS) Z: 310 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/900533/0000900533-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000900533-26-000004:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>FLORSHEIM THOMAS W (WEYS) Z: 310 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/900533/0000900533-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000900533-26-000004:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>FLORSHEIM THOMAS W (WEYS) Z: 2390 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/900533/0000900533-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000900533-26-000004:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>FLORSHEIM THOMAS W (WEYS) Z: 2390 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/900533/0000900533-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000900533-26-000004:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>FLORSHEIM THOMAS W (WEYS) A: 1265 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/900533/0000900533-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000900533-26-000004:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>FLORSHEIM THOMAS W (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/900533/0000900533-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000900533-26-000004:d:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>FLORSHEIM THOMAS W (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/900533/0000900533-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000900533-26-000004:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>FLORSHEIM THOMAS W (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/900533/0000900533-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000900533-26-000004:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>FLORSHEIM THOMAS W (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/900533/0000900533-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000900533-26-000004:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>FLORSHEIM THOMAS W (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/900533/0000900533-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000900533-26-000004:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>FLORSHEIM THOMAS W (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/900533/0000900533-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000900533-26-000004:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>FLORSHEIM THOMAS W (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/900533/0000900533-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000900533-26-000004:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liebl Stephanie Lynn (WEYS) F: 216 shares @ $45.58</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2089872/0002089872-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002089872-26-000007:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liebl Stephanie Lynn (WEYS) A: 690 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2089872/0002089872-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002089872-26-000007:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liebl Stephanie Lynn (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2089872/0002089872-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002089872-26-000007:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liebl Stephanie Lynn (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2089872/0002089872-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002089872-26-000007:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liebl Stephanie Lynn (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2089872/0002089872-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002089872-26-000007:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kryger Becky Jo (WEYS) A: 1265 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2078700/0002078700-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002078700-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Walton Damian (WEYS) A: 1107 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1998242/0001998242-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001998242-26-000006:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wisenthal Joshua (WEYS) A: 925 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1934001/0001934001-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001934001-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wisenthal Joshua (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1934001/0001934001-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001934001-26-000002:d:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wisenthal Joshua (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1934001/0001934001-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001934001-26-000002:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wisenthal Joshua (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1934001/0001934001-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001934001-26-000002:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wisenthal Joshua (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1934001/0001934001-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001934001-26-000002:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wisenthal Joshua (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1934001/0001934001-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001934001-26-000002:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wisenthal Joshua (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1934001/0001934001-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001934001-26-000002:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wisenthal Joshua (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1934001/0001934001-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001934001-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Douglass Jeffrey S (WEYS) F: 438 shares @ $45.58</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1928584/0001928584-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001928584-26-000010:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Douglass Jeffrey S (WEYS) A: 1360 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1928584/0001928584-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001928584-26-000010:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Douglass Jeffrey S (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1928584/0001928584-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001928584-26-000010:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Douglass Jeffrey S (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1928584/0001928584-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001928584-26-000010:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Douglass Jeffrey S (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1928584/0001928584-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001928584-26-000010:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Destinon Katherine (WEYS) F: 439 shares @ $45.58</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1839414/0001839414-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001839414-26-000002:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Destinon Katherine (WEYS) A: 1360 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1839414/0001839414-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001839414-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Destinon Katherine (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1839414/0001839414-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001839414-26-000002:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Destinon Katherine (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1839414/0001839414-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001839414-26-000002:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Destinon Katherine (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1839414/0001839414-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001839414-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Combs Dustin (WEYS) F: 431 shares @ $45.58</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692581/0001692581-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001692581-26-000002:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Combs Dustin (WEYS) A: 1360 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692581/0001692581-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001692581-26-000002:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Combs Dustin (WEYS) F: 1665 shares @ $44.82</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692581/0001692581-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001692581-26-000002:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Combs Dustin (WEYS) M: 780 shares @ $25.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692581/0001692581-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001692581-26-000002:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Combs Dustin (WEYS) M: 780 shares @ $28.83</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692581/0001692581-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001692581-26-000002:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Combs Dustin (WEYS) M: 1201 shares @ $24</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692581/0001692581-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001692581-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Combs Dustin (WEYS) M: 780 shares @ $25.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692581/0001692581-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001692581-26-000002:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Combs Dustin (WEYS) M: 780 shares @ $28.83</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692581/0001692581-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001692581-26-000002:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Combs Dustin (WEYS) M: 1201 shares @ $24</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692581/0001692581-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001692581-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sotiros George (WEYS) F: 406 shares @ $45.58</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691697/0001691697-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691697-26-000004:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sotiros George (WEYS) A: 1360 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691697/0001691697-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691697-26-000004:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sotiros George (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691697/0001691697-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691697-26-000004:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sotiros George (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691697/0001691697-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691697-26-000004:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sotiros George (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691697/0001691697-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691697-26-000004:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Woss Allison (WEYS) F: 404 shares @ $45.58</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691675/0001691675-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691675-26-000006:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Woss Allison (WEYS) A: 1360 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691675/0001691675-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691675-26-000006:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Woss Allison (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691675/0001691675-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691675-26-000006:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Woss Allison (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691675/0001691675-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691675-26-000006:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Woss Allison (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691675/0001691675-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691675-26-000006:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schiff Kevin (WEYS) F: 402 shares @ $45.58</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691646/0001691646-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691646-26-000006:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schiff Kevin (WEYS) A: 1360 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691646/0001691646-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691646-26-000006:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schiff Kevin (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691646/0001691646-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691646-26-000006:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schiff Kevin (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691646/0001691646-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691646-26-000006:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schiff Kevin (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691646/0001691646-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691646-26-000006:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schiff Kevin (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691646/0001691646-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001691646-26-000006:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flannery Brian (WEYS) F: 392 shares @ $45.58</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1391679/0001391679-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001391679-26-000006:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flannery Brian (WEYS) A: 1360 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1391679/0001391679-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001391679-26-000006:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flannery Brian (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1391679/0001391679-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001391679-26-000006:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flannery Brian (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1391679/0001391679-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001391679-26-000006:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flannery Brian (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1391679/0001391679-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001391679-26-000006:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chang Tina M (WEYS) A: 1265 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1389308/0001389308-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001389308-26-000005:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chang Tina M (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1389308/0001389308-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001389308-26-000005:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chang Tina M (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1389308/0001389308-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001389308-26-000005:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chang Tina M (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1389308/0001389308-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001389308-26-000005:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chang Tina M (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1389308/0001389308-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001389308-26-000005:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chang Tina M (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1389308/0001389308-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001389308-26-000005:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nettles Cory L (WEYS) A: 1265 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1323628/0001323628-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001323628-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nettles Cory L (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1323628/0001323628-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001323628-26-000002:d:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nettles Cory L (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1323628/0001323628-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001323628-26-000002:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nettles Cory L (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1323628/0001323628-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001323628-26-000002:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nettles Cory L (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1323628/0001323628-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001323628-26-000002:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nettles Cory L (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1323628/0001323628-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001323628-26-000002:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nettles Cory L (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1323628/0001323628-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001323628-26-000002:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nettles Cory L (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1323628/0001323628-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001323628-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Judy (WEYS) F: 437 shares @ $45.58</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1312596/0001312596-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001312596-26-000012:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Judy (WEYS) A: 1360 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1312596/0001312596-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001312596-26-000012:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Judy (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1312596/0001312596-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001312596-26-000012:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Judy (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1312596/0001312596-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001312596-26-000012:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Judy (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1312596/0001312596-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001312596-26-000012:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>STRATTON FREDERICK P JR (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1196963/0001196963-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001196963-26-000002:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>STRATTON FREDERICK P JR (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1196963/0001196963-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001196963-26-000002:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>STRATTON FREDERICK P JR (WEYS) Z: 310 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1196963/0001196963-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001196963-26-000002:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>STRATTON FREDERICK P JR (WEYS) Z: 310 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1196963/0001196963-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001196963-26-000002:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>STRATTON FREDERICK P JR (WEYS) Z: 2390 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1196963/0001196963-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001196963-26-000002:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>STRATTON FREDERICK P JR (WEYS) Z: 2390 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1196963/0001196963-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001196963-26-000002:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>STRATTON FREDERICK P JR (WEYS) A: 1265 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1196963/0001196963-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001196963-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>STRATTON FREDERICK P JR (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1196963/0001196963-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001196963-26-000002:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>STRATTON FREDERICK P JR (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1196963/0001196963-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001196963-26-000002:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>STRATTON FREDERICK P JR (WEYS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1196963/0001196963-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001196963-26-000002:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:58 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

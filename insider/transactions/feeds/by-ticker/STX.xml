@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — STX</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Lee James CI (STX) S: 240 shares @ $786.2717</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 120 shares @ $784.6633</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 280 shares @ $783.2757</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 280 shares @ $782.3286</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 160 shares @ $780.6625</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 80 shares @ $778.505</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 8 shares @ $777.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 40 shares @ $816.96</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:29</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 40 shares @ $814.27</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:28</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 40 shares @ $812.72</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:27</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 120 shares @ $809.61</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:26</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 80 shares @ $804.865</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:25</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 440 shares @ $803.5727</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:24</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 593 shares @ $802.6653</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:23</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 200 shares @ $801.602</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:22</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 480 shares @ $800.4167</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:21</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 567 shares @ $799.4369</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:20</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 112 shares @ $776.1357</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 600 shares @ $798.4913</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:19</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 600 shares @ $797.3873</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:18</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 845 shares @ $795.8967</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:17</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 968 shares @ $794.768</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:16</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 480 shares @ $793.6608</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:15</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 120 shares @ $792.3867</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:14</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 440 shares @ $791.8009</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:13</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 280 shares @ $790.3429</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:12</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 560 shares @ $789.2521</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:11</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 200 shares @ $788.028</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:10</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) S: 40 shares @ $774.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) M: 4032 shares @ $158.4</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee James CI (STX) M: 4032 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773423/0001137789-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000190:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morris John Christopher (STX) S: 523 shares @ $835.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1988271/0001137789-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000186:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morris John Christopher (STX) M: 523 shares @ $158.4</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1988271/0001137789-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000186:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morris John Christopher (STX) S: 608.5 shares @ $849.3548</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1988271/0001137789-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000186:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morris John Christopher (STX) M: 1221 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1988271/0001137789-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000186:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morris John Christopher (STX) S: 2028 shares @ $849.3548</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1988271/0001137789-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000186:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morris John Christopher (STX) M: 4070 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1988271/0001137789-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000186:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morris John Christopher (STX) S: 879 shares @ $849.3548</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1988271/0001137789-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000186:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morris John Christopher (STX) M: 1764 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1988271/0001137789-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000186:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morris John Christopher (STX) A: 6152 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1988271/0001137789-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000186:d:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morris John Christopher (STX) A: 393 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1988271/0001137789-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000186:d:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morris John Christopher (STX) A: 1309 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1988271/0001137789-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000186:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morris John Christopher (STX) A: 2307 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1988271/0001137789-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000186:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morris John Christopher (STX) M: 523 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1988271/0001137789-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000186:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morris John Christopher (STX) M: 1221 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1988271/0001137789-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000186:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morris John Christopher (STX) M: 4070 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1988271/0001137789-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000186:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Morris John Christopher (STX) M: 1764 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1988271/0001137789-26-000186-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000186:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chong Kian Fatt (STX) M: 1278 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1987421/0001137789-26-000184-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000184:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chong Kian Fatt (STX) M: 4258 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1987421/0001137789-26-000184-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000184:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chong Kian Fatt (STX) M: 1310 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1987421/0001137789-26-000184-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000184:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chong Kian Fatt (STX) A: 3788 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1987421/0001137789-26-000184-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000184:d:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chong Kian Fatt (STX) A: 311 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1987421/0001137789-26-000184-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000184:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chong Kian Fatt (STX) A: 1036 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1987421/0001137789-26-000184-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000184:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chong Kian Fatt (STX) A: 1420 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1987421/0001137789-26-000184-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000184:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chong Kian Fatt (STX) M: 1278 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1987421/0001137789-26-000184-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000184:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chong Kian Fatt (STX) M: 4258 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1987421/0001137789-26-000184-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000184:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chong Kian Fatt (STX) M: 1310 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1987421/0001137789-26-000184-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000184:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 360 shares @ $846.3944</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 228 shares @ $845.1461</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 120 shares @ $843.6433</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 240 shares @ $842.6875</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 440 shares @ $841.6041</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 200 shares @ $840.527</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 280 shares @ $839.5954</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 80 shares @ $868</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:26</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 120 shares @ $865.7667</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:25</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 360 shares @ $863.2139</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:24</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 1759 shares @ $861.8099</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:23</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 221 shares @ $861.2562</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:22</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 500 shares @ $860.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:21</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 80 shares @ $859.295</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:20</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 88 shares @ $838.3473</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 280 shares @ $858.2257</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:19</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 720 shares @ $857.156</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:18</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 240 shares @ $855.1758</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:17</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 160 shares @ $854.21</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:16</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 510 shares @ $852.9009</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:15</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 560 shares @ $851.7121</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:14</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 440 shares @ $850.63</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:13</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 267 shares @ $849.2728</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:12</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 520 shares @ $848.4662</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:11</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 920 shares @ $847.3613</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:10</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 89 shares @ $837.2677</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 80 shares @ $835.545</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000188-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000188:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 682 shares @ $835.6362</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000187-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000187:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 240 shares @ $834.5875</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000187-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000187:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 280 shares @ $833.7075</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000187-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000187:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 240 shares @ $831.8525</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000187-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000187:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 80 shares @ $830.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000187-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000187:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 240 shares @ $829.7733</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000187-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000187:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) M: 6048 shares @ $158.4</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000187-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000187:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 610 shares @ $852.6649</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000187-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000187:nd:22</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 630 shares @ $852.0486</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000187-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000187:nd:21</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 280 shares @ $850.4093</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000187-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000187:nd:20</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) M: 2279 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000187-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000187:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 400 shares @ $849.27</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000187-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000187:nd:19</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 160 shares @ $847.415</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000187-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000187:nd:18</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 320 shares @ $846.3094</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000187-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000187:nd:17</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 926 shares @ $845.0293</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000187-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000187:nd:16</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teh Ban Seng (STX) S: 40 shares @ $843.86</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801425/0001137789-26-000187-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001137789-26-000187:nd:15</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:55 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

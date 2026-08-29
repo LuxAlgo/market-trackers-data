@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — TRUP</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Qureshi Fawwad (TRUP) S: 6111 shares @ $30.01</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1995789/0001371285-26-000191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000191:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qureshi Fawwad (TRUP) F: 1497 shares @ $31.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1995789/0001371285-26-000191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000191:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qureshi Fawwad (TRUP) M: 3750 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1995789/0001371285-26-000191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000191:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qureshi Fawwad (TRUP) F: 1770 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1995789/0001371285-26-000191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000191:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qureshi Fawwad (TRUP) M: 4435 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1995789/0001371285-26-000191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000191:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qureshi Fawwad (TRUP) F: 2095 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1995789/0001371285-26-000191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000191:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qureshi Fawwad (TRUP) M: 5248 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1995789/0001371285-26-000191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000191:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qureshi Fawwad (TRUP) F: 124 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1995789/0001371285-26-000191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000191:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qureshi Fawwad (TRUP) M: 313 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1995789/0001371285-26-000191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000191:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qureshi Fawwad (TRUP) M: 3750 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1995789/0001371285-26-000191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000191:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qureshi Fawwad (TRUP) M: 4435 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1995789/0001371285-26-000191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000191:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qureshi Fawwad (TRUP) M: 5248 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1995789/0001371285-26-000191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000191:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qureshi Fawwad (TRUP) M: 313 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1995789/0001371285-26-000191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000191:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>WEINRAUCH STEVE (TRUP) F: 86 shares @ $31.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1968590/0001371285-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000194:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WEINRAUCH STEVE (TRUP) M: 354 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1968590/0001371285-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000194:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WEINRAUCH STEVE (TRUP) F: 9 shares @ $31.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1968590/0001371285-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000194:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WEINRAUCH STEVE (TRUP) M: 41 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1968590/0001371285-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000194:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WEINRAUCH STEVE (TRUP) F: 373 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1968590/0001371285-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000194:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WEINRAUCH STEVE (TRUP) M: 1533 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1968590/0001371285-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000194:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WEINRAUCH STEVE (TRUP) F: 713 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1968590/0001371285-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000194:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WEINRAUCH STEVE (TRUP) M: 2931 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1968590/0001371285-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000194:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WEINRAUCH STEVE (TRUP) M: 354 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1968590/0001371285-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000194:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WEINRAUCH STEVE (TRUP) M: 41 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1968590/0001371285-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000194:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WEINRAUCH STEVE (TRUP) M: 1533 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1968590/0001371285-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000194:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WEINRAUCH STEVE (TRUP) M: 2931 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1968590/0001371285-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000194:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) F: 110 shares @ $31.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000189-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000189:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) M: 452 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000189-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000189:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) F: 6 shares @ $31.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000189-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000189:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) M: 28 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000189-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000189:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) F: 505 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000189-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000189:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) M: 2076 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000189-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000189:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) F: 810 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000189-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000189:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) M: 3328 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000189-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000189:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) F: 10 shares @ $31.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000189-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000189:nd:11</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) M: 45 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000189-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000189:nd:10</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) F: 210 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000189-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000189:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) M: 865 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000189-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000189:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) M: 45 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000189-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000189:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) M: 452 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000189-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000189:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) M: 28 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000189-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000189:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) M: 2076 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000189-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000189:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) M: 3328 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000189-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000189:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) M: 865 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000189-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000189:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) F: 16 shares @ $31.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) M: 31 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) F: 125 shares @ $31.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) M: 234 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) F: 1419 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) M: 2652 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) F: 1006 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) M: 1881 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) F: 14 shares @ $31.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:nd:15</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) M: 27 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:nd:14</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) F: 180 shares @ $31.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:nd:13</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) M: 338 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:nd:12</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) F: 9 shares @ $31.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:nd:11</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) M: 17 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:nd:10</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) F: 669 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) M: 1250 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) M: 27 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:d:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) M: 338 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:d:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) M: 17 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) M: 31 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) M: 234 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) M: 2652 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) M: 1881 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGIBNEY BRENNA (TRUP) M: 1250 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966925/0001371285-26-000193-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000193:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WHEELER SIMON (TRUP) F: 161 shares @ $31.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966923/0001371285-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000192:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WHEELER SIMON (TRUP) M: 322 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966923/0001371285-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000192:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WHEELER SIMON (TRUP) F: 469 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966923/0001371285-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000192:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WHEELER SIMON (TRUP) M: 938 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966923/0001371285-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000192:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WHEELER SIMON (TRUP) F: 192 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966923/0001371285-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000192:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WHEELER SIMON (TRUP) M: 385 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966923/0001371285-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000192:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WHEELER SIMON (TRUP) F: 263 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966923/0001371285-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000192:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WHEELER SIMON (TRUP) M: 528 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966923/0001371285-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000192:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WHEELER SIMON (TRUP) M: 322 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966923/0001371285-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000192:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WHEELER SIMON (TRUP) M: 938 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966923/0001371285-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000192:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WHEELER SIMON (TRUP) M: 385 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966923/0001371285-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000192:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WHEELER SIMON (TRUP) M: 528 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966923/0001371285-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000192:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tooth Margaret (TRUP) S: 491 shares @ $31.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1657025/0001371285-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000190:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tooth Margaret (TRUP) M: 1250 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1657025/0001371285-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000190:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tooth Margaret (TRUP) F: 3221 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1657025/0001371285-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000190:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tooth Margaret (TRUP) M: 8187 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1657025/0001371285-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000190:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tooth Margaret (TRUP) F: 2459 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1657025/0001371285-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000190:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tooth Margaret (TRUP) M: 6250 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1657025/0001371285-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000190:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tooth Margaret (TRUP) F: 1197 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1657025/0001371285-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000190:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tooth Margaret (TRUP) M: 3042 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1657025/0001371285-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000190:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tooth Margaret (TRUP) F: 123 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1657025/0001371285-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000190:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tooth Margaret (TRUP) M: 313 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1657025/0001371285-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000190:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tooth Margaret (TRUP) M: 1250 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1657025/0001371285-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000190:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tooth Margaret (TRUP) M: 8187 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1657025/0001371285-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000190:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tooth Margaret (TRUP) M: 6250 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1657025/0001371285-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000190:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tooth Margaret (TRUP) M: 3042 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1657025/0001371285-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000190:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tooth Margaret (TRUP) M: 313 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1657025/0001371285-26-000190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000190:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>BEARMAN ASHER (TRUP) F: 40 shares @ $31.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1622728/0001371285-26-000195-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000195:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>BEARMAN ASHER (TRUP) M: 125 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1622728/0001371285-26-000195-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000195:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>BEARMAN ASHER (TRUP) F: 590 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1622728/0001371285-26-000195-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000195:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>BEARMAN ASHER (TRUP) M: 1832 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1622728/0001371285-26-000195-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000195:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>BEARMAN ASHER (TRUP) F: 123 shares @ $31.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1622728/0001371285-26-000195-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000195:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>BEARMAN ASHER (TRUP) M: 379 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1622728/0001371285-26-000195-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000195:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:11 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

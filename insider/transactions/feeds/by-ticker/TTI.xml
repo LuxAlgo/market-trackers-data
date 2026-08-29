@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — TTI</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Boston Shoemake Alicia r (TTI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001876303-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876303-26-000005:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boston Shoemake Alicia r (TTI) F: 3823 shares @ $6.77</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001876303-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876303-26-000005:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boston Shoemake Alicia r (TTI) M: 9713 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001876303-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876303-26-000005:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boston Shoemake Alicia r (TTI) F: 3174 shares @ $6.77</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001876303-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876303-26-000005:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boston Shoemake Alicia r (TTI) M: 8066 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001876303-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876303-26-000005:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boston Shoemake Alicia r (TTI) M: 9713 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001876303-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876303-26-000005:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boston Shoemake Alicia r (TTI) M: 8066 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001876303-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876303-26-000005:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moeller Timothy C (TTI) F: 5352 shares @ $6.77</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001774290-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774290-26-000005:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moeller Timothy C (TTI) M: 13599 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001774290-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774290-26-000005:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moeller Timothy C (TTI) F: 5357 shares @ $6.77</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001774290-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774290-26-000005:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moeller Timothy C (TTI) M: 13612 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001774290-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774290-26-000005:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moeller Timothy C (TTI) M: 13599 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001774290-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774290-26-000005:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moeller Timothy C (TTI) M: 13612 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001774290-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774290-26-000005:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Murphy Brady M (TTI) F: 22934 shares @ $6.77</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001730264-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001730264-26-000006:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Murphy Brady M (TTI) M: 58282 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001730264-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001730264-26-000006:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Murphy Brady M (TTI) F: 23806 shares @ $6.77</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001730264-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001730264-26-000006:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Murphy Brady M (TTI) M: 60496 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001730264-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001730264-26-000006:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Murphy Brady M (TTI) M: 58282 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001730264-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001730264-26-000006:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Murphy Brady M (TTI) M: 60496 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001730264-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001730264-26-000006:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>SANDERSON MATTHEW (TTI) F: 5734 shares @ $6.77</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001689601-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001689601-26-000005:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>SANDERSON MATTHEW (TTI) M: 14570 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001689601-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001689601-26-000005:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>SANDERSON MATTHEW (TTI) F: 5952 shares @ $6.77</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001689601-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001689601-26-000005:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>SANDERSON MATTHEW (TTI) M: 15124 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001689601-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001689601-26-000005:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>SANDERSON MATTHEW (TTI) M: 14570 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001689601-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001689601-26-000005:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>SANDERSON MATTHEW (TTI) M: 15124 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001689601-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001689601-26-000005:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>McNiven Roy (TTI) F: 5352 shares @ $6.77</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001660437-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001660437-26-000005:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>McNiven Roy (TTI) M: 13599 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001660437-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001660437-26-000005:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>McNiven Roy (TTI) F: 5357 shares @ $6.77</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001660437-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001660437-26-000005:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>McNiven Roy (TTI) M: 13612 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001660437-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001660437-26-000005:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>McNiven Roy (TTI) M: 13599 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001660437-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001660437-26-000005:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>McNiven Roy (TTI) M: 13612 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844965/0001660437-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001660437-26-000005:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:36 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

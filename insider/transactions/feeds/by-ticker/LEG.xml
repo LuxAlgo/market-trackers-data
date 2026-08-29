@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — LEG</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>TRENT TAMMY M (LEG) D: 18773.051 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000519-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000519:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRENT TAMMY M (LEG) D: 5861.069 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000519-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000519:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRENT TAMMY M (LEG) D: 124309.469 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000519-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000519:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRENT TAMMY M (LEG) A: 42054 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000519-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000519:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRENT TAMMY M (LEG) D: 42048 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000519-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000519:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRENT TAMMY M (LEG) A: 42048 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000519-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000519:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMITH ROBERT S JR (LEG) D: 291043.4683 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000518-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000518:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMITH ROBERT S JR (LEG) A: 139250 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000518-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000518:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMITH ROBERT S JR (LEG) D: 139244 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000518-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000518:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMITH ROBERT S JR (LEG) A: 139244 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000518-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000518:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>ODAFFER LINDSEY NICOLE (LEG) D: 25.235 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000517-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000517:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>ODAFFER LINDSEY NICOLE (LEG) D: 150903.3892 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000517-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000517:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>ODAFFER LINDSEY NICOLE (LEG) A: 63744 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000517-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000517:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>ODAFFER LINDSEY NICOLE (LEG) D: 63744 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000517-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000517:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>ODAFFER LINDSEY NICOLE (LEG) A: 63744 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000517-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000517:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>KLEIBOEKER RYAN MICHAEL (LEG) D: 877.725 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000516-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000516:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>KLEIBOEKER RYAN MICHAEL (LEG) D: 1000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000516-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000516:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>KLEIBOEKER RYAN MICHAEL (LEG) D: 186973.5866 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000516-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000516:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>KLEIBOEKER RYAN MICHAEL (LEG) A: 75292 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000516-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000516:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>KLEIBOEKER RYAN MICHAEL (LEG) D: 75284 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000516-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000516:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>KLEIBOEKER RYAN MICHAEL (LEG) A: 75284 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000516-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000516:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>HAGALE JAMES TYSON (LEG) D: 367879.3294 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000515-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000515:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>HAGALE JAMES TYSON (LEG) A: 172086 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000515-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000515:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>HAGALE JAMES TYSON (LEG) D: 172082 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000515-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000515:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>HAGALE JAMES TYSON (LEG) A: 172082 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000515-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000515:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASSMAN KARL G (LEG) D: 29012.486 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000514-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000514:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASSMAN KARL G (LEG) D: 514335 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000514-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000514:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASSMAN KARL G (LEG) D: 2308087.1108 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000514-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000514:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASSMAN KARL G (LEG) A: 1167344 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000514-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000514:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASSMAN KARL G (LEG) D: 1167338 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000514-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000514:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASSMAN KARL G (LEG) A: 1167338 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000514-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000514:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASSMAN KARL G (LEG) D: 55051 shares @ $7.266</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000514-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000514:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASSMAN KARL G (LEG) D: 40917 shares @ $9.7759</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000514-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000514:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>DAVIS JENNIFER JOY (LEG) D: 241269.7345 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000513-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000513:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>DAVIS JENNIFER JOY (LEG) A: 121492 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000513-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000513:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>DAVIS JENNIFER JOY (LEG) D: 121486 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000513-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000513:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>DAVIS JENNIFER JOY (LEG) A: 121486 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000513-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000513:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>BURNS BENJAMIN MICHAEL (LEG) D: 24.689 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000512-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000512:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>BURNS BENJAMIN MICHAEL (LEG) D: 1272.9388 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000512-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000512:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>BURNS BENJAMIN MICHAEL (LEG) D: 31.699 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000512-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000512:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>BURNS BENJAMIN MICHAEL (LEG) D: 362964.9905 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000512-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000512:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>BURNS BENJAMIN MICHAEL (LEG) A: 170312 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000512-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000512:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>BURNS BENJAMIN MICHAEL (LEG) D: 170308 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000512-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000512:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>BURNS BENJAMIN MICHAEL (LEG) A: 170308 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000512-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000512:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>WOOD PHOEBE A (LEG) D: 400 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000503-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000503:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>WOOD PHOEBE A (LEG) D: 400 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000503-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000503:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>WOOD PHOEBE A (LEG) D: 94343.015 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000503-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000503:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Jai (LEG) D: 72004.3808 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000501-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000501:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Jai (LEG) D: 13021 shares @ $8.29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000501-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000501:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Jai (LEG) D: 12865 shares @ $8.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000501-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000501:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Padmanabhan Srikanth (LEG) D: 69845.1183 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000499-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000499:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCCLANATHAN JOSEPH W (LEG) D: 120307.38 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000497-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000497:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAMPBELL MARYELIZABETH R (LEG) D: 64135.7516 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000495-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000495:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAMPBELL MARYELIZABETH R (LEG) D: 4274 shares @ $10.24</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000495-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000495:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brunner Robert E (LEG) D: 15870 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000493-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000493:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brunner Robert E (LEG) D: 113025.8367 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000493-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000493:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>BARBEE ANGELA (LEG) D: 51033.3719 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000491-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000491:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>WOOD PHOEBE A (LEG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000489-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000489:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>WOOD PHOEBE A (LEG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000489-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000489:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>WOOD PHOEBE A (LEG) A: 208.5478 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000489-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000489:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Jai (LEG) A: 237.7264 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000488-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000488:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Jai (LEG) A: 66.4693 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000488-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000488:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Padmanabhan Srikanth (LEG) A: 206.6595 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000487-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000487:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCCLANATHAN JOSEPH W (LEG) A: 259.695 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000486-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000486:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAMPBELL MARYELIZABETH R (LEG) A: 180.9817 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000485-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000485:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAMPBELL MARYELIZABETH R (LEG) A: 36.3402 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000485-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000485:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brunner Robert E (LEG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000484-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000484:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brunner Robert E (LEG) A: 292.2556 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000484-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000484:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brunner Robert E (LEG) A: 138.7699 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000484-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000484:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>BARBEE ANGELA (LEG) A: 149.4498 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000483-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000483:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>BARBEE ANGELA (LEG) A: 16.8448 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000483-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000483:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRENT TAMMY M (LEG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000482-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000482:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRENT TAMMY M (LEG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000482-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000482:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRENT TAMMY M (LEG) A: 148.9792 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000482-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000482:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRENT TAMMY M (LEG) A: 169.6827 shares @ $7.973</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000482-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000482:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMITH ROBERT S JR (LEG) A: 249.3763 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000481-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000481:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMITH ROBERT S JR (LEG) A: 168.4021 shares @ $7.973</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000481-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000481:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>ODAFFER LINDSEY NICOLE (LEG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000480-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000480:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>ODAFFER LINDSEY NICOLE (LEG) A: 134.8254 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000480-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000480:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>ODAFFER LINDSEY NICOLE (LEG) A: 107.247 shares @ $7.973</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000480-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000480:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>KLEIBOEKER RYAN MICHAEL (LEG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000479-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000479:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>KLEIBOEKER RYAN MICHAEL (LEG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000479-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000479:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>KLEIBOEKER RYAN MICHAEL (LEG) A: 98.6954 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000479-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000479:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>KLEIBOEKER RYAN MICHAEL (LEG) A: 143.8417 shares @ $7.973</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000479-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000479:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>HAGALE JAMES TYSON (LEG) A: 83.8206 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000478-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000478:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>HAGALE JAMES TYSON (LEG) A: 236.9735 shares @ $7.973</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000478-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000478:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASSMAN KARL G (LEG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000477-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000477:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASSMAN KARL G (LEG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000477-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000477:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASSMAN KARL G (LEG) A: 834.8707 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000477-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000477:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLASSMAN KARL G (LEG) A: 1341.0285 shares @ $7.973</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000477-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000477:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>DAVIS JENNIFER JOY (LEG) A: 22.3321 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000476-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000476:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>DAVIS JENNIFER JOY (LEG) A: 162.6076 shares @ $7.973</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000476-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000476:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>BURNS BENJAMIN MICHAEL (LEG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000475-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000475:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>BURNS BENJAMIN MICHAEL (LEG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000475-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000475:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>BURNS BENJAMIN MICHAEL (LEG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000475-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000475:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>BURNS BENJAMIN MICHAEL (LEG) A: 54.1485 shares @ $7.504</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000475-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000475:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>BURNS BENJAMIN MICHAEL (LEG) A: 215.5989 shares @ $7.973</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000475-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000475:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMITH ROBERT S JR (LEG) A: 224.8021 shares @ $7.528</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000458-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000458:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMITH ROBERT S JR (LEG) A: 124.217 shares @ $7.9985</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000458-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000458:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>ODAFFER LINDSEY NICOLE (LEG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/58492/0000058492-26-000457-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000058492-26-000457:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:57 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — AMZN</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>BEZOS JEFFREY P (AMZN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1043298/0001043298-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001043298-26-000002:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>BEZOS JEFFREY P (AMZN) G: 230637 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1043298/0001043298-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001043298-26-000002:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>BEZOS JEFFREY P (AMZN) G: 184943 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1043298/0001043298-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001043298-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garman Matthew S (AMZN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024813/0002024813-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002024813-26-000010:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garman Matthew S (AMZN) S: 1951 shares @ $260.3396</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024813/0002024813-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002024813-26-000010:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garman Matthew S (AMZN) S: 5240 shares @ $259.5702</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024813/0002024813-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002024813-26-000010:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garman Matthew S (AMZN) S: 5191 shares @ $258.6595</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024813/0002024813-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002024813-26-000010:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garman Matthew S (AMZN) S: 2159 shares @ $257.5954</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024813/0002024813-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002024813-26-000010:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garman Matthew S (AMZN) M: 7836 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024813/0002024813-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002024813-26-000010:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garman Matthew S (AMZN) M: 4000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024813/0002024813-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002024813-26-000010:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garman Matthew S (AMZN) M: 1480 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024813/0002024813-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002024813-26-000010:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garman Matthew S (AMZN) M: 4860 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024813/0002024813-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002024813-26-000010:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garman Matthew S (AMZN) M: 7836 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024813/0002024813-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002024813-26-000010:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garman Matthew S (AMZN) M: 4000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024813/0002024813-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002024813-26-000010:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garman Matthew S (AMZN) M: 1480 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024813/0002024813-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002024813-26-000010:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garman Matthew S (AMZN) M: 4860 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024813/0002024813-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002024813-26-000010:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Herrington Douglas J (AMZN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1936006/0001936006-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001936006-26-000022:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Herrington Douglas J (AMZN) S: 2412 shares @ $260.3251</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1936006/0001936006-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001936006-26-000022:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Herrington Douglas J (AMZN) S: 2125 shares @ $258.5805</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1936006/0001936006-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001936006-26-000022:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Herrington Douglas J (AMZN) S: 1825 shares @ $257.7656</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1936006/0001936006-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001936006-26-000022:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Herrington Douglas J (AMZN) M: 5565 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1936006/0001936006-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001936006-26-000022:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Herrington Douglas J (AMZN) M: 2840 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1936006/0001936006-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001936006-26-000022:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Herrington Douglas J (AMZN) M: 7500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1936006/0001936006-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001936006-26-000022:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Herrington Douglas J (AMZN) M: 5565 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1936006/0001936006-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001936006-26-000022:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Herrington Douglas J (AMZN) M: 2840 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1936006/0001936006-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001936006-26-000022:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Herrington Douglas J (AMZN) M: 7500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1936006/0001936006-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001936006-26-000022:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Olsavsky Brian T (AMZN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1639902/0001639902-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001639902-26-000008:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Olsavsky Brian T (AMZN) S: 6172 shares @ $260.31</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1639902/0001639902-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001639902-26-000008:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Olsavsky Brian T (AMZN) M: 5530 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1639902/0001639902-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001639902-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Olsavsky Brian T (AMZN) M: 9900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1639902/0001639902-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001639902-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Olsavsky Brian T (AMZN) M: 5530 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1639902/0001639902-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001639902-26-000008:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Olsavsky Brian T (AMZN) M: 9900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1639902/0001639902-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001639902-26-000008:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zapolsky David (AMZN) S: 9258 shares @ $259.77</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1557979/0001557979-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001557979-26-000008:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zapolsky David (AMZN) S: 1119 shares @ $260.449</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1557979/0001557979-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001557979-26-000008:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zapolsky David (AMZN) S: 2133 shares @ $259.6335</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1557979/0001557979-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001557979-26-000008:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zapolsky David (AMZN) S: 1782 shares @ $258.6357</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1557979/0001557979-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001557979-26-000008:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zapolsky David (AMZN) S: 1138 shares @ $257.7019</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1557979/0001557979-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001557979-26-000008:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zapolsky David (AMZN) M: 5530 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1557979/0001557979-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001557979-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zapolsky David (AMZN) M: 9900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1557979/0001557979-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001557979-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zapolsky David (AMZN) M: 5530 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1557979/0001557979-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001557979-26-000008:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zapolsky David (AMZN) M: 9900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1557979/0001557979-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001557979-26-000008:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reynolds Shelley (AMZN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397333/0001397333-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001397333-26-000006:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reynolds Shelley (AMZN) S: 888 shares @ $260.3252</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397333/0001397333-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001397333-26-000006:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reynolds Shelley (AMZN) S: 780 shares @ $258.5812</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397333/0001397333-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001397333-26-000006:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reynolds Shelley (AMZN) S: 675 shares @ $257.7656</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397333/0001397333-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001397333-26-000006:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reynolds Shelley (AMZN) M: 543 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397333/0001397333-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001397333-26-000006:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reynolds Shelley (AMZN) M: 1800 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397333/0001397333-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001397333-26-000006:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reynolds Shelley (AMZN) M: 543 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397333/0001397333-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001397333-26-000006:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reynolds Shelley (AMZN) M: 1800 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397333/0001397333-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001397333-26-000006:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jassy Andrew R (AMZN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1374545/0001374545-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001374545-26-000010:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jassy Andrew R (AMZN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1374545/0001374545-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001374545-26-000010:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jassy Andrew R (AMZN) S: 1811 shares @ $260.3925</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1374545/0001374545-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001374545-26-000010:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jassy Andrew R (AMZN) S: 7514 shares @ $259.6068</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1374545/0001374545-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001374545-26-000010:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jassy Andrew R (AMZN) S: 7478 shares @ $258.6654</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1374545/0001374545-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001374545-26-000010:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jassy Andrew R (AMZN) S: 3197 shares @ $257.6343</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1374545/0001374545-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001374545-26-000010:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jassy Andrew R (AMZN) M: 50000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1374545/0001374545-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001374545-26-000010:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jassy Andrew R (AMZN) M: 50000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1374545/0001374545-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001374545-26-000010:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:34 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

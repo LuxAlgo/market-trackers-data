@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — ARDX</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Hohenleitner Susan (ARDX) S: 1558 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2093095/0002093095-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002093095-26-000007:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brady James Parker (ARDX) S: 13160 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2088887/0002088887-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002088887-26-000007:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brady James Parker (ARDX) S: 1976 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2088887/0002088887-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002088887-26-000007:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reilly Joseph James (ARDX) S: 1110 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2044416/0002044416-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002044416-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reilly Joseph James (ARDX) S: 2872 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2044416/0002044416-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002044416-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Foster Eric Duane (ARDX) S: 2575 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034148/0002034148-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002034148-26-000007:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Foster Eric Duane (ARDX) S: 3389 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034148/0002034148-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002034148-26-000007:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Foster Eric Duane (ARDX) S: 2598 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034148/0002034148-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002034148-26-000007:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kelliher Mike (ARDX) S: 2002 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1987188/0001987188-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001987188-26-000009:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kelliher Mike (ARDX) S: 2652 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1987188/0001987188-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001987188-26-000009:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kelliher Mike (ARDX) S: 3104 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1987188/0001987188-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001987188-26-000009:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Williams Laura A (ARDX) S: 1734 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1869194/0001869194-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001869194-26-000011:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Williams Laura A (ARDX) S: 2430 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1869194/0001869194-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001869194-26-000011:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Williams Laura A (ARDX) S: 3089 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1869194/0001869194-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001869194-26-000011:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Williams Laura A (ARDX) S: 3486 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1869194/0001869194-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001869194-26-000011:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAAB MICHAEL (ARDX) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1437402/0001321402-26-000019-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001321402-26-000019:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAAB MICHAEL (ARDX) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1437402/0001321402-26-000019-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001321402-26-000019:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAAB MICHAEL (ARDX) S: 19178 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1437402/0001321402-26-000019-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001321402-26-000019:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAAB MICHAEL (ARDX) S: 8411 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1437402/0001321402-26-000019-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001321402-26-000019:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAAB MICHAEL (ARDX) S: 15976 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1437402/0001321402-26-000019-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001321402-26-000019:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAAB MICHAEL (ARDX) S: 15009 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1437402/0001321402-26-000019-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001321402-26-000019:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bishop John E (ARDX) S: 2469 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1437402/0001308911-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001308911-26-000007:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bishop John E (ARDX) S: 17281 shares @ $3.8569</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1437402/0001308911-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001308911-26-000007:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:40 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

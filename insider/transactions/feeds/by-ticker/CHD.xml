@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — CHD</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Linares Carlos G. (CHD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000307-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000307:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linares Carlos G. (CHD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000307-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000307:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linares Carlos G. (CHD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000307-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000307:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linares Carlos G. (CHD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000307-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000307:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linares Carlos G. (CHD) S: 15375 shares @ $103</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000307-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000307:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linares Carlos G. (CHD) M: 15375 shares @ $50.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000307-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000307:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linares Carlos G. (CHD) M: 15375 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000307-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000307:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hemsey Rene (CHD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000304-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000304:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hemsey Rene (CHD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000304-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000304:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hemsey Rene (CHD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000304-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000304:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hemsey Rene (CHD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000304-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000304:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hemsey Rene (CHD) S: 5000 shares @ $102.255</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000304-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000304:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hemsey Rene (CHD) M: 5000 shares @ $47</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000304-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000304:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hemsey Rene (CHD) M: 5000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000304-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000304:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linares Carlos G. (CHD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000302-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000302:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linares Carlos G. (CHD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000302-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000302:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linares Carlos G. (CHD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000302-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000302:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linares Carlos G. (CHD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000302-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000302:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linares Carlos G. (CHD) S: 15375 shares @ $102</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000302-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000302:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linares Carlos G. (CHD) M: 15375 shares @ $50.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000302-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000302:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linares Carlos G. (CHD) M: 15375 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000302-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000302:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:09 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — BLND</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Thomson Matthew Christopher (BLND) F: 24350 shares @ $1.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2124353/0002124353-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002124353-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thomson Matthew Christopher (BLND) M: 100000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2124353/0002124353-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002124353-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thomson Matthew Christopher (BLND) M: 100000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2124353/0002124353-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002124353-26-000008:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Venkatramani Srinivasan (BLND) F: 29372 shares @ $1.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2050301/0002050301-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002050301-26-000006:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Venkatramani Srinivasan (BLND) M: 81250 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2050301/0002050301-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002050301-26-000006:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Venkatramani Srinivasan (BLND) M: 81250 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2050301/0002050301-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002050301-26-000006:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tkach Oxana (BLND) F: 10667 shares @ $1.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1989648/0001989648-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001989648-26-000014:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tkach Oxana (BLND) M: 12500 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1989648/0001989648-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001989648-26-000014:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tkach Oxana (BLND) M: 25000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1989648/0001989648-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001989648-26-000014:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tkach Oxana (BLND) M: 12500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1989648/0001989648-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001989648-26-000014:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tkach Oxana (BLND) M: 25000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1989648/0001989648-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001989648-26-000014:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ling Winnie (BLND) F: 25385 shares @ $1.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974022/0001974022-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001974022-26-000008:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ling Winnie (BLND) M: 39164 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974022/0001974022-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001974022-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ling Winnie (BLND) M: 31250 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974022/0001974022-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001974022-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ling Winnie (BLND) M: 39164 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974022/0001974022-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001974022-26-000008:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ling Winnie (BLND) M: 31250 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974022/0001974022-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001974022-26-000008:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ghamsari Nima (BLND) F: 241701 shares @ $1.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870974/0001870974-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001870974-26-000008:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ghamsari Nima (BLND) M: 114229 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870974/0001870974-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001870974-26-000008:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ghamsari Nima (BLND) M: 125000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870974/0001870974-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001870974-26-000008:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ghamsari Nima (BLND) M: 375000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870974/0001870974-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001870974-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ghamsari Nima (BLND) M: 114229 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870974/0001870974-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001870974-26-000008:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ghamsari Nima (BLND) M: 125000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870974/0001870974-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001870974-26-000008:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ghamsari Nima (BLND) M: 375000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870974/0001870974-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001870974-26-000008:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ream Jason (BLND) F: 133926 shares @ $1.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1855747/0001587872-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001587872-26-000002:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ream Jason (BLND) M: 550000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1855747/0001587872-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001587872-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ream Jason (BLND) M: 550000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1855747/0001587872-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001587872-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

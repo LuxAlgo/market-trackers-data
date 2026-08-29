@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — LUCY</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Gayle Oswald (LUCY) S: 7959 shares @ $0.6745</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042078/0001829126-26-009259-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009259:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gayle Oswald (LUCY) A: 16233 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042078/0001829126-26-009259-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009259:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gayle Oswald (LUCY) S: 7574 shares @ $1.0725</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042078/0001829126-26-009259-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009259:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gayle Oswald (LUCY) A: 16233 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042078/0001829126-26-009259-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009259:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abondano Joaquin (LUCY) S: 5020 shares @ $0.6765</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2008020/0001829126-26-009257-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009257:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abondano Joaquin (LUCY) A: 14800 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2008020/0001829126-26-009257-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009257:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abondano Joaquin (LUCY) S: 4779 shares @ $1.0501</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2008020/0001829126-26-009257-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009257:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abondano Joaquin (LUCY) A: 14800 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2008020/0001829126-26-009257-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009257:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen David Eric (LUCY) S: 6136 shares @ $0.6802</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1911813/0001829126-26-009255-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009255:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen David Eric (LUCY) A: 18200 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1911813/0001829126-26-009255-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009255:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen David Eric (LUCY) S: 1860 shares @ $1.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1911813/0001829126-26-009255-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009255:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen David Eric (LUCY) S: 1860 shares @ $1.1111</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1911813/0001829126-26-009255-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009255:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen David Eric (LUCY) S: 5913 shares @ $1.0436</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1911813/0001829126-26-009255-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009255:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen David Eric (LUCY) A: 18200 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1911813/0001829126-26-009255-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009255:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gross Harrison R. (LUCY) S: 5722 shares @ $0.705</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1906224/0001829126-26-009256-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009256:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gross Harrison R. (LUCY) S: 8252 shares @ $0.6916</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1906224/0001829126-26-009256-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009256:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gross Harrison R. (LUCY) A: 24600 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1906224/0001829126-26-009256-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009256:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gross Harrison R. (LUCY) S: 13764 shares @ $1.0658</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1906224/0001829126-26-009256-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009256:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gross Harrison R. (LUCY) A: 24600 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1906224/0001829126-26-009256-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009256:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dabrowski Konrad (LUCY) S: 6935 shares @ $0.6911</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1906013/0001829126-26-009258-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009258:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dabrowski Konrad (LUCY) A: 20900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1906013/0001829126-26-009258-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009258:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dabrowski Konrad (LUCY) S: 6692 shares @ $1.0581</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1906013/0001829126-26-009258-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009258:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dabrowski Konrad (LUCY) A: 20900 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1906013/0001829126-26-009258-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001829126-26-009258:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:12 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — FLXS</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Ressler Michael J (FLXS) F: 1833 shares @ $78.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000072:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ressler Michael J (FLXS) A: 4246 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000072:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>McClaflin Michael Joseph (FLXS) F: 6353 shares @ $78.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000070:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>McClaflin Michael Joseph (FLXS) A: 13482 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000070:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kammes Stacy Marie (FLXS) F: 4047 shares @ $78.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000068:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kammes Stacy Marie (FLXS) A: 8923 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000068:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) F: 6449 shares @ $78.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000066:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) A: 14433 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000066:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kammes Stacy Marie (FLXS) S: 181 shares @ $81.1922</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000064-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000064:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kammes Stacy Marie (FLXS) S: 415 shares @ $81.1898</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000064-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000064:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kammes Stacy Marie (FLXS) S: 1654 shares @ $80.9372</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000064-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000064:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>McClaflin Michael Joseph (FLXS) S: 500 shares @ $79.66</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000062-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000062:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) S: 250 shares @ $81.0273</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000060-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000060:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) S: 400 shares @ $81.0297</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000060-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000060:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) S: 350 shares @ $81.0296</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000060-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000060:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) S: 250 shares @ $81.04</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000060-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000060:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) S: 250 shares @ $81.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000060-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000060:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) S: 250 shares @ $81.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000060-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000060:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) S: 421 shares @ $78.3862</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000060-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000060:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) S: 341 shares @ $78.7481</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000060-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000060:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) S: 250 shares @ $80.9065</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000060-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000060:nd:16</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) S: 385 shares @ $80.8111</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000060-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000060:nd:15</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) S: 500 shares @ $80.5358</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000060-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000060:nd:14</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) S: 500 shares @ $80.5683</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000060-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000060:nd:13</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) S: 100 shares @ $80.7373</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000060-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000060:nd:12</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) S: 500 shares @ $80.7324</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000060-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000060:nd:11</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) S: 509 shares @ $81.037</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000060-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000060:nd:10</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) S: 250 shares @ $80</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000060-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000060:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimmins David Edward (FLXS) S: 250 shares @ $79.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000060-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000060:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:55 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

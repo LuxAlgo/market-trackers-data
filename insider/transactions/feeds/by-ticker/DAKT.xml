@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — DAKT</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Anderson Sheila Mae (DAKT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058953-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058953:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Sheila Mae (DAKT) F: 503 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058953-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058953:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Sheila Mae (DAKT) M: 2068 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058953-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058953:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Sheila Mae (DAKT) F: 55 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058953-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058953:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Sheila Mae (DAKT) M: 227 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058953-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058953:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Sheila Mae (DAKT) F: 59 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058953-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058953:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Sheila Mae (DAKT) M: 246 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058953-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058953:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Sheila Mae (DAKT) F: 121 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058953-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058953:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Sheila Mae (DAKT) M: 500 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058953-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058953:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Sheila Mae (DAKT) M: 500 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058953-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058953:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Sheila Mae (DAKT) M: 2068 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058953-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058953:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Sheila Mae (DAKT) M: 227 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058953-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058953:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Sheila Mae (DAKT) M: 246 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058953-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058953:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Sheila Mae (DAKT) M: 500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058953-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058953:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Sheila Mae (DAKT) M: 500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058953-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058953:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wendler Brett David (DAKT) F: 496 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058947:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wendler Brett David (DAKT) M: 2038 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058947:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wendler Brett David (DAKT) F: 55 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058947:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wendler Brett David (DAKT) M: 227 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058947:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wendler Brett David (DAKT) F: 59 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058947:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wendler Brett David (DAKT) M: 246 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058947:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wendler Brett David (DAKT) F: 121 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058947:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wendler Brett David (DAKT) M: 500 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058947:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wendler Brett David (DAKT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058947:nd:10</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wendler Brett David (DAKT) F: 121 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058947:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wendler Brett David (DAKT) M: 500 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058947:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wendler Brett David (DAKT) M: 2038 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058947:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wendler Brett David (DAKT) M: 227 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058947:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wendler Brett David (DAKT) M: 246 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058947:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wendler Brett David (DAKT) M: 500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058947:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wendler Brett David (DAKT) M: 500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058947-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058947:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtenbach Matthew John (DAKT) F: 510 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058945-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058945:nd:9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtenbach Matthew John (DAKT) M: 2098 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058945-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058945:nd:8</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtenbach Matthew John (DAKT) F: 110 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058945-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058945:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtenbach Matthew John (DAKT) M: 454 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058945-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058945:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtenbach Matthew John (DAKT) F: 59 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058945-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058945:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtenbach Matthew John (DAKT) M: 246 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058945-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058945:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtenbach Matthew John (DAKT) F: 121 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058945-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058945:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtenbach Matthew John (DAKT) M: 500 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058945-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058945:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtenbach Matthew John (DAKT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058945-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058945:nd:11</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtenbach Matthew John (DAKT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058945-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058945:nd:10</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtenbach Matthew John (DAKT) F: 121 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058945-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058945:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtenbach Matthew John (DAKT) M: 500 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058945-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058945:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtenbach Matthew John (DAKT) M: 2098 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058945-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058945:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtenbach Matthew John (DAKT) M: 454 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058945-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058945:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtenbach Matthew John (DAKT) M: 246 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058945-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058945:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtenbach Matthew John (DAKT) M: 500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058945-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058945:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtenbach Matthew John (DAKT) M: 500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058945-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058945:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wiemann Bradley T (DAKT) F: 110 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058943-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058943:nd:7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wiemann Bradley T (DAKT) M: 454 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058943-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058943:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wiemann Bradley T (DAKT) F: 59 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058943-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058943:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wiemann Bradley T (DAKT) M: 246 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058943-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058943:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wiemann Bradley T (DAKT) F: 121 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058943-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058943:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wiemann Bradley T (DAKT) M: 500 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058943-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058943:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wiemann Bradley T (DAKT) F: 121 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058943-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058943:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wiemann Bradley T (DAKT) M: 500 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058943-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058943:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wiemann Bradley T (DAKT) M: 454 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058943-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058943:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wiemann Bradley T (DAKT) M: 246 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058943-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058943:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wiemann Bradley T (DAKT) M: 500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058943-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058943:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wiemann Bradley T (DAKT) M: 500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058943-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058943:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jayaraman Ramesh (DAKT) F: 1726 shares @ $19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058941-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058941:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jayaraman Ramesh (DAKT) M: 7090 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058941-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058941:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jayaraman Ramesh (DAKT) M: 7090 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915779/0001628280-26-058941-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058941:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:19 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

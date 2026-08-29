@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — ALOT</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Natalizia Michael J (ALOT) D: 47632.3445 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000304-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000304:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Natalizia Michael J (ALOT) D: 56 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000304-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000304:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Natalizia Michael J (ALOT) D: 4590 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000304-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000304:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Natalizia Michael J (ALOT) D: 21795 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000304-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000304:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Natalizia Michael J (ALOT) D: 2689 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000304-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000304:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Natalizia Michael J (ALOT) D: 592 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000304-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000304:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Natalizia Michael J (ALOT) D: 17500 shares @ $10.75</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000304-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000304:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schlaeppi Yvonne (ALOT) D: 51920.954 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000303-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000303:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schlaeppi Yvonne (ALOT) D: 5000 shares @ $13.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000303-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000303:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schlaeppi Yvonne (ALOT) D: 5000 shares @ $10.75</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000303-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000303:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>MICHAS ALEXIS P (ALOT) D: 535203 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000302-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000302:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>MICHAS ALEXIS P (ALOT) D: 29319 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000302-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000302:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>NEVIN DARIUS G (ALOT) D: 4313 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000301-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000301:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>NEVIN DARIUS G (ALOT) D: 30000 shares @ $17.9</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000301-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000301:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>WARZALA RICHARD S (ALOT) D: 75711 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000300-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000300:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>WARZALA RICHARD S (ALOT) D: 5000 shares @ $14.55</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000300-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000300:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>WARZALA RICHARD S (ALOT) D: 5000 shares @ $10.75</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000300-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000300:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeByle Thomas D. (ALOT) D: 6170.2084 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000299-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000299:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeByle Thomas D. (ALOT) D: 15483 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000299-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000299:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeByle Thomas D. (ALOT) D: 87183 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000299-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000299:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeByle Thomas D. (ALOT) D: 6790 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000299-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000299:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeByle Thomas D. (ALOT) D: 6886 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000299-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000299:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUAIN MITCHELL I (ALOT) D: 16701 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000298-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000298:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUAIN MITCHELL I (ALOT) D: 108910 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000298-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000298:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUAIN MITCHELL I (ALOT) D: 5000 shares @ $15.1</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000298-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000298:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>QUAIN MITCHELL I (ALOT) D: 5000 shares @ $10.75</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000298-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000298:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Finn Padraig (ALOT) D: 1685 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000297-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000297:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Finn Padraig (ALOT) D: 4590 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000297-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000297:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Finn Padraig (ALOT) D: 43591 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000297-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000297:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Finn Padraig (ALOT) D: 2171 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000297-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000297:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Finn Padraig (ALOT) D: 1200 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000297-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000297:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carll Thomas Wayne (ALOT) D: 33952 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000296-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000296:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carll Thomas Wayne (ALOT) D: 47 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000296-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000296:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carll Thomas Wayne (ALOT) D: 4590 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000296-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000296:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carll Thomas Wayne (ALOT) D: 43591 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000296-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000296:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carll Thomas Wayne (ALOT) D: 2799 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000296-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000296:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carll Thomas Wayne (ALOT) D: 524 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000296-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000296:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carll Thomas Wayne (ALOT) D: 17500 shares @ $10.75</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000296-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000296:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ittmann Jorik (ALOT) D: 2581.1021 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000295-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000295:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ittmann Jorik (ALOT) D: 13115 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000295-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000295:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ittmann Jorik (ALOT) D: 130775 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000295-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000295:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ittmann Jorik (ALOT) D: 3018 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000295-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000295:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ittmann Jorik (ALOT) D: 2334 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000295-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000295:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kravetz Shawn W (ALOT) D: 9464 shares @ $29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/0002064832-26-000294-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000294:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:33 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

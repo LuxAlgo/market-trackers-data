@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — DT</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Thota Chandrasekhar (DT) A: 379 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2147955/0002147955-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002147955-26-000006:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Streetman Frederick Daniel (DT) A: 709 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2143569/0002143569-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002143569-26-000007:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kulkarni Amol (DT) A: 4458 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1991569/0001991569-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001991569-26-000008:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Campbell Lisa M (DT) A: 4458 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1775679/0001775679-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001775679-26-000013:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wolberg Kirsten O. (DT) A: 4458 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773383/0001664367-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001664367-26-000004:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rowland Stephen Eric (DT) A: 4458 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773383/0001639368-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001639368-26-000004:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Capone Michael L (DT) A: 4458 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773383/0001443483-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001443483-26-000004:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>RIEDEL GEORGE ANDREW (DT) A: 709 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773383/0001354756-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001354756-26-000009:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ward Jill A (DT) A: 4458 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773383/0001257774-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001257774-26-000004:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>LIFSHATZ STEPHEN J (DT) A: 4458 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773383/0001221302-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001221302-26-000004:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kulkarni Amol (DT) M: 4111 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1991569/0001991569-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001991569-26-000006:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kulkarni Amol (DT) M: 4111 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1991569/0001991569-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001991569-26-000006:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Campbell Lisa M (DT) M: 4111 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1775679/0001775679-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001775679-26-000011:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Campbell Lisa M (DT) M: 4111 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1775679/0001775679-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001775679-26-000011:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wolberg Kirsten O. (DT) M: 4111 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773383/0001664367-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001664367-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wolberg Kirsten O. (DT) M: 4111 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773383/0001664367-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001664367-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rowland Stephen Eric (DT) M: 4111 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773383/0001639368-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001639368-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rowland Stephen Eric (DT) M: 4111 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773383/0001639368-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001639368-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Capone Michael L (DT) M: 4111 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773383/0001443483-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001443483-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Capone Michael L (DT) M: 4111 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773383/0001443483-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001443483-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ward Jill A (DT) M: 4111 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773383/0001257774-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001257774-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ward Jill A (DT) M: 4111 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773383/0001257774-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001257774-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>LIFSHATZ STEPHEN J (DT) M: 4111 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773383/0001221302-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001221302-26-000002:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>LIFSHATZ STEPHEN J (DT) M: 4111 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773383/0001221302-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001221302-26-000002:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:19:49 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

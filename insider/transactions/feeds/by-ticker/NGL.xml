@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — NGL</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>COLLINGSWORTH JAMES M (NGL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1504461/0001206714-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001206714-26-000013:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>COLLINGSWORTH JAMES M (NGL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1504461/0001206714-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001206714-26-000013:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>COLLINGSWORTH JAMES M (NGL) P: 2289 shares @ $17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1504461/0001206714-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001206714-26-000013:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:28:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>KRIMBILL H MICHAEL (NGL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1504461/0001229738-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001229738-26-000006:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>KRIMBILL H MICHAEL (NGL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1504461/0001229738-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001229738-26-000006:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>KRIMBILL H MICHAEL (NGL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1504461/0001229738-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001229738-26-000006:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>KRIMBILL H MICHAEL (NGL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1504461/0001229738-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001229738-26-000006:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>KRIMBILL H MICHAEL (NGL) S: 300000 shares @ $17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1504461/0001229738-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001229738-26-000006:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>COLLINGSWORTH JAMES M (NGL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1504461/0001206714-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001206714-26-000009:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>COLLINGSWORTH JAMES M (NGL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1504461/0001206714-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001206714-26-000009:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>COLLINGSWORTH JAMES M (NGL) P: 200 shares @ $16.96</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1504461/0001206714-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001206714-26-000009:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>COLLINGSWORTH JAMES M (NGL) P: 10808 shares @ $16.824</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1504461/0001206714-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001206714-26-000009:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAYMOND JOHN T (NGL) P: 300000 shares @ $16.98</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1504461/0001186173-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001186173-26-000004:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAYMOND JOHN T (NGL) P: 25500 shares @ $16.2237</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1504461/0001186173-26-000001-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001186173-26-000001:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAYMOND JOHN T (NGL) P: 1126 shares @ $16.25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1504461/0001186173-26-000001-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001186173-26-000001:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:46 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

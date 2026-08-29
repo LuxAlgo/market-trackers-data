@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — NTB</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <item>
+      <title>Lee Michael Sean (NTB) A: 46 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2059501/0001653242-26-000105-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000105:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee Michael Sean (NTB) A: 48 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2059501/0001653242-26-000105-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000105:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schrum Michael (NTB) A: 1328 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2022815/0001653242-26-000108-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000108:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schrum Michael (NTB) A: 1455 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2022815/0001653242-26-000108-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000108:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neff Michael Walter (NTB) A: 390 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2022417/0001653242-26-000113-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000113:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neff Michael Walter (NTB) A: 49 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2022417/0001653242-26-000113-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000113:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Feldman Jody Terence (NTB) A: 294 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2014318/0001653242-26-000111-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000111:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Feldman Jody Terence (NTB) A: 45 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2014318/0001653242-26-000111-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000111:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saunders Richard (NTB) A: 318 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2013882/0001653242-26-000106-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000106:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saunders Richard (NTB) A: 51 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2013882/0001653242-26-000106-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000106:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Burns Andrew Ronald (NTB) A: 397 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2013344/0001653242-26-000112-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000112:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Burns Andrew Ronald (NTB) A: 50 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2013344/0001653242-26-000112-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000112:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pearce Jane (NTB) A: 330 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2004049/0001653242-26-000114-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000114:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pearce Jane (NTB) A: 48 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2004049/0001653242-26-000114-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000114:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>McWatt Michael (NTB) A: 492 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2001797/0001653242-26-000115-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000115:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>McWatt Michael (NTB) A: 61 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2001797/0001653242-26-000115-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000115:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dallas Kevin (NTB) A: 320 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1999213/0001653242-26-000107-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000107:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dallas Kevin (NTB) A: 43 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1999213/0001653242-26-000107-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000107:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Collins Michael W (NTB) A: 2336 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1975405/0001653242-26-000110-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000110:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Collins Michael W (NTB) A: 2700 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1975405/0001653242-26-000110-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000110:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hidalgo Tara (NTB) A: 365 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1975035/0001653242-26-000116-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000116:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hidalgo Tara (NTB) A: 49 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1975035/0001653242-26-000116-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000116:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CUMMINGS STEPHEN E (NTB) A: 44 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1653242/0001653242-26-000109-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000109:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:26:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>McWatt Michael (NTB) S: 9000 shares @ $58.4143</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2001797/0001653242-26-000092-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001653242-26-000092:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:54 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

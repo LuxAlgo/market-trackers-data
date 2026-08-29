@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — FDA drug application events — NVS</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Drug-application submission events (originals and supplements) with FDA status codes, from openFDA's Drugs@FDA endpoint, with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 29 Aug 2026 13:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:09:10 GMT</lastBuildDate>
     <item>
       <title>NOVARTIS NDA214012 SUPPL 21: AP (2026-08-19)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=214012</link>
       <guid isPermaLink="false">fda-approvals:NDA214012:SUPPL:21</guid>
-      <pubDate>Sat, 29 Aug 2026 13:02:03 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 15:08:51 GMT</pubDate>
     </item>
   </channel>
 </rss>

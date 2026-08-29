@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Short-sale volume — ADM</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 29 Aug 2026 13:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:09:10 GMT</lastBuildDate>
     <item>
       <title>ADM 2026-08-28: 705463.216348/1233032.10372 short (57.2%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260828.txt</link>

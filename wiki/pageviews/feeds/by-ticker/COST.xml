@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Wikipedia pageviews — COST</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Daily per-article Wikipedia pageview counts for a curated map of public-company articles, from the Wikimedia REST pageviews API (keyless, CC0 counts). Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 29 Aug 2026 13:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:09:10 GMT</lastBuildDate>
     <item>
       <title>Costco (COST): 2440 views on 2026-08-28</title>
       <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Costco/daily/2026082800/2026082800</link>

@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — CLDX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 29 Aug 2026 13:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:09:10 GMT</lastBuildDate>
     <item>
       <title>Celldex Therapeutics — RECRUITING PHASE3: A Study to Investigate Efficacy, Safety and Tolerability of Barzolvolimab Versus Placebo in Adults With Cold Induced Urticaria and Symptomatic Dermographism Inadequately Controlled by H1-antihistamines (EMBARQ - ColdU and SD)</title>
       <link>https://clinicaltrials.gov/study/NCT07266402</link>
       <guid isPermaLink="false">clinical-trials:NCT07266402</guid>
-      <pubDate>Sat, 29 Aug 2026 12:46:21 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 15:08:38 GMT</pubDate>
     </item>
     <item>
       <title>Celldex Therapeutics — ENROLLING_BY_INVITATION PHASE3: Long-term Efficacy and Safety Extension (LTE) Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria</title>
       <link>https://clinicaltrials.gov/study/NCT07256392</link>
       <guid isPermaLink="false">clinical-trials:NCT07256392</guid>
-      <pubDate>Sat, 29 Aug 2026 12:46:21 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 15:08:38 GMT</pubDate>
     </item>
   </channel>
 </rss>

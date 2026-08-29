@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — FDA drug application events — GSK</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>Drug-application submission events (originals and supplements) with FDA status codes, from openFDA's Drugs@FDA endpoint, with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 29 Aug 2026 13:02:07 GMT</lastBuildDate>
+    <item>
+      <title>GLAXOSMITHKLINE LLC BLA761043 SUPPL 39: AP (2026-08-21)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=761043</link>
+      <guid isPermaLink="false">fda-approvals:BLA761043:SUPPL:39</guid>
+      <pubDate>Sat, 29 Aug 2026 13:02:03 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — SMMT</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:53:12 GMT</lastBuildDate>
     <item>
       <title>Summit Therapeutics — RECRUITING PHASE3: Clinical Study of Ivonescimab for First-line Treatment of Metastatic NSCLC Patients</title>
       <link>https://clinicaltrials.gov/study/NCT05899608</link>
       <guid isPermaLink="false">clinical-trials:NCT05899608</guid>
-      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 12:46:21 GMT</pubDate>
     </item>
     <item>
       <title>Summit Therapeutics — RECRUITING PHASE3: Clinical Study of Ivonescimab for First-line Treatment of Metastatic NSCLC Patients With High PD-L1</title>

@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — SRPT</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:53:12 GMT</lastBuildDate>
     <item>
       <title>Sarepta Therapeutics, Inc. — NOT_YET_RECRUITING PHASE4: Study to Evaluate the Safety and Effectiveness of ELEVIDYS in Participants With Duchenne Muscular Dystrophy Treated in a Post-Marketing Setting</title>
       <link>https://clinicaltrials.gov/study/NCT07542314</link>
       <guid isPermaLink="false">clinical-trials:NCT07542314</guid>
-      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 12:46:21 GMT</pubDate>
     </item>
   </channel>
 </rss>

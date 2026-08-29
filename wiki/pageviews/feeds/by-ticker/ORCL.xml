@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Wikipedia pageviews — ORCL</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Daily per-article Wikipedia pageview counts for a curated map of public-company articles, from the Wikimedia REST pageviews API (keyless, CC0 counts). Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:53:12 GMT</lastBuildDate>
+    <item>
+      <title>Oracle_Corporation (ORCL): 2199 views on 2026-08-28</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Oracle_Corporation/daily/2026082800/2026082800</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Oracle_Corporation:2026-08-28</guid>
+      <pubDate>Sat, 29 Aug 2026 12:46:32 GMT</pubDate>
+    </item>
     <item>
       <title>Oracle_Corporation (ORCL): 2645 views on 2026-08-27</title>
       <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Oracle_Corporation/daily/2026082700/2026082700</link>

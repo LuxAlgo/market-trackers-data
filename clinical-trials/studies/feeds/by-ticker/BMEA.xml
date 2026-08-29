@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — BMEA</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:53:12 GMT</lastBuildDate>
     <item>
       <title>Biomea Fusion Inc. — ACTIVE_NOT_RECRUITING PHASE2: Phase 2 Trial of Icovamenib in Participants With Type 2 Diabetes Who Are Not Achieving Glycemic Targets</title>
       <link>https://clinicaltrials.gov/study/NCT07502495</link>
       <guid isPermaLink="false">clinical-trials:NCT07502495</guid>
-      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 12:46:21 GMT</pubDate>
     </item>
     <item>
       <title>Biomea Fusion Inc. — COMPLETED PHASE2: Phase 2 Trial of BMF-219 in Participants With Type 1 Diabetes Mellitus</title>
       <link>https://clinicaltrials.gov/study/NCT06152042</link>
       <guid isPermaLink="false">clinical-trials:NCT06152042</guid>
-      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 12:46:21 GMT</pubDate>
     </item>
   </channel>
 </rss>

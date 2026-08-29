@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Short-sale volume — ABLV</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:53:12 GMT</lastBuildDate>
+    <item>
+      <title>ABLV 2026-08-28: 17950.618012/27736.957922 short (64.7%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260828.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-28:ABLV:CNMS</guid>
+      <pubDate>Sat, 29 Aug 2026 12:46:18 GMT</pubDate>
+    </item>
     <item>
       <title>ABLV 2026-08-27: 11566/69568.524246 short (16.6%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260827.txt</link>

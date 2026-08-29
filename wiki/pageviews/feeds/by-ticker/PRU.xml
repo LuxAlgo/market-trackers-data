@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Wikipedia pageviews — PRU</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Daily per-article Wikipedia pageview counts for a curated map of public-company articles, from the Wikimedia REST pageviews API (keyless, CC0 counts). Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:53:12 GMT</lastBuildDate>
+    <item>
+      <title>Prudential_Financial (PRU): 205 views on 2026-08-28</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Prudential_Financial/daily/2026082800/2026082800</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Prudential_Financial:2026-08-28</guid>
+      <pubDate>Sat, 29 Aug 2026 12:46:32 GMT</pubDate>
+    </item>
     <item>
       <title>Prudential_Financial (PRU): 279 views on 2026-08-26</title>
       <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Prudential_Financial/daily/2026082600/2026082600</link>

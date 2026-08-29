@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — EXEL</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:53:12 GMT</lastBuildDate>
     <item>
       <title>Exelixis — NOT_YET_RECRUITING PHASE3: Zanzalintinib Alone or in Combination With Pembrolizumab and Berahyaluronidase Alfa in Participants With Colorectal Cancer With Molecular Residual Disease</title>
       <link>https://clinicaltrials.gov/study/NCT07750158</link>
       <guid isPermaLink="false">clinical-trials:NCT07750158</guid>
-      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 12:46:21 GMT</pubDate>
     </item>
     <item>
       <title>Exelixis — RECRUITING PHASE2/PHASE3: Zanzalintinib Versus Everolimus in Participants With Locally Advanced or Metastatic Neuroendocrine Tumors</title>
       <link>https://clinicaltrials.gov/study/NCT06943755</link>
       <guid isPermaLink="false">clinical-trials:NCT06943755</guid>
-      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 12:46:21 GMT</pubDate>
     </item>
     <item>
       <title>Exelixis — NOT_YET_RECRUITING PHASE1: Study of Zanzalintinib in Children and Adolescents With Relapsed or Refractory Solid Tumors</title>

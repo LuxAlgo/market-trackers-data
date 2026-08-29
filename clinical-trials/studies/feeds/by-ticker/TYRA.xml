@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — TYRA</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:53:12 GMT</lastBuildDate>
     <item>
       <title>Tyra Biosciences, Inc — RECRUITING PHASE2: Phase 2A/B Efficacy and Safety of Dabogratinib in Participants With Low Grade Upper Tract Urothelial Carcinoma</title>
       <link>https://clinicaltrials.gov/study/NCT07265947</link>
       <guid isPermaLink="false">clinical-trials:NCT07265947</guid>
-      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 12:46:21 GMT</pubDate>
     </item>
     <item>
       <title>Tyra Biosciences, Inc — RECRUITING PHASE2: A Study of TYRA-300 in Children With Achondroplasia: BEACH301</title>
       <link>https://clinicaltrials.gov/study/NCT06842355</link>
       <guid isPermaLink="false">clinical-trials:NCT06842355</guid>
-      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 12:46:21 GMT</pubDate>
     </item>
   </channel>
 </rss>

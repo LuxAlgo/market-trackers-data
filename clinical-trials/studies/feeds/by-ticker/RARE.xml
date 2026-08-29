@@ -4,30 +4,30 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — RARE</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 16:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:53:12 GMT</lastBuildDate>
     <item>
       <title>Ultragenyx Pharmaceutical Inc — RECRUITING: Glycogen Storage Disease Type Ia (GSDIa) Disease Monitoring Program</title>
       <link>https://clinicaltrials.gov/study/NCT06636383</link>
       <guid isPermaLink="false">clinical-trials:NCT06636383</guid>
-      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 12:46:21 GMT</pubDate>
     </item>
     <item>
       <title>Ultragenyx Pharmaceutical Inc — ACTIVE_NOT_RECRUITING: X-linked Hypophosphatemia Disease Monitoring Program</title>
       <link>https://clinicaltrials.gov/study/NCT03651505</link>
       <guid isPermaLink="false">clinical-trials:NCT03651505</guid>
-      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 12:46:21 GMT</pubDate>
     </item>
     <item>
       <title>Ultragenyx Pharmaceutical Inc — RECRUITING: Mucopolysaccharidosis VII Disease Monitoring Program</title>
       <link>https://clinicaltrials.gov/study/NCT03604835</link>
       <guid isPermaLink="false">clinical-trials:NCT03604835</guid>
-      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 12:46:21 GMT</pubDate>
     </item>
     <item>
       <title>Ultragenyx Pharmaceutical Inc — RECRUITING PHASE2/PHASE3: Phase I/II/III Gene Transfer Clinical Trial of scAAV9.U1a.hSGSH</title>
       <link>https://clinicaltrials.gov/study/NCT02716246</link>
       <guid isPermaLink="false">clinical-trials:NCT02716246</guid>
-      <pubDate>Fri, 28 Aug 2026 16:51:50 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 12:46:21 GMT</pubDate>
     </item>
   </channel>
 </rss>

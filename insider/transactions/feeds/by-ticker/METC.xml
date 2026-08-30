@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — METC</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 13:58:18 GMT</lastBuildDate>
     <item>
       <title>Lawrence Bryan H. (METC) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1687187/0001140361-26-034898-index.htm</link>

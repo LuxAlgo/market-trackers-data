@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Congressional trades — TPYP</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 13:58:18 GMT</lastBuildDate>
     <item>
       <title>John Boozman (senate) sell: TPYP — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
       <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:2</guid>
-      <pubDate>Sat, 29 Aug 2026 15:08:24 GMT</pubDate>
+      <pubDate>Sun, 30 Aug 2026 13:51:13 GMT</pubDate>
     </item>
   </channel>
 </rss>

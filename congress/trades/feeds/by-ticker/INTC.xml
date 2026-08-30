@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Congressional trades — INTC</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 29 Aug 2026 16:29:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 13:58:18 GMT</lastBuildDate>
     <item>
       <title>Hon. Nancy Pelosi (house) buy: INTC — $500,001 - $1,000,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf</link>

@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — CHTR</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 20:33:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 22:32:23 GMT</lastBuildDate>
     <item>
       <title>COX ENTERPRISES INC ET AL (CHTR) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/779426/0001192482-26-000447-index.htm</link>

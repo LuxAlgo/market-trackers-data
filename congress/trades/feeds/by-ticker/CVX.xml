@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Congressional trades — CVX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 13:00:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:35:34 GMT</lastBuildDate>
     <item>
       <title>John Boozman (senate) buy: CVX — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/4a558db2-e492-4e8f-8a28-7b703a5c8e08/</link>

@@ -4,24 +4,24 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — ALGS</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 13:00:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:13:15 GMT</lastBuildDate>
     <item>
       <title>Aligos Therapeutics — COMPLETED PHASE1: Single Dose Study to Evaluate the Pharmacokinetics, Safety and Tolerability of Pevifoscorvir Sodium (ALG-000184) in Participants With Renal Impairment and in Healthy Participants With Normal Renal Function</title>
       <link>https://clinicaltrials.gov/study/NCT07342881</link>
       <guid isPermaLink="false">clinical-trials:NCT07342881</guid>
-      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
       <title>Aligos Therapeutics — COMPLETED PHASE1: Single-Dose Study to Evaluate the Pharmacokinetics, Safety, and Tolerability of Pevifoscorvir Sodium (ALG-000184) in Subjects With Moderate Hepatic Impairment and in Healthy Subjects With Normal Hepatic Function</title>
       <link>https://clinicaltrials.gov/study/NCT07342868</link>
       <guid isPermaLink="false">clinical-trials:NCT07342868</guid>
-      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
       <title>Aligos Therapeutics — COMPLETED PHASE1: A Study to Evaluate the Pharmacokinetics, Safety and Tolerability of ALG-097558 in Subjects With Renal Impairment and in Healthy Subjects With Normal Renal Function</title>
       <link>https://clinicaltrials.gov/study/NCT06698549</link>
       <guid isPermaLink="false">clinical-trials:NCT06698549</guid>
-      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
   </channel>
 </rss>

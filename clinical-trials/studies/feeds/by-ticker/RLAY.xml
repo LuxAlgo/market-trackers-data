@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — RLAY</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 13:00:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:13:15 GMT</lastBuildDate>
     <item>
       <title>Relay Therapeutics, Inc. — RECRUITING PHASE2: A Phase 2 Study of Mutant-selective PI3Kα Inhibitor, RLY-2608, in Adults and Children With PIK3CA Related Overgrowth Spectrum and Malformations Driven by PIK3CA Mutation (The ReInspire Study)</title>
       <link>https://clinicaltrials.gov/study/NCT06789913</link>
       <guid isPermaLink="false">clinical-trials:NCT06789913</guid>
-      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
   </channel>
 </rss>

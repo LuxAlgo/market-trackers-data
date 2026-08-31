@@ -4,42 +4,48 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — INCY</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 13:00:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:13:15 GMT</lastBuildDate>
+    <item>
+      <title>Incyte Corporation — RECRUITING PHASE3: A Phase 3 Study of INCA033989 Versus Best Available Therapy in Participants With Essential Thrombocythemia</title>
+      <link>https://clinicaltrials.gov/study/NCT07623200</link>
+      <guid isPermaLink="false">clinical-trials:NCT07623200</guid>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
+    </item>
     <item>
       <title>Incyte Corporation — RECRUITING PHASE2: A Study to Evaluate Axatilimab Versus Best Available Therapy in Pediatric Participants With Chronic Graft-Versus-Host Disease After at Least 2 Prior Lines of Systemic Therapy (AGAVE-256)</title>
       <link>https://clinicaltrials.gov/study/NCT07124078</link>
       <guid isPermaLink="false">clinical-trials:NCT07124078</guid>
-      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
       <title>Incyte Corporation — ACTIVE_NOT_RECRUITING PHASE3: A Study to Evaluate Axatilimab Versus Best Available Therapy in Participants With Chronic Graft Versus Host Disease After at Least 2 Prior Lines of Systemic Therapy</title>
       <link>https://clinicaltrials.gov/study/NCT06821542</link>
       <guid isPermaLink="false">clinical-trials:NCT06821542</guid>
-      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
       <title>Incyte Corporation — ACTIVE_NOT_RECRUITING PHASE1: A Study to Evaluate INCB186748 in Participants With Advanced or Metastatic Solid Tumors With KRAS G12D Mutation</title>
       <link>https://clinicaltrials.gov/study/NCT06818812</link>
       <guid isPermaLink="false">clinical-trials:NCT06818812</guid>
-      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
       <title>Incyte Corporation — ACTIVE_NOT_RECRUITING PHASE3: A Study to Evaluate the Long-Term Safety and Efficacy of Povorcitinib in Participants With Moderate to Severe Hidradenitis Suppurativa</title>
       <link>https://clinicaltrials.gov/study/NCT06212999</link>
       <guid isPermaLink="false">clinical-trials:NCT06212999</guid>
-      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
       <title>Incyte Corporation — ACTIVE_NOT_RECRUITING PHASE3: A Study to Evaluate Efficacy and Safety of Povorcitinib in Participants With Nonsegmental Vitiligo (STOP-V1)</title>
       <link>https://clinicaltrials.gov/study/NCT06113445</link>
       <guid isPermaLink="false">clinical-trials:NCT06113445</guid>
-      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
       <title>Incyte Corporation — RECRUITING: Observational Study for Patients at Risk for Chronic Graft-Versus-Host Disease</title>
       <link>https://clinicaltrials.gov/study/NCT05919511</link>
       <guid isPermaLink="false">clinical-trials:NCT05919511</guid>
-      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
       <title>Incyte Corporation — ACTIVE_NOT_RECRUITING PHASE3: A Study to Assess the Efficacy and Safety of Ruxolitinib Cream in Children and Adolescents (6 to &lt;18 Years Old) With Moderate Atopic Dermatitis</title>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Clinical trial registrations — CNTX</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Mon, 31 Aug 2026 15:13:15 GMT</lastBuildDate>
+    <item>
+      <title>Context Therapeutics Inc. — RECRUITING PHASE1: A Phase 1a/1b, First-Time-in-Human Study of CT-202, a Nectin-4 Directed Bispecific Antibody, in Participants With Recurring Triple Negative Breast, Colorectal, Urothelial Cancers</title>
+      <link>https://clinicaltrials.gov/study/NCT07545122</link>
+      <guid isPermaLink="false">clinical-trials:NCT07545122</guid>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Context Therapeutics Inc. — RECRUITING PHASE1: A Phase 1 Study of CTIM-76 in Patients With Recurring Ovarian Cancer and Other Advanced Solid Tumors</title>
+      <link>https://clinicaltrials.gov/study/NCT06515613</link>
+      <guid isPermaLink="false">clinical-trials:NCT06515613</guid>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

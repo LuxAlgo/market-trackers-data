@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — BFRI</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 13:00:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:13:15 GMT</lastBuildDate>
     <item>
       <title>Biofrontera Inc. — COMPLETED PHASE3: Study to Evaluate the Safety, Tolerability and Efficacy of BF-200 ALA (Ameluz®) in the Field-directed Treatment of Actinic Keratosis (AK) on the Extremities and Neck/Trunk With Photodynamic Therapy (PDT) Using a RhodoLED Lamp</title>
       <link>https://clinicaltrials.gov/study/NCT05662202</link>
       <guid isPermaLink="false">clinical-trials:NCT05662202</guid>
-      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
   </channel>
 </rss>

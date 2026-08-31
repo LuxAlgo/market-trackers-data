@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Clinical trial registrations — TFX</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Mon, 31 Aug 2026 15:13:15 GMT</lastBuildDate>
+    <item>
+      <title>Teleflex — RECRUITING NA: Safety and Clinical Performance of the Freesolve Resorbable Magnesium Scaffold (RMS) System in Subjects With Coronary Artery Lesions</title>
+      <link>https://clinicaltrials.gov/study/NCT07258290</link>
+      <guid isPermaLink="false">clinical-trials:NCT07258290</guid>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -4,18 +4,24 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — IBRX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 13:00:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:13:15 GMT</lastBuildDate>
     <item>
       <title>ImmunityBio, Inc. — NOT_YET_RECRUITING PHASE1/PHASE2: NAI (Nogapendekin Alfa Inbakicept) Plus Standard of Care in Critically Ill Adults With Sepsis</title>
       <link>https://clinicaltrials.gov/study/NCT07783789</link>
       <guid isPermaLink="false">clinical-trials:NCT07783789</guid>
-      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
       <title>ImmunityBio, Inc. — WITHDRAWN PHASE1: Open-Label, Phase 1 Clinical Trial of Neoadjuvant Nogapendekin Alfa Inbakicept, Sotevtamab, and Zabadinostat in Combination With Gemcitabine and Nab-Paclitaxel for Participants With Borderline Resectable or Locally Advanced Pancreatic Cancer</title>
       <link>https://clinicaltrials.gov/study/NCT07488884</link>
       <guid isPermaLink="false">clinical-trials:NCT07488884</guid>
-      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>ImmunityBio, Inc. — ACTIVE_NOT_RECRUITING PHASE1: IBRX-042 In Participants With HPV-Associated Tumors</title>
+      <link>https://clinicaltrials.gov/study/NCT05976828</link>
+      <guid isPermaLink="false">clinical-trials:NCT05976828</guid>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
       <title>ImmunityBio, Inc. — TERMINATED PHASE1: A Safety and Efficacy Study of CD-19 t-haNK in Patients With B-cell Acute Lymphoblastic Leukemia</title>

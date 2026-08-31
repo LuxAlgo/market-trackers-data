@@ -4,18 +4,24 @@
     <title>LuxAlgo Market Trackers — Congressional hearing transcripts</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Published hearing transcript packages from GPO GovInfo's CHRG collection (keyless): title, committees, witnesses, member bioguide ids, and deep links to the transcript — an index with receipts; the text stays at govinfo. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 13:00:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:13:15 GMT</lastBuildDate>
     <item>
-      <title>senate hearing 2025-10-23 — Committee on Environment and Public Works: HEARING ON EXAMINING THE BENEFICIAL USE AND REGULATION OF CHEMICALS</title>
-      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119shrg63292/mods.xml</link>
-      <guid isPermaLink="false">congress-hearings:CHRG-119shrg63292</guid>
-      <pubDate>Sat, 29 Aug 2026 12:53:10 GMT</pubDate>
+      <title>house hearing 2026-01-22 — Committee on Veterans' Affairs: COMMUNITY CARE NETWORK NEXT GENERATION: ONE TRILLION DOLLARS OF OVERSIGHT</title>
+      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119hhrg64341/mods.xml</link>
+      <guid isPermaLink="false">congress-hearings:CHRG-119hhrg64341</guid>
+      <pubDate>Mon, 31 Aug 2026 15:13:12 GMT</pubDate>
     </item>
     <item>
-      <title>senate hearing 2025-09-17 — Committee on Environment and Public Works: OVERSIGHT OF THE UNITED STATES ARMY CORPS OF ENGINEERS</title>
-      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119shrg63288/mods.xml</link>
-      <guid isPermaLink="false">congress-hearings:CHRG-119shrg63288</guid>
-      <pubDate>Sat, 29 Aug 2026 12:53:10 GMT</pubDate>
+      <title>house hearing 2025-12-03 — Committee on Education and Workforce: PUBLIC FUNDS, PRIVATE POLITICS: EXAMINING BIAS IN THE TRUMAN SCHOLARSHIP PROGRAM</title>
+      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119hhrg64245/mods.xml</link>
+      <guid isPermaLink="false">congress-hearings:CHRG-119hhrg64245</guid>
+      <pubDate>Mon, 31 Aug 2026 15:13:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>house hearing 2025-06-24 — Committee on Education and Workforce: CHILD CARE AND THE AMERICAN WORKFORCE: REMOVING BARRIERS TO ECONOMIC GROWTH</title>
+      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119hhrg62888/mods.xml</link>
+      <guid isPermaLink="false">congress-hearings:CHRG-119hhrg62888</guid>
+      <pubDate>Mon, 31 Aug 2026 15:13:12 GMT</pubDate>
     </item>
   </channel>
 </rss>

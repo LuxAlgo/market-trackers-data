@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — FDMT</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 13:00:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:13:15 GMT</lastBuildDate>
     <item>
       <title>4D Molecular Therapeutics — ACTIVE_NOT_RECRUITING PHASE2: 4D-150 in Patients With Diabetic Macular Edema</title>
       <link>https://clinicaltrials.gov/study/NCT05930561</link>
       <guid isPermaLink="false">clinical-trials:NCT05930561</guid>
-      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
       <title>4D Molecular Therapeutics — RECRUITING PHASE1/PHASE2: 4D-150 in Patients With Neovascular (Wet) Age-Related Macular Degeneration</title>
       <link>https://clinicaltrials.gov/study/NCT05197270</link>
       <guid isPermaLink="false">clinical-trials:NCT05197270</guid>
-      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
   </channel>
 </rss>

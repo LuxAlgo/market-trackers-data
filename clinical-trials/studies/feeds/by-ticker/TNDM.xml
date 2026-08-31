@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Clinical trial registrations — TNDM</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Mon, 31 Aug 2026 15:13:15 GMT</lastBuildDate>
+    <item>
+      <title>Tandem Diabetes Care, Inc. — COMPLETED NA: Feasibility Study of Extended Wear Insulin Infusion Set Options During Home Use in People With Type 1 Diabetes</title>
+      <link>https://clinicaltrials.gov/study/NCT07325461</link>
+      <guid isPermaLink="false">clinical-trials:NCT07325461</guid>
+      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

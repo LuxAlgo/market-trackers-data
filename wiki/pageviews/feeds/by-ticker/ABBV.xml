@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Wikipedia pageviews — ABBV</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Daily per-article Wikipedia pageview counts for a curated map of public-company articles, from the Wikimedia REST pageviews API (keyless, CC0 counts). Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 13:00:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:13:15 GMT</lastBuildDate>
+    <item>
+      <title>AbbVie (ABBV): 307 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/AbbVie/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:AbbVie:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 15:12:46 GMT</pubDate>
+    </item>
     <item>
       <title>AbbVie (ABBV): 451 views on 2026-08-29</title>
       <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/AbbVie/daily/2026082900/2026082900</link>

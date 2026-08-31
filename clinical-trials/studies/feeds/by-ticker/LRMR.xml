@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — LRMR</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Sun, 30 Aug 2026 13:58:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:00:40 GMT</lastBuildDate>
     <item>
       <title>Larimar Therapeutics, Inc. — RECRUITING PHASE3: A Study to Evaluate the Efficacy and Safety of Subcutaneous Nomlabofusp in Subjects With Friedreich's Ataxia</title>
       <link>https://clinicaltrials.gov/study/NCT07778836</link>
       <guid isPermaLink="false">clinical-trials:NCT07778836</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:24 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
     </item>
   </channel>
 </rss>

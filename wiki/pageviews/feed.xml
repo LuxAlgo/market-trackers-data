@@ -4,426 +4,492 @@
     <title>LuxAlgo Market Trackers — Wikipedia pageviews</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Daily per-article Wikipedia pageview counts for a curated map of public-company articles, from the Wikimedia REST pageviews API (keyless, CC0 counts). Every item links its primary-source document.</description>
-    <lastBuildDate>Sun, 30 Aug 2026 13:58:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:00:40 GMT</lastBuildDate>
     <item>
-      <title>eBay (EBAY): 2 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/eBay/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:eBay:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Wells_Fargo (WFC): 942 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Wells_Fargo/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Wells_Fargo:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Wells_Fargo (WFC): 877 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Wells_Fargo/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Wells_Fargo:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Visa_Inc. (V): 645 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Visa_Inc./daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Visa_Inc.:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Vertex_Pharmaceuticals (VRTX): 73 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Vertex_Pharmaceuticals/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Vertex_Pharmaceuticals:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Visa_Inc. (V): 778 views on 2026-08-29</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Visa_Inc./daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Visa_Inc.:2026-08-29</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>United_Parcel_Service (UPS): 694 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/United_Parcel_Service/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:United_Parcel_Service:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Vertex_Pharmaceuticals (VRTX): 73 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Vertex_Pharmaceuticals/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Vertex_Pharmaceuticals:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Uber (UBER): 1530 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Uber/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Uber:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>United_Parcel_Service (UPS): 604 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/United_Parcel_Service/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:United_Parcel_Service:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Thermo_Fisher_Scientific (TMO): 337 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Thermo_Fisher_Scientific/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Thermo_Fisher_Scientific:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>UnitedHealth_Group (UNH): 544 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/UnitedHealth_Group/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:UnitedHealth_Group:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>The_Home_Depot (HD): 63 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/The_Home_Depot/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:The_Home_Depot:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>UnitedHealth_Group (UNH): 605 views on 2026-08-29</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/UnitedHealth_Group/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:UnitedHealth_Group:2026-08-29</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>The_Coca-Cola_Company (KO): 1707 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/The_Coca-Cola_Company/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:The_Coca-Cola_Company:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Uber (UBER): 1585 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Uber/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Uber:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Texas_Instruments (TXN): 614 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Texas_Instruments/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Texas_Instruments:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Thermo_Fisher_Scientific (TMO): 342 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Thermo_Fisher_Scientific/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Thermo_Fisher_Scientific:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Target_Corporation (TGT): 1363 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Target_Corporation/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Target_Corporation:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>The_Walt_Disney_Company (DIS): 4325 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/The_Walt_Disney_Company/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:The_Walt_Disney_Company:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Starbucks (SBUX): 1669 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Starbucks/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Starbucks:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>The_Walt_Disney_Company (DIS): 3627 views on 2026-08-29</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/The_Walt_Disney_Company/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:The_Walt_Disney_Company:2026-08-29</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>ServiceNow (NOW): 429 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/ServiceNow/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:ServiceNow:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>The_Coca-Cola_Company (KO): 1589 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/The_Coca-Cola_Company/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:The_Coca-Cola_Company:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Salesforce (CRM): 1074 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Salesforce/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Salesforce:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Texas_Instruments (TXN): 614 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Texas_Instruments/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Texas_Instruments:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>S&amp;P_Global (SPGI): 235 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/S%26P_Global/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:S&amp;P_Global:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Target_Corporation (TGT): 7238 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Target_Corporation/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Target_Corporation:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Regeneron_Pharmaceuticals (REGN): 147 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Regeneron_Pharmaceuticals/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Regeneron_Pharmaceuticals:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Starbucks (SBUX): 1818 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Starbucks/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Starbucks:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>RTX_Corporation (RTX): 835 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/RTX_Corporation/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:RTX_Corporation:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Snowflake_Inc. (SNOW): 427 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Snowflake_Inc./daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Snowflake_Inc.:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Qualcomm (QCOM): 758 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Qualcomm/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Qualcomm:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Snowflake_Inc. (SNOW): 442 views on 2026-08-29</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Snowflake_Inc./daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Snowflake_Inc.:2026-08-29</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Prudential_Financial (PRU): 147 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Prudential_Financial/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Prudential_Financial:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>ServiceNow (NOW): 235 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/ServiceNow/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:ServiceNow:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Progressive_Corporation (PGR): 168 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Progressive_Corporation/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Progressive_Corporation:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Salesforce (CRM): 908 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Salesforce/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Salesforce:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Procter_&amp;_Gamble (PG): 1263 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Procter_%26_Gamble/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Procter_&amp;_Gamble:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>S&amp;P_Global (SPGI): 229 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/S%26P_Global/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:S&amp;P_Global:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>PepsiCo (PEP): 1460 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/PepsiCo/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:PepsiCo:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Regeneron_Pharmaceuticals (REGN): 110 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Regeneron_Pharmaceuticals/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Regeneron_Pharmaceuticals:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>PayPal (PYPL): 2128 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/PayPal/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:PayPal:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Prudential_Financial (PRU): 174 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Prudential_Financial/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Prudential_Financial:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle_Corporation (ORCL): 1909 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Oracle_Corporation/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Oracle_Corporation:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Progressive_Corporation (PGR): 151 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Progressive_Corporation/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Progressive_Corporation:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia (NVDA): 4591 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Nvidia/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Nvidia:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Procter_&amp;_Gamble (PG): 1270 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Procter_%26_Gamble/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Procter_&amp;_Gamble:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Northrop_Grumman (NOC): 1067 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Northrop_Grumman/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Northrop_Grumman:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Pfizer (PFE): 544 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Pfizer/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Pfizer:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Nike,_Inc. (NKE): 1860 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Nike%2C_Inc./daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Nike,_Inc.:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Pfizer (PFE): 570 views on 2026-08-29</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Pfizer/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Pfizer:2026-08-29</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Netflix (NFLX): 6324 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Netflix/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Netflix:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>PepsiCo (PEP): 1660 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/PepsiCo/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:PepsiCo:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Morgan_Stanley (MS): 1033 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Morgan_Stanley/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Morgan_Stanley:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>PayPal (PYPL): 1692 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/PayPal/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:PayPal:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft (MSFT): 7253 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Microsoft/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Microsoft:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Palantir_Technologies (PLTR): 955 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Palantir_Technologies/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Palantir_Technologies:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Micron_Technology (MU): 1052 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Micron_Technology/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Micron_Technology:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Palantir_Technologies (PLTR): 842 views on 2026-08-29</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Palantir_Technologies/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Palantir_Technologies:2026-08-29</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Meta_Platforms (META): 4134 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Meta_Platforms/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Meta_Platforms:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Oracle_Corporation (ORCL): 1765 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Oracle_Corporation/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Oracle_Corporation:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>MetLife (MET): 249 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/MetLife/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:MetLife:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Nvidia (NVDA): 6393 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Nvidia/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Nvidia:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Merck_&amp;_Co. (MRK): 417 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Merck_%26_Co./daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Merck_&amp;_Co.:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Nike,_Inc. (NKE): 2047 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Nike%2C_Inc./daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Nike,_Inc.:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Medtronic (MDT): 259 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Medtronic/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Medtronic:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Netflix (NFLX): 5990 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Netflix/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Netflix:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>McDonald's (MCD): 3222 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/McDonald's/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:McDonald's:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Morgan_Stanley (MS): 1069 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Morgan_Stanley/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Morgan_Stanley:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Johnson_&amp;_Johnson (JNJ): 808 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Johnson_%26_Johnson/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Johnson_&amp;_Johnson:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Moderna (MRNA): 401 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Moderna/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Moderna:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>JPMorgan_Chase (JPM): 1771 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/JPMorgan_Chase/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:JPMorgan_Chase:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Moderna (MRNA): 464 views on 2026-08-29</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Moderna/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Moderna:2026-08-29</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>IBM (IBM): 1855 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/IBM/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:IBM:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Microsoft (MSFT): 6013 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Microsoft/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Microsoft:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Honeywell (HON): 642 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Honeywell/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Honeywell:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Meta_Platforms (META): 3958 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Meta_Platforms/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Meta_Platforms:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Goldman_Sachs (GS): 1702 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Goldman_Sachs/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Goldman_Sachs:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>MetLife (MET): 208 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/MetLife/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:MetLife:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Gilead_Sciences (GILD): 219 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Gilead_Sciences/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Gilead_Sciences:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Medtronic (MDT): 267 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Medtronic/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Medtronic:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>General_Motors (GM): 2196 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/General_Motors/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:General_Motors:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>McDonald's (MCD): 3423 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/McDonald's/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:McDonald's:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>General_Dynamics (GD): 710 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/General_Dynamics/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:General_Dynamics:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Johnson_&amp;_Johnson (JNJ): 798 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Johnson_%26_Johnson/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Johnson_&amp;_Johnson:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Ford_Motor_Company (F): 2346 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Ford_Motor_Company/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Ford_Motor_Company:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>JPMorgan_Chase (JPM): 1896 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/JPMorgan_Chase/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:JPMorgan_Chase:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>FedEx (FDX): 806 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/FedEx/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:FedEx:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Intuitive_Surgical (ISRG): 113 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Intuitive_Surgical/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Intuitive_Surgical:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>ExxonMobil (XOM): 1052 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/ExxonMobil/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:ExxonMobil:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Intuitive_Surgical (ISRG): 131 views on 2026-08-29</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Intuitive_Surgical/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Intuitive_Surgical:2026-08-29</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Danaher_Corporation (DHR): 344 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Danaher_Corporation/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Danaher_Corporation:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Honeywell (HON): 555 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Honeywell/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Honeywell:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Costco (COST): 2392 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Costco/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Costco:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Goldman_Sachs (GS): 1262 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Goldman_Sachs/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Goldman_Sachs:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Citigroup (C): 634 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Citigroup/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Citigroup:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Gilead_Sciences (GILD): 232 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Gilead_Sciences/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Gilead_Sciences:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Cisco (CSCO): 825 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Cisco/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Cisco:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>General_Motors (GM): 2320 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/General_Motors/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:General_Motors:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Chipotle_Mexican_Grill (CMG): 729 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Chipotle_Mexican_Grill/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Chipotle_Mexican_Grill:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>General_Dynamics (GD): 750 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/General_Dynamics/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:General_Dynamics:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Charles_Schwab_Corporation (SCHW): 392 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Charles_Schwab_Corporation/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Charles_Schwab_Corporation:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Ford_Motor_Company (F): 2443 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Ford_Motor_Company/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Ford_Motor_Company:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Caterpillar_Inc. (CAT): 887 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Caterpillar_Inc./daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Caterpillar_Inc.:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>FedEx (FDX): 845 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/FedEx/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:FedEx:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Capital_One (COF): 806 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Capital_One/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Capital_One:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>ExxonMobil (XOM): 880 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/ExxonMobil/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:ExxonMobil:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Broadcom_Inc. (AVGO): 77 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Broadcom_Inc./daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Broadcom_Inc.:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Danaher_Corporation (DHR): 262 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Danaher_Corporation/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Danaher_Corporation:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Booking_Holdings (BKNG): 242 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Booking_Holdings/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Booking_Holdings:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Citigroup (C): 662 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Citigroup/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Citigroup:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>BlackRock (BLK): 2672 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/BlackRock/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:BlackRock:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Cisco (CSCO): 739 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Cisco/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Cisco:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Bank_of_America (BAC): 1248 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Bank_of_America/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Bank_of_America:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Chipotle_Mexican_Grill (CMG): 781 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Chipotle_Mexican_Grill/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Chipotle_Mexican_Grill:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Applied_Materials (AMAT): 240 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Applied_Materials/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Applied_Materials:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Chevron_Corporation (CVX): 946 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Chevron_Corporation/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Chevron_Corporation:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Apple_Inc. (AAPL): 5739 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Apple_Inc./daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Apple_Inc.:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Chevron_Corporation (CVX): 1080 views on 2026-08-29</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Chevron_Corporation/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Chevron_Corporation:2026-08-29</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Amgen (AMGN): 194 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Amgen/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Amgen:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Charles_Schwab_Corporation (SCHW): 372 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Charles_Schwab_Corporation/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Charles_Schwab_Corporation:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>American_Express (AXP): 1011 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/American_Express/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:American_Express:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Caterpillar_Inc. (CAT): 748 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Caterpillar_Inc./daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Caterpillar_Inc.:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Amazon_(company) (AMZN): 6298 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Amazon_(company)/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Amazon_(company):2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Capital_One (COF): 780 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Capital_One/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Capital_One:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Alphabet_Inc. (GOOGL, GOOG): 2494 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Alphabet_Inc./daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Alphabet_Inc.:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Broadcom_Inc. (AVGO): 61 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Broadcom_Inc./daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Broadcom_Inc.:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Allstate (ALL): 210 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Allstate/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Allstate:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Booking_Holdings (BKNG): 285 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Booking_Holdings/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Booking_Holdings:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Airbnb (ABNB): 1148 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Airbnb/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Airbnb:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Boeing (BA): 2962 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Boeing/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Boeing:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Advanced_Micro_Devices (AMD): 105 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Advanced_Micro_Devices/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Advanced_Micro_Devices:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Boeing (BA): 2984 views on 2026-08-29</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Boeing/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Boeing:2026-08-29</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Adobe_Inc. (ADBE): 574 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Adobe_Inc./daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Adobe_Inc.:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Berkshire_Hathaway (BRK.A, BRK.B): 2126 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Berkshire_Hathaway/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Berkshire_Hathaway:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>Abbott_Laboratories (ABT): 463 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Abbott_Laboratories/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Abbott_Laboratories:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Berkshire_Hathaway (BRK.A, BRK.B): 1883 views on 2026-08-29</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Berkshire_Hathaway/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Berkshire_Hathaway:2026-08-29</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>AbbVie (ABBV): 451 views on 2026-08-29</title>
-      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/AbbVie/daily/2026082900/2026082900</link>
-      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:AbbVie:2026-08-29</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:36 GMT</pubDate>
+      <title>Bank_of_America (BAC): 1284 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Bank_of_America/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Bank_of_America:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple_Inc. (AAPL): 6332 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Apple_Inc./daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Apple_Inc.:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amgen (AMGN): 225 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Amgen/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Amgen:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amazon_(company) (AMZN): 6586 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Amazon_(company)/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Amazon_(company):2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alphabet_Inc. (GOOGL, GOOG): 4320 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Alphabet_Inc./daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Alphabet_Inc.:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Allstate (ALL): 209 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Allstate/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Allstate:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Airbnb (ABNB): 1304 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Airbnb/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Airbnb:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Advanced_Micro_Devices (AMD): 114 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Advanced_Micro_Devices/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Advanced_Micro_Devices:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe_Inc. (ADBE): 649 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Adobe_Inc./daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Adobe_Inc.:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abbott_Laboratories (ABT): 416 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Abbott_Laboratories/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Abbott_Laboratories:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>AT&amp;T (T): 1115 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/AT%26T/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:AT&amp;T:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>AT&amp;T (T): 1027 views on 2026-08-29</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/AT%26T/daily/2026082900/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:AT&amp;T:2026-08-29</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
     </item>
   </channel>
 </rss>

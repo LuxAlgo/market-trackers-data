@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Congressional trades — AMD</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 12:44:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:00:40 GMT</lastBuildDate>
     <item>
       <title>Hon. Richard W. Allen (house) buy: AMD — $1,001 - $15,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035260.pdf</link>

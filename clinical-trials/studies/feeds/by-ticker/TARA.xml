@@ -4,30 +4,30 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — TARA</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Sun, 30 Aug 2026 13:58:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:00:40 GMT</lastBuildDate>
     <item>
       <title>Protara Therapeutics — RECRUITING PHASE3: Efficacy and Safety of Intravesical TARA-002 Compared With Investigator's Choice of Intravesical Chemotherapy in Participants With BCG-naïve High-grade Non-muscle Invasive Bladder Cancer</title>
       <link>https://clinicaltrials.gov/study/NCT07480356</link>
       <guid isPermaLink="false">clinical-trials:NCT07480356</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:24 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
     </item>
     <item>
       <title>Protara Therapeutics — RECRUITING PHASE2/PHASE3: Study of Choline Chloride for Injection in Adolescent and Adult Patients With Intestinal Failure Receiving Long Term Parenteral Support</title>
       <link>https://clinicaltrials.gov/study/NCT06910943</link>
       <guid isPermaLink="false">clinical-trials:NCT06910943</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:24 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
     </item>
     <item>
       <title>Protara Therapeutics — RECRUITING PHASE2: Safety and Efficacy Study of Intravesical Instillation of TARA-002 in Adults With High-grade Non-muscle Invasive Bladder Cancer</title>
       <link>https://clinicaltrials.gov/study/NCT05951179</link>
       <guid isPermaLink="false">clinical-trials:NCT05951179</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:24 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
     </item>
     <item>
       <title>Protara Therapeutics — RECRUITING PHASE2: Safety and Efficacy Study of Intracystic TARA-002 for the Treatment of Lymphatic Malformations in Participants 6 Months to Less Than 18 Years of Age</title>
       <link>https://clinicaltrials.gov/study/NCT05871970</link>
       <guid isPermaLink="false">clinical-trials:NCT05871970</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:24 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
     </item>
   </channel>
 </rss>

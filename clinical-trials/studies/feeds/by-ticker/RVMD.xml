@@ -4,36 +4,36 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — RVMD</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Sun, 30 Aug 2026 13:58:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:00:40 GMT</lastBuildDate>
     <item>
       <title>Revolution Medicines, Inc. — RECRUITING PHASE3: Study of Zoldonrasib + Chemo of Investigator's Choice vs Placebo + Chemo of Investigator's Choice as First-line Treatment in Metastatic KRAS G12D-mutated Pancreatic Adenocarcinoma ( RASolute 305 )</title>
       <link>https://clinicaltrials.gov/study/NCT07621718</link>
       <guid isPermaLink="false">clinical-trials:NCT07621718</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:24 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
     </item>
     <item>
       <title>Revolution Medicines, Inc. — AVAILABLE: Expanded Access Program for Daraxonrasib (RMC-6236) in Previously Treated Metastatic Pancreatic Adenocarcinoma</title>
       <link>https://clinicaltrials.gov/study/NCT07573215</link>
       <guid isPermaLink="false">clinical-trials:NCT07573215</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:24 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
     </item>
     <item>
       <title>Revolution Medicines, Inc. — RECRUITING PHASE3: Study of Daraxonrasib and Daraxonrasib + GnP as First-line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma</title>
       <link>https://clinicaltrials.gov/study/NCT07491445</link>
       <guid isPermaLink="false">clinical-trials:NCT07491445</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:24 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
     </item>
     <item>
       <title>Revolution Medicines, Inc. — RECRUITING PHASE3: Study of Daraxonrasib (RMC-6236) in Patients With Resected Pancreatic Ductal Adenocarcinoma (PDAC)</title>
       <link>https://clinicaltrials.gov/study/NCT07252232</link>
       <guid isPermaLink="false">clinical-trials:NCT07252232</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:24 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
     </item>
     <item>
       <title>Revolution Medicines, Inc. — RECRUITING PHASE3: Study of Daraxonrasib (RMC-6236) in Patients With RAS Mutated NSCLC (RASolve 301)</title>
       <link>https://clinicaltrials.gov/study/NCT06881784</link>
       <guid isPermaLink="false">clinical-trials:NCT06881784</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:24 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
     </item>
     <item>
       <title>Revolution Medicines, Inc. — RECRUITING PHASE3: Study of Pembrolizumab + Pemetrexed + Platinum Chemotherapy With or Without Zoldonrasib as First Line Treatment in Metastatic Non-squamous RAS G12D-Mutated NSCLC</title>

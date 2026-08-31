@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — KPTI</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Sun, 30 Aug 2026 13:58:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:00:40 GMT</lastBuildDate>
     <item>
       <title>Karyopharm Therapeutics Inc — ACTIVE_NOT_RECRUITING PHASE3: Selinexor in Maintenance Therapy After Systemic Therapy for Participants With p53 Wild-Type, Advanced or Recurrent Endometrial Carcinoma</title>
       <link>https://clinicaltrials.gov/study/NCT05611931</link>
       <guid isPermaLink="false">clinical-trials:NCT05611931</guid>
-      <pubDate>Sun, 30 Aug 2026 13:51:24 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 12:53:56 GMT</pubDate>
     </item>
   </channel>
 </rss>

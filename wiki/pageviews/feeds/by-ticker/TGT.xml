@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Wikipedia pageviews — TGT</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Daily per-article Wikipedia pageview counts for a curated map of public-company articles, from the Wikimedia REST pageviews API (keyless, CC0 counts). Every item links its primary-source document.</description>
-    <lastBuildDate>Sun, 30 Aug 2026 13:58:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:00:40 GMT</lastBuildDate>
+    <item>
+      <title>Target_Corporation (TGT): 7238 views on 2026-08-30</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Target_Corporation/daily/2026083000/2026083000</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Target_Corporation:2026-08-30</guid>
+      <pubDate>Mon, 31 Aug 2026 12:54:05 GMT</pubDate>
+    </item>
     <item>
       <title>Target_Corporation (TGT): 1363 views on 2026-08-29</title>
       <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Target_Corporation/daily/2026082900/2026082900</link>

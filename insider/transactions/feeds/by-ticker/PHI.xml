@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — PHI</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 10:34:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:44:03 GMT</lastBuildDate>
     <item>
       <title>Pangilinan Manuel Velez (PHI) S: 40 shares @ $19.46</title>
       <link>https://www.sec.gov/Archives/edgar/data/78150/0001193125-26-364117-index.htm</link>

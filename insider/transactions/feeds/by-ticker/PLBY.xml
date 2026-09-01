@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — PLBY</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 15:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 16:51:41 GMT</lastBuildDate>
     <item>
       <title>Edmonds Tracey E (PLBY) S: 16558 shares @ $1.211</title>
       <link>https://www.sec.gov/Archives/edgar/data/1844982/0001628280-26-059448-index.htm</link>

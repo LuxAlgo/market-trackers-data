@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — TRUP</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 22:32:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:19:08 GMT</lastBuildDate>
     <item>
       <title>Qureshi Fawwad (TRUP) S: 6111 shares @ $30.01</title>
       <link>https://www.sec.gov/Archives/edgar/data/1995789/0001371285-26-000191-index.htm</link>

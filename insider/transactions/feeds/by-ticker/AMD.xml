@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — AMD</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 20:33:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 22:32:28 GMT</lastBuildDate>
     <item>
       <title>Hu Jean X. (AMD) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/2488/0001452385-26-000008-index.htm</link>

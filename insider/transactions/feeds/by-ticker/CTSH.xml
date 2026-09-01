@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — CTSH</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:36:13 GMT</lastBuildDate>
     <item>
       <title>Schot Abraham (CTSH) A: 21.8273 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1970614/0001970614-26-000008-index.htm</link>

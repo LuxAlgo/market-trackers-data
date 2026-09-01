@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Congressional trades — SYK</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 16:51:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:39:15 GMT</lastBuildDate>
     <item>
       <title>Hon. Thomas H. Kean Jr (house) sell: SYK — $1,001 - $15,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035273.pdf</link>

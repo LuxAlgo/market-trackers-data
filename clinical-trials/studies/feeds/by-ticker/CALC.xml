@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — CALC</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 13:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:12:15 GMT</lastBuildDate>
     <item>
       <title>CalciMedica, Inc. — TERMINATED PHASE2: A Study of Auxora in Patients With AKI and Injurious Lung &quot;Crosstalk&quot;</title>
       <link>https://clinicaltrials.gov/study/NCT06374797</link>
       <guid isPermaLink="false">clinical-trials:NCT06374797</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
     <item>
       <title>CalciMedica, Inc. — COMPLETED PHASE2: A Study of Auxora in Patients With Acute Pancreatitis and Accompanying SIRS</title>

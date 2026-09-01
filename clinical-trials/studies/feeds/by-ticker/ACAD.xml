@@ -4,17 +4,17 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — ACAD</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 13:20:05 GMT</lastBuildDate>
-    <item>
-      <title>ACADIA Pharmaceuticals Inc. — RECRUITING PHASE2: Phase 2, Efficacy and Safety Study of ACP-204 in Lewy Body Dementia Psychosis</title>
-      <link>https://clinicaltrials.gov/study/NCT07029581</link>
-      <guid isPermaLink="false">clinical-trials:NCT07029581</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Sep 2026 15:12:15 GMT</lastBuildDate>
     <item>
       <title>ACADIA Pharmaceuticals Inc. — RECRUITING PHASE2/PHASE3: ACP-204 in Adults With Alzheimer's Disease Psychosis</title>
       <link>https://clinicaltrials.gov/study/NCT06159673</link>
       <guid isPermaLink="false">clinical-trials:NCT06159673</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>ACADIA Pharmaceuticals Inc. — RECRUITING PHASE2: Phase 2, Efficacy and Safety Study of ACP-204 in Lewy Body Dementia Psychosis</title>
+      <link>https://clinicaltrials.gov/study/NCT07029581</link>
+      <guid isPermaLink="false">clinical-trials:NCT07029581</guid>
       <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
   </channel>

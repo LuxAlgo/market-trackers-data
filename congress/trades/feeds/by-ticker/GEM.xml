@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Congressional trades — GEM</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 14:35:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:12:15 GMT</lastBuildDate>
     <item>
       <title>John Boozman (senate) sell: GEM — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
       <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:10</guid>
-      <pubDate>Tue, 01 Sep 2026 14:33:32 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:28 GMT</pubDate>
     </item>
   </channel>
 </rss>

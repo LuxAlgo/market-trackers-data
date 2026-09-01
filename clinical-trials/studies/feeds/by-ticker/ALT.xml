@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — ALT</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 13:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:12:15 GMT</lastBuildDate>
     <item>
       <title>Altimmune, Inc. — RECRUITING PHASE3: Phase 3 Study of the Efficacy, Safety, and Clinical Outcomes of Pemvidutide in MASH</title>
       <link>https://clinicaltrials.gov/study/NCT07795164</link>
       <guid isPermaLink="false">clinical-trials:NCT07795164</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
   </channel>
 </rss>

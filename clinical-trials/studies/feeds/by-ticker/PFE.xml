@@ -4,53 +4,173 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — PFE</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 13:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:12:15 GMT</lastBuildDate>
     <item>
       <title>Pfizer — NOT_YET_RECRUITING PHASE3: A Study to Learn About Safety and Effects of Once-monthly Treatment With Berobenatide in Adults With Obesity Disease in Japan (VESPER-JM)</title>
       <link>https://clinicaltrials.gov/study/NCT07794774</link>
       <guid isPermaLink="false">clinical-trials:NCT07794774</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
     <item>
       <title>Pfizer — NOT_YET_RECRUITING PHASE3: A Study to Learn About Safety and Effects of Once-weekly Treatment With Berobenatide in Adults With Obesity Disease in Japan (VESPER-JW)</title>
       <link>https://clinicaltrials.gov/study/NCT07794761</link>
       <guid isPermaLink="false">clinical-trials:NCT07794761</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
     <item>
       <title>Pfizer — NOT_YET_RECRUITING PHASE3: A Study to Assess the Safety, Tolerability, and Immunogenicity of 3 Lots of a Multivalent Pneumococcal Conjugate Vaccine Administered to Adults</title>
       <link>https://clinicaltrials.gov/study/NCT07794748</link>
       <guid isPermaLink="false">clinical-trials:NCT07794748</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
     <item>
       <title>Pfizer — NOT_YET_RECRUITING PHASE3: A Study to Learn About the Study Medicine Called PF-08653944 Taken Once-Weekly Compared to Placebo in Chinese Adults With Overweight or Obesity</title>
       <link>https://clinicaltrials.gov/study/NCT07792954</link>
       <guid isPermaLink="false">clinical-trials:NCT07792954</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
     <item>
       <title>Pfizer — NOT_YET_RECRUITING PHASE1: A Study to Learn About the Single Dose Pharmacokinetics of Study Medicine Called Tilrekimig in Healthy Adults When Co-Mixed With rHuPH20</title>
       <link>https://clinicaltrials.gov/study/NCT07792941</link>
       <guid isPermaLink="false">clinical-trials:NCT07792941</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pfizer — NOT_YET_RECRUITING PHASE3: A Study to Learn About the Study Medicine Called Tilrekimig in People With Moderate-to Severe Eczema</title>
-      <link>https://clinicaltrials.gov/study/NCT07783425</link>
-      <guid isPermaLink="false">clinical-trials:NCT07783425</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
     <item>
       <title>Pfizer — NOT_YET_RECRUITING PHASE1/PHASE2: A Study to Learn About a Medicine Called PF-08154225 in Participants With Autoimmune Diseases</title>
       <link>https://clinicaltrials.gov/study/NCT07782450</link>
       <guid isPermaLink="false">clinical-trials:NCT07782450</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
     <item>
       <title>Pfizer — NOT_YET_RECRUITING PHASE4: Tucatinib Continuation Study</title>
       <link>https://clinicaltrials.gov/study/NCT07768358</link>
       <guid isPermaLink="false">clinical-trials:NCT07768358</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — RECRUITING PHASE3: Study to Learn About Safety, Tolerability, and Immune Response of a Catch-up Pneumococcal Vaccine in Children and Adolescents</title>
+      <link>https://clinicaltrials.gov/study/NCT07660198</link>
+      <guid isPermaLink="false">clinical-trials:NCT07660198</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — COMPLETED PHASE1: A Study to Compare the Amount of Two Forms of Tafamidis in the Blood of Healthy Adults Under Fasting Conditions</title>
+      <link>https://clinicaltrials.gov/study/NCT07587697</link>
+      <guid isPermaLink="false">clinical-trials:NCT07587697</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — RECRUITING PHASE2/PHASE3: A Study to Learn About the Study Medicine Called PF-07275315 in People With Moderate to Severe Chronic Obstructive Pulmonary Disease</title>
+      <link>https://clinicaltrials.gov/study/NCT07363694</link>
+      <guid isPermaLink="false">clinical-trials:NCT07363694</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — ACTIVE_NOT_RECRUITING: A Study to Learn How Effective is PCV20 to Help Stop Adults Who Have a Higher Chance of Getting Pneumonia</title>
+      <link>https://clinicaltrials.gov/study/NCT07251465</link>
+      <guid isPermaLink="false">clinical-trials:NCT07251465</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — ACTIVE_NOT_RECRUITING PHASE2: A 16-Week Study to Learn About the Study Medicine Called Ritlecitinib in Adults With Long Lasting Painful Red Skin Lumps, Known by the Medical Term, Hidradenitis Suppurativa, or HS.</title>
+      <link>https://clinicaltrials.gov/study/NCT07228390</link>
+      <guid isPermaLink="false">clinical-trials:NCT07228390</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — ACTIVE_NOT_RECRUITING: A Study to Learn About the Study Medicine -Hympavzi in Congenital Hemophilia Patients Without Inhibitors in Japan.</title>
+      <link>https://clinicaltrials.gov/study/NCT07161687</link>
+      <guid isPermaLink="false">clinical-trials:NCT07161687</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — ACTIVE_NOT_RECRUITING PHASE2: A Study to Learn About the Study Medicine (Called PF-07868489) in People With Pulmonary Arterial Hypertension Who Have Previously Participated in a Clinical Study With PF-07868489</title>
+      <link>https://clinicaltrials.gov/study/NCT07073820</link>
+      <guid isPermaLink="false">clinical-trials:NCT07073820</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — ACTIVE_NOT_RECRUITING PHASE3: A Study to Learn About Medicine Called Ritlecitinib in Children Aged Between 6 to 12 Years With Severe Alopecia Areata</title>
+      <link>https://clinicaltrials.gov/study/NCT07029711</link>
+      <guid isPermaLink="false">clinical-trials:NCT07029711</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — RECRUITING PHASE3: A Study to Learn About the Study Medicine Ibuzatrelvir in Adults With COVID-19 Who Are Severely Immunocompromised</title>
+      <link>https://clinicaltrials.gov/study/NCT07013474</link>
+      <guid isPermaLink="false">clinical-trials:NCT07013474</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — COMPLETED PHASE2: A Phase 2b Study to Examine the Safety and Efficacy of Once-Weekly MET097 in Adults With Obesity or Overweight</title>
+      <link>https://clinicaltrials.gov/study/NCT06712836</link>
+      <guid isPermaLink="false">clinical-trials:NCT06712836</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — RECRUITING PHASE3: A Study to Understand How the Study Medicine Dazukibart Works in People With Idiopathic Inflammatory Myopathies</title>
+      <link>https://clinicaltrials.gov/study/NCT06698796</link>
+      <guid isPermaLink="false">clinical-trials:NCT06698796</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — ACTIVE_NOT_RECRUITING: ATTR-CM: A Multi-country, Non-interventional Disease Registry</title>
+      <link>https://clinicaltrials.gov/study/NCT06651073</link>
+      <guid isPermaLink="false">clinical-trials:NCT06651073</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — ACTIVE_NOT_RECRUITING: Litfulo Capsules Special Investigation</title>
+      <link>https://clinicaltrials.gov/study/NCT06279221</link>
+      <guid isPermaLink="false">clinical-trials:NCT06279221</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — ACTIVE_NOT_RECRUITING PHASE3: A 52-Week Study to Learn About the Safety and Effects of Ritlecitinib in Participants With Nonsegmental Vitiligo</title>
+      <link>https://clinicaltrials.gov/study/NCT06163326</link>
+      <guid isPermaLink="false">clinical-trials:NCT06163326</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — ACTIVE_NOT_RECRUITING PHASE1: A Study to Learn About the Study Medicine Called PF-07799544 as Monotherapy or in Combination in People With Advanced Solid Tumors</title>
+      <link>https://clinicaltrials.gov/study/NCT05538130</link>
+      <guid isPermaLink="false">clinical-trials:NCT05538130</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — ACTIVE_NOT_RECRUITING PHASE1: A Study to Learn About the Study Medicine Called PF-07799933 in People With Advanced Solid Tumors With BRAF Alterations.</title>
+      <link>https://clinicaltrials.gov/study/NCT05355701</link>
+      <guid isPermaLink="false">clinical-trials:NCT05355701</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — ACTIVE_NOT_RECRUITING: Study of Pregnancy Outcomes in Women Exposed to Rimegepant During Pregnancy</title>
+      <link>https://clinicaltrials.gov/study/NCT05198245</link>
+      <guid isPermaLink="false">clinical-trials:NCT05198245</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — ACTIVE_NOT_RECRUITING PHASE4: Lorlatinib Continuation Study</title>
+      <link>https://clinicaltrials.gov/study/NCT05144997</link>
+      <guid isPermaLink="false">clinical-trials:NCT05144997</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — COMPLETED: Korean Post-marketing Surveillance Vyndamax® Capsules for the Treatment of Transthyretin Amyloid Cardiomyopathy</title>
+      <link>https://clinicaltrials.gov/study/NCT04801329</link>
+      <guid isPermaLink="false">clinical-trials:NCT04801329</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — COMPLETED: Safety and Efficacy of Xalkori ROS1</title>
+      <link>https://clinicaltrials.gov/study/NCT03375242</link>
+      <guid isPermaLink="false">clinical-trials:NCT03375242</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer — NOT_YET_RECRUITING PHASE3: A Study to Learn About the Study Medicine Called Tilrekimig in People With Moderate-to Severe Eczema</title>
+      <link>https://clinicaltrials.gov/study/NCT07783425</link>
+      <guid isPermaLink="false">clinical-trials:NCT07783425</guid>
       <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
@@ -66,21 +186,9 @@
       <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>Pfizer — RECRUITING PHASE3: Study to Learn About Safety, Tolerability, and Immune Response of a Catch-up Pneumococcal Vaccine in Children and Adolescents</title>
-      <link>https://clinicaltrials.gov/study/NCT07660198</link>
-      <guid isPermaLink="false">clinical-trials:NCT07660198</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
       <title>Pfizer — RECRUITING PHASE4: A Study to Learn About the Safety of Taking an Additional Dose of the Medicine Rimegepant in Adults With Migraine</title>
       <link>https://clinicaltrials.gov/study/NCT07609914</link>
       <guid isPermaLink="false">clinical-trials:NCT07609914</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pfizer — COMPLETED PHASE1: A Study to Compare the Amount of Two Forms of Tafamidis in the Blood of Healthy Adults Under Fasting Conditions</title>
-      <link>https://clinicaltrials.gov/study/NCT07587697</link>
-      <guid isPermaLink="false">clinical-trials:NCT07587697</guid>
       <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
@@ -90,33 +198,9 @@
       <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>Pfizer — RECRUITING PHASE2/PHASE3: A Study to Learn About the Study Medicine Called PF-07275315 in People With Moderate to Severe Chronic Obstructive Pulmonary Disease</title>
-      <link>https://clinicaltrials.gov/study/NCT07363694</link>
-      <guid isPermaLink="false">clinical-trials:NCT07363694</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pfizer — ACTIVE_NOT_RECRUITING: A Study to Learn How Effective is PCV20 to Help Stop Adults Who Have a Higher Chance of Getting Pneumonia</title>
-      <link>https://clinicaltrials.gov/study/NCT07251465</link>
-      <guid isPermaLink="false">clinical-trials:NCT07251465</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
       <title>Pfizer — RECRUITING PHASE1: A Study to Learn How Different Amounts of the Study Medicine Called PF-08065010 Are Tolerated and Act in the Body of Healthy Adults</title>
       <link>https://clinicaltrials.gov/study/NCT07235163</link>
       <guid isPermaLink="false">clinical-trials:NCT07235163</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pfizer — ACTIVE_NOT_RECRUITING PHASE2: A 16-Week Study to Learn About the Study Medicine Called Ritlecitinib in Adults With Long Lasting Painful Red Skin Lumps, Known by the Medical Term, Hidradenitis Suppurativa, or HS.</title>
-      <link>https://clinicaltrials.gov/study/NCT07228390</link>
-      <guid isPermaLink="false">clinical-trials:NCT07228390</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pfizer — ACTIVE_NOT_RECRUITING: A Study to Learn About the Study Medicine -Hympavzi in Congenital Hemophilia Patients Without Inhibitors in Japan.</title>
-      <link>https://clinicaltrials.gov/study/NCT07161687</link>
-      <guid isPermaLink="false">clinical-trials:NCT07161687</guid>
       <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
@@ -126,45 +210,9 @@
       <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>Pfizer — ACTIVE_NOT_RECRUITING PHASE2: A Study to Learn About the Study Medicine (Called PF-07868489) in People With Pulmonary Arterial Hypertension Who Have Previously Participated in a Clinical Study With PF-07868489</title>
-      <link>https://clinicaltrials.gov/study/NCT07073820</link>
-      <guid isPermaLink="false">clinical-trials:NCT07073820</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pfizer — ACTIVE_NOT_RECRUITING PHASE3: A Study to Learn About Medicine Called Ritlecitinib in Children Aged Between 6 to 12 Years With Severe Alopecia Areata</title>
-      <link>https://clinicaltrials.gov/study/NCT07029711</link>
-      <guid isPermaLink="false">clinical-trials:NCT07029711</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pfizer — RECRUITING PHASE3: A Study to Learn About the Study Medicine Ibuzatrelvir in Adults With COVID-19 Who Are Severely Immunocompromised</title>
-      <link>https://clinicaltrials.gov/study/NCT07013474</link>
-      <guid isPermaLink="false">clinical-trials:NCT07013474</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
       <title>Pfizer — RECRUITING PHASE2/PHASE3: A Study to Learn About the Medicine Ponsegromab in Adults With Cancer of the Pancreas Which Has Spread and Caused Significant Body Weight Loss and Fatigue</title>
       <link>https://clinicaltrials.gov/study/NCT06989437</link>
       <guid isPermaLink="false">clinical-trials:NCT06989437</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pfizer — COMPLETED PHASE2: A Phase 2b Study to Examine the Safety and Efficacy of Once-Weekly MET097 in Adults With Obesity or Overweight</title>
-      <link>https://clinicaltrials.gov/study/NCT06712836</link>
-      <guid isPermaLink="false">clinical-trials:NCT06712836</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pfizer — RECRUITING PHASE3: A Study to Understand How the Study Medicine Dazukibart Works in People With Idiopathic Inflammatory Myopathies</title>
-      <link>https://clinicaltrials.gov/study/NCT06698796</link>
-      <guid isPermaLink="false">clinical-trials:NCT06698796</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pfizer — ACTIVE_NOT_RECRUITING: ATTR-CM: A Multi-country, Non-interventional Disease Registry</title>
-      <link>https://clinicaltrials.gov/study/NCT06651073</link>
-      <guid isPermaLink="false">clinical-trials:NCT06651073</guid>
       <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
@@ -180,18 +228,6 @@
       <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>Pfizer — ACTIVE_NOT_RECRUITING: Litfulo Capsules Special Investigation</title>
-      <link>https://clinicaltrials.gov/study/NCT06279221</link>
-      <guid isPermaLink="false">clinical-trials:NCT06279221</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pfizer — ACTIVE_NOT_RECRUITING PHASE3: A 52-Week Study to Learn About the Safety and Effects of Ritlecitinib in Participants With Nonsegmental Vitiligo</title>
-      <link>https://clinicaltrials.gov/study/NCT06163326</link>
-      <guid isPermaLink="false">clinical-trials:NCT06163326</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
       <title>Pfizer — RECRUITING PHASE3: MagnetisMM-32: A Study to Learn About the Study Medicine Called Elranatamab in People With Multiple Myeloma (MM) That Has Come Back After Taking Other Treatments (Including Prior Treatment With an Anti-CD38 Antibody and Lenalidomide)</title>
       <link>https://clinicaltrials.gov/study/NCT06152575</link>
       <guid isPermaLink="false">clinical-trials:NCT06152575</guid>
@@ -204,33 +240,9 @@
       <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>Pfizer — ACTIVE_NOT_RECRUITING PHASE1: A Study to Learn About the Study Medicine Called PF-07799544 as Monotherapy or in Combination in People With Advanced Solid Tumors</title>
-      <link>https://clinicaltrials.gov/study/NCT05538130</link>
-      <guid isPermaLink="false">clinical-trials:NCT05538130</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pfizer — ACTIVE_NOT_RECRUITING PHASE1: A Study to Learn About the Study Medicine Called PF-07799933 in People With Advanced Solid Tumors With BRAF Alterations.</title>
-      <link>https://clinicaltrials.gov/study/NCT05355701</link>
-      <guid isPermaLink="false">clinical-trials:NCT05355701</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pfizer — ACTIVE_NOT_RECRUITING: Study of Pregnancy Outcomes in Women Exposed to Rimegepant During Pregnancy</title>
-      <link>https://clinicaltrials.gov/study/NCT05198245</link>
-      <guid isPermaLink="false">clinical-trials:NCT05198245</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
       <title>Pfizer — RECRUITING PHASE3: Efficacy and Safety Study of Rimegepant for the Preventative Treatment of Migraine in Pediatric Subjects</title>
       <link>https://clinicaltrials.gov/study/NCT05156398</link>
       <guid isPermaLink="false">clinical-trials:NCT05156398</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pfizer — ACTIVE_NOT_RECRUITING PHASE4: Lorlatinib Continuation Study</title>
-      <link>https://clinicaltrials.gov/study/NCT05144997</link>
-      <guid isPermaLink="false">clinical-trials:NCT05144997</guid>
       <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
@@ -240,21 +252,9 @@
       <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>Pfizer — COMPLETED: Korean Post-marketing Surveillance Vyndamax® Capsules for the Treatment of Transthyretin Amyloid Cardiomyopathy</title>
-      <link>https://clinicaltrials.gov/study/NCT04801329</link>
-      <guid isPermaLink="false">clinical-trials:NCT04801329</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
       <title>Pfizer — RECRUITING PHASE1: A Study of Mevrometostat for Treatment of Relapsed/Refractory SCLC, Castration Resistant Prostate Cancer, and Follicular Lymphoma</title>
       <link>https://clinicaltrials.gov/study/NCT03460977</link>
       <guid isPermaLink="false">clinical-trials:NCT03460977</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pfizer — COMPLETED: Safety and Efficacy of Xalkori ROS1</title>
-      <link>https://clinicaltrials.gov/study/NCT03375242</link>
-      <guid isPermaLink="false">clinical-trials:NCT03375242</guid>
       <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>

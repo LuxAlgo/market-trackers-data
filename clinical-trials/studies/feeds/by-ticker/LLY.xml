@@ -4,71 +4,89 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — LLY</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 13:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:12:15 GMT</lastBuildDate>
     <item>
       <title>Eli Lilly and Company — NOT_YET_RECRUITING PHASE1: A Study Comparing Two Ways of Taking Olomorasib (LY3537982) in Healthy Participants</title>
       <link>https://clinicaltrials.gov/study/NCT07794592</link>
       <guid isPermaLink="false">clinical-trials:NCT07794592</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — NOT_YET_RECRUITING PHASE3: A Study of Orforglipron in Participants With Overweight at Risk of Development of Obesity-Related Complications or Progression to Class 1 Obesity</title>
       <link>https://clinicaltrials.gov/study/NCT07794579</link>
       <guid isPermaLink="false">clinical-trials:NCT07794579</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — NOT_YET_RECRUITING PHASE3: A Study of Orforglipron (LY3502970) in Chinese Participants With Obesity or Overweight and Weight-Related Health Problems</title>
       <link>https://clinicaltrials.gov/study/NCT07790861</link>
       <guid isPermaLink="false">clinical-trials:NCT07790861</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — NOT_YET_RECRUITING PHASE1: A Study of LY4405094 in Healthy Participants and Participants With Alzheimer's Disease</title>
       <link>https://clinicaltrials.gov/study/NCT07787182</link>
       <guid isPermaLink="false">clinical-trials:NCT07787182</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — NOT_YET_RECRUITING PHASE1: A Master Protocol Studying Multiple Amyloid-Targeting Therapies in Healthy Participants and Participants With Alzheimer's Disease</title>
       <link>https://clinicaltrials.gov/study/NCT07787169</link>
       <guid isPermaLink="false">clinical-trials:NCT07787169</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — NOT_YET_RECRUITING PHASE2: A Study of Clazakizumab (LY5724886) in Adults With Elevated hsCRP and at Increased Risk for Cardiovascular Event</title>
       <link>https://clinicaltrials.gov/study/NCT07783802</link>
       <guid isPermaLink="false">clinical-trials:NCT07783802</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — NOT_YET_RECRUITING PHASE3: A Study of Brenipatide (LY3537031) in Adult Participants With Major Depressive Disorder</title>
       <link>https://clinicaltrials.gov/study/NCT07775300</link>
       <guid isPermaLink="false">clinical-trials:NCT07775300</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — NOT_YET_RECRUITING PHASE2: A Study of Brenipatide (LY3537031) in Adult Participants With Moderate-to-Severe Chronic Obstructive Pulmonary Disease (COPD)</title>
-      <link>https://clinicaltrials.gov/study/NCT07759245</link>
-      <guid isPermaLink="false">clinical-trials:NCT07759245</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — RECRUITING PHASE1: A Study of LY4174794 in Participants With Obesity or Overweight Who Are Otherwise Healthy</title>
       <link>https://clinicaltrials.gov/study/NCT07654972</link>
       <guid isPermaLink="false">clinical-trials:NCT07654972</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — COMPLETED PHASE1: A Study of the Effects of Itraconazole on LY4395089 in Healthy Participants</title>
       <link>https://clinicaltrials.gov/study/NCT07592572</link>
       <guid isPermaLink="false">clinical-trials:NCT07592572</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — RECRUITING PHASE2: A Study of Donanemab (LY3002813) in Participants With Early Cognitive Decline (TRAILBLAZER-ALZ 7)</title>
       <link>https://clinicaltrials.gov/study/NCT07589595</link>
       <guid isPermaLink="false">clinical-trials:NCT07589595</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE3: A Study of Baricitinib (LY3009104) for the Delay of Stage 3 Type 1 Diabetes in At-Risk Children and Adults</title>
+      <link>https://clinicaltrials.gov/study/NCT07222137</link>
+      <guid isPermaLink="false">clinical-trials:NCT07222137</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — TERMINATED PHASE2: A Study of LY3549492 in Adults With Obesity or Overweight With Type 2 Diabetes</title>
+      <link>https://clinicaltrials.gov/study/NCT07030868</link>
+      <guid isPermaLink="false">clinical-trials:NCT07030868</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — ACTIVE_NOT_RECRUITING PHASE3: A Study of Donanemab (LY3002813) in Participants With Early Alzheimer's Disease (TRAILBLAZER-ALZ 2)</title>
+      <link>https://clinicaltrials.gov/study/NCT04437511</link>
+      <guid isPermaLink="false">clinical-trials:NCT04437511</guid>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — NOT_YET_RECRUITING PHASE2: A Study of Brenipatide (LY3537031) in Adult Participants With Moderate-to-Severe Chronic Obstructive Pulmonary Disease (COPD)</title>
+      <link>https://clinicaltrials.gov/study/NCT07759245</link>
+      <guid isPermaLink="false">clinical-trials:NCT07759245</guid>
       <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
@@ -150,18 +168,6 @@
       <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>Eli Lilly and Company — RECRUITING PHASE3: A Study of Baricitinib (LY3009104) for the Delay of Stage 3 Type 1 Diabetes in At-Risk Children and Adults</title>
-      <link>https://clinicaltrials.gov/study/NCT07222137</link>
-      <guid isPermaLink="false">clinical-trials:NCT07222137</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — TERMINATED PHASE2: A Study of LY3549492 in Adults With Obesity or Overweight With Type 2 Diabetes</title>
-      <link>https://clinicaltrials.gov/study/NCT07030868</link>
-      <guid isPermaLink="false">clinical-trials:NCT07030868</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
       <title>Eli Lilly and Company — RECRUITING PHASE3: Study of Olomorasib (LY3537982) in Combination With Standard of Care in Participants With Resected or Unresectable KRAS G12C-mutant Non-Small Cell Lung Cancer</title>
       <link>https://clinicaltrials.gov/study/NCT06890598</link>
       <guid isPermaLink="false">clinical-trials:NCT06890598</guid>
@@ -237,12 +243,6 @@
       <title>Eli Lilly and Company — RECRUITING PHASE3: A Master Protocol (AMAZ): A Study of Mirikizumab (LY3074828) in Pediatric Participants With Ulcerative Colitis or Crohn's Disease (SHINE-ON)</title>
       <link>https://clinicaltrials.gov/study/NCT04844606</link>
       <guid isPermaLink="false">clinical-trials:NCT04844606</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — ACTIVE_NOT_RECRUITING PHASE3: A Study of Donanemab (LY3002813) in Participants With Early Alzheimer's Disease (TRAILBLAZER-ALZ 2)</title>
-      <link>https://clinicaltrials.gov/study/NCT04437511</link>
-      <guid isPermaLink="false">clinical-trials:NCT04437511</guid>
       <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>

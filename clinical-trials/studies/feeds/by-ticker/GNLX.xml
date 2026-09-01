@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — GNLX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 13:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:12:15 GMT</lastBuildDate>
     <item>
       <title>Genelux Corporation — RECRUITING PHASE3: Efficacy &amp; Safety of Olvi-Vec and Platinum-doublet + Bevacizumab Compared to Physician's Choice of Chemotherapy and Bevacizumab in Platinum-Resistant/Refractory Ovarian Cancer (PRROC) (OnPrime, GOG-3076)</title>
       <link>https://clinicaltrials.gov/study/NCT05281471</link>
       <guid isPermaLink="false">clinical-trials:NCT05281471</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
   </channel>
 </rss>

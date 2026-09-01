@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — NUVB</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 13:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:12:15 GMT</lastBuildDate>
     <item>
       <title>Nuvation Bio Inc. — NOT_YET_RECRUITING PHASE2: Safety and Efficacy Study of Safusidenib in Participants With IDH1-Mutant Glioma Who Discontinued Vorasidenib Treatment Due to Progressive Disease</title>
       <link>https://clinicaltrials.gov/study/NCT07703436</link>
       <guid isPermaLink="false">clinical-trials:NCT07703436</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
     <item>
       <title>Nuvation Bio Inc. — RECRUITING PHASE3: SIGMA (Safusidenib in IDH1 Mutant Glioma Maintenance)</title>
       <link>https://clinicaltrials.gov/study/NCT05303519</link>
       <guid isPermaLink="false">clinical-trials:NCT05303519</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
     </item>
   </channel>
 </rss>

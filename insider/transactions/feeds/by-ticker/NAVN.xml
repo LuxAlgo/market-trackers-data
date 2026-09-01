@@ -4,7 +4,91 @@
     <title>LuxAlgo Market Trackers — Insider transactions — NAVN</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>Cohen Ariel M. (NAVN) S: 75000 shares @ $30.1441</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1853730/0001853730-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001853730-26-000011:nd:6</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen Ariel M. (NAVN) C: 75000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1853730/0001853730-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001853730-26-000011:nd:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen Ariel M. (NAVN) S: 75000 shares @ $30.1441</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1853730/0001853730-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001853730-26-000011:nd:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen Ariel M. (NAVN) C: 75000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1853730/0001853730-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001853730-26-000011:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen Ariel M. (NAVN) S: 75000 shares @ $30.1441</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1853730/0001853730-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001853730-26-000011:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen Ariel M. (NAVN) C: 75000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1853730/0001853730-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001853730-26-000011:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen Ariel M. (NAVN) S: 168378 shares @ $30.1441</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1853730/0001853730-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001853730-26-000011:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen Ariel M. (NAVN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1853730/0001853730-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001853730-26-000011:d:6</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen Ariel M. (NAVN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1853730/0001853730-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001853730-26-000011:d:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen Ariel M. (NAVN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1853730/0001853730-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001853730-26-000011:d:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen Ariel M. (NAVN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1853730/0001853730-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001853730-26-000011:d:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen Ariel M. (NAVN) C: 75000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1853730/0001853730-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001853730-26-000011:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen Ariel M. (NAVN) C: 75000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1853730/0001853730-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001853730-26-000011:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cohen Ariel M. (NAVN) C: 75000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1853730/0001853730-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001853730-26-000011:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:39 GMT</pubDate>
+    </item>
     <item>
       <title>ZEEV OREN (NAVN) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1878390/0001193125-26-363930-index.htm</link>

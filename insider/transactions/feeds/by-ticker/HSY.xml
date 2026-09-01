@@ -4,7 +4,67 @@
     <title>LuxAlgo Market Trackers — Insider transactions — HSY</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002466-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950142-26-002466:nd:8</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 116 shares @ $183.5758</title>
+      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002466-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950142-26-002466:nd:7</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 478 shares @ $182.6398</title>
+      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002466-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950142-26-002466:nd:6</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 642 shares @ $181.397</title>
+      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002466-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950142-26-002466:nd:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 2898 shares @ $180.3362</title>
+      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002466-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950142-26-002466:nd:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 5866 shares @ $179.4091</title>
+      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002466-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950142-26-002466:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 341 shares @ $182.2261</title>
+      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002466-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950142-26-002466:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 5703 shares @ $181.4053</title>
+      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002466-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950142-26-002466:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 3956 shares @ $180.7249</title>
+      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002466-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950142-26-002466:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002466-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000950142-26-002466:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:17 GMT</pubDate>
+    </item>
     <item>
       <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 636 shares @ $187.2748</title>
       <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002434-index.htm</link>

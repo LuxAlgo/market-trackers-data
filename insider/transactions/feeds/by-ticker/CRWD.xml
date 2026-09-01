@@ -4,7 +4,199 @@
     <title>LuxAlgo Market Trackers — Insider transactions — CRWD</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>Kurtz George (CRWD) S: 160 shares @ $226.46</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000151-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000151:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 40 shares @ $223.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000151-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000151:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 320 shares @ $220.61</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:9</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 480 shares @ $219.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:8</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 120 shares @ $218.34</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:7</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 280 shares @ $216.96</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:6</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 200 shares @ $216.08</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 40 shares @ $213.88</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 80 shares @ $213.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:29</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 40 shares @ $221.68</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:28</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 80 shares @ $220.4</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:27</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 120 shares @ $219.33</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:26</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 1120 shares @ $218.25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:25</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 4160 shares @ $217.59</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:24</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 1760 shares @ $216.67</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:23</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 360 shares @ $215.33</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:22</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 444 shares @ $214.4</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:21</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 716 shares @ $213.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:20</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 40 shares @ $211.03</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 560 shares @ $212.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:19</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 440 shares @ $211.16</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:18</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 280 shares @ $228.7</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:17</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 840 shares @ $227.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:16</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 1240 shares @ $226.78</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:15</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 1520 shares @ $225.86</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:14</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 920 shares @ $224.79</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:13</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 1080 shares @ $223.51</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:12</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 1720 shares @ $222.6</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:11</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 760 shares @ $221.58</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:10</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 40 shares @ $207.94</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurtz George (CRWD) S: 40 shares @ $206.67</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000150-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001778564-26-000150:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
     <item>
       <title>Kurtz George (CRWD) S: 400 shares @ $191.97</title>
       <link>https://www.sec.gov/Archives/edgar/data/1778564/0000950103-26-013019-index.htm</link>

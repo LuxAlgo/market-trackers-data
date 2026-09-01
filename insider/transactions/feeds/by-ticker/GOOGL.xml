@@ -4,7 +4,37 @@
     <title>LuxAlgo Market Trackers — Insider transactions — GOOGL</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>ARNOLD FRANCES (GOOGL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1665419/0001193125-26-377149-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377149:nd:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>ARNOLD FRANCES (GOOGL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1665419/0001193125-26-377149-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377149:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>ARNOLD FRANCES (GOOGL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1665419/0001193125-26-377149-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377149:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>ARNOLD FRANCES (GOOGL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1665419/0001193125-26-377149-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377149:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>ARNOLD FRANCES (GOOGL) S: 82 shares @ $337.71</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1665419/0001193125-26-377149-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377149:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
     <item>
       <title>Saraci Marsida (GOOGL) F: 27 shares @ $344.59</title>
       <link>https://www.sec.gov/Archives/edgar/data/2138895/0001193125-26-371778-index.htm</link>

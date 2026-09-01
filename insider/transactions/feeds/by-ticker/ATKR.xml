@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — ATKR</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>Deitzer John Michael (ATKR) A: 47.3071 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2035295/0002035295-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002035295-26-000006:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alvey James William (ATKR) A: 9.3472 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034019/0002034019-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002034019-26-000005:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Edmonds Franklin S. Jr. (ATKR) A: 9.9901 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1845216/0001845216-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001845216-26-000007:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pregenzer John W (ATKR) A: 82.0816 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1825727/0001825727-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001825727-26-000007:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lowe LeAngela W. (ATKR) A: 35.998 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1777650/0001777650-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001777650-26-000005:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lamps Mark F. (ATKR) A: 47.2682 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1769052/0001769052-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001769052-26-000009:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Edwards Barbara Joanne (ATKR) A: 18.1266 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1757393/0001757393-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001757393-26-000007:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kershaw Justin A (ATKR) A: 65.8708 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1713397/0001713397-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001713397-26-000009:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>James Wilbert W Jr (ATKR) A: 60.3943 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1713395/0001713395-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001713395-26-000009:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Waltz William E Jr. (ATKR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1674332/0001674332-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001674332-26-000007:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Waltz William E Jr. (ATKR) A: 241.5218 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1674332/0001674332-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001674332-26-000007:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kelly Daniel S (ATKR) A: 36.3726 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1674314/0001674314-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001674314-26-000005:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zeffiro A Mark (ATKR) A: 48.3504 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1666138/0001446066-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001446066-26-000008:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>WYNN BETTY R. (ATKR) A: 27.8792 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1666138/0001441619-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001441619-26-000007:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>MUSE SCOTT  H (ATKR) A: 94.9477 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1666138/0001224118-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001224118-26-000007:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isbell Jeri L (ATKR) A: 97.8667 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1666138/0001218799-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001218799-26-000007:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHROCK MICHAEL V (ATKR) A: 8.0939 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1666138/0001189053-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001189053-26-000010:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

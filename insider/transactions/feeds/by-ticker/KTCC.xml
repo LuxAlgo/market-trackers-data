@@ -4,7 +4,283 @@
     <title>LuxAlgo Market Trackers — Insider transactions — KTCC</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>Agress Adam L (KTCC) S: 1784 shares @ $3.73</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0002150553-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002150553-26-000007:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agress Adam L (KTCC) M: 5995 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0002150553-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002150553-26-000007:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agress Adam L (KTCC) M: 5995 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0002150553-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002150553-26-000007:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voorhees Anthony Gene (KTCC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001942685-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001942685-26-000004:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voorhees Anthony Gene (KTCC) S: 2252 shares @ $3.73</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001942685-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001942685-26-000004:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voorhees Anthony Gene (KTCC) M: 7494 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001942685-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001942685-26-000004:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voorhees Anthony Gene (KTCC) M: 7494 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001942685-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001942685-26-000004:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Courtney Mark R (KTCC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001786730-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001786730-26-000005:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Courtney Mark R (KTCC) S: 884 shares @ $3.73</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001786730-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001786730-26-000005:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Courtney Mark R (KTCC) M: 2997 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001786730-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001786730-26-000005:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Courtney Mark R (KTCC) M: 2997 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001786730-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001786730-26-000005:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Orebaugh Chad Thomas (KTCC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001708519-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001708519-26-000004:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Orebaugh Chad Thomas (KTCC) S: 1482 shares @ $3.73</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001708519-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001708519-26-000004:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Orebaugh Chad Thomas (KTCC) M: 5995 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001708519-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001708519-26-000004:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Orebaugh Chad Thomas (KTCC) M: 5995 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001708519-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001708519-26-000004:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Knaggs David H. (KTCC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001689252-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001689252-26-000004:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Knaggs David H. (KTCC) S: 1482 shares @ $3.73</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001689252-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001689252-26-000004:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Knaggs David H. (KTCC) M: 5995 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001689252-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001689252-26-000004:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Knaggs David H. (KTCC) M: 5995 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001689252-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001689252-26-000004:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mackleit Duane D (KTCC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001555394-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001555394-26-000004:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mackleit Duane D (KTCC) S: 1482 shares @ $3.73</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001555394-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001555394-26-000004:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mackleit Duane D (KTCC) M: 5995 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001555394-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001555394-26-000004:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mackleit Duane D (KTCC) M: 5995 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001555394-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001555394-26-000004:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Larsen Brett R. (KTCC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001484792-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001484792-26-000004:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Larsen Brett R. (KTCC) S: 2957 shares @ $3.73</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001484792-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001484792-26-000004:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Larsen Brett R. (KTCC) M: 11990 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001484792-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001484792-26-000004:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Larsen Brett R. (KTCC) M: 11990 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001484792-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001484792-26-000004:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hochberg Philip Scott (KTCC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001475268-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001475268-26-000004:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hochberg Philip Scott (KTCC) S: 1851 shares @ $3.73</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001475268-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001475268-26-000004:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hochberg Philip Scott (KTCC) M: 7494 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001475268-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001475268-26-000004:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hochberg Philip Scott (KTCC) M: 7494 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001475268-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001475268-26-000004:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kulkarni Subodh K (KTCC) M: 14388 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001388191-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001388191-26-000004:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kulkarni Subodh K (KTCC) M: 14388 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001388191-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001388191-26-000004:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beranek Cheryl (KTCC) M: 14388 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001264406-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001264406-26-000005:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beranek Cheryl (KTCC) M: 14388 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001264406-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001264406-26-000005:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>BEAN JAMES R (KTCC) M: 14388 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001261149-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001261149-26-000004:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>BEAN JAMES R (KTCC) M: 14388 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001261149-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001261149-26-000004:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>SHAMASH YACOV A (KTCC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001013589-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001013589-26-000004:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>SHAMASH YACOV A (KTCC) M: 14388 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001013589-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001013589-26-000004:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>SHAMASH YACOV A (KTCC) M: 14388 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001013589-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001013589-26-000004:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>KLAWITTER RONALD F (KTCC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001013585-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001013585-26-000004:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>KLAWITTER RONALD F (KTCC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001013585-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001013585-26-000004:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>KLAWITTER RONALD F (KTCC) M: 14388 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001013585-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001013585-26-000004:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>KLAWITTER RONALD F (KTCC) M: 14388 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001013585-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001013585-26-000004:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GATES CRAIG D (KTCC) M: 14388 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001013581-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001013581-26-000004:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GATES CRAIG D (KTCC) M: 14388 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/719733/0001013581-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001013581-26-000004:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:09 GMT</pubDate>
+    </item>
     <item>
       <title>Agress Adam L (KTCC) A: 13404 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/719733/0002150553-26-000005-index.htm</link>

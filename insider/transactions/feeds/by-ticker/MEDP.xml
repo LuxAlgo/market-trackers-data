@@ -4,7 +4,19 @@
     <title>LuxAlgo Market Trackers — Insider transactions — MEDP</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>Troendle August J. (MEDP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1668397/0001622058-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001622058-26-000010:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troendle August J. (MEDP) S: 650 shares @ $620.27</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1668397/0001622058-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001622058-26-000010:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:21 GMT</pubDate>
+    </item>
     <item>
       <title>Kraft Robert O. (MEDP) S: 3858 shares @ $617.81</title>
       <link>https://www.sec.gov/Archives/edgar/data/1668397/0001558592-26-000010-index.htm</link>

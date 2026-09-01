@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — XELB</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>D LOREN ROBERT W (XELB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1086742/0001104659-26-103671-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103671:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:40:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>D LOREN ROBERT W (XELB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1086742/0001104659-26-103671-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103671:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:40:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>D LOREN ROBERT W (XELB) P: 3500 shares @ $0.955</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1086742/0001104659-26-103671-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103671:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:40:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>D LOREN ROBERT W (XELB) P: 2000 shares @ $0.955</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1086742/0001104659-26-103671-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103671:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:40:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>D LOREN ROBERT W (XELB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1086742/0001104659-26-102492-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-102492:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>D LOREN ROBERT W (XELB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1086742/0001104659-26-102492-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-102492:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>D LOREN ROBERT W (XELB) P: 10000 shares @ $0.955</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1086742/0001104659-26-102492-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-102492:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>D LOREN ROBERT W (XELB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1086742/0001104659-26-100839-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100839:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>D LOREN ROBERT W (XELB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1086742/0001104659-26-100839-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100839:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>D LOREN ROBERT W (XELB) P: 10000 shares @ $0.875</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1086742/0001104659-26-100839-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100839:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>D LOREN ROBERT W (XELB) P: 12000 shares @ $0.869</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1086742/0001104659-26-100839-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100839:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>D LOREN ROBERT W (XELB) F: 11402 shares @ $1.8</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1086742/0001104659-26-100839-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100839:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>D LOREN ROBERT W (XELB) A: 24681 shares @ $1.8</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1086742/0001104659-26-100839-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100839:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:20 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

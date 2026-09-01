@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — VIAV</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>SCRIVANICH LUKE M (VIAV) S: 23911 shares @ $36.37</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000078:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCRIVANICH LUKE M (VIAV) F: 7736 shares @ $36.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000076:nd:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCRIVANICH LUKE M (VIAV) M: 15204 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000076:nd:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCRIVANICH LUKE M (VIAV) F: 10096 shares @ $36.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000076:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCRIVANICH LUKE M (VIAV) M: 19841 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000076:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCRIVANICH LUKE M (VIAV) F: 6938 shares @ $36.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000076:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCRIVANICH LUKE M (VIAV) M: 13636 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000076:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCRIVANICH LUKE M (VIAV) A: 11039 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000076:d:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCRIVANICH LUKE M (VIAV) A: 11039 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000076:d:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCRIVANICH LUKE M (VIAV) M: 15204 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000076:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCRIVANICH LUKE M (VIAV) M: 19841 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000076:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCRIVANICH LUKE M (VIAV) M: 13636 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000076:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daskal Ilan (VIAV) S: 26033 shares @ $36.29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000074:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daskal Ilan (VIAV) S: 30257 shares @ $36.29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000074:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daskal Ilan (VIAV) F: 21387 shares @ $36.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000072:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daskal Ilan (VIAV) M: 47420 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000072:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daskal Ilan (VIAV) F: 24857 shares @ $36.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000072:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daskal Ilan (VIAV) M: 55114 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000072:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daskal Ilan (VIAV) A: 34861 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000072:d:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daskal Ilan (VIAV) A: 34861 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000072:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daskal Ilan (VIAV) M: 47420 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000072:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daskal Ilan (VIAV) M: 55114 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000072:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Siebert Kevin Christopher (VIAV) F: 5190 shares @ $36.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000070:nd:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Siebert Kevin Christopher (VIAV) M: 11506 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000070:nd:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Siebert Kevin Christopher (VIAV) F: 6960 shares @ $36.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000070:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Siebert Kevin Christopher (VIAV) M: 15432 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000070:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Siebert Kevin Christopher (VIAV) F: 4784 shares @ $36.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000070:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Siebert Kevin Christopher (VIAV) M: 10606 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000070:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Siebert Kevin Christopher (VIAV) A: 9296 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000070:d:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Siebert Kevin Christopher (VIAV) A: 9296 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000070:d:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Siebert Kevin Christopher (VIAV) M: 11506 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000070:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Siebert Kevin Christopher (VIAV) M: 15432 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000070:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Siebert Kevin Christopher (VIAV) M: 10606 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000070:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Staley Gary W (VIAV) F: 6468 shares @ $36.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000068:nd:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Staley Gary W (VIAV) M: 16437 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000068:nd:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Staley Gary W (VIAV) F: 8676 shares @ $36.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000068:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Staley Gary W (VIAV) M: 22046 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000068:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Staley Gary W (VIAV) F: 5962 shares @ $36.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000068:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Staley Gary W (VIAV) M: 15151 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000068:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Staley Gary W (VIAV) A: 12782 shares @ $36.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000068:d:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Staley Gary W (VIAV) A: 12782 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000068:d:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Staley Gary W (VIAV) M: 16437 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000068:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Staley Gary W (VIAV) M: 22046 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000068:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Staley Gary W (VIAV) M: 15151 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000068:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Petrucci Anthony Michael (VIAV) F: 3002 shares @ $36.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000066:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Petrucci Anthony Michael (VIAV) M: 12328 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000066:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Petrucci Anthony Michael (VIAV) A: 11039 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000066:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Petrucci Anthony Michael (VIAV) A: 11039 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000066:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Petrucci Anthony Michael (VIAV) M: 12328 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000066:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>McNab Paul (VIAV) F: 7527 shares @ $36.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000064-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000064:nd:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>McNab Paul (VIAV) M: 14793 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000064-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000064:nd:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>McNab Paul (VIAV) F: 9535 shares @ $36.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000064-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000064:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>McNab Paul (VIAV) M: 18739 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000064-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000064:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>McNab Paul (VIAV) F: 6553 shares @ $36.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000064-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000064:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>McNab Paul (VIAV) M: 12878 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000064-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000064:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>McNab Paul (VIAV) A: 11039 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000064-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000064:d:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>McNab Paul (VIAV) A: 11039 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000064-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000064:d:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>McNab Paul (VIAV) M: 14793 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000064-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000064:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>McNab Paul (VIAV) M: 18739 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000064-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000064:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>McNab Paul (VIAV) M: 12878 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000064-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000064:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>KHAYKIN OLEG (VIAV) F: 45076 shares @ $35.64</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000062-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000062:nd:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>KHAYKIN OLEG (VIAV) M: 105194 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000062-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000062:nd:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>KHAYKIN OLEG (VIAV) F: 54413 shares @ $36.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000062-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000062:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>KHAYKIN OLEG (VIAV) M: 126984 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000062-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000062:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>KHAYKIN OLEG (VIAV) F: 47395 shares @ $36.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000062-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000062:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>KHAYKIN OLEG (VIAV) M: 110606 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000062-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000062:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>KHAYKIN OLEG (VIAV) A: 139444 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000062-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000062:d:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>KHAYKIN OLEG (VIAV) A: 92963 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000062-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000062:d:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>KHAYKIN OLEG (VIAV) M: 105194 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000062-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000062:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>KHAYKIN OLEG (VIAV) M: 126984 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000062-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000062:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>KHAYKIN OLEG (VIAV) M: 110606 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912093/0000912093-26-000062-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000912093-26-000062:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

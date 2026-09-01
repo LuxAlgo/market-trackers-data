@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — BILL</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>Starboard Value LP (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1833016/0000921895-26-002437-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000921895-26-002437:nd:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Starboard Value LP (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1833016/0000921895-26-002437-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000921895-26-002437:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Starboard Value LP (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1833016/0000921895-26-002437-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000921895-26-002437:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Starboard Value LP (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1833016/0000921895-26-002437-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000921895-26-002437:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Starboard Value LP (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1833016/0000921895-26-002437-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000921895-26-002437:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Starboard Value LP (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1833016/0000921895-26-002437-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000921895-26-002437:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smith Jeffrey C (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786352/0000921895-26-002438-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000921895-26-002438:nd:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smith Jeffrey C (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786352/0000921895-26-002438-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000921895-26-002438:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smith Jeffrey C (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786352/0000921895-26-002438-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000921895-26-002438:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smith Jeffrey C (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786352/0000921895-26-002438-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000921895-26-002438:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smith Jeffrey C (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786352/0000921895-26-002438-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000921895-26-002438:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smith Jeffrey C (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1786352/0000921895-26-002438-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000921895-26-002438:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:34 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — AFL</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>Japan Post Holdings Co., Ltd. (AFL) S: 440 shares @ $117.25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-103760-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103760:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Japan Post Holdings Co., Ltd. (AFL) S: 12260 shares @ $116.65</title>
+      <link>https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-103760-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-103760:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Japan Post Holdings Co., Ltd. (AFL) S: 13200 shares @ $117.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-102824-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-102824:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Japan Post Holdings Co., Ltd. (AFL) S: 634 shares @ $117.37</title>
+      <link>https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-102170-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-102170:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Japan Post Holdings Co., Ltd. (AFL) S: 12066 shares @ $116.44</title>
+      <link>https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-102170-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-102170:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Japan Post Holdings Co., Ltd. (AFL) S: 5735 shares @ $118.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-101232-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101232:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Japan Post Holdings Co., Ltd. (AFL) S: 7765 shares @ $117.9</title>
+      <link>https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-101232-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-101232:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Japan Post Holdings Co., Ltd. (AFL) S: 80 shares @ $117.07</title>
+      <link>https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-100610-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100610:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Japan Post Holdings Co., Ltd. (AFL) S: 12820 shares @ $116.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-100610-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100610:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Japan Post Holdings Co., Ltd. (AFL) S: 3479 shares @ $117.03</title>
+      <link>https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-100190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100190:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Japan Post Holdings Co., Ltd. (AFL) S: 9621 shares @ $116.45</title>
+      <link>https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-100190-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-100190:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:56 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

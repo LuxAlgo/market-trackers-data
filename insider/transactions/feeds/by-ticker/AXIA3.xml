@@ -4,7 +4,25 @@
     <title>LuxAlgo Market Trackers — Insider transactions — AXIA3</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>de Bittencourt Marinho Gisomar Francisco (AXIA3) P: 100 shares @ $10.31</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2118802/0001213900-26-095848-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095848:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Corso Matte Ana Silvia (AXIA3) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117200/0001213900-26-095647-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095647:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Corso Matte Ana Silvia (AXIA3) P: 1400 shares @ $10.24</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117200/0001213900-26-095647-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095647:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:57 GMT</pubDate>
+    </item>
     <item>
       <title>Batista de Lima Filho Pedro (AXIA3) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/2121444/0001213900-26-095244-index.htm</link>

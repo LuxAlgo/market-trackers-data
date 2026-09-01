@@ -4,7 +4,67 @@
     <title>LuxAlgo Market Trackers — Insider transactions — SCHW</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>Hathi Neesha (SCHW) S: 3177 shares @ $108.1201</title>
+      <link>https://www.sec.gov/Archives/edgar/data/316709/0001879974-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001879974-26-000010:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:42:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hathi Neesha (SCHW) M: 3177 shares @ $52.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/316709/0001879974-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001879974-26-000010:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:42:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hathi Neesha (SCHW) M: 3177 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/316709/0001879974-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001879974-26-000010:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:42:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bettinger Walter W (SCHW) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/316709/0001296479-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001296479-26-000014:nd:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:42:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bettinger Walter W (SCHW) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/316709/0001296479-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001296479-26-000014:nd:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:42:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bettinger Walter W (SCHW) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/316709/0001296479-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001296479-26-000014:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:42:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bettinger Walter W (SCHW) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/316709/0001296479-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001296479-26-000014:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:42:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bettinger Walter W (SCHW) S: 74388 shares @ $110.9137</title>
+      <link>https://www.sec.gov/Archives/edgar/data/316709/0001296479-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001296479-26-000014:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:42:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bettinger Walter W (SCHW) M: 74388 shares @ $46.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/316709/0001296479-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001296479-26-000014:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:42:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bettinger Walter W (SCHW) M: 74388 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/316709/0001296479-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001296479-26-000014:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:42:04 GMT</pubDate>
+    </item>
     <item>
       <title>Schwab Charles R. (SCHW) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/923738/0000923738-26-000046-index.htm</link>

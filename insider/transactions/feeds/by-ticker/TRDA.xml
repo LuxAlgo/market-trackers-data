@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — TRDA</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>MPM BIOVENTURES 2018, L.P. (TRDA) S: 44259 shares @ $6.99</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818702/0001231919-26-001136-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001231919-26-001136:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>MPM BIOVENTURES 2018, L.P. (TRDA) S: 3733 shares @ $7.01</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818702/0001231919-26-001136-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001231919-26-001136:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>MPM BIOVENTURES 2018, L.P. (TRDA) S: 38922 shares @ $7.2</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818702/0001231919-26-001136-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001231919-26-001136:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>MPM BioVentures 2014, L.P. (TRDA) S: 44259 shares @ $6.99</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1765091/0001231919-26-001135-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001231919-26-001135:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>MPM BioVentures 2014, L.P. (TRDA) S: 3733 shares @ $7.01</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1765091/0001231919-26-001135-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001231919-26-001135:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>MPM BioVentures 2014, L.P. (TRDA) S: 38922 shares @ $7.2</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1765091/0001231919-26-001135-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001231919-26-001135:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>MPM BIOVENTURES 2018, L.P. (TRDA) S: 14569 shares @ $7.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818702/0001231919-26-001106-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001231919-26-001106:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>MPM BIOVENTURES 2018, L.P. (TRDA) S: 26522 shares @ $7.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818702/0001231919-26-001106-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001231919-26-001106:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>MPM BIOVENTURES 2018, L.P. (TRDA) S: 21623 shares @ $7.34</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818702/0001231919-26-001106-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001231919-26-001106:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>MPM BioVentures 2014, L.P. (TRDA) S: 14569 shares @ $7.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1765091/0001231919-26-001107-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001231919-26-001107:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>MPM BioVentures 2014, L.P. (TRDA) S: 26522 shares @ $7.54</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1765091/0001231919-26-001107-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001231919-26-001107:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>MPM BioVentures 2014, L.P. (TRDA) S: 21623 shares @ $7.34</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1765091/0001231919-26-001107-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001231919-26-001107:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:27 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — CSAI</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>Qashu Ruba (CSAI) A: 3334 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2056361/0001683168-26-006839-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006839:d:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qashu Ruba (CSAI) D: 3334 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2056361/0001683168-26-006839-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006839:d:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qashu Ruba (CSAI) A: 5556 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2056361/0001683168-26-006839-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006839:d:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qashu Ruba (CSAI) D: 5556 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2056361/0001683168-26-006839-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006839:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qashu Ruba (CSAI) A: 1389 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2056361/0001683168-26-006839-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006839:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qashu Ruba (CSAI) D: 1389 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2056361/0001683168-26-006839-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006839:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bentley Sheldon Richard (CSAI) A: 84 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2044249/0001683168-26-006835-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006835:d:7</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bentley Sheldon Richard (CSAI) D: 84 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2044249/0001683168-26-006835-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006835:d:6</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bentley Sheldon Richard (CSAI) A: 51945 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2044249/0001683168-26-006835-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006835:d:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bentley Sheldon Richard (CSAI) D: 51945 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2044249/0001683168-26-006835-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006835:d:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bentley Sheldon Richard (CSAI) A: 3612 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2044249/0001683168-26-006835-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006835:d:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bentley Sheldon Richard (CSAI) D: 3612 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2044249/0001683168-26-006835-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006835:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bentley Sheldon Richard (CSAI) A: 52778 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2044249/0001683168-26-006835-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006835:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bentley Sheldon Richard (CSAI) D: 52778 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2044249/0001683168-26-006835-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006835:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Johnson Craig K (CSAI) A: 3334 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042212/0001683168-26-006836-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006836:d:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Johnson Craig K (CSAI) D: 3334 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042212/0001683168-26-006836-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006836:d:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Johnson Craig K (CSAI) A: 6667 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042212/0001683168-26-006836-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006836:d:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Johnson Craig K (CSAI) D: 6667 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042212/0001683168-26-006836-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006836:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Johnson Craig K (CSAI) A: 834 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042212/0001683168-26-006836-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006836:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Johnson Craig K (CSAI) D: 834 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042212/0001683168-26-006836-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006836:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>McCormick James Patrick (CSAI) A: 84 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042184/0001683168-26-006838-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006838:d:9</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>McCormick James Patrick (CSAI) D: 84 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042184/0001683168-26-006838-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006838:d:8</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>McCormick James Patrick (CSAI) A: 11187 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042184/0001683168-26-006838-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006838:d:7</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>McCormick James Patrick (CSAI) D: 11187 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042184/0001683168-26-006838-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006838:d:6</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>McCormick James Patrick (CSAI) A: 44734 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042184/0001683168-26-006838-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006838:d:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>McCormick James Patrick (CSAI) D: 44734 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042184/0001683168-26-006838-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006838:d:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>McCormick James Patrick (CSAI) A: 5556 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042184/0001683168-26-006838-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006838:d:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>McCormick James Patrick (CSAI) D: 5556 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042184/0001683168-26-006838-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006838:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>McCormick James Patrick (CSAI) A: 834 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042184/0001683168-26-006838-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006838:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>McCormick James Patrick (CSAI) D: 834 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042184/0001683168-26-006838-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006838:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rayzman Gregory (CSAI) A: 84 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042164/0001683168-26-006840-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006840:d:7</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rayzman Gregory (CSAI) D: 84 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042164/0001683168-26-006840-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006840:d:6</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rayzman Gregory (CSAI) A: 1945 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042164/0001683168-26-006840-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006840:d:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rayzman Gregory (CSAI) D: 1945 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042164/0001683168-26-006840-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006840:d:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rayzman Gregory (CSAI) A: 13612 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042164/0001683168-26-006840-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006840:d:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rayzman Gregory (CSAI) D: 13612 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042164/0001683168-26-006840-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006840:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rayzman Gregory (CSAI) A: 23056 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042164/0001683168-26-006840-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006840:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rayzman Gregory (CSAI) D: 23056 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042164/0001683168-26-006840-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006840:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smitherman Greg (CSAI) A: 84 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042160/0001683168-26-006841-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006841:d:7</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smitherman Greg (CSAI) D: 84 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042160/0001683168-26-006841-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006841:d:6</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smitherman Greg (CSAI) A: 4889 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042160/0001683168-26-006841-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006841:d:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smitherman Greg (CSAI) D: 4889 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042160/0001683168-26-006841-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006841:d:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smitherman Greg (CSAI) A: 7889 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042160/0001683168-26-006841-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006841:d:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smitherman Greg (CSAI) D: 7889 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042160/0001683168-26-006841-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006841:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smitherman Greg (CSAI) A: 26667 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042160/0001683168-26-006841-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006841:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smitherman Greg (CSAI) D: 26667 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042160/0001683168-26-006841-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006841:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kirby Jeffrey E (CSAI) A: 3334 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1709628/0001683168-26-006837-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006837:d:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kirby Jeffrey E (CSAI) D: 3334 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1709628/0001683168-26-006837-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006837:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kirby Jeffrey E (CSAI) A: 6667 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1709628/0001683168-26-006837-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006837:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kirby Jeffrey E (CSAI) D: 6667 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1709628/0001683168-26-006837-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683168-26-006837:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:25 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

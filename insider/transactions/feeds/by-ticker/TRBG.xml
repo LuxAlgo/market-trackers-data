@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — TRBG</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>Levy Ethy (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2125201/0001213900-26-095379-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095379:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deri David (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123158/0001213900-26-095377-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095377:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deri David (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123158/0001213900-26-095377-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095377:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ari Izhak Natan Even (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122665/0001213900-26-095721-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095721:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ari Izhak Natan Even (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122665/0001213900-26-095721-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095721:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ari Izhak Natan Even (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122665/0001213900-26-095721-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095721:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gilboa Yaron (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122664/0001213900-26-095382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095382:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gilboa Yaron (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122664/0001213900-26-095382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095382:d:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gilboa Yaron (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122664/0001213900-26-095382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095382:d:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gilboa Yaron (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122664/0001213900-26-095382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095382:d:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gilboa Yaron (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122664/0001213900-26-095382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095382:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gilboa Yaron (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122664/0001213900-26-095382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095382:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gilboa Yaron (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122664/0001213900-26-095382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095382:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hashai Neta Zruya (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122663/0001213900-26-095381-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095381:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hashai Neta Zruya (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122663/0001213900-26-095381-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095381:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hashai Neta Zruya (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122663/0001213900-26-095381-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095381:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nir Ziv (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122662/0001213900-26-095388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095388:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nir Ziv (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122662/0001213900-26-095388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095388:d:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nir Ziv (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122662/0001213900-26-095388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095388:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nir Ziv (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122662/0001213900-26-095388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095388:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nir Ziv (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122662/0001213900-26-095388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095388:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Friedman Dov (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122660/0001213900-26-095720-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095720:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Friedman Dov (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122660/0001213900-26-095720-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095720:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Friedman Dov (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122660/0001213900-26-095720-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095720:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gafni Ziv (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122659/0001213900-26-095383-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095383:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gafni Ziv (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122659/0001213900-26-095383-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095383:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zooker Eli (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122657/0001213900-26-095378-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095378:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shitrit Idan Ben (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122656/0001213900-26-095380-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095380:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Katz Dan (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122529/0001213900-26-095722-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095722:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Katz Dan (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122529/0001213900-26-095722-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095722:d:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Katz Dan (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122529/0001213900-26-095722-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095722:d:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Katz Dan (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122529/0001213900-26-095722-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095722:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Katz Dan (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122529/0001213900-26-095722-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095722:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Katz Dan (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122529/0001213900-26-095722-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095722:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>KATZ ALEX (TRBG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2088375/0001213900-26-095358-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-095358:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:53 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

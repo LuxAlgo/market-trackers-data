@@ -4,7 +4,49 @@
     <title>LuxAlgo Market Trackers — Insider transactions — ANET</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>BECHTOLSHEIM ANDREAS (ANET) S: 5646 shares @ $205.4503</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1596532/0001596532-26-000218-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000218:nd:6</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>BECHTOLSHEIM ANDREAS (ANET) S: 64510 shares @ $204.8244</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1596532/0001596532-26-000218-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000218:nd:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>BECHTOLSHEIM ANDREAS (ANET) S: 20852 shares @ $203.6905</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1596532/0001596532-26-000218-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000218:nd:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>BECHTOLSHEIM ANDREAS (ANET) S: 73794 shares @ $202.7124</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1596532/0001596532-26-000218-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000218:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>BECHTOLSHEIM ANDREAS (ANET) S: 70054 shares @ $201.7361</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1596532/0001596532-26-000218-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000218:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>BECHTOLSHEIM ANDREAS (ANET) S: 50091 shares @ $200.8132</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1596532/0001596532-26-000218-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000218:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>BECHTOLSHEIM ANDREAS (ANET) S: 15053 shares @ $199.906</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1596532/0001596532-26-000218-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000218:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:15 GMT</pubDate>
+    </item>
     <item>
       <title>Ullal Jayshree (ANET) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1605809/0001596532-26-000216-index.htm</link>

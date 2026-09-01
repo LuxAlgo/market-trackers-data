@@ -4,7 +4,49 @@
     <title>LuxAlgo Market Trackers — Insider transactions — MSTR</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>Patten Jarrod M (MSTR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1309191/0001193125-26-376987-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-376987:nd:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:40:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Patten Jarrod M (MSTR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1309191/0001193125-26-376987-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-376987:nd:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:40:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Patten Jarrod M (MSTR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1309191/0001193125-26-376987-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-376987:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:40:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Patten Jarrod M (MSTR) S: 925 shares @ $131</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1309191/0001193125-26-376987-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-376987:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:40:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Patten Jarrod M (MSTR) S: 925 shares @ $129</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1309191/0001193125-26-376987-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-376987:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:40:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Patten Jarrod M (MSTR) M: 1850 shares @ $18.236</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1309191/0001193125-26-376987-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-376987:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:40:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Patten Jarrod M (MSTR) M: 1850 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1309191/0001193125-26-376987-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-376987:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:40:57 GMT</pubDate>
+    </item>
     <item>
       <title>Patten Jarrod M (MSTR) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1309191/0001193125-26-368879-index.htm</link>

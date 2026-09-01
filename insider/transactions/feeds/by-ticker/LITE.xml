@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — LITE</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
     <item>
       <title>Chang Eric (LITE) A: 900 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1664898/0001664898-26-000005-index.htm</link>

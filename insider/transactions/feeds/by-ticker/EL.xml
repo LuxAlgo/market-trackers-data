@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — EL</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Tue, 01 Sep 2026 02:45:11 GMT</lastBuildDate>
+    <item>
+      <title>Lammers Hendrik Rene (EL) A: 28820 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2083556/0001628280-26-059636-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059636:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lammers Hendrik Rene (EL) A: 9416 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2083556/0001628280-26-059636-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059636:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lammers Hendrik Rene (EL) A: 7909 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2083556/0001628280-26-059636-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059636:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bowes Michael (EL) A: 17841 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2062125/0001628280-26-059635-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059635:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bowes Michael (EL) A: 4896 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2062125/0001628280-26-059635-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059635:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shrivastava Akhil (EL) A: 37053 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2036658/0001628280-26-059578-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059578:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shrivastava Akhil (EL) A: 10169 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2036658/0001628280-26-059578-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059578:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>de la Faverie Stephane (EL) A: 137238 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1955038/0001628280-26-059634-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059634:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>de la Faverie Stephane (EL) A: 37661 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1955038/0001628280-26-059634-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059634:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Webster Meridith (EL) A: 19213 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1857146/0001628280-26-059581-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059581:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Webster Meridith (EL) A: 5273 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1857146/0001628280-26-059581-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059581:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Canevari Roberto (EL) A: 32320 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849900/0001628280-26-059579-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059579:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Canevari Roberto (EL) A: 8869 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849900/0001628280-26-059579-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059579:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hertzmark Hudis Jane (EL) A: 61153 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1745075/0001628280-26-059582-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059582:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hertzmark Hudis Jane (EL) A: 16782 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1745075/0001628280-26-059582-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059582:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>La Lande Rashida (EL) S: 7766 shares @ $103.32</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1728090/0001628280-26-059580-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059580:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>La Lande Rashida (EL) F: 6591 shares @ $106.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1728090/0001628280-26-059580-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059580:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>La Lande Rashida (EL) M: 14357 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1728090/0001628280-26-059580-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059580:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>La Lande Rashida (EL) A: 37053 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1728090/0001628280-26-059580-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059580:d:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>La Lande Rashida (EL) A: 10169 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1728090/0001628280-26-059580-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059580:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>La Lande Rashida (EL) M: 14357 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1728090/0001628280-26-059580-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059580:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>La Lande Rashida (EL) S: 5564 shares @ $99.55</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1728090/0001628280-26-058803-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058803:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>La Lande Rashida (EL) M: 5564 shares @ $92.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1728090/0001628280-26-058803-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058803:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>La Lande Rashida (EL) M: 5564 shares @ $92.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1728090/0001628280-26-058803-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-058803:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>ZANNINO RICHARD F (EL) M: 4697 shares @ $78.36</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1189770/0001189770-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001189770-26-000008:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:17:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>ZANNINO RICHARD F (EL) M: 4697 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1189770/0001189770-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001189770-26-000008:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:17:49 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Short-sale volume — AEMD</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
+    <lastBuildDate>Tue, 01 Sep 2026 13:20:05 GMT</lastBuildDate>
+    <item>
+      <title>AEMD 2026-08-31: 236374.07/444992.007812 short (53.1%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260831.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-31:AEMD:CNMS</guid>
+      <pubDate>Tue, 01 Sep 2026 12:53:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEMD 2026-08-28: 10056681.75924/17627419.06402 short (57.1%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260828.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-28:AEMD:CNMS</guid>
+      <pubDate>Sat, 29 Aug 2026 12:46:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEMD 2026-08-27: 4149.89716/11412.509726 short (36.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260827.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-27:AEMD:CNMS</guid>
+      <pubDate>Fri, 28 Aug 2026 02:16:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEMD 2026-08-26: 3631.89716/14010.432687 short (25.9%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260826.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-26:AEMD:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEMD 2026-08-25: 9025.89716/51100.587084 short (17.7%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260825.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-25:AEMD:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEMD 2026-08-24: 8348.91/15368.723 short (54.3%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260824.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-24:AEMD:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:58 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

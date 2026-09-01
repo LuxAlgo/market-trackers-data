@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — ANET</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 12:43:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 13:20:05 GMT</lastBuildDate>
     <item>
       <title>BECHTOLSHEIM ANDREAS (ANET) S: 5646 shares @ $205.4503</title>
       <link>https://www.sec.gov/Archives/edgar/data/1596532/0001596532-26-000218-index.htm</link>

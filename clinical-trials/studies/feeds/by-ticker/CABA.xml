@@ -4,17 +4,17 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — CABA</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 15:13:15 GMT</lastBuildDate>
-    <item>
-      <title>Cabaletta Bio — RECRUITING PHASE2/PHASE3: RESET-Myositis: An Open-Label Study to Evaluate the Safety and Efficacy of CABA-201 in Subjects With Active Idiopathic Inflammatory Myopathy or Juvenile Idiopathic Inflammatory Myopathy</title>
-      <link>https://clinicaltrials.gov/study/NCT06154252</link>
-      <guid isPermaLink="false">clinical-trials:NCT06154252</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Sep 2026 13:20:05 GMT</lastBuildDate>
     <item>
       <title>Cabaletta Bio — RECRUITING PHASE1/PHASE2: RESET-SLE: A Phase 1/2 Open-Label Study to Evaluate the Safety and Efficacy of CABA-201 in Subjects With Active Systemic Lupus Erythematosus</title>
       <link>https://clinicaltrials.gov/study/NCT06121297</link>
       <guid isPermaLink="false">clinical-trials:NCT06121297</guid>
+      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cabaletta Bio — RECRUITING PHASE2/PHASE3: RESET-Myositis: An Open-Label Study to Evaluate the Safety and Efficacy of CABA-201 in Subjects With Active Idiopathic Inflammatory Myopathy or Juvenile Idiopathic Inflammatory Myopathy</title>
+      <link>https://clinicaltrials.gov/study/NCT06154252</link>
+      <guid isPermaLink="false">clinical-trials:NCT06154252</guid>
       <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
   </channel>

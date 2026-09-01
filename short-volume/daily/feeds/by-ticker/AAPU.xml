@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Short-sale volume — AAPU</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 15:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 13:20:05 GMT</lastBuildDate>
+    <item>
+      <title>AAPU 2026-08-31: 274544.291375/539988.548887 short (50.8%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260831.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-31:AAPU:CNMS</guid>
+      <pubDate>Tue, 01 Sep 2026 12:53:30 GMT</pubDate>
+    </item>
     <item>
       <title>AAPU 2026-08-28: 320415.580303/650731.72445 short (49.2%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260828.txt</link>

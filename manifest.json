@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-31T15:13:15.211Z",
+  "generatedAt": "2026-09-01T13:20:05.069Z",
   "schemaVersion": 2,
   "datasets": {
     "congress-trades": {
       "title": "Congressional trades",
       "exportDir": "congress/trades",
       "rows": 130,
-      "lastIngestedAt": "2026-08-31T15:12:28.936Z",
+      "lastIngestedAt": "2026-09-01T12:53:17.755Z",
       "stale": false,
       "snapshots": [
         {
@@ -31,10 +31,14 @@
     "insider-transactions": {
       "title": "Insider transactions",
       "exportDir": "insider/transactions",
-      "rows": 8228,
-      "lastIngestedAt": "2026-08-29T16:29:14.429Z",
+      "rows": 9410,
+      "lastIngestedAt": "2026-09-01T02:43:18.077Z",
       "stale": false,
       "snapshots": [
+        {
+          "file": "snapshot-2006.json.gz",
+          "rows": 1
+        },
         {
           "file": "snapshot-2022.json.gz",
           "rows": 2
@@ -45,15 +49,15 @@
         },
         {
           "file": "snapshot-2025.json.gz",
-          "rows": 10
+          "rows": 12
         },
         {
           "file": "snapshot-2026.json.gz",
-          "rows": 8212
+          "rows": 9391
         },
         {
           "file": "snapshot.json.gz",
-          "rows": 8228
+          "rows": 9410
         }
       ],
       "feed": "insider/transactions/feed.xml",
@@ -65,10 +69,14 @@
     "thirteenf-holdings": {
       "title": "13F holdings",
       "exportDir": "thirteenf/holdings",
-      "rows": 68590,
-      "lastIngestedAt": "2026-08-29T16:29:13.273Z",
+      "rows": 68974,
+      "lastIngestedAt": "2026-09-01T02:42:01.328Z",
       "stale": false,
       "snapshots": [
+        {
+          "file": "snapshot-2001.json.gz",
+          "rows": 180
+        },
         {
           "file": "snapshot-2002.json.gz",
           "rows": 336
@@ -127,15 +135,15 @@
         },
         {
           "file": "snapshot-2025.json.gz",
-          "rows": 12171
+          "rows": 12275
         },
         {
           "file": "snapshot-2026.json.gz",
-          "rows": 24295
+          "rows": 24395
         },
         {
           "file": "snapshot.json.gz",
-          "rows": 68590
+          "rows": 68974
         }
       ],
       "feed": "thirteenf/holdings/feed.xml",
@@ -283,17 +291,17 @@
     "lobbying-filings": {
       "title": "Lobbying filings",
       "exportDir": "lobbying/filings",
-      "rows": 56174,
-      "lastIngestedAt": "2026-08-31T15:12:29.785Z",
+      "rows": 56196,
+      "lastIngestedAt": "2026-09-01T12:53:18.214Z",
       "stale": false,
       "snapshots": [
         {
           "file": "snapshot-2026.json.gz",
-          "rows": 56174
+          "rows": 56196
         },
         {
           "file": "snapshot.json.gz",
-          "rows": 56174
+          "rows": 56196
         }
       ],
       "feed": "lobbying/filings/feed.xml",
@@ -305,17 +313,17 @@
     "short-volume": {
       "title": "Short-sale volume",
       "exportDir": "short-volume/daily",
-      "rows": 61265,
-      "lastIngestedAt": "2026-08-29T12:46:18.827Z",
+      "rows": 73582,
+      "lastIngestedAt": "2026-09-01T12:53:30.934Z",
       "stale": false,
       "snapshots": [
         {
           "file": "snapshot-2026.json.gz",
-          "rows": 61265
+          "rows": 73582
         },
         {
           "file": "snapshot.json.gz",
-          "rows": 61265
+          "rows": 73582
         }
       ],
       "feed": "short-volume/daily/feed.xml",
@@ -328,7 +336,7 @@
       "title": "Congressional committee assignments",
       "exportDir": "congress/committees",
       "rows": 3891,
-      "lastIngestedAt": "2026-08-31T15:12:38.827Z",
+      "lastIngestedAt": "2026-09-01T12:53:32.051Z",
       "stale": false,
       "snapshots": [
         {
@@ -350,7 +358,7 @@
       "title": "Granted patents",
       "exportDir": "patents/grants",
       "rows": 9434703,
-      "lastIngestedAt": "2026-08-28T02:16:33.241Z",
+      "lastIngestedAt": "2026-09-01T12:53:32.509Z",
       "stale": false,
       "snapshots": [
         {
@@ -563,22 +571,22 @@
     "clinical-trials": {
       "title": "Clinical trial registrations",
       "exportDir": "clinical-trials/studies",
-      "rows": 8335,
-      "lastIngestedAt": "2026-08-31T15:12:39.357Z",
+      "rows": 9163,
+      "lastIngestedAt": "2026-09-01T13:11:41.033Z",
       "stale": false,
       "snapshots": [
         {
           "file": "snapshot-2026.json.gz",
-          "rows": 8335
+          "rows": 9163
         },
         {
           "file": "snapshot.json.gz",
-          "rows": 8335
+          "rows": 9163
         }
       ],
       "feed": "clinical-trials/studies/feed.xml",
       "entityFeeds": {
-        "byTicker": 178,
+        "byTicker": 190,
         "byMember": 0
       }
     },
@@ -586,7 +594,7 @@
       "title": "FDA drug application events",
       "exportDir": "fda/approvals",
       "rows": 49,
-      "lastIngestedAt": "2026-08-31T15:12:45.692Z",
+      "lastIngestedAt": "2026-09-01T13:11:49.711Z",
       "stale": false,
       "snapshots": [
         {
@@ -625,17 +633,17 @@
     "wiki-pageviews": {
       "title": "Wikipedia pageviews",
       "exportDir": "wiki/pageviews",
-      "rows": 664,
-      "lastIngestedAt": "2026-08-31T15:12:46.946Z",
+      "rows": 735,
+      "lastIngestedAt": "2026-09-01T13:11:50.497Z",
       "stale": false,
       "snapshots": [
         {
           "file": "snapshot-2026.json.gz",
-          "rows": 664
+          "rows": 735
         },
         {
           "file": "snapshot.json.gz",
-          "rows": 664
+          "rows": 735
         }
       ],
       "feed": "wiki/pageviews/feed.xml",
@@ -647,8 +655,8 @@
     "bills": {
       "title": "Federal legislation",
       "exportDir": "congress/bills",
-      "rows": 18470,
-      "lastIngestedAt": "2026-08-30T13:57:51.645Z",
+      "rows": 18494,
+      "lastIngestedAt": "2026-09-01T13:18:04.838Z",
       "stale": false,
       "snapshots": [
         {
@@ -657,27 +665,27 @@
         },
         {
           "file": "snapshot-2022.json.gz",
-          "rows": 1
-        },
-        {
-          "file": "snapshot-2023.json.gz",
-          "rows": 3
-        },
-        {
-          "file": "snapshot-2024.json.gz",
           "rows": 2
         },
         {
+          "file": "snapshot-2023.json.gz",
+          "rows": 5
+        },
+        {
+          "file": "snapshot-2024.json.gz",
+          "rows": 6
+        },
+        {
           "file": "snapshot-2025.json.gz",
-          "rows": 11225
+          "rows": 11215
         },
         {
           "file": "snapshot-2026.json.gz",
-          "rows": 7238
+          "rows": 7265
         },
         {
           "file": "snapshot.json.gz",
-          "rows": 18470
+          "rows": 18494
         }
       ],
       "feed": "congress/bills/feed.xml",
@@ -689,8 +697,8 @@
     "fec-candidates": {
       "title": "FEC candidate totals",
       "exportDir": "fec/candidates",
-      "rows": 4297,
-      "lastIngestedAt": "2026-08-31T13:00:28.754Z",
+      "rows": 4298,
+      "lastIngestedAt": "2026-09-01T13:19:52.818Z",
       "stale": false,
       "snapshots": [
         {
@@ -699,11 +707,11 @@
         },
         {
           "file": "snapshot-2026.json.gz",
-          "rows": 3630
+          "rows": 3631
         },
         {
           "file": "snapshot.json.gz",
-          "rows": 4297
+          "rows": 4298
         }
       ],
       "feed": "fec/candidates/feed.xml",
@@ -716,7 +724,7 @@
       "title": "FEC committee→candidate contributions",
       "exportDir": "fec/contributions",
       "rows": 204857,
-      "lastIngestedAt": "2026-08-31T13:00:28.754Z",
+      "lastIngestedAt": "2026-09-01T13:19:52.818Z",
       "stale": false,
       "snapshots": [
         {
@@ -757,8 +765,8 @@
     "congress-hearings": {
       "title": "Congressional hearing transcripts",
       "exportDir": "congress/hearings",
-      "rows": 927,
-      "lastIngestedAt": "2026-08-31T15:13:12.547Z",
+      "rows": 929,
+      "lastIngestedAt": "2026-09-01T13:20:02.814Z",
       "stale": false,
       "snapshots": [
         {
@@ -767,7 +775,7 @@
         },
         {
           "file": "snapshot-2025.json.gz",
-          "rows": 764
+          "rows": 766
         },
         {
           "file": "snapshot-2026.json.gz",
@@ -775,7 +783,7 @@
         },
         {
           "file": "snapshot.json.gz",
-          "rows": 927
+          "rows": 929
         }
       ],
       "feed": "congress/hearings/feed.xml",
@@ -787,8 +795,8 @@
     "fed-communications": {
       "title": "Federal Reserve communications",
       "exportDir": "fed/communications",
-      "rows": 2677,
-      "lastIngestedAt": "2026-08-31T15:13:13.578Z",
+      "rows": 2678,
+      "lastIngestedAt": "2026-09-01T13:20:03.511Z",
       "stale": false,
       "snapshots": [
         {
@@ -873,11 +881,11 @@
         },
         {
           "file": "snapshot-2026.json.gz",
-          "rows": 79
+          "rows": 80
         },
         {
           "file": "snapshot.json.gz",
-          "rows": 2677
+          "rows": 2678
         }
       ],
       "feed": "fed/communications/feed.xml",
@@ -894,19 +902,19 @@
         "thirteenf-holdings"
       ],
       "lastSyncOk": true,
-      "lastSyncAt": "2026-08-31T15:10:28.984Z",
-      "lastCanaryStatus": "red",
-      "lastCanaryAt": "2026-08-31T13:11:30.387Z",
+      "lastSyncAt": "2026-09-01T12:51:17.759Z",
+      "lastCanaryStatus": "green",
+      "lastCanaryAt": "2026-08-31T15:21:23.090Z",
       "watermarks": {
-        "daily-index.lastCompletedDay": "2026-08-28"
+        "daily-index.lastCompletedDay": "2026-08-31"
       }
     },
     "edgar-bulk": {
       "implementedDatasets": [],
       "lastSyncOk": true,
-      "lastSyncAt": "2026-08-31T15:12:25.511Z",
+      "lastSyncAt": "2026-09-01T12:53:14.493Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-31T13:11:30.545Z",
+      "lastCanaryAt": "2026-08-31T15:21:23.316Z",
       "watermarks": {}
     },
     "senate-efd": {
@@ -914,9 +922,9 @@
         "congress-trades"
       ],
       "lastSyncOk": true,
-      "lastSyncAt": "2026-08-31T15:12:25.766Z",
+      "lastSyncAt": "2026-09-01T12:53:14.548Z",
       "lastCanaryStatus": "amber",
-      "lastCanaryAt": "2026-08-31T13:11:32.745Z",
+      "lastCanaryAt": "2026-08-31T15:21:25.605Z",
       "watermarks": {
         "efd.lastFiledDate": "2026-08-28"
       }
@@ -926,9 +934,9 @@
         "congress-trades"
       ],
       "lastSyncOk": true,
-      "lastSyncAt": "2026-08-31T15:12:28.939Z",
+      "lastSyncAt": "2026-09-01T12:53:17.758Z",
       "lastCanaryStatus": "amber",
-      "lastCanaryAt": "2026-08-31T13:11:33.076Z",
+      "lastCanaryAt": "2026-08-31T15:21:25.880Z",
       "watermarks": {
         "clerk.lastFiledDate": "2026-08-27"
       }
@@ -939,9 +947,9 @@
         "gov-grants"
       ],
       "lastSyncOk": true,
-      "lastSyncAt": "2026-08-31T15:12:29.040Z",
+      "lastSyncAt": "2026-09-01T12:53:17.816Z",
       "lastCanaryStatus": "amber",
-      "lastCanaryAt": "2026-08-31T13:11:33.544Z",
+      "lastCanaryAt": "2026-08-31T15:21:26.656Z",
       "watermarks": {
         "usaspending.grants.lastActionDate": "2026-10-01",
         "usaspending.lastActionDate": "2027-08-31"
@@ -952,9 +960,9 @@
         "lobbying-filings"
       ],
       "lastSyncOk": true,
-      "lastSyncAt": "2026-08-31T15:12:29.785Z",
+      "lastSyncAt": "2026-09-01T12:53:18.213Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-31T13:11:35.184Z",
+      "lastCanaryAt": "2026-08-31T15:21:27.576Z",
       "watermarks": {
         "lda.lastPostedDate": "2026-08-31"
       }
@@ -964,11 +972,11 @@
         "short-volume"
       ],
       "lastSyncOk": true,
-      "lastSyncAt": "2026-08-31T15:12:38.624Z",
+      "lastSyncAt": "2026-09-01T12:53:30.634Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-31T13:11:36.316Z",
+      "lastCanaryAt": "2026-08-31T15:21:28.057Z",
       "watermarks": {
-        "shortvol.CNMS.lastDay": "2026-08-28"
+        "shortvol.CNMS.lastDay": "2026-08-31"
       }
     },
     "congress-legislators": {
@@ -976,9 +984,9 @@
         "committee-assignments"
       ],
       "lastSyncOk": true,
-      "lastSyncAt": "2026-08-31T15:12:38.747Z",
+      "lastSyncAt": "2026-09-01T12:53:31.607Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-31T13:11:37.186Z",
+      "lastCanaryAt": "2026-08-31T15:21:28.389Z",
       "watermarks": {}
     },
     "patentsview": {
@@ -986,11 +994,11 @@
         "patents"
       ],
       "lastSyncOk": true,
-      "lastSyncAt": "2026-08-31T15:12:39.208Z",
+      "lastSyncAt": "2026-09-01T12:53:32.508Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-31T13:11:37.581Z",
+      "lastCanaryAt": "2026-08-31T15:21:28.547Z",
       "watermarks": {
-        "patentsview.odpRelease": "2026-07-15 09:37:53"
+        "patentsview.odpRelease": "2026-08-31 18:02:53"
       }
     },
     "clinicaltrials": {
@@ -998,11 +1006,11 @@
         "clinical-trials"
       ],
       "lastSyncOk": true,
-      "lastSyncAt": "2026-08-31T15:12:39.357Z",
+      "lastSyncAt": "2026-09-01T13:11:41.032Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-31T13:11:37.676Z",
+      "lastCanaryAt": "2026-08-31T15:21:28.593Z",
       "watermarks": {
-        "clinicaltrials.lastUpdatePosted": "2026-08-31"
+        "clinicaltrials.lastUpdatePosted": "2026-09-01"
       }
     },
     "openfda": {
@@ -1010,9 +1018,9 @@
         "fda-approvals"
       ],
       "lastSyncOk": true,
-      "lastSyncAt": "2026-08-31T15:12:45.692Z",
+      "lastSyncAt": "2026-09-01T13:11:49.710Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-31T13:11:37.967Z",
+      "lastCanaryAt": "2026-08-31T15:21:29.303Z",
       "watermarks": {
         "openfda.lastStatusDate": "2026-08-26"
       }
@@ -1022,9 +1030,9 @@
         "cot-reports"
       ],
       "lastSyncOk": true,
-      "lastSyncAt": "2026-08-31T15:12:46.261Z",
+      "lastSyncAt": "2026-09-01T13:11:50.051Z",
       "lastCanaryStatus": "amber",
-      "lastCanaryAt": "2026-08-31T13:11:38.626Z",
+      "lastCanaryAt": "2026-08-31T15:21:30.361Z",
       "watermarks": {}
     },
     "wikimedia": {
@@ -1032,99 +1040,99 @@
         "wiki-pageviews"
       ],
       "lastSyncOk": true,
-      "lastSyncAt": "2026-08-31T15:12:46.946Z",
+      "lastSyncAt": "2026-09-01T13:11:50.497Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-31T13:11:38.794Z",
+      "lastCanaryAt": "2026-08-31T15:21:30.435Z",
       "watermarks": {
         "pageviews.en.wikipedia.AT&T.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.AbbVie.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Abbott_Laboratories.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Adobe_Inc..lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Advanced_Micro_Devices.lastDay": "2026-08-30",
+        "pageviews.en.wikipedia.AbbVie.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Abbott_Laboratories.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Adobe_Inc..lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Advanced_Micro_Devices.lastDay": "2026-08-31",
         "pageviews.en.wikipedia.Airbnb.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Allstate.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Alphabet_Inc..lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Amazon_(company).lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.American_Express.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Amgen.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Apple_Inc..lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Applied_Materials.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Bank_of_America.lastDay": "2026-08-30",
+        "pageviews.en.wikipedia.Allstate.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Alphabet_Inc..lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Amazon_(company).lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.American_Express.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Amgen.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Apple_Inc..lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Applied_Materials.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Bank_of_America.lastDay": "2026-08-31",
         "pageviews.en.wikipedia.Berkshire_Hathaway.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.BlackRock.lastDay": "2026-08-30",
+        "pageviews.en.wikipedia.BlackRock.lastDay": "2026-08-31",
         "pageviews.en.wikipedia.Boeing.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Booking_Holdings.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Broadcom_Inc..lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Capital_One.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Caterpillar_Inc..lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Charles_Schwab_Corporation.lastDay": "2026-08-30",
+        "pageviews.en.wikipedia.Booking_Holdings.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Broadcom_Inc..lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Capital_One.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Caterpillar_Inc..lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Charles_Schwab_Corporation.lastDay": "2026-08-31",
         "pageviews.en.wikipedia.Chevron_Corporation.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Chipotle_Mexican_Grill.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Cisco.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Citigroup.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Costco.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.CrowdStrike.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Danaher_Corporation.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Eli_Lilly_and_Company.lastDay": "2026-08-30",
+        "pageviews.en.wikipedia.Chipotle_Mexican_Grill.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Cisco.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Citigroup.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Costco.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.CrowdStrike.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Danaher_Corporation.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Eli_Lilly_and_Company.lastDay": "2026-08-31",
         "pageviews.en.wikipedia.ExxonMobil.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.FedEx.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Ford_Motor_Company.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.General_Dynamics.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.General_Motors.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Gilead_Sciences.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Goldman_Sachs.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Honeywell.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.IBM.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Intel.lastDay": "2026-08-30",
+        "pageviews.en.wikipedia.FedEx.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Ford_Motor_Company.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.General_Dynamics.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.General_Motors.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Gilead_Sciences.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Goldman_Sachs.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Honeywell.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.IBM.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Intel.lastDay": "2026-08-31",
         "pageviews.en.wikipedia.Intuitive_Surgical.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.JPMorgan_Chase.lastDay": "2026-08-30",
+        "pageviews.en.wikipedia.JPMorgan_Chase.lastDay": "2026-08-31",
         "pageviews.en.wikipedia.Johnson_&_Johnson.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Lockheed_Martin.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Mastercard.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.McDonald's.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Medtronic.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Merck_&_Co..lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.MetLife.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Meta_Platforms.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Micron_Technology.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Microsoft.lastDay": "2026-08-30",
+        "pageviews.en.wikipedia.Lockheed_Martin.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Mastercard.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.McDonald's.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Medtronic.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Merck_&_Co..lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.MetLife.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Meta_Platforms.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Micron_Technology.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Microsoft.lastDay": "2026-08-31",
         "pageviews.en.wikipedia.Moderna.lastDay": "2026-08-30",
         "pageviews.en.wikipedia.Morgan_Stanley.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Netflix.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Nike,_Inc..lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Northrop_Grumman.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Nvidia.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Oracle_Corporation.lastDay": "2026-08-30",
+        "pageviews.en.wikipedia.Netflix.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Nike,_Inc..lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Northrop_Grumman.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Nvidia.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Oracle_Corporation.lastDay": "2026-08-31",
         "pageviews.en.wikipedia.Palantir_Technologies.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.PayPal.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.PepsiCo.lastDay": "2026-08-30",
+        "pageviews.en.wikipedia.PayPal.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.PepsiCo.lastDay": "2026-08-31",
         "pageviews.en.wikipedia.Pfizer.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Procter_&_Gamble.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Progressive_Corporation.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Prudential_Financial.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Qualcomm.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.RTX_Corporation.lastDay": "2026-08-30",
+        "pageviews.en.wikipedia.Procter_&_Gamble.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Progressive_Corporation.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Prudential_Financial.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Qualcomm.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.RTX_Corporation.lastDay": "2026-08-31",
         "pageviews.en.wikipedia.Regeneron_Pharmaceuticals.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.S&P_Global.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Salesforce.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.ServiceNow.lastDay": "2026-08-30",
+        "pageviews.en.wikipedia.S&P_Global.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Salesforce.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.ServiceNow.lastDay": "2026-08-31",
         "pageviews.en.wikipedia.Snowflake_Inc..lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Starbucks.lastDay": "2026-08-30",
+        "pageviews.en.wikipedia.Starbucks.lastDay": "2026-08-31",
         "pageviews.en.wikipedia.Target_Corporation.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Texas_Instruments.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.The_Coca-Cola_Company.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.The_Home_Depot.lastDay": "2026-08-30",
+        "pageviews.en.wikipedia.Texas_Instruments.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.The_Coca-Cola_Company.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.The_Home_Depot.lastDay": "2026-08-31",
         "pageviews.en.wikipedia.The_Walt_Disney_Company.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Thermo_Fisher_Scientific.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Uber.lastDay": "2026-08-30",
+        "pageviews.en.wikipedia.Thermo_Fisher_Scientific.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Uber.lastDay": "2026-08-31",
         "pageviews.en.wikipedia.UnitedHealth_Group.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.United_Parcel_Service.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Verizon_Communications.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Vertex_Pharmaceuticals.lastDay": "2026-08-30",
+        "pageviews.en.wikipedia.United_Parcel_Service.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Verizon_Communications.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Vertex_Pharmaceuticals.lastDay": "2026-08-31",
         "pageviews.en.wikipedia.Visa_Inc..lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Walmart.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.Wells_Fargo.lastDay": "2026-08-30",
-        "pageviews.en.wikipedia.eBay.lastDay": "2026-08-30"
+        "pageviews.en.wikipedia.Walmart.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.Wells_Fargo.lastDay": "2026-08-31",
+        "pageviews.en.wikipedia.eBay.lastDay": "2026-08-31"
       }
     },
     "govinfo": {
@@ -1132,18 +1140,18 @@
         "bills"
       ],
       "lastSyncOk": true,
-      "lastSyncAt": "2026-08-31T15:13:04.504Z",
+      "lastSyncAt": "2026-09-01T13:18:04.838Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-31T13:11:44.236Z",
+      "lastCanaryAt": "2026-08-31T15:21:35.244Z",
       "watermarks": {
-        "billstatus.119.hconres.lastModified": "2026-08-28T08:41:00.000Z",
-        "billstatus.119.hjres.lastModified": "2026-08-28T08:38:00.000Z",
-        "billstatus.119.hr.lastModified": "2026-08-29T20:17:00.000Z",
-        "billstatus.119.hres.lastModified": "2026-08-29T12:16:00.000Z",
-        "billstatus.119.s.lastModified": "2026-08-29T04:16:00.000Z",
-        "billstatus.119.sconres.lastModified": "2026-08-26T00:21:00.000Z",
+        "billstatus.119.hconres.lastModified": "2026-09-01T09:08:00.000Z",
+        "billstatus.119.hjres.lastModified": "2026-09-01T12:21:00.000Z",
+        "billstatus.119.hr.lastModified": "2026-09-01T12:21:00.000Z",
+        "billstatus.119.hres.lastModified": "2026-09-01T12:20:00.000Z",
+        "billstatus.119.s.lastModified": "2026-09-01T12:18:00.000Z",
+        "billstatus.119.sconres.lastModified": "2026-08-31T22:38:00.000Z",
         "billstatus.119.sjres.lastModified": "2026-08-26T00:22:00.000Z",
-        "billstatus.119.sres.lastModified": "2026-08-28T20:15:00.000Z"
+        "billstatus.119.sres.lastModified": "2026-09-01T00:17:00.000Z"
       }
     },
     "fec": {
@@ -1152,11 +1160,11 @@
         "fec-contributions"
       ],
       "lastSyncOk": true,
-      "lastSyncAt": "2026-08-31T15:13:12.546Z",
+      "lastSyncAt": "2026-09-01T13:19:52.818Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-31T13:11:45.357Z",
+      "lastCanaryAt": "2026-08-31T15:21:37.281Z",
       "watermarks": {
-        "fec.2026.lastFetchedAt": "2026-08-31T13:00:28.754Z"
+        "fec.2026.lastFetchedAt": "2026-09-01T13:19:52.818Z"
       }
     },
     "govinfo-hearings": {
@@ -1164,11 +1172,11 @@
         "congress-hearings"
       ],
       "lastSyncOk": true,
-      "lastSyncAt": "2026-08-31T15:13:12.547Z",
+      "lastSyncAt": "2026-09-01T13:20:02.813Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-31T13:11:45.444Z",
+      "lastCanaryAt": "2026-08-31T15:21:37.317Z",
       "watermarks": {
-        "sitemap.2025.lastmod": "2026-08-31T14:27:00.261Z",
+        "sitemap.2025.lastmod": "2026-08-31T16:48:00.069Z",
         "sitemap.2026.lastmod": "2026-08-31T14:27:00.112Z"
       }
     },
@@ -1177,9 +1185,9 @@
         "fed-communications"
       ],
       "lastSyncOk": true,
-      "lastSyncAt": "2026-08-31T15:13:13.578Z",
+      "lastSyncAt": "2026-09-01T13:20:03.510Z",
       "lastCanaryStatus": "green",
-      "lastCanaryAt": "2026-08-31T13:11:45.604Z",
+      "lastCanaryAt": "2026-08-31T15:21:37.427Z",
       "watermarks": {}
     }
   }

@@ -4,47 +4,47 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — BIIB</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 15:13:15 GMT</lastBuildDate>
-    <item>
-      <title>Biogen — RECRUITING PHASE2: A Study to Learn About The Effects of Felzartamab on Thyroid Function and Its Safety in Adults With Graves' Disease Ages 18 to 75 Years Old</title>
-      <link>https://clinicaltrials.gov/study/NCT07722546</link>
-      <guid isPermaLink="false">clinical-trials:NCT07722546</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Sep 2026 13:20:05 GMT</lastBuildDate>
     <item>
       <title>Biogen — ENROLLING_BY_INVITATION PHASE3: A Study to Learn More About the Long-Term Safety and Effects of Felzartamab Infusions in Adults With Kidney Transplants Who Have Antibody-Mediated Rejection (AMR) or Microvascular Inflammation (MVI) (TRANSCEND/TRANSPIRE LTE)</title>
       <link>https://clinicaltrials.gov/study/NCT07444489</link>
       <guid isPermaLink="false">clinical-trials:NCT07444489</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
       <title>Biogen — RECRUITING PHASE2: A Study to Learn About the Effects of Felzartamab Infusions in Adults With Kidney Transplants Who Have Late Isolated Microvascular Inflammation</title>
       <link>https://clinicaltrials.gov/study/NCT07219043</link>
       <guid isPermaLink="false">clinical-trials:NCT07219043</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
       <title>Biogen — RECRUITING PHASE3: A Study to Learn More About the Effects and Safety of Felzartamab Infusions in Adults With Primary Membranous Nephropathy (PMN)</title>
       <link>https://clinicaltrials.gov/study/NCT06962800</link>
       <guid isPermaLink="false">clinical-trials:NCT06962800</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
       <title>Biogen — RECRUITING PHASE1: A Study to Find Out How Nusinersen is Processed in the Body When Given Through the ThecaFlex DRx™ System in Adult and Pediatric Participants With Spinal Muscular Atrophy (PIERRE-PK)</title>
       <link>https://clinicaltrials.gov/study/NCT06555419</link>
       <guid isPermaLink="false">clinical-trials:NCT06555419</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
       <title>Biogen — ACTIVE_NOT_RECRUITING PHASE2/PHASE3: A 2-Part Study to Learn Whether Litifilimab (BIIB059) Injections Can Improve Symptoms of Adult Participants Who Have Active Cutaneous Lupus Erythematosus</title>
       <link>https://clinicaltrials.gov/study/NCT05531565</link>
       <guid isPermaLink="false">clinical-trials:NCT05531565</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
       <title>Biogen — ENROLLING_BY_INVITATION PHASE3: An Extension Study to Learn More About the Long-Term Safety of Litifilimab (BIIB059) Injections and Whether They Can Improve Symptoms of Adult Participants Who Have Systemic Lupus Erythematosus</title>
       <link>https://clinicaltrials.gov/study/NCT05352919</link>
       <guid isPermaLink="false">clinical-trials:NCT05352919</guid>
+      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biogen — RECRUITING PHASE2: A Study to Learn About The Effects of Felzartamab on Thyroid Function and Its Safety in Adults With Graves' Disease Ages 18 to 75 Years Old</title>
+      <link>https://clinicaltrials.gov/study/NCT07722546</link>
+      <guid isPermaLink="false">clinical-trials:NCT07722546</guid>
       <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>

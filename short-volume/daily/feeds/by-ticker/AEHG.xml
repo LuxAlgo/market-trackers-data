@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Short-sale volume — AEHG</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 15:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 13:20:05 GMT</lastBuildDate>
+    <item>
+      <title>AEHG 2026-08-31: 260713.4272/427859.315387 short (60.9%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260831.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-31:AEHG:CNMS</guid>
+      <pubDate>Tue, 01 Sep 2026 12:53:30 GMT</pubDate>
+    </item>
     <item>
       <title>AEHG 2026-08-28: 188966/423442.202799 short (44.6%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260828.txt</link>

@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — SABSW</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 15:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 13:20:05 GMT</lastBuildDate>
     <item>
       <title>SAb Biotherapeutics, Inc. — RECRUITING PHASE2: SAFety and Efficacy of Human Anti-thymocyte ImmunoGlobUlin SAB-142 ARresting Progression of Type 1 Diabetes</title>
       <link>https://clinicaltrials.gov/study/NCT07187531</link>
       <guid isPermaLink="false">clinical-trials:NCT07187531</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,12 +4,606 @@
     <title>LuxAlgo Market Trackers — Federal legislation</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Bill status records from GPO GovInfo's bulk BILLSTATUS data (keyless): titles, sponsors, latest actions, and policy areas, verbatim from the record. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 15:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 13:20:05 GMT</lastBuildDate>
     <item>
-      <title>HR 9497 (119th) — action 2026-07-14: Water Resources Development Act of 2026</title>
-      <link>https://www.congress.gov/bill/119th-congress/house-bill/9497</link>
-      <guid isPermaLink="false">bills:119-hr-9497</guid>
-      <pubDate>Sun, 30 Aug 2026 13:57:51 GMT</pubDate>
+      <title>SRES 815 (119th) — action 2026-08-07: A resolution commending the Chicago Cubs baseball teams as it celebrates its 150th anniversary on August 29, 2026.</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/815</link>
+      <guid isPermaLink="false">bills:119-sres-815</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>SRES 775 (119th) — action 2025-06-18: A resolution reaffirming the importance of the United States promoting the safety, health, and well-being of refugees and displaced perso...</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-resolution/775</link>
+      <guid isPermaLink="false">bills:119-sres-775</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCONRES 29 (119th) — action 2025-06-04: Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an event to celebrate the birthday of King Kamehameha I.</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/29</link>
+      <guid isPermaLink="false">bills:119-sconres-29</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 945 (119th) — action 2025-08-26: Smith River National Recreation Area Expansion Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/945</link>
+      <guid isPermaLink="false">bills:119-s-945</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 91 (119th) — action 2025-12-05: Western Wildfire Support Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/91</link>
+      <guid isPermaLink="false">bills:119-s-91</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 902 (119th) — action 2026-01-14: Wildfire Response and Preparedness Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/902</link>
+      <guid isPermaLink="false">bills:119-s-902</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 90 (119th) — action 2025-01-14: Historic Roadways Protection Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/90</link>
+      <guid isPermaLink="false">bills:119-s-90</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 888 (119th) — action 2025-12-02: Oregon Recreation Enhancement Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/888</link>
+      <guid isPermaLink="false">bills:119-s-888</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 858 (119th) — action 2025-12-09: Hershel Woody Williams National Medal of Honor Monument Location Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/858</link>
+      <guid isPermaLink="false">bills:119-s-858</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 790 (119th) — action 2026-08-27: To redesignate the National Historic Trails Interpretive Center in Casper, Wyoming, as the &quot;Barbara L. Cubin National Historic Trails Int...</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/790</link>
+      <guid isPermaLink="false">bills:119-s-790</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 764 (119th) — action 2025-02-27: Colorado Outdoor Recreation and Economy Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/764</link>
+      <guid isPermaLink="false">bills:119-s-764</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 675 (119th) — action 2026-06-22: Theodore Roosevelt Presidential Library Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/675</link>
+      <guid isPermaLink="false">bills:119-s-675</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 5025 (119th) — action 2026-08-10: Lindsey O. Graham Sanctioning Russia and Iran Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/5025</link>
+      <guid isPermaLink="false">bills:119-s-5025</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 4784 (119th) — action 2025-12-02: Servicewomen and Veterans Menopause Research Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/4784</link>
+      <guid isPermaLink="false">bills:119-s-4784</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 4668 (119th) — action 2026-06-04: Protect College Sports Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/4668</link>
+      <guid isPermaLink="false">bills:119-s-4668</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 451 (119th) — action 2025-12-02: Restoring State Mineral Revenues Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/451</link>
+      <guid isPermaLink="false">bills:119-s-451</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 4429 (119th) — action 2026-05-11: Connected Vehicle Security Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/4429</link>
+      <guid isPermaLink="false">bills:119-s-4429</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 4396 (119th) — action 2026-04-23: Social Security Caregiver Credit Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/4396</link>
+      <guid isPermaLink="false">bills:119-s-4396</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 4257 (119th) — action 2024-01-24: Resources To Prevent Youth Vaping Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/4257</link>
+      <guid isPermaLink="false">bills:119-s-4257</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 4214 (119th) — action 2026-06-24: Artificial Intelligence Data Center Moratorium Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/4214</link>
+      <guid isPermaLink="false">bills:119-s-4214</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 3341 (119th) — action 2026-05-19: Investing in All of America Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/3341</link>
+      <guid isPermaLink="false">bills:119-s-3341</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 32 (119th) — action 2024-12-17: A bill to clarify where court may be held for certain district courts in Texas and California.</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/32</link>
+      <guid isPermaLink="false">bills:119-s-32</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 3097 (119th) — action 2026-08-04: Health Information Privacy Reform Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/3097</link>
+      <guid isPermaLink="false">bills:119-s-3097</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 307 (119th) — action 2026-08-31: Prison Staff Safety Enhancement Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/307</link>
+      <guid isPermaLink="false">bills:119-s-307</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 2273 (119th) — action 2025-07-10: Wyoming Education Trust Modernization Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/2273</link>
+      <guid isPermaLink="false">bills:119-s-2273</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 2262 (119th) — action 2025-12-17: American Voices in Federal Lands Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/2262</link>
+      <guid isPermaLink="false">bills:119-s-2262</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 2042 (119th) — action 2025-06-11: Roadless Area Conservation Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/2042</link>
+      <guid isPermaLink="false">bills:119-s-2042</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 2033 (119th) — action 2026-06-15: Cross-Boundary Wildfire Solutions Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/2033</link>
+      <guid isPermaLink="false">bills:119-s-2033</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 2016 (119th) — action 2026-03-04: Chugach Alaska Land Exchange Oil Spill Recovery Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/2016</link>
+      <guid isPermaLink="false">bills:119-s-2016</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 1860 (119th) — action 2026-07-23: S. 1860, Brian Head Town Land Conveyance Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1860</link>
+      <guid isPermaLink="false">bills:119-s-1860</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 1759 (119th) — action 2026-03-25: Supersonic Aviation Modernization Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1759</link>
+      <guid isPermaLink="false">bills:119-s-1759</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 1737 (119th) — action 2025-05-13: Wild Olympics Wilderness and Wild and Scenic Rivers Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1737</link>
+      <guid isPermaLink="false">bills:119-s-1737</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 1476 (119th) — action 2025-04-10: M.H. Dutch Salmon Greater Gila Wild and Scenic River Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1476</link>
+      <guid isPermaLink="false">bills:119-s-1476</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 1468 (119th) — action 2025-12-02: A bill to amend the Alaska Native Claims Settlement Act to provide that Alexander Creek, Incorporated, is recognized as a Village Corpora...</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1468</link>
+      <guid isPermaLink="false">bills:119-s-1468</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 140 (119th) — action 2026-06-10: Wildfire Prevention Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/140</link>
+      <guid isPermaLink="false">bills:119-s-140</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 1390 (119th) — action 2025-03-18: Physician Led and Rural Access to Quality Care Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1390</link>
+      <guid isPermaLink="false">bills:119-s-1390</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 1363 (119th) — action 2026-05-21: New Mexico Land Grant-Mercedes Historical or Traditional Use Cooperation and Coordination Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1363</link>
+      <guid isPermaLink="false">bills:119-s-1363</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 1341 (119th) — action 2025-04-08: Sarvis Creek Wilderness Completion Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1341</link>
+      <guid isPermaLink="false">bills:119-s-1341</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 1321 (119th) — action 2025-04-07: Moab UMTRA Project Transition Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1321</link>
+      <guid isPermaLink="false">bills:119-s-1321</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 1319 (119th) — action 2025-04-08: Pecos Watershed Protection Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1319</link>
+      <guid isPermaLink="false">bills:119-s-1319</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 1228 (119th) — action 2025-12-02: A bill to amend the Public Lands Corps Act of 1993 to modify the cost-sharing requirement for conservation projects carried out by a qual...</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1228</link>
+      <guid isPermaLink="false">bills:119-s-1228</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 1195 (119th) — action 2025-12-02: Pershing County Economic Development and Conservation Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1195</link>
+      <guid isPermaLink="false">bills:119-s-1195</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 1175 (119th) — action 2026-04-14: Small County PILT Parity Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1175</link>
+      <guid isPermaLink="false">bills:119-s-1175</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>S 1005 (119th) — action 2025-03-14: Southern Nevada Economic Development and Conservation Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/senate-bill/1005</link>
+      <guid isPermaLink="false">bills:119-s-1005</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 418 (119th) — action 2025-05-15: Ride-Along Resolution</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/418</link>
+      <guid isPermaLink="false">bills:119-hres-418</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 358 (119th) — action 2025-04-29: A resolution seeking justice for the Japanese citizens abducted by North Korea.</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/358</link>
+      <guid isPermaLink="false">bills:119-hres-358</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1503 (119th) — action 2026-08-31: Supporting the goals of Overdose Awareness Day and strengthening efforts to combat the opioid crisis in the United States.</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1503</link>
+      <guid isPermaLink="false">bills:119-hres-1503</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1502 (119th) — action 2026-08-31: Expressing support for the designation of September 2026 as &quot;Peace Month&quot; and calling on Congress to take action to promote peace.</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1502</link>
+      <guid isPermaLink="false">bills:119-hres-1502</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1501 (119th) — action 2026-08-31: Recognizing the 80th anniversary of the Fulbright Program.</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1501</link>
+      <guid isPermaLink="false">bills:119-hres-1501</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1500 (119th) — action 2026-08-31: Congratulating the University of Oklahoma baseball team for winning the 2026 Men's College World Series.</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1500</link>
+      <guid isPermaLink="false">bills:119-hres-1500</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1499 (119th) — action 2026-08-31: Protecting Domestic Mining Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1499</link>
+      <guid isPermaLink="false">bills:119-hres-1499</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1498 (119th) — action 2026-08-03: In the matter of allegations relating to Representative Chuck Edwards.</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1498</link>
+      <guid isPermaLink="false">bills:119-hres-1498</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1497 (119th) — action 2026-08-27: Commemorating the 13 United States servicemembers killed at Abbey Gate during and as a result of President Biden's disastrous Afghanistan...</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1497</link>
+      <guid isPermaLink="false">bills:119-hres-1497</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1496 (119th) — action 2026-08-27: Commemorating the fifth anniversary of the evacuation of Afghanistan, the Gulf war era, and honoring Gulf war era veterans.</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1496</link>
+      <guid isPermaLink="false">bills:119-hres-1496</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1490 (119th) — action 2026-08-31: Providing for consideration of the bill (H.R. 1501) to amend the FAST Act to include certain mineral production activities as a covered p...</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1490</link>
+      <guid isPermaLink="false">bills:119-hres-1490</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1451 (119th) — action 2026-07-23: Recognizing Charleston as the appropriate host city for the 2027 annual meeting of the Organization for Security and Cooperation in Europ...</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1451</link>
+      <guid isPermaLink="false">bills:119-hres-1451</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1447 (119th) — action 2026-07-22: Recognizing that for 55 years, the Republic of Fiji has worked with the United States toward stability, prosperity, and peace in the Paci...</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1447</link>
+      <guid isPermaLink="false">bills:119-hres-1447</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1430 (119th) — action 2026-08-31: Providing for consideration of the bill (H.R.185) to advance responsible policies.</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1430</link>
+      <guid isPermaLink="false">bills:119-hres-1430</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1428 (119th) — action 2026-07-13: Expressing support for Reproductive Justice on the 250th Anniversary of the United States of America.</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1428</link>
+      <guid isPermaLink="false">bills:119-hres-1428</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1351 (119th) — action 2026-06-09: Impeaching Eleanor Louise Ross, Judge of the United States District Court for the Northern District of Georgia, for high crimes and misde...</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1351</link>
+      <guid isPermaLink="false">bills:119-hres-1351</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1328 (119th) — action 2026-05-29: Honoring the 80th anniversary of United States-Philippine relations.</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1328</link>
+      <guid isPermaLink="false">bills:119-hres-1328</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1286 (119th) — action 2026-05-14: Calling for a trade policy that supports workers, consumers, independent farmers, small businesses, and the environment.</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1286</link>
+      <guid isPermaLink="false">bills:119-hres-1286</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1250 (119th) — action 2026-04-30: Expressing support for United States forces to remain as a part of the Kosovo Force.</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1250</link>
+      <guid isPermaLink="false">bills:119-hres-1250</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1214 (119th) — action 2026-04-23: Celebrating the 75th anniversary of the International Hearing Society.</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1214</link>
+      <guid isPermaLink="false">bills:119-hres-1214</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HRES 1187 (119th) — action 2025-07-23: Supporting the designation of the week of August 25 through August 29, 2025, as the third annual &quot;National Community Health Worker Awaren...</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-resolution/1187</link>
+      <guid isPermaLink="false">bills:119-hres-1187</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9983 (119th) — action 2026-07-30: Lori Jackson-Nicolette Elias Domestic Violence Survivor Protection Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9983</link>
+      <guid isPermaLink="false">bills:119-hr-9983</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9958 (119th) — action 2026-07-27: To amend the Head Start Act to expand and improve participation in Head Start programs, and for other purposes.</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9958</link>
+      <guid isPermaLink="false">bills:119-hr-9958</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9943 (119th) — action 2026-07-23: Businessowner Immigration Rights and Responsibilities Information Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9943</link>
+      <guid isPermaLink="false">bills:119-hr-9943</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9921 (119th) — action 2025-05-01: SHIPS for America Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9921</link>
+      <guid isPermaLink="false">bills:119-hr-9921</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9919 (119th) — action 2026-07-16: Ban Birth Tourism Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9919</link>
+      <guid isPermaLink="false">bills:119-hr-9919</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9914 (119th) — action 2026-07-23: Collaboration on Adversarial Threats and Security Risks Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9914</link>
+      <guid isPermaLink="false">bills:119-hr-9914</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9902 (119th) — action 2026-07-23: Federal Naming Standards Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9902</link>
+      <guid isPermaLink="false">bills:119-hr-9902</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9874 (119th) — action 2026-07-22: Get Foreign Money Out of U.S. Elections Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9874</link>
+      <guid isPermaLink="false">bills:119-hr-9874</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 987 (119th) — action 2025-02-04: Fair Access to Banking Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/987</link>
+      <guid isPermaLink="false">bills:119-hr-987</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9845 (119th) — action 2026-07-22: Public Safety Officers’ Benefits Enhancement Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9845</link>
+      <guid isPermaLink="false">bills:119-hr-9845</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9833 (119th) — action 2026-07-22: Ensuring Kids Have Access to Medically Necessary Dental Care Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9833</link>
+      <guid isPermaLink="false">bills:119-hr-9833</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9832 (119th) — action 2026-07-22: To amend title XVIII of the Social Security Act to provide for coverage of dental services under the Medicare program.</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9832</link>
+      <guid isPermaLink="false">bills:119-hr-9832</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9831 (119th) — action 2026-07-22: Medicaid Dental Benefit Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9831</link>
+      <guid isPermaLink="false">bills:119-hr-9831</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9830 (119th) — action 2026-07-22: Lawful Hemp Protection Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9830</link>
+      <guid isPermaLink="false">bills:119-hr-9830</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9827 (119th) — action 2026-07-22: Wildfire Reduction Market Expansion Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9827</link>
+      <guid isPermaLink="false">bills:119-hr-9827</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9814 (119th) — action 2026-05-12: 988 Lifeline Location Improvement Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9814</link>
+      <guid isPermaLink="false">bills:119-hr-9814</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9811 (119th) — action 2026-07-21: Anti-Fraud Fund Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9811</link>
+      <guid isPermaLink="false">bills:119-hr-9811</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9800 (119th) — action 2026-07-21: Protection Against Mass Surveillance Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9800</link>
+      <guid isPermaLink="false">bills:119-hr-9800</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9795 (119th) — action 2026-07-21: Never Forget the Victims of Terrorism: Joseph D. Mistrulli and Alan Kleinberg USVSST Fund Solvency Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9795</link>
+      <guid isPermaLink="false">bills:119-hr-9795</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9788 (119th) — action 2026-07-20: FORMULA Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9788</link>
+      <guid isPermaLink="false">bills:119-hr-9788</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9719 (119th) — action 2026-07-16: Federal Lands Lawful Carry Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9719</link>
+      <guid isPermaLink="false">bills:119-hr-9719</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9716 (119th) — action 2026-07-15: PRIVACY Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9716</link>
+      <guid isPermaLink="false">bills:119-hr-9716</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9701 (119th) — action 2026-07-15: Daughters of the American Revolution Membership Integrity Act.</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9701</link>
+      <guid isPermaLink="false">bills:119-hr-9701</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9641 (119th) — action 2026-07-15: H.R. 9641, Essential Caregivers Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9641</link>
+      <guid isPermaLink="false">bills:119-hr-9641</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9609 (119th) — action 2026-07-15: Less Bureaucracy, Better Student Aid Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9609</link>
+      <guid isPermaLink="false">bills:119-hr-9609</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9599 (119th) — action 2026-07-06: SECURE 340B Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9599</link>
+      <guid isPermaLink="false">bills:119-hr-9599</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9576 (119th) — action 2026-07-02: National Fraud Enforcement Division Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9576</link>
+      <guid isPermaLink="false">bills:119-hr-9576</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9567 (119th) — action 2026-06-30: Preserving Our Constitution Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9567</link>
+      <guid isPermaLink="false">bills:119-hr-9567</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9559 (119th) — action 2025-12-04: Freedom to Heal Act of 2025</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9559</link>
+      <guid isPermaLink="false">bills:119-hr-9559</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9537 (119th) — action 2026-06-30: Boat Loan Interest Deduction Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9537</link>
+      <guid isPermaLink="false">bills:119-hr-9537</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9535 (119th) — action 2026-06-30: Securing Agriculture's Workforce Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9535</link>
+      <guid isPermaLink="false">bills:119-hr-9535</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9530 (119th) — action 2026-06-29: Quiet Skies Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9530</link>
+      <guid isPermaLink="false">bills:119-hr-9530</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9519 (119th) — action 2025-03-05: Keeping Our Field Offices Open Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9519</link>
+      <guid isPermaLink="false">bills:119-hr-9519</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9517 (119th) — action 2026-07-27: UNLOCK AUKUS Act</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9517</link>
+      <guid isPermaLink="false">bills:119-hr-9517</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HR 9474 (119th) — action 2026-06-25: Local Foods for Healthy Schools Act of 2026</title>
+      <link>https://www.congress.gov/bill/119th-congress/house-bill/9474</link>
+      <guid isPermaLink="false">bills:119-hr-9474</guid>
+      <pubDate>Tue, 01 Sep 2026 13:18:04 GMT</pubDate>
     </item>
   </channel>
 </rss>

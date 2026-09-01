@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — CSAI</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 13:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:35:20 GMT</lastBuildDate>
     <item>
       <title>Qashu Ruba (CSAI) A: 3334 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/2056361/0001683168-26-006839-index.htm</link>

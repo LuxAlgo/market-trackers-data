@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — FLYW</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 13:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:35:20 GMT</lastBuildDate>
     <item>
       <title>Voss Capital, LP (FLYW) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1969435/0002060757-26-000053-index.htm</link>

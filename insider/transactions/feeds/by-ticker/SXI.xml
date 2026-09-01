@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — SXI</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 10:36:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:43:54 GMT</lastBuildDate>
     <item>
       <title>GLASS ALAN J (SXI) S: 1391 shares @ $303.185</title>
       <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000086-index.htm</link>

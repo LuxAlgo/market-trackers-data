@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — REAL</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 10:36:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:43:54 GMT</lastBuildDate>
     <item>
       <title>Madan Gopal Ajay (REAL) S: 23581 shares @ $10.98</title>
       <link>https://www.sec.gov/Archives/edgar/data/2016432/0002016432-26-000008-index.htm</link>

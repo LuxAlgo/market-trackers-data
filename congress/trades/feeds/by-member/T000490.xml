@@ -4,36 +4,36 @@
     <title>LuxAlgo Market Trackers — Congressional trades — Hon. David J. Taylor</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 18:39:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:33:40 GMT</lastBuildDate>
     <item>
       <title>Hon. David J. Taylor (house) buy: PG — $1,001 - $15,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf</link>
       <guid isPermaLink="false">congress-trades:house:20035289:4</guid>
-      <pubDate>Mon, 31 Aug 2026 20:31:50 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 20:31:42 GMT</pubDate>
     </item>
     <item>
       <title>Hon. David J. Taylor (house) sell: MSFT — $15,001 - $50,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf</link>
       <guid isPermaLink="false">congress-trades:house:20035289:3</guid>
-      <pubDate>Mon, 31 Aug 2026 20:31:50 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 20:31:42 GMT</pubDate>
     </item>
     <item>
       <title>Hon. David J. Taylor (house) buy: IBP — $1,001 - $15,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf</link>
       <guid isPermaLink="false">congress-trades:house:20035289:2</guid>
-      <pubDate>Mon, 31 Aug 2026 20:31:50 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 20:31:42 GMT</pubDate>
     </item>
     <item>
       <title>Hon. David J. Taylor (house) buy: GOOGL — $1,001 - $15,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf</link>
       <guid isPermaLink="false">congress-trades:house:20035289:1</guid>
-      <pubDate>Mon, 31 Aug 2026 20:31:50 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 20:31:42 GMT</pubDate>
     </item>
     <item>
       <title>Hon. David J. Taylor (house) buy: GOOGL — $1,001 - $15,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf</link>
       <guid isPermaLink="false">congress-trades:house:20035289:0</guid>
-      <pubDate>Mon, 31 Aug 2026 20:31:50 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 20:31:42 GMT</pubDate>
     </item>
   </channel>
 </rss>

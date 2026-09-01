@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — NU</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 18:39:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:33:40 GMT</lastBuildDate>
     <item>
       <title>Junqueira Cristina Helena Zingaretti (NU) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1973445/0000950103-26-012947-index.htm</link>

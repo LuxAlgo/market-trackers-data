@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — KE</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:35:26 GMT</lastBuildDate>
     <item>
       <title>Regrut Andrew Donald (KE) F: 2153 shares @ $22.725</title>
       <link>https://www.sec.gov/Archives/edgar/data/2097000/0001606757-26-000034-index.htm</link>

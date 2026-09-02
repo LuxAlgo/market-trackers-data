@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Clinical trial registrations — BCTX</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
+    <item>
+      <title>BriaCell Therapeutics Corporation — RECRUITING PHASE3: Study of the Bria-IMT Regimen and CPI vs Physicians' Choice in Advanced Metastatic Breast Cancer.</title>
+      <link>https://clinicaltrials.gov/study/NCT06072612</link>
+      <guid isPermaLink="false">clinical-trials:NCT06072612</guid>
+      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

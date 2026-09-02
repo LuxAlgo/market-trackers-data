@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — WDC</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 12:45:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
     <item>
       <title>Shihab Ahmed Mohammed (WDC) F: 2741 shares @ $468.88</title>
       <link>https://www.sec.gov/Archives/edgar/data/2059396/0001266824-26-000186-index.htm</link>

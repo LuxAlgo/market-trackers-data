@@ -4,12 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — SNNUF</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 15:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
     <item>
       <title>Smith &amp; Nephew, Inc. — NOT_YET_RECRUITING: Knee Cartilage Repair Registry</title>
       <link>https://clinicaltrials.gov/study/NCT07786207</link>
       <guid isPermaLink="false">clinical-trials:NCT07786207</guid>
-      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smith &amp; Nephew, Inc. — ACTIVE_NOT_RECRUITING: Safety and Effectiveness Study of OR3O™ Dual Mobility System in THA</title>
+      <link>https://clinicaltrials.gov/study/NCT04325022</link>
+      <guid isPermaLink="false">clinical-trials:NCT04325022</guid>
+      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
   </channel>
 </rss>

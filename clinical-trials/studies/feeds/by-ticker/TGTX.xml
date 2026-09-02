@@ -4,24 +4,24 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — TGTX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 15:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
     <item>
       <title>TG Therapeutics, Inc. — RECRUITING PHASE2: Study to Evaluate the Safety and Efficacy of Ublituximab in Participants With Schizophrenia</title>
       <link>https://clinicaltrials.gov/study/NCT07680946</link>
       <guid isPermaLink="false">clinical-trials:NCT07680946</guid>
-      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
       <title>TG Therapeutics, Inc. — RECRUITING: A Study Evaluating the Real World Experience of Participants Treated With BRIUMVI® (Ublituximab-xiiy) for Relapsing Multiple Sclerosis (RMS)</title>
       <link>https://clinicaltrials.gov/study/NCT06433752</link>
       <guid isPermaLink="false">clinical-trials:NCT06433752</guid>
-      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
       <title>TG Therapeutics, Inc. — RECRUITING PHASE3: Study to Evaluate Safety, Efficacy and Pharmacokinetics (PK) of a Modified Regimen of Ublituximab</title>
       <link>https://clinicaltrials.gov/study/NCT05877963</link>
       <guid isPermaLink="false">clinical-trials:NCT05877963</guid>
-      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
       <title>TG Therapeutics, Inc. — RECRUITING PHASE2: A Study to Evaluate the Efficacy and Safety of Maintenance Ublituximab Following Induction With Efgartigimod Administration in Participants With Myasthenia Gravis (MG)</title>

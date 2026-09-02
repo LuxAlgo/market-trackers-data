@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — FLXS</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 12:45:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
     <item>
       <title>Creekmuir William S. (FLXS) S: 3100 shares @ $81.8538</title>
       <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000083-index.htm</link>

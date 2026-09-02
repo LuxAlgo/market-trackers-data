@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Clinical trial registrations — TEM</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
+    <item>
+      <title>Tempus AI — RECRUITING: A Longitudinal Multi-Center Molecular Biomarker Discovery Registry for Patients With Hematologic Malignancies</title>
+      <link>https://clinicaltrials.gov/study/NCT07154823</link>
+      <guid isPermaLink="false">clinical-trials:NCT07154823</guid>
+      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tempus AI — RECRUITING NA: Multi-site Study of the Clinical Impact of an AI-assisted Approach to Referring Patients With Interstitial Lung Disease for Diagnostic Evaluation of Pulmonary Hypertension</title>
+      <link>https://clinicaltrials.gov/study/NCT06911632</link>
+      <guid isPermaLink="false">clinical-trials:NCT06911632</guid>
+      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

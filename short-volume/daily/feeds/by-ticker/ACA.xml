@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Short-sale volume — ACA</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 15:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
+    <item>
+      <title>ACA 2026-09-01: 100512.552104/239963.295403 short (41.9%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260901.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-01:ACA:CNMS</guid>
+      <pubDate>Wed, 02 Sep 2026 12:54:47 GMT</pubDate>
+    </item>
     <item>
       <title>ACA 2026-08-31: 88961.995049/187760.545094 short (47.4%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260831.txt</link>

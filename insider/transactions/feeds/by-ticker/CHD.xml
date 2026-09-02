@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — CHD</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 12:45:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
     <item>
       <title>Linares Carlos G. (CHD) A: 26.172 shares @ $99.78</title>
       <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000313-index.htm</link>

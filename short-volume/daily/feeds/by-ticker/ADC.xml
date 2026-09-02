@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Short-sale volume — ADC</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 15:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
+    <item>
+      <title>ADC 2026-09-01: 138068.14494/562500.064649 short (24.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260901.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-01:ADC:CNMS</guid>
+      <pubDate>Wed, 02 Sep 2026 12:54:47 GMT</pubDate>
+    </item>
     <item>
       <title>ADC 2026-08-31: 171794.573074/322868.072132 short (53.2%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260831.txt</link>

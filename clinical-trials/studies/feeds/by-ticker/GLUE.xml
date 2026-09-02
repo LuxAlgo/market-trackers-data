@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — GLUE</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 15:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
     <item>
       <title>Monte Rosa Therapeutics, Inc — RECRUITING PHASE2: Study of Oral MRT-2359 With Apalutamide in Prostate Cancer</title>
       <link>https://clinicaltrials.gov/study/NCT07745361</link>

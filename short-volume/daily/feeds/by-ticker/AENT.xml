@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Short-sale volume — AENT</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
+    <item>
+      <title>AENT 2026-09-01: 6330.298507/11356.36321 short (55.7%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260901.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-01:AENT:CNMS</guid>
+      <pubDate>Wed, 02 Sep 2026 12:54:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>AENT 2026-08-31: 47962.971117/74854.851881 short (64.1%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260831.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-31:AENT:CNMS</guid>
+      <pubDate>Tue, 01 Sep 2026 12:53:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>AENT 2026-08-28: 4383/15025.469596 short (29.2%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260828.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-28:AENT:CNMS</guid>
+      <pubDate>Sat, 29 Aug 2026 12:46:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>AENT 2026-08-27: 294.230228/1693.936574 short (17.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260827.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-27:AENT:CNMS</guid>
+      <pubDate>Fri, 28 Aug 2026 02:16:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>AENT 2026-08-26: 940.73224/6144.82877 short (15.3%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260826.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-26:AENT:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>AENT 2026-08-25: 459/2342.933296 short (19.6%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260825.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-25:AENT:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>AENT 2026-08-24: 4572.249134/6465.861956 short (70.7%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260824.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-24:AENT:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:58 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

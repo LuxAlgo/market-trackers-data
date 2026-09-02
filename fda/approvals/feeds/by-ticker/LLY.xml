@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — FDA drug application events — LLY</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Drug-application submission events (originals and supplements) with FDA status codes, from openFDA's Drugs@FDA endpoint, with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 15:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
     <item>
       <title>ELI LILLY AND CO NDA217806 SUPPL 41: AP (2026-08-26)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=217806</link>
       <guid isPermaLink="false">fda-approvals:NDA217806:SUPPL:41</guid>
-      <pubDate>Tue, 01 Sep 2026 15:11:48 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 12:54:55 GMT</pubDate>
     </item>
   </channel>
 </rss>

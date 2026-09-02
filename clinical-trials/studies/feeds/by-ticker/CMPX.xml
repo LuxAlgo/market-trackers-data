@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Clinical trial registrations — CMPX</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
+    <item>
+      <title>Compass Therapeutics — ACTIVE_NOT_RECRUITING PHASE2/PHASE3: A Study of CTX-009 in Combination With Paclitaxel in Adult Patients With Unresectable Advanced, Metastatic or Recurrent Biliary Tract Cancers (COMPANION-002)</title>
+      <link>https://clinicaltrials.gov/study/NCT05506943</link>
+      <guid isPermaLink="false">clinical-trials:NCT05506943</guid>
+      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

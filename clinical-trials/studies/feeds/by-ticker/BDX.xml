@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — BDX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 15:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
     <item>
       <title>Becton, Dickinson and Company — NOT_YET_RECRUITING: An Observational, Multinational, In Hospital Evaluation of Catheter Utilization Rates in Female Patients Using Indwelling Urinary Catheters and the PureWick™ Flex Female External Catheter Across Europe and the Middle East</title>
       <link>https://clinicaltrials.gov/study/NCT07798128</link>
       <guid isPermaLink="false">clinical-trials:NCT07798128</guid>
-      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
       <title>Becton, Dickinson and Company — RECRUITING: HemoSphere Alta Study</title>
       <link>https://clinicaltrials.gov/study/NCT07148323</link>
       <guid isPermaLink="false">clinical-trials:NCT07148323</guid>
-      <pubDate>Tue, 01 Sep 2026 15:11:42 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
   </channel>
 </rss>

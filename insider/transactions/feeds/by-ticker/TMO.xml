@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — TMO</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 12:45:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
     <item>
       <title>CASPER MARC N (TMO) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000167-index.htm</link>

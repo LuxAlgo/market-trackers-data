@@ -4,594 +4,408 @@
     <title>LuxAlgo Market Trackers — Congressional trades</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 22:32:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
     <item>
       <title>Christopher A Coons (senate) sell: W.L. Gore &amp; Associates, Inc. Company: W.L. Gore &amp; Associates, Inc. (Newark, Delaware) Description: Advanced materials manufacturing — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/5a76ceb6-2d1d-4430-8a17-6512bcb402be/</link>
       <guid isPermaLink="false">congress-trades:senate:5a76ceb6-2d1d-4430-8a17-6512bcb402be:0</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:9</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:8</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $250,001 - $500,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:7</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy MSCI EAFE Linked Note — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:6</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) buy: NORTHERN YORK CNTY PA SCH DIST GEN Rate/Coupon: 5.25% Matures: 2051-11-15 — $250,001 - $500,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:51</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy MSCI EAFE Linked Note — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:50</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:5</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: ALLEGHENY CNTY HIGHER ED BLDG REV Rate/Coupon: 5% Matures: 2032-02-01 — $250,001 - $500,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:49</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: ALVIN TEX INDPT SCH DIST GO Rate/Coupon: 5% Matures: 2035-02-15 — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:48</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: CHESTER CNTY PA SCH AUTH SCH REV Rate/Coupon: 5% Matures: 2027-03-01 — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:47</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: CORPUS CHRISTI TEX UTIL SYS REV Rate/Coupon: 5% Matures: 2029-07-15 — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:46</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: DALLAS TEX INDPT SCH DIST GO Rate/Coupon: 5% Matures: 2033-02-15 — $15,001 - $50,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:45</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: NORTHAMPTON CNTY PA GEN PURP A REV Rate/Coupon: 5% Matures: 2034-11-15 — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:44</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: OXFORD PA AREA SCH DIST GO Rate/Coupon: 5% Matures: 2032-09-01 — $50,001 - $100,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:43</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2035-08-15 — $50,001 - $100,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:42</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2033-08-15 — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:41</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2034-04-01 — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:40</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:4</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2035-04-01 — $50,001 - $100,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:39</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: PENNSYLVANIA ST HIGHER EDL REV Rate/Coupon: 4% Matures: 2031-06-15 — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:38</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: PENNSYLVANIA ST TPK COMMN OIL REV Rate/Coupon: 5% Matures: 2026-12-01 — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:37</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: PENNSYLVANIA ST TPK COMMN TPK REV Rate/Coupon: 5% Matures: 2030-12-01 — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:36</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: PHILADELPHIA PA AUTH FOR INDL REV Rate/Coupon: 5% Matures: 2031-12-01 — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:35</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: SPRINGFIELD TWP SCH DIST PA GO Rate/Coupon: 5% Matures: 2030-11-15 — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:34</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: WASHINGTON ST GO Rate/Coupon: 5% Matures: 2033-02-01 — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:33</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: ALLEGHENY CNTY HIGHER ED BLDG REV Rate/Coupon: 5% Matures: 2032-02-01 — $50,001 - $100,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:32</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: ALVIN TEX INDPT SCH DIST GO Rate/Coupon: 5% Matures: 2035-02-15 — $50,001 - $100,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:31</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: CHESTER CNTY PA SCH AUTH SCH REV Rate/Coupon: 5% Matures: 2027-03-01 — $50,001 - $100,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:30</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:3</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: CORPUS CHRISTI TEX UTIL SYS REV Rate/Coupon: 5% Matures: 2029-07-15 — $50,001 - $100,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:29</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: DALLAS TEX INDPT SCH DIST GO Rate/Coupon: 5% Matures: 2033-02-15 — $50,001 - $100,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:28</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: DEL CNTY PA AUTH COLLEGE REV Rate/Coupon: 5% Matures: 2026-10-01 — $50,001 - $100,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:27</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: NORTHAMPTON CNTY PA GEN PURP A REV Rate/Coupon: 5% Matures: 2034-11-15 — $50,001 - $100,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:26</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: OXFORD PA AREA SCH DIST GO Rate/Coupon: 5% Matures: 2032-09-01 — $15,001 - $50,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:25</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2035-08-15 — $50,001 - $100,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:24</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2033-08-15 — $50,001 - $100,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:23</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2034-04-01 — $15,001 - $50,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:22</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2035-04-01 — $50,001 - $100,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:21</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: PENNSYLVANIA ST HIGHER EDL REV Rate/Coupon: 4% Matures: 2031-06-15 — $15,001 - $50,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:20</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:2</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: PENNSYLVANIA ST TPK COMMN REV Rate/Coupon: 5.25% Matures: 2030-07-15 — $15,001 - $50,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:19</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: PHILADELPHIA PA AUTH FOR INDL REV Rate/Coupon: 5% Matures: 2031-12-01 — $15,001 - $50,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:18</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: SPRINGFIELD TWP SCH DIST PA GO Rate/Coupon: 5% Matures: 2030-11-15 — $50,001 - $100,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:17</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: WASHINGTON ST GO Rate/Coupon: 5% Matures: 2033-02-01 — $50,001 - $100,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:16</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) sell: PENNSYLVANIA ST TPK COMMN OIL REV Rate/Coupon: 5% Matures: 2026-12-01 — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:15</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:14</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:13</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy MSCI EAFE Linked Note — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:12</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy MSCI EAFE Linked Note — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:11</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:10</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy MSCI EAFE Linked Note — $250,001 - $500,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:1</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $50,001 - $100,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
       <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:0</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:34 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:56 GMT</pubDate>
     </item>
     <item>
       <title>John Boozman (senate) sell: AAXJ — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
       <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:9</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:33 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:55 GMT</pubDate>
     </item>
     <item>
       <title>John Boozman (senate) sell: EFA — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
       <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:8</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:33 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:55 GMT</pubDate>
     </item>
     <item>
       <title>John Boozman (senate) sell: IWM — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
       <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:7</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:33 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:55 GMT</pubDate>
     </item>
     <item>
       <title>John Boozman (senate) sell: IVV — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
       <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:6</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:33 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:55 GMT</pubDate>
     </item>
     <item>
       <title>John Boozman (senate) sell: LLY — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
       <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:5</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:33 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:55 GMT</pubDate>
     </item>
     <item>
       <title>John Boozman (senate) sell: RNWGX — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
       <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:4</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:33 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:55 GMT</pubDate>
     </item>
     <item>
       <title>John Boozman (senate) sell: CRM — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
       <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:3</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:33 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:55 GMT</pubDate>
     </item>
     <item>
       <title>John Boozman (senate) sell: TPYP — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
       <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:2</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:33 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:55 GMT</pubDate>
     </item>
     <item>
       <title>John Boozman (senate) sell: EIPI — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
       <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:13</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:33 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:55 GMT</pubDate>
     </item>
     <item>
       <title>John Boozman (senate) sell: FTGC — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
       <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:12</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:33 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:55 GMT</pubDate>
     </item>
     <item>
       <title>John Boozman (senate) sell: FISV — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
       <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:11</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:33 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:55 GMT</pubDate>
     </item>
     <item>
       <title>John Boozman (senate) sell: GEM — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
       <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:10</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:33 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:55 GMT</pubDate>
     </item>
     <item>
       <title>John Boozman (senate) sell: VNQI — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
       <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:1</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:33 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:55 GMT</pubDate>
     </item>
     <item>
       <title>John Boozman (senate) sell: VEA — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
       <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:0</guid>
-      <pubDate>Tue, 01 Sep 2026 22:30:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Donald Sternoff Beyer Jr (house) exchange: Washington St Various 5.00% 08/01/30 [GS] F      S     : New S          O : Stocks, Bonds, &amp; Mutual Funds D          : CALLED Security — $50,001 - $100,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035349.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035349:2</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Donald Sternoff Beyer Jr (house) buy: Long Is Pwr Auth Var 9/01/55 [GS] F      S     : New S          O : Stocks, Bonds, &amp; Mutual Funds D          : Long Island Power Authority Bond 09/01/55 — $15,001 - $50,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035349.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035349:1</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Donald Sternoff Beyer Jr (house) exchange: California St 4.00% 8/01/36 [GS] F      S     : New S          O : Stocks, Bonds, &amp; Mutual Funds D          : CALLED security — $15,001 - $50,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035349.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035349:0</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Jared Moskowitz (house) sell: GWW — $1,001 - $15,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035243.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035243:2</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Jared Moskowitz (house) sell: STE — $1,001 - $15,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035243.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035243:1</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Jared Moskowitz (house) buy: AMAT — $1,001 - $15,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035243.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035243:0</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Michael Rulli (house) sell: GOOGL — $50,001 - $100,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035309.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035309:0</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. William R. Keating (house) buy: Alphabet Inc Note Coupon 4.80000%Mat 2/15/2036 [CS] F      S     : New S          O : Focus Partners IRA D          : Corporate Note — $1,001 - $15,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035293.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035293:0</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Kelly Louise Morrison (house) sell: SOLS — $1,001 - $15,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035244:6</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Kelly Louise Morrison (house) sell: SPGI — $1,001 - $15,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035244:5</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Kelly Louise Morrison (house) sell: SPGI — $1,001 - $15,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035244:4</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Kelly Louise Morrison (house) sell: SPGI — $1,001 - $15,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035244:3</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Kelly Louise Morrison (house) sell: ACN — $15,001 - $50,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035244:2</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Kelly Louise Morrison (house) sell: ACN — $1,001 - $15,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035244:1</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Kelly Louise Morrison (house) sell: ACN — $1,001 - $15,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035244:0</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Suzan K. DelBene (house) buy: Washington ST 5% Go Utx Due 08/01/30 [GS] F      S     : New — $250,001 - $500,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035274.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035274:2</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Suzan K. DelBene (house) sell: Southeast Energy Auth Coop Dist Ala 5.00% Due Sep 1, 2035 [GS] F      S     : New — $250,001 - $500,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035274.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035274:1</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Suzan K. DelBene (house) buy: California CMNTY Choice Fing Auth 5.00 % Due Oct 1, 2056 [GS] F      S     : New — $250,001 - $500,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035274.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035274:0</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Nancy Pelosi (house) buy: REOF XXV, LLC [AB] F      S     : New D          : Additional investment in LLC which is acquiring and restoring a luxury hotel property in San Francisco, CA. — $500,001 - $1,000,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035143:6</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Nancy Pelosi (house) buy: INTC — $500,001 - $1,000,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035143:5</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Nancy Pelosi (house) buy: INTC — $250,001 - $500,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035143:4</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Nancy Pelosi (house) buy: BE — $500,001 - $1,000,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035143:3</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Nancy Pelosi (house) buy: BE — $500,001 - $1,000,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035143:2</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Nancy Pelosi (house) buy: BE — $1,000,001 - $5,000,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035143:1</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Nancy Pelosi (house) buy: BE — $1,000,001 - $5,000,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035143:0</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. Tim Moore (house) sell: T — $50,001 - $100,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035291.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035291:0</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. David J. Taylor (house) buy: PG — $1,001 - $15,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035289:4</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. David J. Taylor (house) sell: MSFT — $15,001 - $50,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035289:3</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. David J. Taylor (house) buy: IBP — $1,001 - $15,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035289:2</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. David J. Taylor (house) buy: GOOGL — $1,001 - $15,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035289:1</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hon. David J. Taylor (house) buy: GOOGL — $1,001 - $15,000</title>
-      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035289.pdf</link>
-      <guid isPermaLink="false">congress-trades:house:20035289:0</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:42 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 01:04:55 GMT</pubDate>
     </item>
   </channel>
 </rss>

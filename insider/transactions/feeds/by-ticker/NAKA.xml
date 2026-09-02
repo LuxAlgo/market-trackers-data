@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — NAKA</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 10:35:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:45:21 GMT</lastBuildDate>
     <item>
       <title>Bailey Calli Sullivan (NAKA) J: 3844 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/2113891/0002113891-26-000003-index.htm</link>

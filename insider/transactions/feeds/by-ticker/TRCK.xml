@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — TRCK</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 18:38:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:34:42 GMT</lastBuildDate>
     <item>
       <title>Sullivan John Richmond (TRCK) A: 325000 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/2131529/0002131529-26-000004-index.htm</link>

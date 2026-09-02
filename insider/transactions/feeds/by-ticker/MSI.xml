@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — MSI</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:36:52 GMT</lastBuildDate>
     <item>
       <title>MOORE KATHRYN A (MSI) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/68505/0002047518-26-000010-index.htm</link>

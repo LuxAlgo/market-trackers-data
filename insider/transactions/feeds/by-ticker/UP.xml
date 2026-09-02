@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — UP</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:36:52 GMT</lastBuildDate>
     <item>
       <title>CK Wheels LLC (UP) S: 9363 shares @ $4.61</title>
       <link>https://www.sec.gov/Archives/edgar/data/1994757/0000945621-26-001114-index.htm</link>

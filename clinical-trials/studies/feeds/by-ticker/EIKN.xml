@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — EIKN</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
     <item>
       <title>Eikon Therapeutics — RECRUITING PHASE2/PHASE3: A Safety and Efficacy Study of EIK1001 in Combination With Pembrolizumab and Chemotherapy in Participants With Stage 4 Non-Small Cell Lung Cancer.</title>
       <link>https://clinicaltrials.gov/study/NCT07365319</link>
       <guid isPermaLink="false">clinical-trials:NCT07365319</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

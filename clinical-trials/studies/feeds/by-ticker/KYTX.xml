@@ -4,24 +4,24 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — KYTX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
     <item>
       <title>Kyverna Therapeutics — TERMINATED PHASE1/PHASE2: KYSA-5: A Study of Anti-CD19 Chimeric Antigen Receptor T-Cell (CD19 CAR T) Therapy, in Subjects With Systemic Sclerosis</title>
       <link>https://clinicaltrials.gov/study/NCT06400303</link>
       <guid isPermaLink="false">clinical-trials:NCT06400303</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
     </item>
     <item>
       <title>Kyverna Therapeutics — TERMINATED PHASE1/PHASE2: KYSA-3: A Study of Anti-CD19 Chimeric Antigen Receptor T-Cell (CD19 CAR T) Therapy, in Subjects With Refractory Lupus Nephritis</title>
       <link>https://clinicaltrials.gov/study/NCT06342960</link>
       <guid isPermaLink="false">clinical-trials:NCT06342960</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
     </item>
     <item>
       <title>Kyverna Therapeutics — TERMINATED PHASE1/PHASE2: KYSA-1: A Study of Anti-CD19 Chimeric Antigen Receptor T-Cell (CD19 CAR T) Therapy, in Subjects With Refractory Lupus Nephritis</title>
       <link>https://clinicaltrials.gov/study/NCT05938725</link>
       <guid isPermaLink="false">clinical-trials:NCT05938725</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

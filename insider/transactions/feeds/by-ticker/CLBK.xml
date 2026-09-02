@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — CLBK</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 14:36:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
     <item>
       <title>Prabhu Manesh Balachandran (CLBK) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/2115119/0001949911-26-000016-index.htm</link>

@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — HLNCF</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
     <item>
       <title>HALEON — COMPLETED PHASE3: Clinical Study to Investigate the Antihypersensitivity Efficacy of a Novel Dentifrice</title>
       <link>https://clinicaltrials.gov/study/NCT07215767</link>

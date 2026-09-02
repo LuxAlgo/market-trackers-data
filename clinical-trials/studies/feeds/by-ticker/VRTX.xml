@@ -4,30 +4,30 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — VRTX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
     <item>
       <title>Vertex Pharmaceuticals Incorporated — NOT_YET_RECRUITING PHASE1: Effects of VX-407 on the Pharmacokinetics of Combined Oral Contraceptives</title>
       <link>https://clinicaltrials.gov/study/NCT07792408</link>
       <guid isPermaLink="false">clinical-trials:NCT07792408</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
     </item>
     <item>
       <title>Vertex Pharmaceuticals Incorporated — RECRUITING PHASE2/PHASE3: Evaluation of Efficacy, Safety, and Tolerability of Povetacicept in Participants With Primary Membranous Nephropathy (pMN)</title>
       <link>https://clinicaltrials.gov/study/NCT07204275</link>
       <guid isPermaLink="false">clinical-trials:NCT07204275</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
     </item>
     <item>
       <title>Vertex Pharmaceuticals Incorporated — RECRUITING PHASE2/PHASE3: Phase 2/3 Adaptive Study of VX-147 in Adult and Pediatric Participants With APOL1-Mediated Proteinuric Kidney Disease</title>
       <link>https://clinicaltrials.gov/study/NCT05312879</link>
       <guid isPermaLink="false">clinical-trials:NCT05312879</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
     </item>
     <item>
       <title>Vertex Pharmaceuticals Incorporated — RECRUITING PHASE3: A Safety, Tolerability, and Efficacy Study of VX-880 and VX-017 in Participants With Type 1 Diabetes</title>
       <link>https://clinicaltrials.gov/study/NCT04786262</link>
       <guid isPermaLink="false">clinical-trials:NCT04786262</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
     </item>
     <item>
       <title>Vertex Pharmaceuticals Incorporated — COMPLETED PHASE2: Inaxaplin in Participants With Proteinuric APOL1 Mediated Kidney Disease With or Without Comorbidities</title>

@@ -4,24 +4,468 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — AZN</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
     <item>
       <title>AstraZeneca — NOT_YET_RECRUITING: A Study in Greece Observing How Patients With Stomach and Esophageal Cancer Are Diagnosed and Treated in Everyday Medical Practice</title>
       <link>https://clinicaltrials.gov/study/NCT07800754</link>
       <guid isPermaLink="false">clinical-trials:NCT07800754</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
     </item>
     <item>
       <title>AstraZeneca — NOT_YET_RECRUITING: Tezepelumab CRSwNP Real World Study (CREW Study)</title>
       <link>https://clinicaltrials.gov/study/NCT07790198</link>
       <guid isPermaLink="false">clinical-trials:NCT07790198</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
     </item>
     <item>
       <title>AstraZeneca — NOT_YET_RECRUITING: QUARTZ: Comparative Effectiveness of Switching From Albuterol to Albuterol/Budesonide Versus Adding Low-dose ICS or LTRA to Albuterol</title>
       <link>https://clinicaltrials.gov/study/NCT07787117</link>
       <guid isPermaLink="false">clinical-trials:NCT07787117</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE3: A Study to Investigate the Efficacy and Safety of Elecoglipron in Asian Participants With Obesity or Overweight With or Without Type 2 Diabetes Mellitus</title>
+      <link>https://clinicaltrials.gov/study/NCT07775404</link>
+      <guid isPermaLink="false">clinical-trials:NCT07775404</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE1/PHASE2: A Study to Characterize the Safety and Immunogenicity of AZD6489 in Participants 60 Years of Age and Older (ARIES)</title>
+      <link>https://clinicaltrials.gov/study/NCT07717840</link>
+      <guid isPermaLink="false">clinical-trials:NCT07717840</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING: Retinal Fundus Imaging and OCT Imaging for Ocular Detection of ATTR-CM</title>
+      <link>https://clinicaltrials.gov/study/NCT07690436</link>
+      <guid isPermaLink="false">clinical-trials:NCT07690436</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE1/PHASE2: A Modular, Phase I/II, Multicentre Study to Evaluate AZD4045, in Participants With Relapsed or Refractory Multiple Myeloma</title>
+      <link>https://clinicaltrials.gov/study/NCT07681596</link>
+      <guid isPermaLink="false">clinical-trials:NCT07681596</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE3: A Phase III Study to Investigate the Efficacy and Safety of Elecoglipron Compared With Placebo in Adults With Type 2 Diabetes Mellitus and Impaired Renal Function on Background Dapagliflozin</title>
+      <link>https://clinicaltrials.gov/study/NCT07662135</link>
+      <guid isPermaLink="false">clinical-trials:NCT07662135</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE3: A Phase III Study to Investigate the Efficacy and Safety of the Combination of Elecoglipron and Dapagliflozin in Adults With Type 2 Diabetes Mellitus</title>
+      <link>https://clinicaltrials.gov/study/NCT07662109</link>
+      <guid isPermaLink="false">clinical-trials:NCT07662109</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE3: A Phase III Study to Investigate the Efficacy and Safety of Elecoglipron Alone or in Combination With Dapagliflozin Compared With Placebo in Adults With Type 2 Diabetes Mellitus</title>
+      <link>https://clinicaltrials.gov/study/NCT07662044</link>
+      <guid isPermaLink="false">clinical-trials:NCT07662044</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE3: AZD2265 Compared With Standard of Care in PSMA-positive Metastatic Castration-resistant Prostate Cancer (VECTRA-01)</title>
+      <link>https://clinicaltrials.gov/study/NCT07611110</link>
+      <guid isPermaLink="false">clinical-trials:NCT07611110</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE2: Study of AZD2389 Safety, Tolerability, and Pharmacodynamics in Adults With Steatotic Liver Disease and Advanced Fibrosis</title>
+      <link>https://clinicaltrials.gov/study/NCT07610837</link>
+      <guid isPermaLink="false">clinical-trials:NCT07610837</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING: MONTEROSA - Italian Multicenter Observational Study to Evaluate Time to Clinical Hepatic Decompensation, Quality of Life, Effectiveness, and Safety of Tremelimumab Plus Durvalumab in Patients With Advanced or Unresectable Hepatocellular Carcinoma Who Have Received no Prior Systemic Treatment.</title>
+      <link>https://clinicaltrials.gov/study/NCT07607769</link>
+      <guid isPermaLink="false">clinical-trials:NCT07607769</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE1/PHASE2: Phase Ib/II Platform Study of Multiple Anti-Cancer Agents in Participants With Metastatic Prostate Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT07590934</link>
+      <guid isPermaLink="false">clinical-trials:NCT07590934</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE3: Long-term Safety and Tolerability of Tozorakimab in Patients With COPD and History of Exacerbations</title>
+      <link>https://clinicaltrials.gov/study/NCT07566195</link>
+      <guid isPermaLink="false">clinical-trials:NCT07566195</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE1: A Phase I Study to Investigate the Effect of Hepatic Impairment of AZD9550 and AZD6234</title>
+      <link>https://clinicaltrials.gov/study/NCT07546760</link>
+      <guid isPermaLink="false">clinical-trials:NCT07546760</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING: Barriers and Facilitators of Persistence With Adjuvant Osimertinib</title>
+      <link>https://clinicaltrials.gov/study/NCT07542210</link>
+      <guid isPermaLink="false">clinical-trials:NCT07542210</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE1: A Study to Investigate the Effect of Elecoglipron on Rosuvastatin and Atorvastatin in Healthy Participants</title>
+      <link>https://clinicaltrials.gov/study/NCT07534592</link>
+      <guid isPermaLink="false">clinical-trials:NCT07534592</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE2: A Phase II Study to Investigate Lung Function With 2 Different Doses of Inhaled Glycopyrronium Taken With BFF Compared to BFF in Participants of 4 to Less Than 12 Years of Age With Asthma</title>
+      <link>https://clinicaltrials.gov/study/NCT07525375</link>
+      <guid isPermaLink="false">clinical-trials:NCT07525375</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING NA: Explore the Diagnostic Value of Bronchodilation Test With Portable Oscillometry in Asthma Diagnosis</title>
+      <link>https://clinicaltrials.gov/study/NCT07516184</link>
+      <guid isPermaLink="false">clinical-trials:NCT07516184</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING: NIS to Examine Disease Activity in SLE Patients Treated With Subcutaneous Anifrolumab in Routine Care</title>
+      <link>https://clinicaltrials.gov/study/NCT07424261</link>
+      <guid isPermaLink="false">clinical-trials:NCT07424261</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING: CHOICE:Decision Factor of EGFR-TKI in Chinese IV NSCLC</title>
+      <link>https://clinicaltrials.gov/study/NCT07413757</link>
+      <guid isPermaLink="false">clinical-trials:NCT07413757</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE3: A Study Comparing AZD0120, a Dual-targeted CAR-T Against B-cell Maturation Antigen (BCMA) and CD19, Versus Standard Regimens in Participants With Relapsed Refractory Multiple Myeloma (DURGA-4)</title>
+      <link>https://clinicaltrials.gov/study/NCT07391657</link>
+      <guid isPermaLink="false">clinical-trials:NCT07391657</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING: Observational Study on the Prevalence and Risk Factors of Patients With Hyperkalaemia in Brazil</title>
+      <link>https://clinicaltrials.gov/study/NCT07370194</link>
+      <guid isPermaLink="false">clinical-trials:NCT07370194</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING: Achievement of LLDAS5 in Patients With Systemic Lupus Erythematosus Treated With Anifrolumab.</title>
+      <link>https://clinicaltrials.gov/study/NCT07330245</link>
+      <guid isPermaLink="false">clinical-trials:NCT07330245</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE4: Osimertinib Combined With Chemotherapy in Patients Who Had Distant Recurrence After Adjuvant Osimertinib for EGFRm Resectable SIB-IIIA NSCLC.</title>
+      <link>https://clinicaltrials.gov/study/NCT07279935</link>
+      <guid isPermaLink="false">clinical-trials:NCT07279935</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE2: A Phase IIb Study to Evaluate the Effect of Dapagliflozin in Combination With Baxdrostat Compared With Baxdrostat on Albuminuria in Participants With Chronic Kidney Disease and High Blood Pressure.</title>
+      <link>https://clinicaltrials.gov/study/NCT07222917</link>
+      <guid isPermaLink="false">clinical-trials:NCT07222917</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE2: A Study to Investigate the Effect of AZD0780 Tablets in Combination With Rosuvastatin Tablets on Low Density Lipoprotein Cholesterol Levels (LDL-C) in Adult Participants With Dyslipidaemia</title>
+      <link>https://clinicaltrials.gov/study/NCT07218900</link>
+      <guid isPermaLink="false">clinical-trials:NCT07218900</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE2: A Study to Investigate the Efficacy, Safety, and Tolerability of AZD4144in Participants With Sepsis-associated Acute Kidney Injury.</title>
+      <link>https://clinicaltrials.gov/study/NCT07215702</link>
+      <guid isPermaLink="false">clinical-trials:NCT07215702</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING: A Real-life Observational Study in Severe Eosinophilic Asthma Adult Participant Treated With Benralizumab in Italy</title>
+      <link>https://clinicaltrials.gov/study/NCT07214753</link>
+      <guid isPermaLink="false">clinical-trials:NCT07214753</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE3: A Study of Dato-DXd in Inoperable or Metastatic Hormone Receptor-positive, HER2 IHC 0 Breast Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT07205822</link>
+      <guid isPermaLink="false">clinical-trials:NCT07205822</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING: The Eplontersen Pregnancy and Lactation Outcomes Study</title>
+      <link>https://clinicaltrials.gov/study/NCT07205666</link>
+      <guid isPermaLink="false">clinical-trials:NCT07205666</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE1: Study Evaluating Safety, Tolerability, PK/PD of Surovatamig in Adult RA or SLE Participants</title>
+      <link>https://clinicaltrials.gov/study/NCT07201558</link>
+      <guid isPermaLink="false">clinical-trials:NCT07201558</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE1/PHASE2: A Study to Learn How Safe AZD6621 is, How Well it Works, and How it Moves Throughout the Body Over Time, in Adult Male Participants With Metastatic Prostate Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT07192614</link>
+      <guid isPermaLink="false">clinical-trials:NCT07192614</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE1/PHASE2: Study of AZD0516 as Monotherapy and in Combination in Participants With Metastatic Prostate Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT07181161</link>
+      <guid isPermaLink="false">clinical-trials:NCT07181161</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING: Observational, Bi-directional (Prospective and Retrospective) Study for Patients With Newly Diagnosed Ovarian Cancer Stages IA to IVB, or Persistent or Recurrent Disease From January 2021; Irrespective of Histology</title>
+      <link>https://clinicaltrials.gov/study/NCT07167433</link>
+      <guid isPermaLink="false">clinical-trials:NCT07167433</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE1: A Study to Investigate the Pharmacokinetics and Safety of Subcutaneous Rilvegostomig in Adult Participants With Advanced Solid Tumors Previously Treated With Standard of Care Therapy</title>
+      <link>https://clinicaltrials.gov/study/NCT07161414</link>
+      <guid isPermaLink="false">clinical-trials:NCT07161414</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE1/PHASE2: A Phase I/II Study of AZD4512 Monotherapy or in Combination With Anticancer Agents in Participants With Relapsed/Refractory B-cell Non-Hodgkin Lymphoma</title>
+      <link>https://clinicaltrials.gov/study/NCT07123454</link>
+      <guid isPermaLink="false">clinical-trials:NCT07123454</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE2: A Study to Evaluate Acalabrutinib, in Combination With the R-CHOP Standard of Care, for Previously Untreated Mantle Cell Lymphoma in Spain</title>
+      <link>https://clinicaltrials.gov/study/NCT07029737</link>
+      <guid isPermaLink="false">clinical-trials:NCT07029737</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING: Durvalumab With or Without Olaparib in Patients With Endometrial Cancers Regulatory Post Marketing Surveillance</title>
+      <link>https://clinicaltrials.gov/study/NCT06995833</link>
+      <guid isPermaLink="false">clinical-trials:NCT06995833</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE1: A Study to Investigate the Safety and Pharmacokinetics of Single- and Multiple-ascending Doses of AZD4916 in Healthy Volunteers</title>
+      <link>https://clinicaltrials.gov/study/NCT06951880</link>
+      <guid isPermaLink="false">clinical-trials:NCT06951880</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE2: A Study to Investigate the Effects of Zibotentan/Dapagliflozin Combination Compared to Dapagliflozin Alone in Adult Participants With Chronic Kidney Disease and High Proteinuria</title>
+      <link>https://clinicaltrials.gov/study/NCT06942910</link>
+      <guid isPermaLink="false">clinical-trials:NCT06942910</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING NA: The Prevalence of COPD in Patients With Cardiovascular Disease and the Benefit of Cardiopulmonary Co-management</title>
+      <link>https://clinicaltrials.gov/study/NCT06909773</link>
+      <guid isPermaLink="false">clinical-trials:NCT06909773</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE1: Modular Clinical Pharmacology Study to Evaluate the Drug-drug Interaction Potential and Relative Bioavailability of Saruparib</title>
+      <link>https://clinicaltrials.gov/study/NCT06899061</link>
+      <guid isPermaLink="false">clinical-trials:NCT06899061</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE2/PHASE3: A Study to Evaluate the Efficacy, Safety, and Pharmacokinetics of AZD0780 in Participants With Dyslipidaemia</title>
+      <link>https://clinicaltrials.gov/study/NCT06834932</link>
+      <guid isPermaLink="false">clinical-trials:NCT06834932</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — COMPLETED: Prospective Observational Multicenter Study of Patients With AH and CKD Markers in Kazakhstan (PROGRESS-CKD)</title>
+      <link>https://clinicaltrials.gov/study/NCT06744335</link>
+      <guid isPermaLink="false">clinical-trials:NCT06744335</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE3: A Phase III Renal Outcomes and Cardiovascular Mortality Study to Investigate the Efficacy and Safety of Baxdrostat in Combination With Dapagliflozin in Participants With Chronic Kidney Disease and High Blood Pressure</title>
+      <link>https://clinicaltrials.gov/study/NCT06742723</link>
+      <guid isPermaLink="false">clinical-trials:NCT06742723</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING: UmbREALung - A Retrospective and Prospective, Observational, Real World Multi-cohort Study of Patients With Non-small Cell Lung Cancer (NSCLC) Initiating Approved Drugs Developed by AZ or as Part of an AZ Alliance</title>
+      <link>https://clinicaltrials.gov/study/NCT06726720</link>
+      <guid isPermaLink="false">clinical-trials:NCT06726720</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE2: Study Evaluating AZD7798 for Treatment in Crohn's Disease Patients With an Ileostomy</title>
+      <link>https://clinicaltrials.gov/study/NCT06681324</link>
+      <guid isPermaLink="false">clinical-trials:NCT06681324</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING: Prospective Registry Investigating Maternal and Infant Outcomes in Anifrolumab Users</title>
+      <link>https://clinicaltrials.gov/study/NCT06659029</link>
+      <guid isPermaLink="false">clinical-trials:NCT06659029</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — COMPLETED PHASE2: A Study Evaluating the Effect of Inhaled PT007(AS MDI) Versus Placebo MDI and Ventolin Evohaler on Lung Function in Adult Participants With Asthma</title>
+      <link>https://clinicaltrials.gov/study/NCT06644924</link>
+      <guid isPermaLink="false">clinical-trials:NCT06644924</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING: Real-world Study Assessing Efficacy of TezepeLumaB in Patients With Severe Asthma Regardless of Phenotype in Russia</title>
+      <link>https://clinicaltrials.gov/study/NCT06566885</link>
+      <guid isPermaLink="false">clinical-trials:NCT06566885</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING: Clinical and demOgRaphic Features of Patients With Uncontrolled Severe Asthma in Russia (CORSAR)</title>
+      <link>https://clinicaltrials.gov/study/NCT06472310</link>
+      <guid isPermaLink="false">clinical-trials:NCT06472310</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE2: Volrustomig Priming Regimens Exploratory Phase II Platform Study</title>
+      <link>https://clinicaltrials.gov/study/NCT06448754</link>
+      <guid isPermaLink="false">clinical-trials:NCT06448754</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING: A Non-interventional, Prospective Study With Benralizumab</title>
+      <link>https://clinicaltrials.gov/study/NCT06422078</link>
+      <guid isPermaLink="false">clinical-trials:NCT06422078</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE3: Saruparib (AZD5305) Plus Camizestrant or Plus Endocrine Therapy, Compared With CDK4/6 Inhibitor Plus Endocrine Therapy or Plus Camizestrant in HR-Positive, HER2-Negative (IHC 0, 1+, 2+/ ISH Non-amplified), BRCA1, BRCA2, or PALB2m Advanced Breast Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT06380751</link>
+      <guid isPermaLink="false">clinical-trials:NCT06380751</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING: Lung Cancer Screening Program Using Low-dose Tomography and Metabolomic Evaluation in a Public Service.</title>
+      <link>https://clinicaltrials.gov/study/NCT06376097</link>
+      <guid isPermaLink="false">clinical-trials:NCT06376097</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE3: Phase III, Open-label Study of First-line Osimertinib With or Without Datopotamab Deruxtecan for EGFRm Locally Advanced or Metastatic Non-small Cell Lung Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT06350097</link>
+      <guid isPermaLink="false">clinical-trials:NCT06350097</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING: INTERSTELLAR - International Study Evaluating Lupus Outcomes After Anifrolumab Real World Use</title>
+      <link>https://clinicaltrials.gov/study/NCT06314282</link>
+      <guid isPermaLink="false">clinical-trials:NCT06314282</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE3: A Study Evaluating the Efficacy of Budesonide, Glycopyrronium and Formoterol Fumarate Metered Dosed Inhaler on Cardiopulmonary Outcomes in Chronic Obstructive Pulmonary Disease</title>
+      <link>https://clinicaltrials.gov/study/NCT06283966</link>
+      <guid isPermaLink="false">clinical-trials:NCT06283966</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE1/PHASE2: A Trial to Learn How Safe AZD9550 Monotherapy and Combined With AZD6234 is in People With or Without Type 2 Diabetes Who Are Living With Obesity and Overweight</title>
+      <link>https://clinicaltrials.gov/study/NCT06151964</link>
+      <guid isPermaLink="false">clinical-trials:NCT06151964</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — COMPLETED PHASE1: A Randomized Trial Evaluating a mRNA-VLP Vaccine's Immunogenicity and Safety for COVID-19</title>
+      <link>https://clinicaltrials.gov/study/NCT06147063</link>
+      <guid isPermaLink="false">clinical-trials:NCT06147063</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE1/PHASE2: A Study of AZD3470, a PRMT5 Inhibitor, Given as Monotherapy and in Combination in Patients With MTAP Deficient Advanced/Metastatic Solid Tumors</title>
+      <link>https://clinicaltrials.gov/study/NCT06130553</link>
+      <guid isPermaLink="false">clinical-trials:NCT06130553</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE2: A Study of Acalabrutinib Plus Venetoclax and Rituximab in Participants With Treatment Naïve Mantle Cell Lymphoma</title>
+      <link>https://clinicaltrials.gov/study/NCT05951959</link>
+      <guid isPermaLink="false">clinical-trials:NCT05951959</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE1: A Study of NT-175 in Adult Participants With Advanced Malignancies That Are Positive for HLA-A*02:01 and the TP53 R175H Mutation</title>
+      <link>https://clinicaltrials.gov/study/NCT05877599</link>
+      <guid isPermaLink="false">clinical-trials:NCT05877599</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING PHASE3: Efficacy and Safety of Tozorakimab in Patients Hospitalised for Viral Lung Infection Requiring Supplemental Oxygen</title>
+      <link>https://clinicaltrials.gov/study/NCT05624450</link>
+      <guid isPermaLink="false">clinical-trials:NCT05624450</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE1/PHASE2: A Study of Dato-DXd in Chinese Patients With Advanced Non-Small Cell Lung Cancer, Triple-negative Breast Cancer and Other Solid Tumors (TROPION-PanTumor02)</title>
+      <link>https://clinicaltrials.gov/study/NCT05460273</link>
+      <guid isPermaLink="false">clinical-trials:NCT05460273</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — RECRUITING: Ondexxya for Intravenous Injection 200mg Drug Use Result Investigation (All Case Investigation)</title>
+      <link>https://clinicaltrials.gov/study/NCT05454787</link>
+      <guid isPermaLink="false">clinical-trials:NCT05454787</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING: National Acalabrutinib Observational Study</title>
+      <link>https://clinicaltrials.gov/study/NCT05437250</link>
+      <guid isPermaLink="false">clinical-trials:NCT05437250</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE1/PHASE2: Study of AZD5305 When Given in Combination With New Hormonal Agents in Patients With Metastatic Prostate Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT05367440</link>
+      <guid isPermaLink="false">clinical-trials:NCT05367440</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE3: A Global Study to Assess the Effects of Durvalumab + Domvanalimab Following Concurrent Chemoradiation in Participants With Stage III Unresectable NSCLC</title>
+      <link>https://clinicaltrials.gov/study/NCT05211895</link>
+      <guid isPermaLink="false">clinical-trials:NCT05211895</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE3: Study on Olaparib Plus Abiraterone as First-line Therapy in Men With Metastatic Castration-resistant Prostate Cancer (China Cohort)</title>
+      <link>https://clinicaltrials.gov/study/NCT05171816</link>
+      <guid isPermaLink="false">clinical-trials:NCT05171816</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE3: A Study of Acalabrutinib Plus Venetoclax Versus Venetoclax Plus Obinutuzumab in Previously Untreated Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma</title>
+      <link>https://clinicaltrials.gov/study/NCT05057494</link>
+      <guid isPermaLink="false">clinical-trials:NCT05057494</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE2: Ph1b/2 Study of the Safety and Efficacy of T-DXd Combinations in Advanced HER2-expressing Gastric Cancer (DESTINY-Gastric03)</title>
+      <link>https://clinicaltrials.gov/study/NCT04379596</link>
+      <guid isPermaLink="false">clinical-trials:NCT04379596</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE2: A Study to Investigate Efficacy and Safety With Oral AZD9833 Compared With Intramuscular Fulvestrant in Post-menopausal Women at Least 18 Years of Age With Advanced ER-positive HER2 Negative Breast Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT04214288</link>
+      <guid isPermaLink="false">clinical-trials:NCT04214288</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — COMPLETED PHASE3: Acalabrutinib Safety Study in Untreated and Relapsed or Refractory Chronic Lymphocytic Leukemia Patients</title>
+      <link>https://clinicaltrials.gov/study/NCT04008706</link>
+      <guid isPermaLink="false">clinical-trials:NCT04008706</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE3: Durvalumab or Placebo in Combination With Gemcitabine/Cisplatin in Patients With 1st Line Advanced Biliary Tract Cancer (TOPAZ-1)</title>
+      <link>https://clinicaltrials.gov/study/NCT03875235</link>
+      <guid isPermaLink="false">clinical-trials:NCT03875235</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
     </item>
     <item>
       <title>AstraZeneca — RECRUITING PHASE3: A Study to Evaluate Effect of AZD6234 in Adult Participants With Obesity or Overweight With Weight-related Comorbidity Without Type 2 Diabetes Mellitus</title>
@@ -42,69 +486,9 @@
       <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
-      <title>AstraZeneca — RECRUITING PHASE3: A Study to Investigate the Efficacy and Safety of Elecoglipron in Asian Participants With Obesity or Overweight With or Without Type 2 Diabetes Mellitus</title>
-      <link>https://clinicaltrials.gov/study/NCT07775404</link>
-      <guid isPermaLink="false">clinical-trials:NCT07775404</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE1/PHASE2: A Study to Characterize the Safety and Immunogenicity of AZD6489 in Participants 60 Years of Age and Older (ARIES)</title>
-      <link>https://clinicaltrials.gov/study/NCT07717840</link>
-      <guid isPermaLink="false">clinical-trials:NCT07717840</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING: Retinal Fundus Imaging and OCT Imaging for Ocular Detection of ATTR-CM</title>
-      <link>https://clinicaltrials.gov/study/NCT07690436</link>
-      <guid isPermaLink="false">clinical-trials:NCT07690436</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE1/PHASE2: A Modular, Phase I/II, Multicentre Study to Evaluate AZD4045, in Participants With Relapsed or Refractory Multiple Myeloma</title>
-      <link>https://clinicaltrials.gov/study/NCT07681596</link>
-      <guid isPermaLink="false">clinical-trials:NCT07681596</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE3: A Phase III Study to Investigate the Efficacy and Safety of Elecoglipron Compared With Placebo in Adults With Type 2 Diabetes Mellitus and Impaired Renal Function on Background Dapagliflozin</title>
-      <link>https://clinicaltrials.gov/study/NCT07662135</link>
-      <guid isPermaLink="false">clinical-trials:NCT07662135</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE3: A Phase III Study to Investigate the Efficacy and Safety of the Combination of Elecoglipron and Dapagliflozin in Adults With Type 2 Diabetes Mellitus</title>
-      <link>https://clinicaltrials.gov/study/NCT07662109</link>
-      <guid isPermaLink="false">clinical-trials:NCT07662109</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE3: A Phase III Study to Investigate the Efficacy and Safety of Elecoglipron Alone or in Combination With Dapagliflozin Compared With Placebo in Adults With Type 2 Diabetes Mellitus</title>
-      <link>https://clinicaltrials.gov/study/NCT07662044</link>
-      <guid isPermaLink="false">clinical-trials:NCT07662044</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
       <title>AstraZeneca — RECRUITING: Prospective, Non-interventional Single-arm Study With Tezepelumab to Investigate the Change in Clinical and Patient-reported Outcomes in Patients With CRSwNP in Real-world (PETRICHOR)</title>
       <link>https://clinicaltrials.gov/study/NCT07633158</link>
       <guid isPermaLink="false">clinical-trials:NCT07633158</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE3: AZD2265 Compared With Standard of Care in PSMA-positive Metastatic Castration-resistant Prostate Cancer (VECTRA-01)</title>
-      <link>https://clinicaltrials.gov/study/NCT07611110</link>
-      <guid isPermaLink="false">clinical-trials:NCT07611110</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE2: Study of AZD2389 Safety, Tolerability, and Pharmacodynamics in Adults With Steatotic Liver Disease and Advanced Fibrosis</title>
-      <link>https://clinicaltrials.gov/study/NCT07610837</link>
-      <guid isPermaLink="false">clinical-trials:NCT07610837</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING: MONTEROSA - Italian Multicenter Observational Study to Evaluate Time to Clinical Hepatic Decompensation, Quality of Life, Effectiveness, and Safety of Tremelimumab Plus Durvalumab in Patients With Advanced or Unresectable Hepatocellular Carcinoma Who Have Received no Prior Systemic Treatment.</title>
-      <link>https://clinicaltrials.gov/study/NCT07607769</link>
-      <guid isPermaLink="false">clinical-trials:NCT07607769</guid>
       <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
@@ -114,87 +498,9 @@
       <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
-      <title>AstraZeneca — RECRUITING PHASE1/PHASE2: Phase Ib/II Platform Study of Multiple Anti-Cancer Agents in Participants With Metastatic Prostate Cancer</title>
-      <link>https://clinicaltrials.gov/study/NCT07590934</link>
-      <guid isPermaLink="false">clinical-trials:NCT07590934</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE3: Long-term Safety and Tolerability of Tozorakimab in Patients With COPD and History of Exacerbations</title>
-      <link>https://clinicaltrials.gov/study/NCT07566195</link>
-      <guid isPermaLink="false">clinical-trials:NCT07566195</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE1: A Phase I Study to Investigate the Effect of Hepatic Impairment of AZD9550 and AZD6234</title>
-      <link>https://clinicaltrials.gov/study/NCT07546760</link>
-      <guid isPermaLink="false">clinical-trials:NCT07546760</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING: Barriers and Facilitators of Persistence With Adjuvant Osimertinib</title>
-      <link>https://clinicaltrials.gov/study/NCT07542210</link>
-      <guid isPermaLink="false">clinical-trials:NCT07542210</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE1: A Study to Investigate the Effect of Elecoglipron on Rosuvastatin and Atorvastatin in Healthy Participants</title>
-      <link>https://clinicaltrials.gov/study/NCT07534592</link>
-      <guid isPermaLink="false">clinical-trials:NCT07534592</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE2: A Phase II Study to Investigate Lung Function With 2 Different Doses of Inhaled Glycopyrronium Taken With BFF Compared to BFF in Participants of 4 to Less Than 12 Years of Age With Asthma</title>
-      <link>https://clinicaltrials.gov/study/NCT07525375</link>
-      <guid isPermaLink="false">clinical-trials:NCT07525375</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING NA: Explore the Diagnostic Value of Bronchodilation Test With Portable Oscillometry in Asthma Diagnosis</title>
-      <link>https://clinicaltrials.gov/study/NCT07516184</link>
-      <guid isPermaLink="false">clinical-trials:NCT07516184</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING: NIS to Examine Disease Activity in SLE Patients Treated With Subcutaneous Anifrolumab in Routine Care</title>
-      <link>https://clinicaltrials.gov/study/NCT07424261</link>
-      <guid isPermaLink="false">clinical-trials:NCT07424261</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING: CHOICE:Decision Factor of EGFR-TKI in Chinese IV NSCLC</title>
-      <link>https://clinicaltrials.gov/study/NCT07413757</link>
-      <guid isPermaLink="false">clinical-trials:NCT07413757</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
       <title>AstraZeneca — RECRUITING PHASE1: A Phase I Dose Escalation and Dose Expansion Study to Investigate the Pharmacokinetics and Safety of Subcutaneous Durvalumab</title>
       <link>https://clinicaltrials.gov/study/NCT07391670</link>
       <guid isPermaLink="false">clinical-trials:NCT07391670</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE3: A Study Comparing AZD0120, a Dual-targeted CAR-T Against B-cell Maturation Antigen (BCMA) and CD19, Versus Standard Regimens in Participants With Relapsed Refractory Multiple Myeloma (DURGA-4)</title>
-      <link>https://clinicaltrials.gov/study/NCT07391657</link>
-      <guid isPermaLink="false">clinical-trials:NCT07391657</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING: Observational Study on the Prevalence and Risk Factors of Patients With Hyperkalaemia in Brazil</title>
-      <link>https://clinicaltrials.gov/study/NCT07370194</link>
-      <guid isPermaLink="false">clinical-trials:NCT07370194</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING: Achievement of LLDAS5 in Patients With Systemic Lupus Erythematosus Treated With Anifrolumab.</title>
-      <link>https://clinicaltrials.gov/study/NCT07330245</link>
-      <guid isPermaLink="false">clinical-trials:NCT07330245</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE4: Osimertinib Combined With Chemotherapy in Patients Who Had Distant Recurrence After Adjuvant Osimertinib for EGFRm Resectable SIB-IIIA NSCLC.</title>
-      <link>https://clinicaltrials.gov/study/NCT07279935</link>
-      <guid isPermaLink="false">clinical-trials:NCT07279935</guid>
       <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
@@ -204,81 +510,9 @@
       <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE2: A Phase IIb Study to Evaluate the Effect of Dapagliflozin in Combination With Baxdrostat Compared With Baxdrostat on Albuminuria in Participants With Chronic Kidney Disease and High Blood Pressure.</title>
-      <link>https://clinicaltrials.gov/study/NCT07222917</link>
-      <guid isPermaLink="false">clinical-trials:NCT07222917</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE2: A Study to Investigate the Effect of AZD0780 Tablets in Combination With Rosuvastatin Tablets on Low Density Lipoprotein Cholesterol Levels (LDL-C) in Adult Participants With Dyslipidaemia</title>
-      <link>https://clinicaltrials.gov/study/NCT07218900</link>
-      <guid isPermaLink="false">clinical-trials:NCT07218900</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE2: A Study to Investigate the Efficacy, Safety, and Tolerability of AZD4144in Participants With Sepsis-associated Acute Kidney Injury.</title>
-      <link>https://clinicaltrials.gov/study/NCT07215702</link>
-      <guid isPermaLink="false">clinical-trials:NCT07215702</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING: A Real-life Observational Study in Severe Eosinophilic Asthma Adult Participant Treated With Benralizumab in Italy</title>
-      <link>https://clinicaltrials.gov/study/NCT07214753</link>
-      <guid isPermaLink="false">clinical-trials:NCT07214753</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE3: A Study of Dato-DXd in Inoperable or Metastatic Hormone Receptor-positive, HER2 IHC 0 Breast Cancer</title>
-      <link>https://clinicaltrials.gov/study/NCT07205822</link>
-      <guid isPermaLink="false">clinical-trials:NCT07205822</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING: The Eplontersen Pregnancy and Lactation Outcomes Study</title>
-      <link>https://clinicaltrials.gov/study/NCT07205666</link>
-      <guid isPermaLink="false">clinical-trials:NCT07205666</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE1: Study Evaluating Safety, Tolerability, PK/PD of Surovatamig in Adult RA or SLE Participants</title>
-      <link>https://clinicaltrials.gov/study/NCT07201558</link>
-      <guid isPermaLink="false">clinical-trials:NCT07201558</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE1/PHASE2: A Study to Learn How Safe AZD6621 is, How Well it Works, and How it Moves Throughout the Body Over Time, in Adult Male Participants With Metastatic Prostate Cancer</title>
-      <link>https://clinicaltrials.gov/study/NCT07192614</link>
-      <guid isPermaLink="false">clinical-trials:NCT07192614</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE1/PHASE2: Study of AZD0516 as Monotherapy and in Combination in Participants With Metastatic Prostate Cancer</title>
-      <link>https://clinicaltrials.gov/study/NCT07181161</link>
-      <guid isPermaLink="false">clinical-trials:NCT07181161</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING: Observational, Bi-directional (Prospective and Retrospective) Study for Patients With Newly Diagnosed Ovarian Cancer Stages IA to IVB, or Persistent or Recurrent Disease From January 2021; Irrespective of Histology</title>
-      <link>https://clinicaltrials.gov/study/NCT07167433</link>
-      <guid isPermaLink="false">clinical-trials:NCT07167433</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE1: A Study to Investigate the Pharmacokinetics and Safety of Subcutaneous Rilvegostomig in Adult Participants With Advanced Solid Tumors Previously Treated With Standard of Care Therapy</title>
-      <link>https://clinicaltrials.gov/study/NCT07161414</link>
-      <guid isPermaLink="false">clinical-trials:NCT07161414</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
       <title>AstraZeneca — RECRUITING: DESTINY-PANTUMOUR04</title>
       <link>https://clinicaltrials.gov/study/NCT07124000</link>
       <guid isPermaLink="false">clinical-trials:NCT07124000</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE1/PHASE2: A Phase I/II Study of AZD4512 Monotherapy or in Combination With Anticancer Agents in Participants With Relapsed/Refractory B-cell Non-Hodgkin Lymphoma</title>
-      <link>https://clinicaltrials.gov/study/NCT07123454</link>
-      <guid isPermaLink="false">clinical-trials:NCT07123454</guid>
       <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
@@ -288,93 +522,9 @@
       <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
-      <title>AstraZeneca — RECRUITING PHASE2: A Study to Evaluate Acalabrutinib, in Combination With the R-CHOP Standard of Care, for Previously Untreated Mantle Cell Lymphoma in Spain</title>
-      <link>https://clinicaltrials.gov/study/NCT07029737</link>
-      <guid isPermaLink="false">clinical-trials:NCT07029737</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING: Durvalumab With or Without Olaparib in Patients With Endometrial Cancers Regulatory Post Marketing Surveillance</title>
-      <link>https://clinicaltrials.gov/study/NCT06995833</link>
-      <guid isPermaLink="false">clinical-trials:NCT06995833</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE1: A Study to Investigate the Safety and Pharmacokinetics of Single- and Multiple-ascending Doses of AZD4916 in Healthy Volunteers</title>
-      <link>https://clinicaltrials.gov/study/NCT06951880</link>
-      <guid isPermaLink="false">clinical-trials:NCT06951880</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE2: A Study to Investigate the Effects of Zibotentan/Dapagliflozin Combination Compared to Dapagliflozin Alone in Adult Participants With Chronic Kidney Disease and High Proteinuria</title>
-      <link>https://clinicaltrials.gov/study/NCT06942910</link>
-      <guid isPermaLink="false">clinical-trials:NCT06942910</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING NA: The Prevalence of COPD in Patients With Cardiovascular Disease and the Benefit of Cardiopulmonary Co-management</title>
-      <link>https://clinicaltrials.gov/study/NCT06909773</link>
-      <guid isPermaLink="false">clinical-trials:NCT06909773</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE1: Modular Clinical Pharmacology Study to Evaluate the Drug-drug Interaction Potential and Relative Bioavailability of Saruparib</title>
-      <link>https://clinicaltrials.gov/study/NCT06899061</link>
-      <guid isPermaLink="false">clinical-trials:NCT06899061</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
       <title>AstraZeneca — RECRUITING: REBECCA Real-world Early BrEast CanCer mAnagement</title>
       <link>https://clinicaltrials.gov/study/NCT06856343</link>
       <guid isPermaLink="false">clinical-trials:NCT06856343</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE2/PHASE3: A Study to Evaluate the Efficacy, Safety, and Pharmacokinetics of AZD0780 in Participants With Dyslipidaemia</title>
-      <link>https://clinicaltrials.gov/study/NCT06834932</link>
-      <guid isPermaLink="false">clinical-trials:NCT06834932</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — COMPLETED: Prospective Observational Multicenter Study of Patients With AH and CKD Markers in Kazakhstan (PROGRESS-CKD)</title>
-      <link>https://clinicaltrials.gov/study/NCT06744335</link>
-      <guid isPermaLink="false">clinical-trials:NCT06744335</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE3: A Phase III Renal Outcomes and Cardiovascular Mortality Study to Investigate the Efficacy and Safety of Baxdrostat in Combination With Dapagliflozin in Participants With Chronic Kidney Disease and High Blood Pressure</title>
-      <link>https://clinicaltrials.gov/study/NCT06742723</link>
-      <guid isPermaLink="false">clinical-trials:NCT06742723</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING: UmbREALung - A Retrospective and Prospective, Observational, Real World Multi-cohort Study of Patients With Non-small Cell Lung Cancer (NSCLC) Initiating Approved Drugs Developed by AZ or as Part of an AZ Alliance</title>
-      <link>https://clinicaltrials.gov/study/NCT06726720</link>
-      <guid isPermaLink="false">clinical-trials:NCT06726720</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE2: Study Evaluating AZD7798 for Treatment in Crohn's Disease Patients With an Ileostomy</title>
-      <link>https://clinicaltrials.gov/study/NCT06681324</link>
-      <guid isPermaLink="false">clinical-trials:NCT06681324</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING: Prospective Registry Investigating Maternal and Infant Outcomes in Anifrolumab Users</title>
-      <link>https://clinicaltrials.gov/study/NCT06659029</link>
-      <guid isPermaLink="false">clinical-trials:NCT06659029</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — COMPLETED PHASE2: A Study Evaluating the Effect of Inhaled PT007(AS MDI) Versus Placebo MDI and Ventolin Evohaler on Lung Function in Adult Participants With Asthma</title>
-      <link>https://clinicaltrials.gov/study/NCT06644924</link>
-      <guid isPermaLink="false">clinical-trials:NCT06644924</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING: Real-world Study Assessing Efficacy of TezepeLumaB in Patients With Severe Asthma Regardless of Phenotype in Russia</title>
-      <link>https://clinicaltrials.gov/study/NCT06566885</link>
-      <guid isPermaLink="false">clinical-trials:NCT06566885</guid>
       <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
@@ -384,39 +534,9 @@
       <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
-      <title>AstraZeneca — RECRUITING: Clinical and demOgRaphic Features of Patients With Uncontrolled Severe Asthma in Russia (CORSAR)</title>
-      <link>https://clinicaltrials.gov/study/NCT06472310</link>
-      <guid isPermaLink="false">clinical-trials:NCT06472310</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE2: Volrustomig Priming Regimens Exploratory Phase II Platform Study</title>
-      <link>https://clinicaltrials.gov/study/NCT06448754</link>
-      <guid isPermaLink="false">clinical-trials:NCT06448754</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
       <title>AstraZeneca — ACTIVE_NOT_RECRUITING: Fasenra Pediatric Japan Post-Marketing Study(PMS)</title>
       <link>https://clinicaltrials.gov/study/NCT06427876</link>
       <guid isPermaLink="false">clinical-trials:NCT06427876</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING: A Non-interventional, Prospective Study With Benralizumab</title>
-      <link>https://clinicaltrials.gov/study/NCT06422078</link>
-      <guid isPermaLink="false">clinical-trials:NCT06422078</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE3: Saruparib (AZD5305) Plus Camizestrant or Plus Endocrine Therapy, Compared With CDK4/6 Inhibitor Plus Endocrine Therapy or Plus Camizestrant in HR-Positive, HER2-Negative (IHC 0, 1+, 2+/ ISH Non-amplified), BRCA1, BRCA2, or PALB2m Advanced Breast Cancer</title>
-      <link>https://clinicaltrials.gov/study/NCT06380751</link>
-      <guid isPermaLink="false">clinical-trials:NCT06380751</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING: Lung Cancer Screening Program Using Low-dose Tomography and Metabolomic Evaluation in a Public Service.</title>
-      <link>https://clinicaltrials.gov/study/NCT06376097</link>
-      <guid isPermaLink="false">clinical-trials:NCT06376097</guid>
       <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
@@ -426,135 +546,15 @@
       <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
-      <title>AstraZeneca — RECRUITING PHASE3: Phase III, Open-label Study of First-line Osimertinib With or Without Datopotamab Deruxtecan for EGFRm Locally Advanced or Metastatic Non-small Cell Lung Cancer</title>
-      <link>https://clinicaltrials.gov/study/NCT06350097</link>
-      <guid isPermaLink="false">clinical-trials:NCT06350097</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING: INTERSTELLAR - International Study Evaluating Lupus Outcomes After Anifrolumab Real World Use</title>
-      <link>https://clinicaltrials.gov/study/NCT06314282</link>
-      <guid isPermaLink="false">clinical-trials:NCT06314282</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE3: A Study Evaluating the Efficacy of Budesonide, Glycopyrronium and Formoterol Fumarate Metered Dosed Inhaler on Cardiopulmonary Outcomes in Chronic Obstructive Pulmonary Disease</title>
-      <link>https://clinicaltrials.gov/study/NCT06283966</link>
-      <guid isPermaLink="false">clinical-trials:NCT06283966</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE1/PHASE2: A Trial to Learn How Safe AZD9550 Monotherapy and Combined With AZD6234 is in People With or Without Type 2 Diabetes Who Are Living With Obesity and Overweight</title>
-      <link>https://clinicaltrials.gov/study/NCT06151964</link>
-      <guid isPermaLink="false">clinical-trials:NCT06151964</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — COMPLETED PHASE1: A Randomized Trial Evaluating a mRNA-VLP Vaccine's Immunogenicity and Safety for COVID-19</title>
-      <link>https://clinicaltrials.gov/study/NCT06147063</link>
-      <guid isPermaLink="false">clinical-trials:NCT06147063</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE1/PHASE2: A Study of AZD3470, a PRMT5 Inhibitor, Given as Monotherapy and in Combination in Patients With MTAP Deficient Advanced/Metastatic Solid Tumors</title>
-      <link>https://clinicaltrials.gov/study/NCT06130553</link>
-      <guid isPermaLink="false">clinical-trials:NCT06130553</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
       <title>AstraZeneca — RECRUITING PHASE3: Study of Volrustomig in Women With High Risk Locally Advanced Cervical Cancer (eVOLVE-Cervical)</title>
       <link>https://clinicaltrials.gov/study/NCT06079671</link>
       <guid isPermaLink="false">clinical-trials:NCT06079671</guid>
       <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE2: A Study of Acalabrutinib Plus Venetoclax and Rituximab in Participants With Treatment Naïve Mantle Cell Lymphoma</title>
-      <link>https://clinicaltrials.gov/study/NCT05951959</link>
-      <guid isPermaLink="false">clinical-trials:NCT05951959</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE1: A Study of NT-175 in Adult Participants With Advanced Malignancies That Are Positive for HLA-A*02:01 and the TP53 R175H Mutation</title>
-      <link>https://clinicaltrials.gov/study/NCT05877599</link>
-      <guid isPermaLink="false">clinical-trials:NCT05877599</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING PHASE3: Efficacy and Safety of Tozorakimab in Patients Hospitalised for Viral Lung Infection Requiring Supplemental Oxygen</title>
-      <link>https://clinicaltrials.gov/study/NCT05624450</link>
-      <guid isPermaLink="false">clinical-trials:NCT05624450</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE1/PHASE2: A Study of Dato-DXd in Chinese Patients With Advanced Non-Small Cell Lung Cancer, Triple-negative Breast Cancer and Other Solid Tumors (TROPION-PanTumor02)</title>
-      <link>https://clinicaltrials.gov/study/NCT05460273</link>
-      <guid isPermaLink="false">clinical-trials:NCT05460273</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — RECRUITING: Ondexxya for Intravenous Injection 200mg Drug Use Result Investigation (All Case Investigation)</title>
-      <link>https://clinicaltrials.gov/study/NCT05454787</link>
-      <guid isPermaLink="false">clinical-trials:NCT05454787</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING: National Acalabrutinib Observational Study</title>
-      <link>https://clinicaltrials.gov/study/NCT05437250</link>
-      <guid isPermaLink="false">clinical-trials:NCT05437250</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE1/PHASE2: Study of AZD5305 When Given in Combination With New Hormonal Agents in Patients With Metastatic Prostate Cancer</title>
-      <link>https://clinicaltrials.gov/study/NCT05367440</link>
-      <guid isPermaLink="false">clinical-trials:NCT05367440</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE3: A Global Study to Assess the Effects of Durvalumab + Domvanalimab Following Concurrent Chemoradiation in Participants With Stage III Unresectable NSCLC</title>
-      <link>https://clinicaltrials.gov/study/NCT05211895</link>
-      <guid isPermaLink="false">clinical-trials:NCT05211895</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE3: Study on Olaparib Plus Abiraterone as First-line Therapy in Men With Metastatic Castration-resistant Prostate Cancer (China Cohort)</title>
-      <link>https://clinicaltrials.gov/study/NCT05171816</link>
-      <guid isPermaLink="false">clinical-trials:NCT05171816</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE3: A Study of Acalabrutinib Plus Venetoclax Versus Venetoclax Plus Obinutuzumab in Previously Untreated Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma</title>
-      <link>https://clinicaltrials.gov/study/NCT05057494</link>
-      <guid isPermaLink="false">clinical-trials:NCT05057494</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE2: Ph1b/2 Study of the Safety and Efficacy of T-DXd Combinations in Advanced HER2-expressing Gastric Cancer (DESTINY-Gastric03)</title>
-      <link>https://clinicaltrials.gov/study/NCT04379596</link>
-      <guid isPermaLink="false">clinical-trials:NCT04379596</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE2: A Study to Investigate Efficacy and Safety With Oral AZD9833 Compared With Intramuscular Fulvestrant in Post-menopausal Women at Least 18 Years of Age With Advanced ER-positive HER2 Negative Breast Cancer</title>
-      <link>https://clinicaltrials.gov/study/NCT04214288</link>
-      <guid isPermaLink="false">clinical-trials:NCT04214288</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — COMPLETED PHASE3: Acalabrutinib Safety Study in Untreated and Relapsed or Refractory Chronic Lymphocytic Leukemia Patients</title>
-      <link>https://clinicaltrials.gov/study/NCT04008706</link>
-      <guid isPermaLink="false">clinical-trials:NCT04008706</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
       <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE4: Benralizumab Airway Remodeling Study in Severe Eosinophilic Asthmatics</title>
       <link>https://clinicaltrials.gov/study/NCT03953300</link>
       <guid isPermaLink="false">clinical-trials:NCT03953300</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstraZeneca — ACTIVE_NOT_RECRUITING PHASE3: Durvalumab or Placebo in Combination With Gemcitabine/Cisplatin in Patients With 1st Line Advanced Biliary Tract Cancer (TOPAZ-1)</title>
-      <link>https://clinicaltrials.gov/study/NCT03875235</link>
-      <guid isPermaLink="false">clinical-trials:NCT03875235</guid>
       <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>

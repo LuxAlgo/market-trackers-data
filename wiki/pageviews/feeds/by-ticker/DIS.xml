@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Wikipedia pageviews — DIS</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Daily per-article Wikipedia pageview counts for a curated map of public-company articles, from the Wikimedia REST pageviews API (keyless, CC0 counts). Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
+    <item>
+      <title>The_Walt_Disney_Company (DIS): 3805 views on 2026-09-01</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/The_Walt_Disney_Company/daily/2026090100/2026090100</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:The_Walt_Disney_Company:2026-09-01</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:10 GMT</pubDate>
+    </item>
     <item>
       <title>The_Walt_Disney_Company (DIS): 4010 views on 2026-08-31</title>
       <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/The_Walt_Disney_Company/daily/2026083100/2026083100</link>

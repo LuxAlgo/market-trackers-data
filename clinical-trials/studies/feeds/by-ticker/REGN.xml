@@ -4,7 +4,31 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — REGN</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 13:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
+    <item>
+      <title>Regeneron Pharmaceuticals — RECRUITING PHASE1: A Phase 1 Study of BPX-601 CAR T-Cell Therapy in Adult Participants With Prostate Cancer That Has Returned, is Resistant to Treatment and Has Spread</title>
+      <link>https://clinicaltrials.gov/study/NCT07543055</link>
+      <guid isPermaLink="false">clinical-trials:NCT07543055</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Regeneron Pharmaceuticals — TERMINATED PHASE3: Study of Bet v1 Antibodies Effect on Eye Allergy Symptoms in Adolescents and Adults With Birch Pollen Allergy</title>
+      <link>https://clinicaltrials.gov/study/NCT07309432</link>
+      <guid isPermaLink="false">clinical-trials:NCT07309432</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Regeneron Pharmaceuticals — ACTIVE_NOT_RECRUITING PHASE2: A Study to Test if Trevogrumab or Trevogrumab With Garetosmab When Taken With Semaglutide is Safe and How Well They Work in Adult Patients With Obesity for Weight Loss, Fat Loss, and Lean Mass Preservation</title>
+      <link>https://clinicaltrials.gov/study/NCT06299098</link>
+      <guid isPermaLink="false">clinical-trials:NCT06299098</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Regeneron Pharmaceuticals — AVAILABLE: Compassionate Use or Expanded Access of Dupilumab</title>
+      <link>https://clinicaltrials.gov/study/NCT04776694</link>
+      <guid isPermaLink="false">clinical-trials:NCT04776694</guid>
+      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+    </item>
     <item>
       <title>Regeneron Pharmaceuticals — RECRUITING PHASE3: Stroke and Systemic Embolism Prevention in Adult Participants With Atrial Fibrillation</title>
       <link>https://clinicaltrials.gov/study/NCT07626411</link>
@@ -12,21 +36,9 @@
       <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
-      <title>Regeneron Pharmaceuticals — RECRUITING PHASE1: A Phase 1 Study of BPX-601 CAR T-Cell Therapy in Adult Participants With Prostate Cancer That Has Returned, is Resistant to Treatment and Has Spread</title>
-      <link>https://clinicaltrials.gov/study/NCT07543055</link>
-      <guid isPermaLink="false">clinical-trials:NCT07543055</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
       <title>Regeneron Pharmaceuticals — RECRUITING PHASE1: A First in Human Study to Assess Safety, Tolerability and Pharmacokinetics of a Single Dose of REGN22044 in Healthy Adults</title>
       <link>https://clinicaltrials.gov/study/NCT07526116</link>
       <guid isPermaLink="false">clinical-trials:NCT07526116</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Regeneron Pharmaceuticals — TERMINATED PHASE3: Study of Bet v1 Antibodies Effect on Eye Allergy Symptoms in Adolescents and Adults With Birch Pollen Allergy</title>
-      <link>https://clinicaltrials.gov/study/NCT07309432</link>
-      <guid isPermaLink="false">clinical-trials:NCT07309432</guid>
       <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
@@ -39,18 +51,6 @@
       <title>Regeneron Pharmaceuticals — RECRUITING PHASE3: A Study Investigating Subcutaneously Administered Pozelimab in Combination With Cemdisiran or Cemdisiran Alone in Adult Participants With Geographic Atrophy</title>
       <link>https://clinicaltrials.gov/study/NCT06541704</link>
       <guid isPermaLink="false">clinical-trials:NCT06541704</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Regeneron Pharmaceuticals — ACTIVE_NOT_RECRUITING PHASE2: A Study to Test if Trevogrumab or Trevogrumab With Garetosmab When Taken With Semaglutide is Safe and How Well They Work in Adult Patients With Obesity for Weight Loss, Fat Loss, and Lean Mass Preservation</title>
-      <link>https://clinicaltrials.gov/study/NCT06299098</link>
-      <guid isPermaLink="false">clinical-trials:NCT06299098</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Regeneron Pharmaceuticals — AVAILABLE: Compassionate Use or Expanded Access of Dupilumab</title>
-      <link>https://clinicaltrials.gov/study/NCT04776694</link>
-      <guid isPermaLink="false">clinical-trials:NCT04776694</guid>
       <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>

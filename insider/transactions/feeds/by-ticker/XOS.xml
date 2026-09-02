@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — XOS</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 16:36:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 18:38:16 GMT</lastBuildDate>
     <item>
       <title>Richardson Michael Paul (XOS) S: 3118 shares @ $2.1487</title>
       <link>https://www.sec.gov/Archives/edgar/data/1971868/0001193125-26-369552-index.htm</link>

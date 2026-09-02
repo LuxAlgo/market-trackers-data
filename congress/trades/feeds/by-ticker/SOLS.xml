@@ -4,12 +4,18 @@
     <title>LuxAlgo Market Trackers — Congressional trades — SOLS</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 16:36:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 18:38:16 GMT</lastBuildDate>
+    <item>
+      <title>Hon. Kevin Hern (house) sell: SOLS — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035326:23</guid>
+      <pubDate>Wed, 02 Sep 2026 18:36:21 GMT</pubDate>
+    </item>
     <item>
       <title>Hon. Kelly Louise Morrison (house) sell: SOLS — $1,001 - $15,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf</link>
       <guid isPermaLink="false">congress-trades:house:20035244:6</guid>
-      <pubDate>Tue, 01 Sep 2026 20:31:45 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 18:36:19 GMT</pubDate>
     </item>
   </channel>
 </rss>

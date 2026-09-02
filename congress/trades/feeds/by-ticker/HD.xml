@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Congressional trades — HD</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 16:36:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 18:38:16 GMT</lastBuildDate>
+    <item>
+      <title>Hon. Kevin Hern (house) sell: HD — $50,001 - $100,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035326:10</guid>
+      <pubDate>Wed, 02 Sep 2026 18:36:21 GMT</pubDate>
+    </item>
     <item>
       <title>John Boozman (senate) sell: HD — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/</link>

@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — SEI</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 20:34:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 22:34:07 GMT</lastBuildDate>
     <item>
       <title>Giesinger Edgar R. JR. (SEI) A: 3246 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1697500/0001628280-26-058887-index.htm</link>

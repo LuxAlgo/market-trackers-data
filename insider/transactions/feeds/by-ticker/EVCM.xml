@@ -4,7 +4,55 @@
     <title>LuxAlgo Market Trackers — Insider transactions — EVCM</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Remer Eric Richard (EVCM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1856906/0001856906-26-000090-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001856906-26-000090:nd:7</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remer Eric Richard (EVCM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1856906/0001856906-26-000090-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001856906-26-000090:nd:6</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remer Eric Richard (EVCM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1856906/0001856906-26-000090-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001856906-26-000090:nd:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remer Eric Richard (EVCM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1856906/0001856906-26-000090-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001856906-26-000090:nd:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remer Eric Richard (EVCM) S: 47353 shares @ $8.2371</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1856906/0001856906-26-000090-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001856906-26-000090:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remer Eric Richard (EVCM) S: 40906 shares @ $8.9135</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1856906/0001856906-26-000090-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001856906-26-000090:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remer Eric Richard (EVCM) F: 212227 shares @ $10.61</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1856906/0001856906-26-000090-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001856906-26-000090:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remer Eric Richard (EVCM) S: 23824 shares @ $9.2146</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1856906/0001856906-26-000090-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001856906-26-000090:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:43 GMT</pubDate>
+    </item>
     <item>
       <title>Remer Eric Richard (EVCM) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1856906/0001856906-26-000088-index.htm</link>

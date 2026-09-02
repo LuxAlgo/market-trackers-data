@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — CRNX</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Kalofonos Isabel (CRNX) D: 34000 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1975163/0001628280-26-059885-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059885:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kalofonos Isabel (CRNX) D: 1669 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1975163/0001628280-26-059885-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059885:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kalofonos Isabel (CRNX) D: 55000 shares @ $41.21</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1975163/0001628280-26-059885-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059885:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kalofonos Isabel (CRNX) D: 97500 shares @ $44.41</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1975163/0001628280-26-059885-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059885:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betz Stephen F. (CRNX) D: 79650 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1886575/0001628280-26-059884-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059884:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betz Stephen F. (CRNX) D: 58286 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1886575/0001628280-26-059884-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059884:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betz Stephen F. (CRNX) D: 65000 shares @ $48.14</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1886575/0001628280-26-059884-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059884:d:9</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betz Stephen F. (CRNX) D: 87000 shares @ $41.49</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1886575/0001628280-26-059884-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059884:d:8</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betz Stephen F. (CRNX) D: 110000 shares @ $65.36</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1886575/0001628280-26-059884-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059884:d:7</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betz Stephen F. (CRNX) D: 77000 shares @ $64.98</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1886575/0001628280-26-059884-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059884:d:6</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betz Stephen F. (CRNX) D: 15000 shares @ $61.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1886575/0001628280-26-059884-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059884:d:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betz Stephen F. (CRNX) D: 85000 shares @ $69.71</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1886575/0001628280-26-059884-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059884:d:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betz Stephen F. (CRNX) D: 60000 shares @ $62.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1886575/0001628280-26-059884-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059884:d:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betz Stephen F. (CRNX) D: 56250 shares @ $59.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1886575/0001628280-26-059884-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059884:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betz Stephen F. (CRNX) D: 47000 shares @ $41.21</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1886575/0001628280-26-059884-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059884:d:10</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betz Stephen F. (CRNX) D: 74540 shares @ $75.72</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1886575/0001628280-26-059884-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059884:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Betz Stephen F. (CRNX) D: 90514 shares @ $83.09</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1886575/0001628280-26-059884-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059884:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deardorf Caren (CRNX) D: 5925 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1871152/0001628280-26-059901-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059901:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deardorf Caren (CRNX) D: 16300 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1871152/0001628280-26-059901-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059901:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deardorf Caren (CRNX) D: 9730 shares @ $49.13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1871152/0001628280-26-059901-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059901:d:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deardorf Caren (CRNX) D: 10350 shares @ $52.67</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1871152/0001628280-26-059901-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059901:d:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deardorf Caren (CRNX) D: 12500 shares @ $40.29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1871152/0001628280-26-059901-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059901:d:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deardorf Caren (CRNX) D: 17500 shares @ $64.68</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1871152/0001628280-26-059901-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059901:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deardorf Caren (CRNX) D: 4375 shares @ $66.71</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1871152/0001628280-26-059901-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059901:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deardorf Caren (CRNX) D: 35000 shares @ $65.7</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1871152/0001628280-26-059901-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059901:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nichols Weston (CRNX) D: 5925 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746376/0001628280-26-059904-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059904:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nichols Weston (CRNX) D: 16300 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746376/0001628280-26-059904-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059904:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nichols Weston (CRNX) D: 9730 shares @ $49.13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746376/0001628280-26-059904-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059904:d:7</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nichols Weston (CRNX) D: 10350 shares @ $52.67</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746376/0001628280-26-059904-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059904:d:6</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nichols Weston (CRNX) D: 12500 shares @ $40.29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746376/0001628280-26-059904-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059904:d:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nichols Weston (CRNX) D: 17500 shares @ $64.68</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746376/0001628280-26-059904-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059904:d:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nichols Weston (CRNX) D: 17500 shares @ $66.71</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746376/0001628280-26-059904-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059904:d:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nichols Weston (CRNX) D: 17500 shares @ $64.77</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746376/0001628280-26-059904-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059904:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nichols Weston (CRNX) D: 12500 shares @ $61.77</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746376/0001628280-26-059904-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059904:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nichols Weston (CRNX) D: 12500 shares @ $61.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746376/0001628280-26-059904-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059904:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 111100 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:nd:9</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 111100 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:nd:8</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 111100 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:nd:7</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 111100 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:nd:6</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 100000 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:nd:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 110000 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:nd:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 106000 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 136805 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 176663 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:nd:11</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 80000 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:nd:10</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 1000 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 248043 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 228000 shares @ $41.21</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:d:7</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 313000 shares @ $48.14</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:d:6</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 240000 shares @ $41.49</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:d:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 287700 shares @ $65.36</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:d:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 244205 shares @ $64.98</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:d:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 259058 shares @ $69.71</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 195578 shares @ $62.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Struthers Richard Scott (CRNX) D: 172281 shares @ $59.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746298/0001628280-26-059882-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059882:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Okey Stephanie (CRNX) D: 5925 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1742616/0001628280-26-059905-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059905:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Okey Stephanie (CRNX) D: 6400 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1742616/0001628280-26-059905-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059905:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Okey Stephanie (CRNX) D: 9730 shares @ $49.13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1742616/0001628280-26-059905-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059905:d:6</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Okey Stephanie (CRNX) D: 10350 shares @ $52.67</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1742616/0001628280-26-059905-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059905:d:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Okey Stephanie (CRNX) D: 12500 shares @ $40.29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1742616/0001628280-26-059905-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059905:d:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Okey Stephanie (CRNX) D: 17500 shares @ $64.68</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1742616/0001628280-26-059905-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059905:d:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Okey Stephanie (CRNX) D: 17500 shares @ $64.77</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1742616/0001628280-26-059905-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059905:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Okey Stephanie (CRNX) D: 12500 shares @ $61.77</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1742616/0001628280-26-059905-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059905:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Okey Stephanie (CRNX) D: 25000 shares @ $60.85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1742616/0001628280-26-059905-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059905:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schilke Tobin (CRNX) D: 71471 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1678984/0001628280-26-059883-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059883:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schilke Tobin (CRNX) D: 7956 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1678984/0001628280-26-059883-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059883:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schilke Tobin (CRNX) D: 50000 shares @ $41.21</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1678984/0001628280-26-059883-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059883:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schilke Tobin (CRNX) D: 80000 shares @ $51.25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1678984/0001628280-26-059883-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059883:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>WIERENGA WENDELL (CRNX) D: 5925 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059910-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059910:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>WIERENGA WENDELL (CRNX) D: 116146 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059910-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059910:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>WIERENGA WENDELL (CRNX) D: 9730 shares @ $49.13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059910-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059910:d:7</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>WIERENGA WENDELL (CRNX) D: 10350 shares @ $52.67</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059910-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059910:d:6</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>WIERENGA WENDELL (CRNX) D: 12500 shares @ $40.29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059910-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059910:d:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>WIERENGA WENDELL (CRNX) D: 17500 shares @ $64.68</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059910-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059910:d:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>WIERENGA WENDELL (CRNX) D: 17500 shares @ $66.71</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059910-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059910:d:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>WIERENGA WENDELL (CRNX) D: 17500 shares @ $64.77</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059910-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059910:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>WIERENGA WENDELL (CRNX) D: 12500 shares @ $61.77</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059910-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059910:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>WIERENGA WENDELL (CRNX) D: 12500 shares @ $61.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059910-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059910:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi Coelho Rogerio (CRNX) D: 5925 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059907-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059907:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi Coelho Rogerio (CRNX) D: 13300 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059907-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059907:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi Coelho Rogerio (CRNX) D: 9730 shares @ $49.13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059907-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059907:d:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi Coelho Rogerio (CRNX) D: 10350 shares @ $52.67</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059907-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059907:d:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi Coelho Rogerio (CRNX) D: 12500 shares @ $40.29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059907-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059907:d:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi Coelho Rogerio (CRNX) D: 17500 shares @ $64.68</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059907-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059907:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi Coelho Rogerio (CRNX) D: 8750 shares @ $66.71</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059907-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059907:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vivaldi Coelho Rogerio (CRNX) D: 35000 shares @ $56.69</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059907-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059907:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fust Matthew K (CRNX) D: 5925 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059902-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059902:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fust Matthew K (CRNX) D: 22836 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059902-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059902:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fust Matthew K (CRNX) D: 9730 shares @ $49.13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059902-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059902:d:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fust Matthew K (CRNX) D: 10350 shares @ $52.67</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059902-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059902:d:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fust Matthew K (CRNX) D: 12500 shares @ $40.29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059902-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059902:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fust Matthew K (CRNX) D: 17500 shares @ $64.68</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059902-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059902:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fust Matthew K (CRNX) D: 2092 shares @ $83.09</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059902-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059902:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bedrosian Camille L (CRNX) D: 5925 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059900-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059900:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bedrosian Camille L (CRNX) D: 16300 shares @ $85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059900-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059900:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bedrosian Camille L (CRNX) D: 9730 shares @ $49.13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059900-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059900:d:6</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bedrosian Camille L (CRNX) D: 10350 shares @ $52.67</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059900-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059900:d:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bedrosian Camille L (CRNX) D: 12500 shares @ $40.29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059900-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059900:d:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bedrosian Camille L (CRNX) D: 17500 shares @ $64.68</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059900-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059900:d:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bedrosian Camille L (CRNX) D: 17500 shares @ $66.71</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/0001628280-26-059900-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059900:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:17 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

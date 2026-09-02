@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Insider transactions — UA</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Pestridge Simon James (UA) F: 3679 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2137002/0001336917-26-000123-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000123:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:12 GMT</pubDate>
+    </item>
     <item>
       <title>Plank Kevin A (UA) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1344637/0001336917-26-000121-index.htm</link>

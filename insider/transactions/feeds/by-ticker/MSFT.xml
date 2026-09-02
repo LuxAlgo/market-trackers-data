@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — MSFT</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>SMITH BRADFORD L (MSFT) F: 17036.099 shares @ $513.53</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000159-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000159:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMITH BRADFORD L (MSFT) A: 27688 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000159-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000159:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Numoto Takeshi (MSFT) F: 7518.208 shares @ $513.53</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000158-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000158:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Numoto Takeshi (MSFT) A: 12684 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000158-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000158:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000157-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000157:nd:6</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000157-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000157:nd:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000157-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000157:nd:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000157-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000157:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000157-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000157:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) F: 70465.844 shares @ $513.53</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000157-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000157:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) A: 178622 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000157-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000157:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jolla Alice L. (MSFT) F: 485.782 shares @ $513.53</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000156-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000156:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jolla Alice L. (MSFT) A: 5575 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000156-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000156:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hood Amy (MSFT) F: 18738.823 shares @ $513.53</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000155-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000155:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hood Amy (MSFT) A: 31260 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000155-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000155:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Coleman Amy (MSFT) F: 836.23 shares @ $513.53</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000154-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000154:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Althoff Judson (MSFT) F: 18080.548 shares @ $513.53</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000153-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000153:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Althoff Judson (MSFT) A: 29724 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000153-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000153:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:30 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

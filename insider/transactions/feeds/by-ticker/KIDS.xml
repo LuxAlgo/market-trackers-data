@@ -4,7 +4,79 @@
     <title>LuxAlgo Market Trackers — Insider transactions — KIDS</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Pritzker Jennifer N. (KIDS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850165/0001193125-26-378877-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378877:nd:6</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pritzker Jennifer N. (KIDS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850165/0001193125-26-378877-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378877:nd:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pritzker Jennifer N. (KIDS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850165/0001193125-26-378877-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378877:nd:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pritzker Jennifer N. (KIDS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850165/0001193125-26-378877-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378877:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pritzker Jennifer N. (KIDS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850165/0001193125-26-378877-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378877:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pritzker Jennifer N. (KIDS) S: 10131 shares @ $23.1</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850165/0001193125-26-378877-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378877:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pritzker Jennifer N. (KIDS) S: 326700 shares @ $23.04</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850165/0001193125-26-378877-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378877:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Squadron Capital LLC (KIDS) S: 10131 shares @ $23.1</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1731171/0001193125-26-378892-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378892:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Squadron Capital LLC (KIDS) S: 326700 shares @ $23.04</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1731171/0001193125-26-378892-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378892:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pelizzon David R (KIDS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1719217/0001425450-26-000083-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001425450-26-000083:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pelizzon David R (KIDS) S: 10131 shares @ $23.1</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1719217/0001425450-26-000083-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001425450-26-000083:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pelizzon David R (KIDS) S: 326700 shares @ $23.04</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1719217/0001425450-26-000083-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001425450-26-000083:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:25 GMT</pubDate>
+    </item>
     <item>
       <title>Pritzker Jennifer N. (KIDS) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1850165/0001193125-26-369065-index.htm</link>

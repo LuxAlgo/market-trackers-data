@@ -4,7 +4,25 @@
     <title>LuxAlgo Market Trackers — Insider transactions — CHD</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Linares Carlos G. (CHD) A: 26.172 shares @ $99.78</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000313-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000313:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dierker Richard A (CHD) A: 43.346 shares @ $99.78</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000311-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000311:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Buchert Brian D (CHD) A: 5.481 shares @ $99.78</title>
+      <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000309-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000313927-26-000309:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:22 GMT</pubDate>
+    </item>
     <item>
       <title>Linares Carlos G. (CHD) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/313927/0000313927-26-000307-index.htm</link>

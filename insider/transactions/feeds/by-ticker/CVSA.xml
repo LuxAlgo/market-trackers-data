@@ -4,7 +4,19 @@
     <title>LuxAlgo Market Trackers — Insider transactions — CVSA</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>MALAFRONTE MICHAEL W (CVSA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000053-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000053:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>MALAFRONTE MICHAEL W (CVSA) G: 2500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000053-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000730464-26-000053:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:27 GMT</pubDate>
+    </item>
     <item>
       <title>Gangadharan Manjunath (CVSA) S: 1802 shares @ $137.18</title>
       <link>https://www.sec.gov/Archives/edgar/data/730464/0000730464-26-000052-index.htm</link>

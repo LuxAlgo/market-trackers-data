@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Insider transactions — TRUP</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>GALLAGHER JOHN R (TRUP) S: 3604 shares @ $29.7</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967117/0001371285-26-000199-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001371285-26-000199:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:52 GMT</pubDate>
+    </item>
     <item>
       <title>Qureshi Fawwad (TRUP) S: 6111 shares @ $30.01</title>
       <link>https://www.sec.gov/Archives/edgar/data/1995789/0001371285-26-000191-index.htm</link>
@@ -597,12 +603,6 @@
       <title>BEARMAN ASHER (TRUP) F: 123 shares @ $31.76</title>
       <link>https://www.sec.gov/Archives/edgar/data/1622728/0001371285-26-000195-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001371285-26-000195:nd:5</guid>
-      <pubDate>Sat, 29 Aug 2026 16:24:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>BEARMAN ASHER (TRUP) M: 379 shares</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1622728/0001371285-26-000195-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001371285-26-000195:nd:4</guid>
       <pubDate>Sat, 29 Aug 2026 16:24:11 GMT</pubDate>
     </item>
   </channel>

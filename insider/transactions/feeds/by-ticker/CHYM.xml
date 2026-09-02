@@ -4,7 +4,61 @@
     <title>LuxAlgo Market Trackers — Insider transactions — CHYM</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Britt Christopher R (CHYM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2061801/0002061801-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002061801-26-000015:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Britt Christopher R (CHYM) S: 88618 shares @ $34.0295</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2061801/0002061801-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002061801-26-000015:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Britt Christopher R (CHYM) S: 11382 shares @ $34</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2061801/0002061801-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002061801-26-000015:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Britt Christopher R (CHYM) C: 88618 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2061801/0002061801-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002061801-26-000015:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Britt Christopher R (CHYM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2061801/0002061801-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002061801-26-000015:d:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Britt Christopher R (CHYM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2061801/0002061801-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002061801-26-000015:d:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Britt Christopher R (CHYM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2061801/0002061801-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002061801-26-000015:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Britt Christopher R (CHYM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2061801/0002061801-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002061801-26-000015:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Britt Christopher R (CHYM) C: 88618 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2061801/0002061801-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002061801-26-000015:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:04 GMT</pubDate>
+    </item>
     <item>
       <title>DST Global Advisors Ltd (CHYM) S: 10928 shares @ $33.0404</title>
       <link>https://www.sec.gov/Archives/edgar/data/2088581/0001193125-26-374716-index.htm</link>
@@ -549,60 +603,6 @@
       <title>DST Global Advisors Ltd (CHYM) S: 22596 shares @ $32.7053</title>
       <link>https://www.sec.gov/Archives/edgar/data/2072430/0001193125-26-363907-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001193125-26-363907:nd:17</guid>
-      <pubDate>Sat, 29 Aug 2026 16:20:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>DST Global Advisors Ltd (CHYM) S: 18699 shares @ $32.7053</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2072430/0001193125-26-363907-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-363907:nd:16</guid>
-      <pubDate>Sat, 29 Aug 2026 16:20:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>DST Global Advisors Ltd (CHYM) S: 111395 shares @ $32.7053</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2072430/0001193125-26-363907-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-363907:nd:15</guid>
-      <pubDate>Sat, 29 Aug 2026 16:20:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>DST Global Advisors Ltd (CHYM) S: 216822 shares @ $32.7053</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2072430/0001193125-26-363907-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-363907:nd:14</guid>
-      <pubDate>Sat, 29 Aug 2026 16:20:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>DST Global Advisors Ltd (CHYM) S: 218 shares @ $33.5431</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2072430/0001193125-26-363907-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-363907:nd:13</guid>
-      <pubDate>Sat, 29 Aug 2026 16:20:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>DST Global Advisors Ltd (CHYM) S: 3364 shares @ $32.9873</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2072430/0001193125-26-363907-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-363907:nd:12</guid>
-      <pubDate>Sat, 29 Aug 2026 16:20:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>DST Global Advisors Ltd (CHYM) S: 1681 shares @ $33.5431</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2072430/0001193125-26-363907-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-363907:nd:11</guid>
-      <pubDate>Sat, 29 Aug 2026 16:20:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>DST Global Advisors Ltd (CHYM) S: 25913 shares @ $32.9873</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2072430/0001193125-26-363907-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-363907:nd:10</guid>
-      <pubDate>Sat, 29 Aug 2026 16:20:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>DST Global Advisors Ltd (CHYM) S: 10678 shares @ $33.5431</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2072430/0001193125-26-363907-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-363907:nd:1</guid>
-      <pubDate>Sat, 29 Aug 2026 16:20:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>DST Global Advisors Ltd (CHYM) S: 164646 shares @ $32.9873</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2072430/0001193125-26-363907-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-363907:nd:0</guid>
       <pubDate>Sat, 29 Aug 2026 16:20:33 GMT</pubDate>
     </item>
   </channel>

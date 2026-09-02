@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — LPLA</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Thomas Corey E. (LPLA) A: 4 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1647486/0001628280-26-059842-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059842:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mnookin Allison (LPLA) A: 2 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1603473/0001628280-26-059821-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059821:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Putnam James S (LPLA) A: 7 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1405298/0001628280-26-059832-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059832:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHIFTER RICHARD P (LPLA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397911/0001628280-26-059837-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059837:nd:9</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHIFTER RICHARD P (LPLA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397911/0001628280-26-059837-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059837:nd:8</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHIFTER RICHARD P (LPLA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397911/0001628280-26-059837-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059837:nd:7</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHIFTER RICHARD P (LPLA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397911/0001628280-26-059837-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059837:nd:6</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHIFTER RICHARD P (LPLA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397911/0001628280-26-059837-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059837:nd:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHIFTER RICHARD P (LPLA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397911/0001628280-26-059837-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059837:nd:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHIFTER RICHARD P (LPLA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397911/0001628280-26-059837-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059837:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHIFTER RICHARD P (LPLA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397911/0001628280-26-059837-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059837:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHIFTER RICHARD P (LPLA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397911/0001628280-26-059837-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059837:nd:11</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHIFTER RICHARD P (LPLA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397911/0001628280-26-059837-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059837:nd:10</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHIFTER RICHARD P (LPLA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397911/0001628280-26-059837-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059837:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHIFTER RICHARD P (LPLA) A: 14 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397911/0001628280-26-059837-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059837:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Glavin William Francis Jr (LPLA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397911/0001628280-26-059806-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059806:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Glavin William Francis Jr (LPLA) A: 10 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397911/0001628280-26-059806-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059806:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>EBERHART PAULETT (LPLA) A: 4 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397911/0001628280-26-059797-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059797:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>BERNARD EDWARD C (LPLA) A: 3 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1397911/0001628280-26-059791-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059791:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jambusaria Aneri (LPLA) S: 308 shares @ $357.36</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1966430/0001628280-26-059596-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059596:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:44 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

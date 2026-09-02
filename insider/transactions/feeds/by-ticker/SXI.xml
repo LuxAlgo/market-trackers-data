@@ -4,7 +4,25 @@
     <title>LuxAlgo Market Trackers — Insider transactions — SXI</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Dunbar David A. (SXI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000088-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000088:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) S: 9000 shares @ $290.8175</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000088-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000088:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dunbar David A. (SXI) S: 4000 shares @ $290.8124</title>
+      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000088-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000310354-26-000088:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:22 GMT</pubDate>
+    </item>
     <item>
       <title>GLASS ALAN J (SXI) S: 1391 shares @ $303.185</title>
       <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000086-index.htm</link>
@@ -585,24 +603,6 @@
       <title>Newbury Michelle (SXI) A: 1969 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000068-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0000310354-26-000068:d:3</guid>
-      <pubDate>Sat, 29 Aug 2026 16:23:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Newbury Michelle (SXI) A: 360 shares</title>
-      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000068-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000310354-26-000068:d:2</guid>
-      <pubDate>Sat, 29 Aug 2026 16:23:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Newbury Michelle (SXI) A: 360 shares</title>
-      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000068-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000310354-26-000068:d:1</guid>
-      <pubDate>Sat, 29 Aug 2026 16:23:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Newbury Michelle (SXI) M: 126 shares</title>
-      <link>https://www.sec.gov/Archives/edgar/data/310354/0000310354-26-000068-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000310354-26-000068:d:0</guid>
       <pubDate>Sat, 29 Aug 2026 16:23:08 GMT</pubDate>
     </item>
   </channel>

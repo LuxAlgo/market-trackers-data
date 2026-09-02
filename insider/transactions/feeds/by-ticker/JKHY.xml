@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Insider transactions — JKHY</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Preece Richard (JKHY) A: 270 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/779152/0000779152-26-000080-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000779152-26-000080:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:29 GMT</pubDate>
+    </item>
     <item>
       <title>Morgan Craig Keith (JKHY) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/779152/0000779152-26-000078-index.htm</link>

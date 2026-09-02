@@ -4,7 +4,37 @@
     <title>LuxAlgo Market Trackers — Insider transactions — FIG</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Mulligan Brendan (FIG) S: 100 shares @ $30.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2073801/0002073801-26-000039-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002073801-26-000039:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mulligan Brendan (FIG) S: 130800 shares @ $30.1499</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2073801/0002073801-26-000039-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002073801-26-000039:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mulligan Brendan (FIG) S: 80699 shares @ $29.2138</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2073801/0002073801-26-000039-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002073801-26-000039:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lilly III John Osborne (FIG) J: 5460 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1897305/0001897305-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001897305-26-000008:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lilly III John Osborne (FIG) J: 330306 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1897305/0001897305-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001897305-26-000008:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:47 GMT</pubDate>
+    </item>
     <item>
       <title>Herb Tyler (FIG) S: 2000 shares @ $30</title>
       <link>https://www.sec.gov/Archives/edgar/data/2073587/0002073587-26-000032-index.htm</link>

@@ -4,7 +4,133 @@
     <title>LuxAlgo Market Trackers — Insider transactions — FLXS</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Creekmuir William S. (FLXS) S: 3100 shares @ $81.8538</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000083-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000083:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ressler Michael J (FLXS) F: 611 shares @ $81.8</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000081-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000081:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ressler Michael J (FLXS) M: 1524 shares @ $32.8</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000081-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000081:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ressler Michael J (FLXS) F: 428 shares @ $81.8</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000081-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000081:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ressler Michael J (FLXS) M: 774 shares @ $45.21</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000081-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000081:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ressler Michael J (FLXS) M: 1524 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000081-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000081:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ressler Michael J (FLXS) M: 774 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000081-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000081:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schmidt Derek P (FLXS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000078:nd:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schmidt Derek P (FLXS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000078:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schmidt Derek P (FLXS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000078:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schmidt Derek P (FLXS) F: 11858 shares @ $78.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000078:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schmidt Derek P (FLXS) A: 27480 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000078:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>McClaflin Michael Joseph (FLXS) S: 500 shares @ $79.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000075-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000075:nd:8</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>McClaflin Michael Joseph (FLXS) S: 500 shares @ $79.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000075-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000075:nd:7</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>McClaflin Michael Joseph (FLXS) S: 500 shares @ $79.6</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000075-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000075:nd:6</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>McClaflin Michael Joseph (FLXS) S: 500 shares @ $79.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000075-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000075:nd:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>McClaflin Michael Joseph (FLXS) S: 500 shares @ $79.75</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000075-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000075:nd:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>McClaflin Michael Joseph (FLXS) S: 500 shares @ $83</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000075-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000075:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>McClaflin Michael Joseph (FLXS) S: 500 shares @ $82.75</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000075-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000075:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>McClaflin Michael Joseph (FLXS) S: 500 shares @ $82.25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000075-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000075:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>McClaflin Michael Joseph (FLXS) S: 500 shares @ $83.75</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000075-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037472-26-000075:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:23 GMT</pubDate>
+    </item>
     <item>
       <title>Ressler Michael J (FLXS) F: 1833 shares @ $78.17</title>
       <link>https://www.sec.gov/Archives/edgar/data/37472/0000037472-26-000072-index.htm</link>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — INDI</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Wu Naixi (INDI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2095553/0001193125-26-378775-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378775:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wu Naixi (INDI) S: 23170 shares @ $3.7196</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2095553/0001193125-26-378775-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378775:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wu Naixi (INDI) M: 44803 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2095553/0001193125-26-378775-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378775:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wu Naixi (INDI) M: 44803 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2095553/0001193125-26-378775-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378775:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wu Naixi (INDI) A: 44803 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2095553/0001193125-26-378775-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378775:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wittmann Michael (INDI) M: 6250 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2009989/0002009989-26-000025-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002009989-26-000025:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wittmann Michael (INDI) S: 17045 shares @ $3.7196</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2009989/0002009989-26-000025-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002009989-26-000025:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wittmann Michael (INDI) M: 32958 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2009989/0002009989-26-000025-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002009989-26-000025:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wittmann Michael (INDI) M: 6250 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2009989/0002009989-26-000025-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002009989-26-000025:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wittmann Michael (INDI) M: 32958 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2009989/0002009989-26-000025-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002009989-26-000025:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wittmann Michael (INDI) A: 32958 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2009989/0002009989-26-000025-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002009989-26-000025:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>McClymont Donald (INDI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1866018/0001866018-26-000020-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001866018-26-000020:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>McClymont Donald (INDI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1866018/0001866018-26-000020-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001866018-26-000020:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>McClymont Donald (INDI) S: 46928 shares @ $3.7196</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1866018/0001866018-26-000020-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001866018-26-000020:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>McClymont Donald (INDI) M: 90752 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1866018/0001866018-26-000020-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001866018-26-000020:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>McClymont Donald (INDI) M: 90752 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1866018/0001866018-26-000020-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001866018-26-000020:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>McClymont Donald (INDI) A: 90752 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1866018/0001866018-26-000020-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001866018-26-000020:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>schiller Thomas (INDI) S: 3138 shares @ $3.7196</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1865418/0001865418-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001865418-26-000010:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>schiller Thomas (INDI) M: 8598 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1865418/0001865418-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001865418-26-000010:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>schiller Thomas (INDI) M: 8598 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1865418/0001865418-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001865418-26-000010:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>schiller Thomas (INDI) A: 8598 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1865418/0001865418-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001865418-26-000010:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:43 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

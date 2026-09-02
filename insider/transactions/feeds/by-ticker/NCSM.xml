@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — NCSM</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>ADVENT INTERNATIONAL, L.P. (NCSM) S: 1478426 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1984045/0001140361-26-035360-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035360:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEV ORI (NCSM) D: 10758 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1811682/0001193125-26-377712-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377712:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEV ORI (NCSM) D: 632 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1811682/0001193125-26-377712-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377712:d:6</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEV ORI (NCSM) D: 3921 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1811682/0001193125-26-377712-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377712:d:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEV ORI (NCSM) D: 5068 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1811682/0001193125-26-377712-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377712:d:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEV ORI (NCSM) D: 9211 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1811682/0001193125-26-377712-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377712:d:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEV ORI (NCSM) D: 1940 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1811682/0001193125-26-377712-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377712:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEV ORI (NCSM) D: 1689 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1811682/0001193125-26-377712-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377712:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEV ORI (NCSM) D: 3070 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1811682/0001193125-26-377712-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377712:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nipper Robert (NCSM) D: 88596 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1701187/0001193125-26-377744-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377744:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nipper Robert (NCSM) D: 36676 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1701187/0001193125-26-377744-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377744:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hummer Ryan (NCSM) D: 48389 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1700226/0001193125-26-377721-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377721:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hummer Ryan (NCSM) D: 11474 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1700226/0001193125-26-377721-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377721:d:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hummer Ryan (NCSM) D: 14479 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1700226/0001193125-26-377721-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377721:d:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hummer Ryan (NCSM) D: 23392 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1700226/0001193125-26-377721-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377721:d:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hummer Ryan (NCSM) D: 5679 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1700226/0001193125-26-377721-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377721:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hummer Ryan (NCSM) D: 4826 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1700226/0001193125-26-377721-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377721:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hummer Ryan (NCSM) D: 7797 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1700226/0001193125-26-377721-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377721:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Willems Tim (NCSM) D: 27241 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1699916/0001193125-26-377724-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377724:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Willems Tim (NCSM) D: 5047 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1699916/0001193125-26-377724-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377724:d:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Willems Tim (NCSM) D: 6525 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1699916/0001193125-26-377724-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377724:d:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Willems Tim (NCSM) D: 11858 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1699916/0001193125-26-377724-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377724:d:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Willems Tim (NCSM) D: 2498 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1699916/0001193125-26-377724-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377724:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Willems Tim (NCSM) D: 2174 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1699916/0001193125-26-377724-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377724:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Willems Tim (NCSM) D: 3952 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1699916/0001193125-26-377724-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377724:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grewal Gurinder (NCSM) D: 20919 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1695567/0001193125-26-377713-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377713:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>MORRISON MICHAEL L (NCSM) D: 11049 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692427/0001193125-26-377733-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377733:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>MORRISON MICHAEL L (NCSM) D: 4978 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692427/0001193125-26-377733-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377733:d:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>MORRISON MICHAEL L (NCSM) D: 6435 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692427/0001193125-26-377733-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377733:d:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>MORRISON MICHAEL L (NCSM) D: 11696 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692427/0001193125-26-377733-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377733:d:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>MORRISON MICHAEL L (NCSM) D: 2463 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692427/0001193125-26-377733-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377733:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>MORRISON MICHAEL L (NCSM) D: 2145 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692427/0001193125-26-377733-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377733:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>MORRISON MICHAEL L (NCSM) D: 3898 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692427/0001193125-26-377733-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377733:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCSHANE MICHAEL (NCSM) D: 48778 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692427/0001193125-26-377716-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377716:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIAMS DEWAYNE (NCSM) D: 3061 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692427/0001193125-26-377708-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377708:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIAMS DEWAYNE (NCSM) D: 1367 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692427/0001193125-26-377708-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377708:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIAMS DEWAYNE (NCSM) D: 1180 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692427/0001193125-26-377708-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377708:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIAMS DEWAYNE (NCSM) D: 2653 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692427/0001193125-26-377708-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377708:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mitchell Valerie A (NCSM) D: 26772 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692427/0001193125-26-377707-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377707:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>RALLS W MATT (NCSM) D: 31065 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692427/0001193125-26-377703-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377703:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>DEANE JOHN D (NCSM) D: 10731 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692427/0001193125-26-377702-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377702:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>DEANE JOHN D (NCSM) D: 32771 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692427/0001193125-26-377702-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-377702:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:21 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

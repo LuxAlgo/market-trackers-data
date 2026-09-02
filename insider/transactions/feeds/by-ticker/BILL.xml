@@ -4,7 +4,181 @@
     <title>LuxAlgo Market Trackers — Insider transactions — BILL</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Jain Rohini (BILL) S: 3915 shares @ $48.7033</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2073970/0002073970-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002073970-26-000002:nd:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jain Rohini (BILL) S: 29555 shares @ $47.7997</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2073970/0002073970-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002073970-26-000002:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jain Rohini (BILL) F: 28600 shares @ $50.31</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2073970/0002073970-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002073970-26-000002:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jain Rohini (BILL) M: 11755 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2073970/0002073970-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002073970-26-000002:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jain Rohini (BILL) M: 50315 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2073970/0002073970-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002073970-26-000002:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jain Rohini (BILL) M: 11755 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2073970/0002073970-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002073970-26-000002:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jain Rohini (BILL) M: 50315 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2073970/0002073970-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002073970-26-000002:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cieri Michael (BILL) S: 10754 shares @ $49.1338</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2067425/0002067425-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002067425-26-000003:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cieri Michael (BILL) F: 8674 shares @ $50.31</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2067425/0002067425-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002067425-26-000003:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cieri Michael (BILL) M: 6531 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2067425/0002067425-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002067425-26-000003:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cieri Michael (BILL) M: 12897 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2067425/0002067425-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002067425-26-000003:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cieri Michael (BILL) M: 6531 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2067425/0002067425-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002067425-26-000003:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cieri Michael (BILL) M: 12897 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2067425/0002067425-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002067425-26-000003:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lacerte Rene A. (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795497/0001795497-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001795497-26-000004:nd:9</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lacerte Rene A. (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795497/0001795497-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001795497-26-000004:nd:8</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lacerte Rene A. (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795497/0001795497-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001795497-26-000004:nd:7</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lacerte Rene A. (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795497/0001795497-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001795497-26-000004:nd:6</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lacerte Rene A. (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795497/0001795497-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001795497-26-000004:nd:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lacerte Rene A. (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795497/0001795497-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001795497-26-000004:nd:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lacerte Rene A. (BILL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795497/0001795497-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001795497-26-000004:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lacerte Rene A. (BILL) F: 24896 shares @ $50.31</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795497/0001795497-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001795497-26-000004:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lacerte Rene A. (BILL) M: 24293 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795497/0001795497-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001795497-26-000004:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lacerte Rene A. (BILL) M: 24627 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795497/0001795497-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001795497-26-000004:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lacerte Rene A. (BILL) M: 17632 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795497/0001795497-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001795497-26-000004:d:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lacerte Rene A. (BILL) M: 7300 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795497/0001795497-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001795497-26-000004:d:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lacerte Rene A. (BILL) M: 6661 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795497/0001795497-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001795497-26-000004:d:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lacerte Rene A. (BILL) M: 8310 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795497/0001795497-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001795497-26-000004:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lacerte Rene A. (BILL) M: 3658 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795497/0001795497-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001795497-26-000004:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lacerte Rene A. (BILL) M: 5359 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795497/0001795497-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001795497-26-000004:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:33 GMT</pubDate>
+    </item>
     <item>
       <title>Starboard Value LP (BILL) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1833016/0000921895-26-002437-index.htm</link>

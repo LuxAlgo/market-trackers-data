@@ -4,7 +4,193 @@
     <title>LuxAlgo Market Trackers — Insider transactions — TMO</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>CASPER MARC N (TMO) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000167-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000167:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000167-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000167:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) F: 531.851 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000167-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000167:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASPER MARC N (TMO) F: 724.766 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000167-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000167:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meyer James (TMO) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000166-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000166:nd:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meyer James (TMO) F: 113.623 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000166-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000166:nd:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meyer James (TMO) F: 55.12 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000166-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000166:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meyer James (TMO) F: 19.824 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000166-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000166:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meyer James (TMO) F: 44.483 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000166-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000166:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meyer James (TMO) F: 37.23 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000166-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000166:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shropshire Thomas B Jr. (TMO) F: 49.024 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000165-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000165:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shafer Michael D (TMO) F: 227.245 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000164-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000164:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shafer Michael D (TMO) F: 189.533 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000164-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000164:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shafer Michael D (TMO) F: 210.806 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000164-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000164:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shafer Michael D (TMO) F: 162.457 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000164-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000164:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Holmes Joseph R. (TMO) F: 14.97 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000163-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000163:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Holmes Joseph R. (TMO) F: 11.447 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000163-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000163:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Holmes Joseph R. (TMO) F: 12.915 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000163-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000163:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Holmes Joseph R. (TMO) F: 10.567 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000163-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000163:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pettiti Gianluca (TMO) S: 3733 shares @ $614.38</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000162-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000162:nd:6</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pettiti Gianluca (TMO) M: 3733 shares @ $309.63</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000162-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000162:nd:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pettiti Gianluca (TMO) S: 400 shares @ $614.38</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000162-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000162:nd:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pettiti Gianluca (TMO) F: 269.794 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000162-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000162:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pettiti Gianluca (TMO) F: 249.003 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000162-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000162:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pettiti Gianluca (TMO) F: 303.639 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000162-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000162:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pettiti Gianluca (TMO) F: 212.256 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000162-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000162:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pettiti Gianluca (TMO) M: 3733 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000162-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000162:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Britt Lisa P. (TMO) F: 85.096 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000161:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Britt Lisa P. (TMO) F: 105.403 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000161:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Britt Lisa P. (TMO) F: 116.04 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000161:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Britt Lisa P. (TMO) F: 87.03 shares @ $622.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/97745/0000097745-26-000161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000097745-26-000161:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:39 GMT</pubDate>
+    </item>
     <item>
       <title>CASPER MARC N (TMO) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/97745/0001216055-26-000012-index.htm</link>

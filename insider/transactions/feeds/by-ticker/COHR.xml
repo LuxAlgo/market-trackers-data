@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — COHR</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Place Jeffrey B. (COHR) A: 3358 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/820318/0000899140-26-001040-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000899140-26-001040:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mocciaro Ilaria (COHR) F: 2174 shares @ $295.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/820318/0000899140-26-001039-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000899140-26-001039:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mocciaro Ilaria (COHR) A: 2449 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/820318/0000899140-26-001039-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000899140-26-001039:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mocciaro Ilaria (COHR) A: 1612 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/820318/0000899140-26-001039-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000899140-26-001039:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mocciaro Ilaria (COHR) A: 2335 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/820318/0000899140-26-001039-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000899140-26-001039:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Luther Sherri R (COHR) F: 2594 shares @ $295.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/820318/0000899140-26-001038-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000899140-26-001038:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Luther Sherri R (COHR) A: 8731 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/820318/0000899140-26-001038-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000899140-26-001038:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eng Julie Sheridan (COHR) S: 6030 shares @ $270.6876</title>
+      <link>https://www.sec.gov/Archives/edgar/data/820318/0000899140-26-001037-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000899140-26-001037:nd:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eng Julie Sheridan (COHR) S: 7047 shares @ $276.8319</title>
+      <link>https://www.sec.gov/Archives/edgar/data/820318/0000899140-26-001037-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000899140-26-001037:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eng Julie Sheridan (COHR) F: 12862 shares @ $295.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/820318/0000899140-26-001037-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000899140-26-001037:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eng Julie Sheridan (COHR) A: 11960 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/820318/0000899140-26-001037-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000899140-26-001037:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eng Julie Sheridan (COHR) A: 5373 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/820318/0000899140-26-001037-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000899140-26-001037:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beard Robert P (COHR) F: 1896 shares @ $295.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/820318/0000899140-26-001036-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000899140-26-001036:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beard Robert P (COHR) A: 5373 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/820318/0000899140-26-001036-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000899140-26-001036:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>ANDERSON JAMES ROBERT (COHR) F: 11958 shares @ $295.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/820318/0000899140-26-001035-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000899140-26-001035:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>ANDERSON JAMES ROBERT (COHR) A: 30564 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/820318/0000899140-26-001035-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000899140-26-001035:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:32 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

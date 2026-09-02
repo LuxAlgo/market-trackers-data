@@ -4,7 +4,55 @@
     <title>LuxAlgo Market Trackers — Insider transactions — GUER</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>HAMMER TODD B (GUER) M: 14164 shares @ $6</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832487/0001437749-26-029432-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029432:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>HAMMER TODD B (GUER) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832487/0001437749-26-029432-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029432:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>HAMMER TODD B (GUER) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832487/0001437749-26-029432-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029432:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>HAMMER TODD B (GUER) M: 14164 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832487/0001437749-26-029432-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029432:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELLIS THOMAS B (GUER) M: 14164 shares @ $6</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832487/0001437749-26-029431-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029431:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELLIS THOMAS B (GUER) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832487/0001437749-26-029431-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029431:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELLIS THOMAS B (GUER) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832487/0001437749-26-029431-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029431:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELLIS THOMAS B (GUER) M: 14164 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832487/0001437749-26-029431-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001437749-26-029431:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:38 GMT</pubDate>
+    </item>
     <item>
       <title>Pratt Ryan Michael (GUER) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1891781/0001437749-26-029187-index.htm</link>

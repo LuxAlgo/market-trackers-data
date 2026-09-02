@@ -4,7 +4,55 @@
     <title>LuxAlgo Market Trackers — Insider transactions — EAT</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>White Aaron M (EAT) F: 1203 shares @ $230.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/703351/0001193125-26-378841-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378841:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hochman Kevin (EAT) F: 7214 shares @ $230.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/703351/0001193125-26-378840-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378840:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fuller Daniel S (EAT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/703351/0001193125-26-378837-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378837:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fuller Daniel S (EAT) F: 722 shares @ $230.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/703351/0001193125-26-378837-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378837:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Felix George S (EAT) F: 922 shares @ $230.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/703351/0001193125-26-378831-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378831:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Comings Douglas N. (EAT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/703351/0001193125-26-378829-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378829:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Comings Douglas N. (EAT) F: 762 shares @ $230.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/703351/0001193125-26-378829-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378829:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Butler James M (EAT) F: 762 shares @ $230.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/703351/0001193125-26-378828-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378828:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:26 GMT</pubDate>
+    </item>
     <item>
       <title>Liberio Frank D (EAT) A: 166 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/703351/0001193125-26-377148-index.htm</link>

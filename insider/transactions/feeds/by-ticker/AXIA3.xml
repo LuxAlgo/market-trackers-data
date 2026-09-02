@@ -4,7 +4,85 @@
     <title>LuxAlgo Market Trackers — Insider transactions — AXIA3</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Batista de Lima Filho Pedro (AXIA3) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2121444/0001213900-26-096382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-096382:nd:6</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Batista de Lima Filho Pedro (AXIA3) S: 2400 shares @ $10.2</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2121444/0001213900-26-096382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-096382:nd:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Batista de Lima Filho Pedro (AXIA3) S: 2200 shares @ $10.2</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2121444/0001213900-26-096382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-096382:nd:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Batista de Lima Filho Pedro (AXIA3) S: 400 shares @ $10.2</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2121444/0001213900-26-096382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-096382:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Batista de Lima Filho Pedro (AXIA3) S: 800 shares @ $10.2</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2121444/0001213900-26-096382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-096382:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Batista de Lima Filho Pedro (AXIA3) S: 4100 shares @ $10.2</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2121444/0001213900-26-096382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-096382:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Batista de Lima Filho Pedro (AXIA3) S: 7700 shares @ $10.2</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2121444/0001213900-26-096382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-096382:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Batista de Lima Filho Pedro (AXIA3) P: 2400 shares @ $10.12</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2121444/0001213900-26-096382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-096382:d:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Batista de Lima Filho Pedro (AXIA3) P: 2200 shares @ $10.12</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2121444/0001213900-26-096382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-096382:d:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Batista de Lima Filho Pedro (AXIA3) P: 500 shares @ $10.12</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2121444/0001213900-26-096382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-096382:d:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Batista de Lima Filho Pedro (AXIA3) P: 800 shares @ $10.12</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2121444/0001213900-26-096382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-096382:d:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Batista de Lima Filho Pedro (AXIA3) P: 4100 shares @ $10.12</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2121444/0001213900-26-096382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-096382:d:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Batista de Lima Filho Pedro (AXIA3) P: 7700 shares @ $10.12</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2121444/0001213900-26-096382-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-096382:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:09 GMT</pubDate>
+    </item>
     <item>
       <title>de Bittencourt Marinho Gisomar Francisco (AXIA3) P: 100 shares @ $10.31</title>
       <link>https://www.sec.gov/Archives/edgar/data/2118802/0001213900-26-095848-index.htm</link>

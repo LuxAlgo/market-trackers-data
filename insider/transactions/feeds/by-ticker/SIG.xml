@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Insider transactions — SIG</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Yoakum Julie (SIG) F: 2645.98 shares @ $82.36</title>
+      <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000221-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000832988-26-000221:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:33 GMT</pubDate>
+    </item>
     <item>
       <title>Tilzer Brian A (SIG) A: 8.67 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/832988/0000832988-26-000219-index.htm</link>

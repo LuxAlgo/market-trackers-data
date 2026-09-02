@@ -4,7 +4,37 @@
     <title>LuxAlgo Market Trackers — Insider transactions — HNI</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Lorenger Jeffrey D (HNI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/48287/0000048287-26-000135-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000048287-26-000135:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lorenger Jeffrey D (HNI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/48287/0000048287-26-000135-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000048287-26-000135:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lorenger Jeffrey D (HNI) S: 1504 shares @ $50</title>
+      <link>https://www.sec.gov/Archives/edgar/data/48287/0000048287-26-000135-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000048287-26-000135:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lorenger Jeffrey D (HNI) M: 1504 shares @ $38.68</title>
+      <link>https://www.sec.gov/Archives/edgar/data/48287/0000048287-26-000135-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000048287-26-000135:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lorenger Jeffrey D (HNI) M: 1504 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/48287/0000048287-26-000135-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000048287-26-000135:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:25 GMT</pubDate>
+    </item>
     <item>
       <title>Lorenger Jeffrey D (HNI) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/48287/0000048287-26-000133-index.htm</link>

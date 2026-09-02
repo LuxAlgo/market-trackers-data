@@ -4,7 +4,73 @@
     <title>LuxAlgo Market Trackers — Insider transactions — ANET</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Duda Kenneth (ANET) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000220:nd:9</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) J: 102320 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000220:nd:8</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) J: 42937 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000220:nd:7</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) J: 42938 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000220:nd:6</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) J: 51160 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000220:nd:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) J: 42938 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000220:nd:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) J: 42937 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000220:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) J: 51160 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000220:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000220:nd:10</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) J: 85875 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000220:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duda Kenneth (ANET) J: 85875 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605808/0001596532-26-000220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001596532-26-000220:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:10 GMT</pubDate>
+    </item>
     <item>
       <title>BECHTOLSHEIM ANDREAS (ANET) S: 5646 shares @ $205.4503</title>
       <link>https://www.sec.gov/Archives/edgar/data/1596532/0001596532-26-000218-index.htm</link>

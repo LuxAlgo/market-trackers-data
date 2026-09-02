@@ -4,7 +4,97 @@
     <title>LuxAlgo Market Trackers — Insider transactions — UTHR</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>ROTHBLATT MARTINE A (UTHR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000132-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001106578-26-000132:nd:9</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROTHBLATT MARTINE A (UTHR) S: 40 shares @ $514.96</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000132-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001106578-26-000132:nd:8</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROTHBLATT MARTINE A (UTHR) S: 762 shares @ $514.3214</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000132-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001106578-26-000132:nd:7</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROTHBLATT MARTINE A (UTHR) S: 678 shares @ $513.5019</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000132-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001106578-26-000132:nd:6</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROTHBLATT MARTINE A (UTHR) S: 1600 shares @ $511.7505</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000132-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001106578-26-000132:nd:5</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROTHBLATT MARTINE A (UTHR) S: 4217 shares @ $510.9315</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000132-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001106578-26-000132:nd:4</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROTHBLATT MARTINE A (UTHR) S: 810 shares @ $509.8359</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000132-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001106578-26-000132:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROTHBLATT MARTINE A (UTHR) S: 794 shares @ $508.9199</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000132-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001106578-26-000132:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROTHBLATT MARTINE A (UTHR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000132-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001106578-26-000132:nd:13</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROTHBLATT MARTINE A (UTHR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000132-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001106578-26-000132:nd:12</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROTHBLATT MARTINE A (UTHR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000132-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001106578-26-000132:nd:11</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROTHBLATT MARTINE A (UTHR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000132-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001106578-26-000132:nd:10</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROTHBLATT MARTINE A (UTHR) S: 599 shares @ $507.8437</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000132-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001106578-26-000132:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROTHBLATT MARTINE A (UTHR) M: 9500 shares @ $135.42</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000132-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001106578-26-000132:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROTHBLATT MARTINE A (UTHR) M: 9500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000132-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001106578-26-000132:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:54:40 GMT</pubDate>
+    </item>
     <item>
       <title>ROTHBLATT MARTINE A (UTHR) S: 517 shares @ $522.4022</title>
       <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000131-index.htm</link>
@@ -513,96 +603,6 @@
       <title>ROTHBLATT MARTINE A (UTHR) S: 440 shares @ $520.0317</title>
       <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000126-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001106578-26-000126:nd:8</guid>
-      <pubDate>Sat, 29 Aug 2026 16:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>ROTHBLATT MARTINE A (UTHR) S: 837 shares @ $519.0852</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000126-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001106578-26-000126:nd:7</guid>
-      <pubDate>Sat, 29 Aug 2026 16:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>ROTHBLATT MARTINE A (UTHR) S: 1077 shares @ $518.1351</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000126-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001106578-26-000126:nd:6</guid>
-      <pubDate>Sat, 29 Aug 2026 16:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>ROTHBLATT MARTINE A (UTHR) S: 773 shares @ $517.0696</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000126-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001106578-26-000126:nd:5</guid>
-      <pubDate>Sat, 29 Aug 2026 16:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>ROTHBLATT MARTINE A (UTHR) S: 1689 shares @ $516.1496</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000126-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001106578-26-000126:nd:4</guid>
-      <pubDate>Sat, 29 Aug 2026 16:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>ROTHBLATT MARTINE A (UTHR) S: 624 shares @ $515.2623</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000126-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001106578-26-000126:nd:3</guid>
-      <pubDate>Sat, 29 Aug 2026 16:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>ROTHBLATT MARTINE A (UTHR) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000126-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001106578-26-000126:nd:20</guid>
-      <pubDate>Sat, 29 Aug 2026 16:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>ROTHBLATT MARTINE A (UTHR) S: 271 shares @ $513.8536</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000126-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001106578-26-000126:nd:2</guid>
-      <pubDate>Sat, 29 Aug 2026 16:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>ROTHBLATT MARTINE A (UTHR) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000126-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001106578-26-000126:nd:19</guid>
-      <pubDate>Sat, 29 Aug 2026 16:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>ROTHBLATT MARTINE A (UTHR) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000126-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001106578-26-000126:nd:18</guid>
-      <pubDate>Sat, 29 Aug 2026 16:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>ROTHBLATT MARTINE A (UTHR) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000126-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001106578-26-000126:nd:17</guid>
-      <pubDate>Sat, 29 Aug 2026 16:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>ROTHBLATT MARTINE A (UTHR) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000126-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001106578-26-000126:nd:16</guid>
-      <pubDate>Sat, 29 Aug 2026 16:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>ROTHBLATT MARTINE A (UTHR) S: 200 shares @ $527.708</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000126-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001106578-26-000126:nd:15</guid>
-      <pubDate>Sat, 29 Aug 2026 16:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>ROTHBLATT MARTINE A (UTHR) S: 45 shares @ $526.4667</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000126-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001106578-26-000126:nd:14</guid>
-      <pubDate>Sat, 29 Aug 2026 16:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>ROTHBLATT MARTINE A (UTHR) S: 235 shares @ $525.4202</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000126-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001106578-26-000126:nd:13</guid>
-      <pubDate>Sat, 29 Aug 2026 16:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>ROTHBLATT MARTINE A (UTHR) S: 625 shares @ $524.3515</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1106578/0001106578-26-000126-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001106578-26-000126:nd:12</guid>
       <pubDate>Sat, 29 Aug 2026 16:17:44 GMT</pubDate>
     </item>
   </channel>

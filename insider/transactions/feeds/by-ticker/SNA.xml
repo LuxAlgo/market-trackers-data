@@ -4,7 +4,19 @@
     <title>LuxAlgo Market Trackers — Insider transactions — SNA</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Adams David Charles (SNA) G: 1732 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91440/0000091440-26-000165-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091440-26-000165:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adams David Charles (SNA) G: 1732 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91440/0000091440-26-000165-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091440-26-000165:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:37 GMT</pubDate>
+    </item>
     <item>
       <title>OZOLINS MARTY V. (SNA) S: 800 shares @ $400</title>
       <link>https://www.sec.gov/Archives/edgar/data/91440/0000091440-26-000162-index.htm</link>

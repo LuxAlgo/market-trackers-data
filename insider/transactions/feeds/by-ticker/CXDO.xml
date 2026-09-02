@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Insider transactions — CXDO</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Wang David Tzat-kin (CXDO) S: 25000 shares @ $6.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1867741/0001075736-26-000092-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001075736-26-000092:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:44 GMT</pubDate>
+    </item>
     <item>
       <title>Vincent Ron (CXDO) F: 471 shares @ $6.42</title>
       <link>https://www.sec.gov/Archives/edgar/data/1550497/0001075736-26-000090-index.htm</link>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — PHIN</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Neto de Abreu Pedro Rui (PHIN) F: 1877 shares @ $68.65</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1984305/0001968915-26-000119-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001968915-26-000119:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fryer Neil (PHIN) F: 2213 shares @ $68.65</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1983987/0001968915-26-000124-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001968915-26-000124:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dori Sebastian (PHIN) F: 1806 shares @ $68.65</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1983614/0001968915-26-000123-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001968915-26-000123:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Di Beasi Alisa (PHIN) F: 2630 shares @ $68.65</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1982810/0001968915-26-000122-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001968915-26-000122:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boyle Robert (PHIN) F: 2955 shares @ $68.65</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1981384/0001968915-26-000121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001968915-26-000121:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gropp Chris P (PHIN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1981241/0001968915-26-000117-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001968915-26-000117:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gropp Chris P (PHIN) F: 6700 shares @ $68.65</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1981241/0001968915-26-000117-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001968915-26-000117:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gustanski Christopher (PHIN) F: 1530 shares @ $68.65</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1981190/0001968915-26-000125-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001968915-26-000125:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Logar Matthew (PHIN) F: 2712 shares @ $68.65</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1981185/0001968915-26-000126-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001968915-26-000126:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anderson Todd L (PHIN) F: 1289 shares @ $68.65</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1968915/0001968915-26-000120-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001968915-26-000120:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ericson Brady D (PHIN) S: 26920 shares @ $68.4065</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1968915/0001968915-26-000116-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001968915-26-000116:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ericson Brady D (PHIN) S: 940 shares @ $68.0321</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1968915/0001968915-26-000116-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001968915-26-000116:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ericson Brady D (PHIN) F: 31195 shares @ $68.65</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1968915/0001968915-26-000116-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001968915-26-000116:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:52 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — PCTY</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Sarowitz Steven I (PCTY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1597870/0001597870-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001597870-26-000013:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarowitz Steven I (PCTY) S: 5 shares @ $159.36</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1597870/0001597870-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001597870-26-000013:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarowitz Steven I (PCTY) S: 3885 shares @ $158.69</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1597870/0001597870-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001597870-26-000013:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarowitz Steven I (PCTY) S: 1210 shares @ $158.12</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1597870/0001597870-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001597870-26-000013:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Robinson Kenneth B. (PCTY) S: 800 shares @ $158.41</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1845372/0001845372-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001845372-26-000002:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarowitz Steven I (PCTY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1597870/0001597870-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001597870-26-000011:nd:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarowitz Steven I (PCTY) S: 9965 shares @ $158.31</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1597870/0001597870-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001597870-26-000011:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarowitz Steven I (PCTY) S: 6688 shares @ $157.64</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1597870/0001597870-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001597870-26-000011:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarowitz Steven I (PCTY) S: 1981 shares @ $156.57</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1597870/0001597870-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001597870-26-000011:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarowitz Steven I (PCTY) S: 825 shares @ $155.53</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1597870/0001597870-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001597870-26-000011:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Conway Craig (PCTY) S: 3145 shares @ $156.8</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1591698/0001340922-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001340922-26-000004:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarowitz Steven I (PCTY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1597870/0001597870-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001597870-26-000009:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarowitz Steven I (PCTY) S: 441 shares @ $155</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1597870/0001597870-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001597870-26-000009:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

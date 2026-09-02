@@ -4,7 +4,25 @@
     <title>LuxAlgo Market Trackers — Insider transactions — XYZ</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>Eisen Anthony Mathew (XYZ) S: 6000 shares @ $80.04</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-059946-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059946:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eisen Anthony Mathew (XYZ) S: 6000 shares @ $82.58</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-059946-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059946:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eisen Anthony Mathew (XYZ) S: 6000 shares @ $85.12</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-059946-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059946:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:49 GMT</pubDate>
+    </item>
     <item>
       <title>Eisen Anthony Mathew (XYZ) S: 6000 shares @ $84</title>
       <link>https://www.sec.gov/Archives/edgar/data/1933928/0001628280-26-059300-index.htm</link>

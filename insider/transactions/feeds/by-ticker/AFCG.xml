@@ -4,7 +4,31 @@
     <title>LuxAlgo Market Trackers — Insider transactions — AFCG</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 01:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:58:26 GMT</lastBuildDate>
+    <item>
+      <title>TANNENBAUM LEONARD M (AFCG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822523/0001628280-26-059909-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059909:nd:3</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>TANNENBAUM LEONARD M (AFCG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822523/0001628280-26-059909-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059909:nd:2</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>TANNENBAUM LEONARD M (AFCG) P: 53273 shares @ $3.6</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822523/0001628280-26-059909-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059909:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>TANNENBAUM LEONARD M (AFCG) P: 65752 shares @ $3.53</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822523/0001628280-26-059909-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059909:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:37 GMT</pubDate>
+    </item>
     <item>
       <title>TANNENBAUM LEONARD M (AFCG) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1822523/0001628280-26-059389-index.htm</link>

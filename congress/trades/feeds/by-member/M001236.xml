@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Congressional trades — Hon. Tim Moore</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 10:34:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:45:16 GMT</lastBuildDate>
     <item>
       <title>Hon. Tim Moore (house) sell: T — $50,001 - $100,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035291.pdf</link>

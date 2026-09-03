@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T13:08:57.895Z",
+  "generatedAt": "2026-09-03T15:21:42.484Z",
   "repository": "LuxAlgo/market-trackers-data",
   "datasets": {
     "congress-trades": {
@@ -711,14 +711,14 @@
         "2008": {
           "tag": "archive-usaspending-2008-01-01-2026-09-03",
           "asset": "gov-contracts--snapshot-2008.json.gz",
-          "bytes": 5325,
-          "updatedAt": "2026-09-03T08:18:04Z"
+          "bytes": 26958096,
+          "updatedAt": "2026-09-03T13:50:11Z"
         },
         "2009": {
-          "tag": "archive-usaspending-2008-01-01-2026-08-28",
-          "asset": "snapshot-2009.json.gz",
-          "bytes": 126215,
-          "updatedAt": "2026-08-28T02:07:12Z"
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-2009.json.gz",
+          "bytes": 19166669,
+          "updatedAt": "2026-09-03T13:50:13Z"
         },
         "2010": {
           "tag": "archive-usaspending-2008-01-01-2026-08-28",
@@ -1059,6 +1059,18 @@
           "asset": "gov-grants--snapshot-2001.json.gz",
           "bytes": 42594,
           "updatedAt": "2026-09-03T08:18:58Z"
+        },
+        "2008": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-2008.json.gz",
+          "bytes": 11209727,
+          "updatedAt": "2026-09-03T13:50:15Z"
+        },
+        "2009": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-2009.json.gz",
+          "bytes": 7970144,
+          "updatedAt": "2026-09-03T13:50:16Z"
         }
       }
     },
@@ -1068,157 +1080,163 @@
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-1999.json.gz",
           "bytes": 2069704,
-          "updatedAt": "2026-09-03T07:59:24Z"
+          "updatedAt": "2026-09-03T13:14:45Z"
         },
         "2000": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2000.json.gz",
           "bytes": 2090133,
-          "updatedAt": "2026-09-03T07:59:25Z"
+          "updatedAt": "2026-09-03T13:14:46Z"
         },
         "2001": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2001.json.gz",
           "bytes": 2373628,
-          "updatedAt": "2026-09-03T07:59:26Z"
+          "updatedAt": "2026-09-03T13:14:48Z"
         },
         "2002": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2002.json.gz",
           "bytes": 2446607,
-          "updatedAt": "2026-09-03T07:59:27Z"
+          "updatedAt": "2026-09-03T13:14:50Z"
         },
         "2003": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2003.json.gz",
           "bytes": 2807686,
-          "updatedAt": "2026-09-03T07:59:28Z"
+          "updatedAt": "2026-09-03T13:14:51Z"
         },
         "2004": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2004.json.gz",
           "bytes": 3017753,
-          "updatedAt": "2026-09-03T07:59:29Z"
+          "updatedAt": "2026-09-03T13:14:53Z"
         },
         "2005": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2005.json.gz",
           "bytes": 3295948,
-          "updatedAt": "2026-09-03T07:59:30Z"
+          "updatedAt": "2026-09-03T13:14:54Z"
         },
         "2006": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2006.json.gz",
           "bytes": 3397542,
-          "updatedAt": "2026-09-03T07:59:31Z"
+          "updatedAt": "2026-09-03T13:14:56Z"
         },
         "2007": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2007.json.gz",
           "bytes": 3912680,
-          "updatedAt": "2026-09-03T07:59:32Z"
+          "updatedAt": "2026-09-03T13:14:57Z"
         },
         "2008": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2008.json.gz",
           "bytes": 7345483,
-          "updatedAt": "2026-09-03T07:59:33Z"
+          "updatedAt": "2026-09-03T13:14:59Z"
         },
         "2009": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2009.json.gz",
           "bytes": 7255342,
-          "updatedAt": "2026-09-03T07:59:34Z"
+          "updatedAt": "2026-09-03T13:15:01Z"
         },
         "2010": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2010.json.gz",
           "bytes": 7043046,
-          "updatedAt": "2026-09-03T07:59:36Z"
+          "updatedAt": "2026-09-03T13:15:03Z"
         },
         "2011": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2011.json.gz",
           "bytes": 6372491,
-          "updatedAt": "2026-09-03T07:59:37Z"
+          "updatedAt": "2026-09-03T13:15:05Z"
         },
         "2012": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2012.json.gz",
           "bytes": 6099216,
-          "updatedAt": "2026-09-03T07:59:38Z"
+          "updatedAt": "2026-09-03T13:15:07Z"
         },
         "2013": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2013.json.gz",
           "bytes": 5749378,
-          "updatedAt": "2026-09-03T07:59:39Z"
+          "updatedAt": "2026-09-03T13:15:09Z"
         },
         "2014": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2014.json.gz",
           "bytes": 5851144,
-          "updatedAt": "2026-09-03T07:59:40Z"
+          "updatedAt": "2026-09-03T13:15:10Z"
         },
         "2015": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2015.json.gz",
           "bytes": 5729026,
-          "updatedAt": "2026-09-03T07:59:42Z"
+          "updatedAt": "2026-09-03T13:15:17Z"
         },
         "2016": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2016.json.gz",
           "bytes": 5712928,
-          "updatedAt": "2026-09-03T07:59:43Z"
+          "updatedAt": "2026-09-03T13:15:19Z"
         },
         "2017": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2017.json.gz",
           "bytes": 5861860,
-          "updatedAt": "2026-09-03T07:59:44Z"
+          "updatedAt": "2026-09-03T13:15:21Z"
         },
         "2018": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2018.json.gz",
           "bytes": 6171959,
-          "updatedAt": "2026-09-03T07:59:45Z"
+          "updatedAt": "2026-09-03T13:15:22Z"
         },
         "2019": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2019.json.gz",
           "bytes": 6169636,
-          "updatedAt": "2026-09-03T07:59:46Z"
+          "updatedAt": "2026-09-03T13:15:24Z"
         },
         "2020": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2020.json.gz",
           "bytes": 6658092,
-          "updatedAt": "2026-09-03T07:59:47Z"
+          "updatedAt": "2026-09-03T13:15:26Z"
         },
         "2021": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2021.json.gz",
           "bytes": 6905007,
-          "updatedAt": "2026-09-03T07:59:48Z"
+          "updatedAt": "2026-09-03T13:15:28Z"
         },
         "2022": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2022.json.gz",
           "bytes": 7278221,
-          "updatedAt": "2026-09-03T07:59:49Z"
+          "updatedAt": "2026-09-03T13:15:30Z"
         },
         "2023": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2023.json.gz",
-          "bytes": 5294776,
-          "updatedAt": "2026-09-03T07:59:51Z"
+          "bytes": 7110520,
+          "updatedAt": "2026-09-03T13:15:32Z"
+        },
+        "2024": {
+          "tag": "archive-lda-1999-01-01-2026-09-03",
+          "asset": "snapshot-2024.json.gz",
+          "bytes": 5586288,
+          "updatedAt": "2026-09-03T13:15:33Z"
         },
         "2026": {
           "tag": "archive-lda-1999-01-01-2026-09-03",
           "asset": "snapshot-2026.json.gz",
           "bytes": 4168283,
-          "updatedAt": "2026-09-03T07:59:51Z"
+          "updatedAt": "2026-09-03T13:15:35Z"
         }
       }
     },
@@ -2420,7 +2438,7 @@
       "from": "1999-01-01",
       "to": "2026-09-03",
       "publishedAt": "2026-09-03T07:59:23Z",
-      "assets": 26
+      "assets": 27
     },
     {
       "tag": "archive-usaspending-2008-01-01-2026-09-03",
@@ -2428,7 +2446,7 @@
       "from": "2008-01-01",
       "to": "2026-09-03",
       "publishedAt": "2026-09-03T02:48:51Z",
-      "assets": 85
+      "assets": 88
     },
     {
       "tag": "archive-lda-1999-01-01-2026-09-02",

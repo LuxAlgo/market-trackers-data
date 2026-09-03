@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — APPF</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 20:34:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 22:33:12 GMT</lastBuildDate>
     <item>
       <title>DUCA MAURICE J (APPF) S: 1947 shares @ $218.45</title>
       <link>https://www.sec.gov/Archives/edgar/data/938333/0000938333-26-000023-index.htm</link>

@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — TWST</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 20:34:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 22:33:12 GMT</lastBuildDate>
     <item>
       <title>Leproust Emily M. (TWST) S: 1093 shares @ $154.446</title>
       <link>https://www.sec.gov/Archives/edgar/data/1753655/0001214659-26-010968-index.htm</link>

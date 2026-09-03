@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Clinical trial registrations — MNPR</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
+    <item>
+      <title>Monopar Therapeutics — ACTIVE_NOT_RECRUITING PHASE1: Dose-Escalation of MNPR-101-PCTA-177Lu in Solid Tumors</title>
+      <link>https://clinicaltrials.gov/study/NCT06617169</link>
+      <guid isPermaLink="false">clinical-trials:NCT06617169</guid>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monopar Therapeutics — ACTIVE_NOT_RECRUITING PHASE1: Diagnostic Efficacy and Dosimetry of MNPR-101-DFO*-89Zr in Patients With Solid Tumors</title>
+      <link>https://clinicaltrials.gov/study/NCT06337084</link>
+      <guid isPermaLink="false">clinical-trials:NCT06337084</guid>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

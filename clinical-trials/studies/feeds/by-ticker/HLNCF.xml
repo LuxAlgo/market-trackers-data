@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — HLNCF</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
+    <item>
+      <title>HALEON — NOT_YET_RECRUITING NA: A Clinical Study to Assess the Efficacy of a Calcium Sodium Phosphosilicate Toothpaste for the Relief of Dentine Hypersensitivity</title>
+      <link>https://clinicaltrials.gov/study/NCT07802886</link>
+      <guid isPermaLink="false">clinical-trials:NCT07802886</guid>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
+    </item>
     <item>
       <title>HALEON — COMPLETED PHASE3: Clinical Study to Investigate the Antihypersensitivity Efficacy of a Novel Dentifrice</title>
       <link>https://clinicaltrials.gov/study/NCT07215767</link>

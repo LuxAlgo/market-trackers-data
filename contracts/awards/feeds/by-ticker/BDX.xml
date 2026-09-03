@@ -4,7 +4,19 @@
     <title>LuxAlgo Market Trackers — Government contract awards — BDX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
+    <item>
+      <title>BECTON, DICKINSON AND COMPANY — $147255.5 from Department of Veterans Affairs (2026-09-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_36C25926N0457_3600_36C25922A0042_3600</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_36C25926N0457_3600_36C25922A0042_3600</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>BECTON, DICKINSON AND COMPANY — $114883.15 from Department of Veterans Affairs (2026-09-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_36C25926N0454_3600_36C25922A0029_3600</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_36C25926N0454_3600_36C25922A0029_3600</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
     <item>
       <title>BECTON, DICKINSON AND COMPANY — $250049.87 from Department of Veterans Affairs (2022-10-01)</title>
       <link>https://www.usaspending.gov/award/CONT_AWD_36C26223P0022_3600_-NONE-_-NONE-</link>

@@ -4,30 +4,30 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — ONC</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
     <item>
       <title>BeOne Medicines — RECRUITING PHASE3: A Study to Evaluate the Safety and Efficacy of Tacabrutideg (BGB-16673) Compared to Pirtobrutinib in Adults With Relapsed/Refractory Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma</title>
       <link>https://clinicaltrials.gov/study/NCT06973187</link>
       <guid isPermaLink="false">clinical-trials:NCT06973187</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>BeOne Medicines — RECRUITING PHASE1: BGB-43395 Alone or as Part of Combination Therapies in Participants With Breast Cancer and Other Advanced Solid Tumors</title>
       <link>https://clinicaltrials.gov/study/NCT06120283</link>
       <guid isPermaLink="false">clinical-trials:NCT06120283</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>BeOne Medicines — RECRUITING PHASE1: A Study Investigating BGB-26808 Alone or in Combination With Tislelizumab in Participants With Advanced Solid Tumors</title>
       <link>https://clinicaltrials.gov/study/NCT05981703</link>
       <guid isPermaLink="false">clinical-trials:NCT05981703</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>BeOne Medicines — ACTIVE_NOT_RECRUITING PHASE3: A Study to Evaluate Long-term Safety of Zanubrutinib Regimens in Participants With B-Cell Malignancies Who Participated in BeiGene Parent Studies of Zanubrutinib</title>
       <link>https://clinicaltrials.gov/study/NCT04170283</link>
       <guid isPermaLink="false">clinical-trials:NCT04170283</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>BeOne Medicines — RECRUITING PHASE2: A Study to Evaluate Efficacy and Safety of Tislelizumab Plus Chemotherapy for Locally Advanced Unresectable or Metastatic Gastric or Gastroesophageal Adenocarcinoma and Esophageal Squamous Cell Carcinoma in Racial and Ethnic Minority Patients in the United States</title>

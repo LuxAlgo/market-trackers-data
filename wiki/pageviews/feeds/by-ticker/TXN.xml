@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Wikipedia pageviews — TXN</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Daily per-article Wikipedia pageview counts for a curated map of public-company articles, from the Wikimedia REST pageviews API (keyless, CC0 counts). Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
     <item>
       <title>Texas_Instruments (TXN): 777 views on 2026-09-01</title>
       <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Texas_Instruments/daily/2026090100/2026090100</link>

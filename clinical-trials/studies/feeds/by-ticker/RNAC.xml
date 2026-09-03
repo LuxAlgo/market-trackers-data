@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — RNAC</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
     <item>
       <title>Cartesian Therapeutics — ACTIVE_NOT_RECRUITING PHASE3: Investigating an mRNA CAR T-cell Therapy, Known as Descartes-08, as a Potential Approach to Treat Myasthenia Gravis</title>
       <link>https://clinicaltrials.gov/study/NCT06799247</link>
       <guid isPermaLink="false">clinical-trials:NCT06799247</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
   </channel>
 </rss>

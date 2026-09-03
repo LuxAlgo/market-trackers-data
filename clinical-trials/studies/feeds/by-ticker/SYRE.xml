@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — SYRE</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
     <item>
       <title>Spyre Therapeutics, Inc. — ENROLLING_BY_INVITATION PHASE2: Long-term Safety and Efficacy of Multiple Long-acting Antibodies Alone and in Combinations for IBD</title>
       <link>https://clinicaltrials.gov/study/NCT07652294</link>
       <guid isPermaLink="false">clinical-trials:NCT07652294</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Spyre Therapeutics, Inc. — RECRUITING PHASE2: A Study of Long-acting Antibodies Alone and in Combinations for Moderate to Severe Ulcerative Colitis</title>

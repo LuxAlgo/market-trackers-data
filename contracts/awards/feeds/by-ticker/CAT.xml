@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Government contract awards — CAT</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
+    <item>
+      <title>CATERPILLAR INC — $472520 from Department of Agriculture (2026-08-31)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_12444026F0086_12C2_GS30F0018U_4730</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_12444026F0086_12C2_GS30F0018U_4730</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

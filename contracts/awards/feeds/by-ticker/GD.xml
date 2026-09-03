@@ -4,7 +4,31 @@
     <title>LuxAlgo Market Trackers — Government contract awards — GD</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
+    <item>
+      <title>GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. — $8804300.7 from Department of Health and Human Services (2026-08-31)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_75FCMC26F0147_7530_GS35F393CA_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_75FCMC26F0147_7530_GS35F393CA_4732</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. — $6708018.6 from Department of Health and Human Services (2026-09-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_75F40126F80149_7524_GS35F393CA_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_75F40126F80149_7524_GS35F393CA_4732</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. — $190619.71 from Department of Homeland Security (2026-08-31)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_70RDA226FR0000048_7001_47QTCK18D0003_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_70RDA226FR0000048_7001_47QTCK18D0003_4732</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. — $623277.99 from Department of Homeland Security (2026-09-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_70B06C26F00000605_7014_70B06C23D00000013_7014</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_70B06C26F00000605_7014_70B06C23D00000013_7014</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
     <item>
       <title>GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. — $29157534 from Department of Health and Human Services (2025-01-30)</title>
       <link>https://www.usaspending.gov/award/CONT_AWD_75FCMC25FJ031_7530_GS00F057CA_4732</link>

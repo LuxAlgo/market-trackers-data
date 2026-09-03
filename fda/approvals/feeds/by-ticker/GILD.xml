@@ -4,36 +4,36 @@
     <title>LuxAlgo Market Trackers — FDA drug application events — GILD</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Drug-application submission events (originals and supplements) with FDA status codes, from openFDA's Drugs@FDA endpoint, with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
     <item>
       <title>GILEAD SCIENCES INC NDA221443 SUPPL 1: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=221443</link>
       <guid isPermaLink="false">fda-approvals:NDA221443:SUPPL:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:27 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:50 GMT</pubDate>
     </item>
     <item>
       <title>GILEAD SCIENCES INC NDA221443 ORIG 1: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=221443</link>
       <guid isPermaLink="false">fda-approvals:NDA221443:ORIG:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:27 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:50 GMT</pubDate>
     </item>
     <item>
       <title>GILEAD SCIENCES NDA221104 ORIG 1: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=221104</link>
       <guid isPermaLink="false">fda-approvals:NDA221104:ORIG:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:27 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:50 GMT</pubDate>
     </item>
     <item>
       <title>GILEAD SCIENCES INC NDA215974 SUPPL 17: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=215974</link>
       <guid isPermaLink="false">fda-approvals:NDA215974:SUPPL:17</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:27 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:50 GMT</pubDate>
     </item>
     <item>
       <title>GILEAD SCIENCES INC NDA215973 SUPPL 24: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=215973</link>
       <guid isPermaLink="false">fda-approvals:NDA215973:SUPPL:24</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:27 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:50 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Government contract awards — EW</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
+    <item>
+      <title>EDWARDS LIFESCIENCES LLC — $68000 from Department of Veterans Affairs (2026-09-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_36C26026P0629_3600_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_36C26026P0629_3600_-NONE-_-NONE-</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>EDWARDS LIFESCIENCES LLC — $34000 from Department of Veterans Affairs (2026-08-31)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_36C24826N0886_3600_36C24824D0065_3600</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_36C24826N0886_3600_36C24824D0065_3600</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>EDWARDS LIFESCIENCES LLC — $34000 from Department of Veterans Affairs (2026-08-31)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_36C24826N0884_3600_36C24423D0094_3600</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_36C24826N0884_3600_36C24423D0094_3600</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

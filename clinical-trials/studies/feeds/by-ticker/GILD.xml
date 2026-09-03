@@ -4,36 +4,48 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — GILD</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
     <item>
       <title>Gilead Sciences — RECRUITING PHASE1: Study of GS-0415 and How It Works in People With HIV</title>
       <link>https://clinicaltrials.gov/study/NCT07719491</link>
       <guid isPermaLink="false">clinical-trials:NCT07719491</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Gilead Sciences — RECRUITING PHASE1/PHASE2: Study of GS-4321 in Healthy Participants and Participants With Chronic Hepatitis Delta Virus</title>
       <link>https://clinicaltrials.gov/study/NCT07096193</link>
       <guid isPermaLink="false">clinical-trials:NCT07096193</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Gilead Sciences — ACTIVE_NOT_RECRUITING PHASE1: Study of Bictegravir/Emtricitabine/Tenofovir Alafenamide in Newborns Exposed to HIV</title>
       <link>https://clinicaltrials.gov/study/NCT07055451</link>
       <guid isPermaLink="false">clinical-trials:NCT07055451</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Gilead Sciences — ACTIVE_NOT_RECRUITING PHASE3: Study of Lenacapavir as a Once-Yearly Injection for HIV Pre-exposure Prophylaxis (PrEP)</title>
       <link>https://clinicaltrials.gov/study/NCT07047716</link>
       <guid isPermaLink="false">clinical-trials:NCT07047716</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gilead Sciences — ACTIVE_NOT_RECRUITING PHASE1: Study of GS-0151 in Participants With Rheumatoid Arthritis</title>
+      <link>https://clinicaltrials.gov/study/NCT06902519</link>
+      <guid isPermaLink="false">clinical-trials:NCT06902519</guid>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gilead Sciences — ACTIVE_NOT_RECRUITING PHASE2: Study of Novel Treatment Combination Therapies in Participants With Head and Neck Squamous Cell Carcinoma Regardless of PD-L1 Expression Status; Substudy-01</title>
+      <link>https://clinicaltrials.gov/study/NCT06727565</link>
+      <guid isPermaLink="false">clinical-trials:NCT06727565</guid>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Gilead Sciences — ACTIVE_NOT_RECRUITING PHASE2: Study of Sacituzumab Govitecan in Participants With Urothelial Cancer That Cannot Be Removed or Has Spread</title>
       <link>https://clinicaltrials.gov/study/NCT03547973</link>
       <guid isPermaLink="false">clinical-trials:NCT03547973</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Gilead Sciences — RECRUITING PHASE2: Study of Denikitug (GS-1811) Given Alone or With Nivolumab or Chemotherapy in Adults With Metastatic Gastric, Gastroesophageal Junction (GEJ), and Esophageal Adenocarcinomas</title>

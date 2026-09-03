@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Government contract awards — AMZN</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
+    <item>
+      <title>AMAZON WEB SERVICES, INC. — $348062 from National Aeronautics and Space Administration (2026-08-31)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_80NSSC26F0105_8000_47QTCA19D000C_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_80NSSC26F0105_8000_47QTCA19D000C_4732</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMAZON WEB SERVICES, INC. — $23239236.77 from Department of Homeland Security (2026-09-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_70RTAC26FR0000045_7001_70RTAC26D00000004_7001</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_70RTAC26FR0000045_7001_70RTAC26D00000004_7001</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMAZON WEB SERVICES, INC. — $60400000 from Department of Homeland Security (2026-09-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_70RCSJ26FR0000028_7001_70RTAC26D00000004_7001</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_70RCSJ26FR0000028_7001_70RTAC26D00000004_7001</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMAZON WEB SERVICES, INC. — $2500000 from General Services Administration (2026-08-31)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_47QACB26F0069_4732_47QTCA19D000C_4732</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_47QACB26F0069_4732_47QTCA19D000C_4732</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

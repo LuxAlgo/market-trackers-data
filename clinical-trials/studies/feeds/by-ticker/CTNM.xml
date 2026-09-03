@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — CTNM</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
     <item>
       <title>Contineum Therapeutics — RECRUITING PHASE2: Study to Evaluate the Efficacy, Safety, and Tolerability of PIPE 791 in Subjects With Idiopathic Pulmonary Fibrosis</title>
       <link>https://clinicaltrials.gov/study/NCT07284459</link>
       <guid isPermaLink="false">clinical-trials:NCT07284459</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
   </channel>
 </rss>

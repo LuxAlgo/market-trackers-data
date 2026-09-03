@@ -4,84 +4,96 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — BMY</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
     <item>
       <title>Bristol-Myers Squibb — NOT_YET_RECRUITING PHASE1: A Study of Navlimetostat (BMS-986504) Drug Interactions and Food Effect in Healthy Participants</title>
       <link>https://clinicaltrials.gov/study/NCT07800897</link>
       <guid isPermaLink="false">clinical-trials:NCT07800897</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Bristol-Myers Squibb — NOT_YET_RECRUITING PHASE3: Continued Access to Deucravacitinib for Adult SLE/SjD and Pediatric PsO/PsA Study Completers</title>
       <link>https://clinicaltrials.gov/study/NCT07791199</link>
       <guid isPermaLink="false">clinical-trials:NCT07791199</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Bristol-Myers Squibb — RECRUITING PHASE1/PHASE2: A Study to Evaluate the Safety, Tolerability, and Efficacy of Pumitamig Alone or in Combination With Other Agents in Participants With Advanced Renal Cell Carcinoma (RCC) (ROSETTA RCC-208)</title>
       <link>https://clinicaltrials.gov/study/NCT07293351</link>
       <guid isPermaLink="false">clinical-trials:NCT07293351</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bristol-Myers Squibb — RECRUITING: A Study in Participants With Active Systemic Lupus Erythematosus With Inadequate Response to Glucocorticoids and ≥2 Immunosuppressants</title>
+      <link>https://clinicaltrials.gov/study/NCT07175285</link>
+      <guid isPermaLink="false">clinical-trials:NCT07175285</guid>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Bristol-Myers Squibb — RECRUITING PHASE1: A Study to Evaluate the Safety, Tolerability, and PK of an Injectable Form of KarXT</title>
       <link>https://clinicaltrials.gov/study/NCT07061288</link>
       <guid isPermaLink="false">clinical-trials:NCT07061288</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Bristol-Myers Squibb — RECRUITING PHASE3: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease</title>
       <link>https://clinicaltrials.gov/study/NCT07011745</link>
       <guid isPermaLink="false">clinical-trials:NCT07011745</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bristol-Myers Squibb — RECRUITING PHASE3: A Study to Evaluate the Efficacy, Safety, and Drug Levels of Deucravacitinib (BMS-986165) in Adolescent Participants With Moderate to Severe Plaque Psoriasis</title>
+      <link>https://clinicaltrials.gov/study/NCT06979453</link>
+      <guid isPermaLink="false">clinical-trials:NCT06979453</guid>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Bristol-Myers Squibb — ACTIVE_NOT_RECRUITING PHASE1/PHASE2: A Study of BMS-986490 With or Without Bevacizumab in Advanced Solid Tumors</title>
       <link>https://clinicaltrials.gov/study/NCT06730750</link>
       <guid isPermaLink="false">clinical-trials:NCT06730750</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Bristol-Myers Squibb — RECRUITING PHASE3: A Study to Compare the Efficacy and Safety of BMS-986489 (BMS-986012+ Nivolumab Fixed Dose Combination) in Combination With Carboplatin Plus Etoposide to That of Atezolizumab With Carboplatin Plus Etoposide as First-Line Therapy in Participants With Extensive-Stage Small Cell Lung Cancer (TIGOS).</title>
       <link>https://clinicaltrials.gov/study/NCT06646276</link>
       <guid isPermaLink="false">clinical-trials:NCT06646276</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Bristol-Myers Squibb — ACTIVE_NOT_RECRUITING PHASE4: A Study to Evaluate the Safety and Effectiveness of Luspatercept for the Treatment of Transfusion-dependent (TD) Anemia Associated With Myelodysplastic Syndromes (MDS) &amp; Beta-thalassemia (β-Thal) in India</title>
       <link>https://clinicaltrials.gov/study/NCT05891249</link>
       <guid isPermaLink="false">clinical-trials:NCT05891249</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Bristol-Myers Squibb — ACTIVE_NOT_RECRUITING PHASE3: A Study of Subcutaneous Nivolumab + Relatlimab Fixed-dose Combination (FDC) in Previously Untreated Metastatic or Unresectable Melanoma</title>
       <link>https://clinicaltrials.gov/study/NCT05625399</link>
       <guid isPermaLink="false">clinical-trials:NCT05625399</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Bristol-Myers Squibb — TERMINATED PHASE3: A Study of Nivolumab-relatlimab Fixed-dose Combination Versus Regorafenib or TAS-102 in Participants With Later-lines of Metastatic Colorectal Cancer</title>
       <link>https://clinicaltrials.gov/study/NCT05328908</link>
       <guid isPermaLink="false">clinical-trials:NCT05328908</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Bristol-Myers Squibb — RECRUITING PHASE1: Phase 1 Study of MRTX1719 in Solid Tumors With MTAP Deletion</title>
       <link>https://clinicaltrials.gov/study/NCT05245500</link>
       <guid isPermaLink="false">clinical-trials:NCT05245500</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Bristol-Myers Squibb — RECRUITING PHASE3: A Study to Evaluate the Benefits and Risks of Conversion of Existing Adolescent Kidney Transplant Recipients Aged 12 to &lt;18 Years to a Belatacept-based Immunosuppressive Regimen as Compared to Continuation of a Calcineurin Inhibitor-based Regimen, and Their Adherence to Immunosuppressive Medications</title>
       <link>https://clinicaltrials.gov/study/NCT04877288</link>
       <guid isPermaLink="false">clinical-trials:NCT04877288</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Bristol-Myers Squibb — ACTIVE_NOT_RECRUITING PHASE3: A Study of Neoadjuvant Chemotherapy Plus Nivolumab Versus Neoadjuvant Chemotherapy Plus Placebo, Followed by Surgical Removal and Adjuvant Treatment With Nivolumab or Placebo for Participants With Surgically Removable Early Stage Non-small Cell Lung Cancer</title>
       <link>https://clinicaltrials.gov/study/NCT04025879</link>
       <guid isPermaLink="false">clinical-trials:NCT04025879</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>
       <title>Bristol-Myers Squibb — RECRUITING PHASE2: A Study of BMS-986504 Monotherapy and in Combination With Other Agents in Participants With Advanced and/or Metastatic Solid Tumors With Homozygous MTAP Deletion (MountainTAP-5)</title>

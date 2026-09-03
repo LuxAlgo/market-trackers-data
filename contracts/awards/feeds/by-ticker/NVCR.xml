@@ -4,7 +4,25 @@
     <title>LuxAlgo Market Trackers — Government contract awards — NVCR</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
+    <item>
+      <title>NOVOCURE INC — $99497.46 from Department of Veterans Affairs (2026-09-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_36C26326N0688_3600_36F79723D0016_3600</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_36C26326N0688_3600_36F79723D0016_3600</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>NOVOCURE INC — $33165.82 from Department of Veterans Affairs (2026-09-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_36C24726N0380_3600_36F79723D0016_3600</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_36C24726N0380_3600_36F79723D0016_3600</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>NOVOCURE INC — $16582.91 from Department of Veterans Affairs (2026-09-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_36C24426P0495_3600_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_36C24426P0495_3600_-NONE-_-NONE-</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
     <item>
       <title>NOVOCURE INC — $49748.73 from Department of Veterans Affairs (2026-08-24)</title>
       <link>https://www.usaspending.gov/award/CONT_AWD_36C25626P0993_3600_-NONE-_-NONE-</link>

@@ -4,7 +4,19 @@
     <title>LuxAlgo Market Trackers — Government contract awards — STE</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
+    <item>
+      <title>STERIS CORPORATION — $418664.72 from Department of Health and Human Services (2026-09-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_75H71026F80077_7527_36F79726D0133_3600</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_75H71026F80077_7527_36F79726D0133_3600</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>STERIS CORPORATION — $20056 from Department of Justice (2026-09-01)</title>
+      <link>https://www.usaspending.gov/award/CONT_AWD_15DDL226P00000013_1524_-NONE-_-NONE-</link>
+      <guid isPermaLink="false">gov-contracts:CONT_AWD_15DDL226P00000013_1524_-NONE-_-NONE-</guid>
+      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+    </item>
     <item>
       <title>STERIS CORPORATION — $19922.65 from Department of Health and Human Services (2022-06-15)</title>
       <link>https://www.usaspending.gov/award/CONT_AWD_75H71022P01199_7527_-NONE-_-NONE-</link>

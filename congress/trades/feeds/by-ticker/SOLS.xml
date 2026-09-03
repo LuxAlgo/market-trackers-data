@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Congressional trades — SOLS</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 22:34:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
     <item>
       <title>Hon. Kevin Hern (house) sell: SOLS — $1,001 - $15,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>

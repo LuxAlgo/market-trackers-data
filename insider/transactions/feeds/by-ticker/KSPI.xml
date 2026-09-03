@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — KSPI</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 03:45:02 GMT</lastBuildDate>
     <item>
       <title>Kim Vyacheslav (KSPI) S: 19324 shares @ $105.27</title>
       <link>https://www.sec.gov/Archives/edgar/data/2029485/0001193125-26-377271-index.htm</link>

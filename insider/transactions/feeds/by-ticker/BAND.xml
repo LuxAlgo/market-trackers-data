@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — BAND</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 03:45:02 GMT</lastBuildDate>
     <item>
       <title>Krupka Devin M (BAND) S: 3074 shares @ $48.9739</title>
       <link>https://www.sec.gov/Archives/edgar/data/1967808/0001967808-26-000030-index.htm</link>

@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Congressional trades — JPM</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 15:13:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 16:35:30 GMT</lastBuildDate>
     <item>
       <title>John Boozman (senate) sell: JPM — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/</link>

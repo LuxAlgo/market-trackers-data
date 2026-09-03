@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — NRIX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
     <item>
       <title>Nurix Therapeutics, Inc. — RECRUITING PHASE1/PHASE2: Study of NX-5948 in Combination With Other Agents in Adults With B-cell Malignancies</title>
       <link>https://clinicaltrials.gov/study/NCT07520006</link>
       <guid isPermaLink="false">clinical-trials:NCT07520006</guid>
-      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
     </item>
     <item>
       <title>Nurix Therapeutics, Inc. — RECRUITING PHASE3: Study of NX-5948 Versus Pirtobrutinib in R/R CLL/SLL</title>
       <link>https://clinicaltrials.gov/study/NCT07516093</link>
       <guid isPermaLink="false">clinical-trials:NCT07516093</guid>
-      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
     </item>
     <item>
       <title>Nurix Therapeutics, Inc. — RECRUITING PHASE2: A Study of NX-5948 in Adults With CLL/SLL Previously Treated With a Bruton's Tyrosine Kinase Inhibitor and a B-cell Lymphoma-2 Inhibitor (DAYBreak CLL-201)</title>

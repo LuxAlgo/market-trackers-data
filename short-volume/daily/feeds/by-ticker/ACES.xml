@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Short-sale volume — ACES</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>ACES 2026-09-02: 953.099898/12220.798719 short (7.8%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-02:ACES:CNMS</guid>
+      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+    </item>
     <item>
       <title>ACES 2026-09-01: 1996.184568/86401.609635 short (2.3%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260901.txt</link>

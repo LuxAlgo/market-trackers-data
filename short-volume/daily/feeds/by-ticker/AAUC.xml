@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Short-sale volume — AAUC</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>AAUC 2026-09-02: 65333/113704.030204 short (57.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-02:AAUC:CNMS</guid>
+      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+    </item>
     <item>
       <title>AAUC 2026-09-01: 64030.257308/116378.772814 short (55.0%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260901.txt</link>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — QMLS</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Glickler Andrew Mark (QMLS) A: 57496 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136845/0002136845-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002136845-26-000002:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Glickler Andrew Mark (QMLS) A: 12777 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136845/0002136845-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002136845-26-000002:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>DiRocco Ryan Anthony (QMLS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2110097/0002110097-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002110097-26-000002:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>DiRocco Ryan Anthony (QMLS) A: 9737 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2110097/0002110097-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002110097-26-000002:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>DiRocco Ryan Anthony (QMLS) A: 94313 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2110097/0002110097-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002110097-26-000002:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>DiRocco Ryan Anthony (QMLS) A: 85179 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2110097/0002110097-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002110097-26-000002:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gertz Stephen Ralph (QMLS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2098854/0002098854-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002098854-26-000002:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gertz Stephen Ralph (QMLS) A: 19165 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2098854/0002098854-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002098854-26-000002:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gertz Stephen Ralph (QMLS) A: 90112 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2098854/0002098854-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002098854-26-000002:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gertz Stephen Ralph (QMLS) A: 58329 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2098854/0002098854-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002098854-26-000002:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gertz Stephen Ralph (QMLS) A: 46848 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2098854/0002098854-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002098854-26-000002:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Krosnowski Scott Carroll (QMLS) A: 9633 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097259/0002097259-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002097259-26-000002:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Krosnowski Scott Carroll (QMLS) A: 122400 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097259/0002097259-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002097259-26-000002:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Krosnowski Scott Carroll (QMLS) A: 103934 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097259/0002097259-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002097259-26-000002:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Krosnowski Scott Carroll (QMLS) A: 85179 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097259/0002097259-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002097259-26-000002:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hunton Stephen Eric (QMLS) A: 5861 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097248/0002097248-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002097248-26-000002:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hunton Stephen Eric (QMLS) A: 94125 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097248/0002097248-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002097248-26-000002:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hunton Stephen Eric (QMLS) A: 63884 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097248/0002097248-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002097248-26-000002:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aderhold Michael Houston (QMLS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2096718/0002096718-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002096718-26-000003:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aderhold Michael Houston (QMLS) A: 37138 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2096718/0002096718-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002096718-26-000003:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aderhold Michael Houston (QMLS) A: 48552 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2096718/0002096718-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002096718-26-000003:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chatterjee Ankur (QMLS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2095785/0002095785-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002095785-26-000002:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chatterjee Ankur (QMLS) A: 69606 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2095785/0002095785-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002095785-26-000002:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chatterjee Ankur (QMLS) A: 83659 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2095785/0002095785-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002095785-26-000002:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chatterjee Ankur (QMLS) A: 85179 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2095785/0002095785-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002095785-26-000002:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schwartz Barry Paul (QMLS) A: 9583 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2095068/0002095068-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002095068-26-000002:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schwartz Barry Paul (QMLS) A: 9583 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2095068/0002095068-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002095068-26-000002:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gahan Patrick Joseph (QMLS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2094859/0002094859-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002094859-26-000002:nd:9</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gahan Patrick Joseph (QMLS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2094859/0002094859-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002094859-26-000002:nd:8</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gahan Patrick Joseph (QMLS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2094859/0002094859-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002094859-26-000002:nd:7</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gahan Patrick Joseph (QMLS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2094859/0002094859-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002094859-26-000002:nd:6</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gahan Patrick Joseph (QMLS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2094859/0002094859-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002094859-26-000002:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gahan Patrick Joseph (QMLS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2094859/0002094859-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002094859-26-000002:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gahan Patrick Joseph (QMLS) A: 19421 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2094859/0002094859-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002094859-26-000002:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gahan Patrick Joseph (QMLS) A: 60690 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2094859/0002094859-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002094859-26-000002:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gahan Patrick Joseph (QMLS) A: 166237 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2094859/0002094859-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002094859-26-000002:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gahan Patrick Joseph (QMLS) A: 48552 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2094859/0002094859-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002094859-26-000002:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kenworthy Stacy James (QMLS) A: 9583 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2094623/0002094623-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002094623-26-000002:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kenworthy Stacy James (QMLS) A: 5989 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2094623/0002094623-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002094623-26-000002:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Maniscalco Michael (QMLS) A: 303406 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2084026/0001985367-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001985367-26-000002:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Maniscalco Michael (QMLS) A: 127768 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2084026/0001985367-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001985367-26-000002:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RENCH DAVID (QMLS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2084026/0001898844-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001898844-26-000002:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RENCH DAVID (QMLS) A: 9583 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2084026/0001898844-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001898844-26-000002:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>RENCH DAVID (QMLS) A: 9583 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2084026/0001898844-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001898844-26-000002:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Akbari Dr. Homaira (QMLS) A: 6038 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2084026/0001541201-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001541201-26-000002:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Akbari Dr. Homaira (QMLS) A: 9583 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2084026/0001541201-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001541201-26-000002:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

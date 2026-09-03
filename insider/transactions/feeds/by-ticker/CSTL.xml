@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Insider transactions — CSTL</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Juvenal Tobin W (CSTL) S: 1730 shares @ $32.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1856542/0001628280-26-060089-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060089:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:53 GMT</pubDate>
+    </item>
     <item>
       <title>MAETZOLD DEREK J (CSTL) S: 209 shares @ $33.88</title>
       <link>https://www.sec.gov/Archives/edgar/data/1447362/0001628280-26-059816-index.htm</link>

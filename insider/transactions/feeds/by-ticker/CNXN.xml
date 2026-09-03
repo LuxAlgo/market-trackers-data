@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — CNXN</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Duckett Barbara (CNXN) M: 500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1465783/0001465783-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001465783-26-000004:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duckett Barbara (CNXN) M: 500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1465783/0001465783-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001465783-26-000004:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ferguson Jack L (CNXN) M: 500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1317600/0001317600-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001317600-26-000003:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ferguson Jack L (CNXN) M: 500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1317600/0001317600-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001317600-26-000003:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>BEFFA NEGRINI DAVID (CNXN) M: 500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1190007/0001190007-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001190007-26-000003:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>BEFFA NEGRINI DAVID (CNXN) M: 500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1190007/0001190007-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001190007-26-000003:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGRATH TIMOTHY J (CNXN) F: 3935 shares @ $80.07</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1188266/0001188266-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001188266-26-000005:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGRATH TIMOTHY J (CNXN) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1188266/0001188266-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001188266-26-000005:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGRATH TIMOTHY J (CNXN) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1188266/0001188266-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001188266-26-000005:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1186630/0001186630-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001186630-26-000003:nd:7</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1186630/0001186630-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001186630-26-000003:nd:6</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1186630/0001186630-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001186630-26-000003:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1186630/0001186630-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001186630-26-000003:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1186630/0001186630-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001186630-26-000003:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1186630/0001186630-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001186630-26-000003:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1186630/0001186630-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001186630-26-000003:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) M: 500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1186630/0001186630-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001186630-26-000003:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) M: 500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1186630/0001186630-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001186630-26-000003:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:27 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

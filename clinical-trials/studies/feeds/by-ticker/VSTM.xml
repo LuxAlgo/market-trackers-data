@@ -4,24 +4,24 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — VSTM</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
     <item>
       <title>Verastem, Inc. — RECRUITING PHASE2: A Phase 2 Study of VS-7375 in Patients With KRAS G12D-Mutated Colorectal Cancer</title>
       <link>https://clinicaltrials.gov/study/NCT07659795</link>
       <guid isPermaLink="false">clinical-trials:NCT07659795</guid>
-      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
     </item>
     <item>
       <title>Verastem, Inc. — RECRUITING PHASE2: A Phase 2 Study of VS-7375 in Patients With KRAS G12D-Mutated Non-Small Cell Lung Cancer</title>
       <link>https://clinicaltrials.gov/study/NCT07659782</link>
       <guid isPermaLink="false">clinical-trials:NCT07659782</guid>
-      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
     </item>
     <item>
       <title>Verastem, Inc. — RECRUITING PHASE2: A Phase 2 Study of VS-7375 in Patients With KRAS G12D-Mutated Pancreatic Cancer</title>
       <link>https://clinicaltrials.gov/study/NCT07644559</link>
       <guid isPermaLink="false">clinical-trials:NCT07644559</guid>
-      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,55 @@
     <title>LuxAlgo Market Trackers — Insider transactions — RVMD</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Kim Lorence H. (RVMD) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1643746/0001193125-26-380277-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380277:nd:7</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kim Lorence H. (RVMD) S: 625 shares @ $206.154</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1643746/0001193125-26-380277-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380277:nd:6</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kim Lorence H. (RVMD) S: 2128 shares @ $205.1879</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1643746/0001193125-26-380277-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380277:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kim Lorence H. (RVMD) S: 7271 shares @ $204.3501</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1643746/0001193125-26-380277-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380277:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kim Lorence H. (RVMD) S: 26160 shares @ $203.5483</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1643746/0001193125-26-380277-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380277:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kim Lorence H. (RVMD) S: 12919 shares @ $202.4819</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1643746/0001193125-26-380277-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380277:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kim Lorence H. (RVMD) S: 6597 shares @ $201.4729</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1643746/0001193125-26-380277-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380277:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kim Lorence H. (RVMD) S: 300 shares @ $200.56</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1643746/0001193125-26-380277-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380277:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
     <item>
       <title>Cislini Jeff (RVMD) S: 3314 shares @ $212.0583</title>
       <link>https://www.sec.gov/Archives/edgar/data/1969082/0001610717-26-000388-index.htm</link>

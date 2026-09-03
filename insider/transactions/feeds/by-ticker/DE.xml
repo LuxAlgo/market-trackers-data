@@ -4,7 +4,91 @@
     <title>LuxAlgo Market Trackers — Insider transactions — DE</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>CAMPBELL RYAN D (DE) S: 3 shares @ $656.64</title>
+      <link>https://www.sec.gov/Archives/edgar/data/315189/0001772144-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001772144-26-000006:nd:9</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAMPBELL RYAN D (DE) S: 199 shares @ $655.91</title>
+      <link>https://www.sec.gov/Archives/edgar/data/315189/0001772144-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001772144-26-000006:nd:8</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAMPBELL RYAN D (DE) S: 391 shares @ $654.22</title>
+      <link>https://www.sec.gov/Archives/edgar/data/315189/0001772144-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001772144-26-000006:nd:7</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAMPBELL RYAN D (DE) S: 363 shares @ $652.75</title>
+      <link>https://www.sec.gov/Archives/edgar/data/315189/0001772144-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001772144-26-000006:nd:6</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAMPBELL RYAN D (DE) S: 975 shares @ $651.43</title>
+      <link>https://www.sec.gov/Archives/edgar/data/315189/0001772144-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001772144-26-000006:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAMPBELL RYAN D (DE) S: 2929 shares @ $650.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/315189/0001772144-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001772144-26-000006:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAMPBELL RYAN D (DE) M: 957 shares @ $377.01</title>
+      <link>https://www.sec.gov/Archives/edgar/data/315189/0001772144-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001772144-26-000006:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAMPBELL RYAN D (DE) M: 1049 shares @ $438.44</title>
+      <link>https://www.sec.gov/Archives/edgar/data/315189/0001772144-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001772144-26-000006:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAMPBELL RYAN D (DE) M: 1775 shares @ $343.94</title>
+      <link>https://www.sec.gov/Archives/edgar/data/315189/0001772144-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001772144-26-000006:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAMPBELL RYAN D (DE) M: 1079 shares @ $254.83</title>
+      <link>https://www.sec.gov/Archives/edgar/data/315189/0001772144-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001772144-26-000006:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAMPBELL RYAN D (DE) M: 957 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/315189/0001772144-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001772144-26-000006:d:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAMPBELL RYAN D (DE) M: 1049 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/315189/0001772144-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001772144-26-000006:d:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAMPBELL RYAN D (DE) M: 1775 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/315189/0001772144-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001772144-26-000006:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAMPBELL RYAN D (DE) M: 1079 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/315189/0001772144-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001772144-26-000006:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:46 GMT</pubDate>
+    </item>
     <item>
       <title>CAMPBELL RYAN D (DE) S: 1560 shares @ $655.45</title>
       <link>https://www.sec.gov/Archives/edgar/data/315189/0001772144-26-000004-index.htm</link>

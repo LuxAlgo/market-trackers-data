@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — SJM</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Penrose Jill R (SJM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000090-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000090:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Penrose Jill R (SJM) F: 1461 shares @ $131.42</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000090-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000090:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Knudsen Jeannette L (SJM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000088-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000088:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Knudsen Jeannette L (SJM) F: 1584 shares @ $131.42</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000088-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000088:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ferguson Robert D (SJM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000087-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000087:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ferguson Robert D (SJM) F: 1121 shares @ $131.42</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000087-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000087:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ferguson Robert D (SJM) S: 2522 shares @ $132.41</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000087-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000087:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMUCKER MARK T (SJM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000086-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000086:nd:7</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMUCKER MARK T (SJM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000086-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000086:nd:6</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMUCKER MARK T (SJM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000086-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000086:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMUCKER MARK T (SJM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000086-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000086:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMUCKER MARK T (SJM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000086-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000086:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMUCKER MARK T (SJM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000086-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000086:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMUCKER MARK T (SJM) S: 84821 shares @ $131.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000086-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000086:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMUCKER MARK T (SJM) M: 84821 shares @ $108.9</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000086-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000086:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMUCKER MARK T (SJM) M: 84821 shares @ $108.9</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000086-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000086:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marshall Tucker H (SJM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000081-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000081:nd:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marshall Tucker H (SJM) S: 11093 shares @ $131.91</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000081-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000081:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marshall Tucker H (SJM) S: 7389 shares @ $132.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000081-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000081:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marshall Tucker H (SJM) M: 11093 shares @ $125.82</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000081-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000081:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marshall Tucker H (SJM) M: 7389 shares @ $108.9</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000081-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000081:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marshall Tucker H (SJM) M: 11093 shares @ $125.82</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000081-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000081:d:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marshall Tucker H (SJM) M: 7389 shares @ $108.9</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000081-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000091419-26-000081:d:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:43:16 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

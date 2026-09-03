@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Congressional trades — LRCX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
     <item>
       <title>Sheldon Whitehouse (senate) sell: LRCX — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/</link>
       <guid isPermaLink="false">congress-trades:senate:f8d003c0-ca1e-4c39-9d66-632d220180e1:3</guid>
-      <pubDate>Thu, 03 Sep 2026 01:06:28 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 02:47:03 GMT</pubDate>
     </item>
   </channel>
 </rss>

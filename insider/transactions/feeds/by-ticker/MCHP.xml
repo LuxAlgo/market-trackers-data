@@ -4,7 +4,25 @@
     <title>LuxAlgo Market Trackers — Insider transactions — MCHP</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Duvenhage Stephanus (MCHP) A: 123 shares @ $60.6985</title>
+      <link>https://www.sec.gov/Archives/edgar/data/827054/0002152018-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002152018-26-000007:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Krawczyk Joseph R II (MCHP) A: 41 shares @ $60.6985</title>
+      <link>https://www.sec.gov/Archives/edgar/data/827054/0002035754-26-000024-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002035754-26-000024:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bunker Mathew B (MCHP) A: 53 shares @ $60.6985</title>
+      <link>https://www.sec.gov/Archives/edgar/data/827054/0002035446-26-000026-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002035446-26-000026:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:59 GMT</pubDate>
+    </item>
     <item>
       <title>Duvenhage Stephanus (MCHP) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/827054/0002152018-26-000005-index.htm</link>

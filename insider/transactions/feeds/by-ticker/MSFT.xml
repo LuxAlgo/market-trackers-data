@@ -4,7 +4,85 @@
     <title>LuxAlgo Market Trackers — Insider transactions — MSFT</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Nadella Satya (MSFT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000161:nd:9</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000161:nd:8</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) S: 1360 shares @ $505.1997</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000161:nd:7</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) S: 9834 shares @ $504.1124</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000161:nd:6</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) S: 7067 shares @ $503.4372</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000161:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) S: 4520 shares @ $502.2909</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000161:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) S: 32901 shares @ $501.1233</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000161:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) S: 24723 shares @ $500.4678</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000161:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000161:nd:12</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000161:nd:11</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000161:nd:10</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) S: 5080 shares @ $499.4452</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000161:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nadella Satya (MSFT) S: 1040 shares @ $498.2396</title>
+      <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000161-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000789019-26-000161:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:55 GMT</pubDate>
+    </item>
     <item>
       <title>SMITH BRADFORD L (MSFT) F: 17036.099 shares @ $513.53</title>
       <link>https://www.sec.gov/Archives/edgar/data/789019/0000789019-26-000159-index.htm</link>

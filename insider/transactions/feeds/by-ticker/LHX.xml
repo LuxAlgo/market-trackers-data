@@ -4,7 +4,31 @@
     <title>LuxAlgo Market Trackers — Insider transactions — LHX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Aebli Christopher T. (LHX) A: 5692 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2151644/0002151644-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002151644-26-000002:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Barnes Lauren N. (LHX) A: 5692 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2151232/0002151232-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002151232-26-000002:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>MEHTA SAMIR (LHX) A: 3036 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/202058/0001961104-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001961104-26-000014:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>MEHTA SAMIR (LHX) A: 11831 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/202058/0001961104-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001961104-26-000014:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:12 GMT</pubDate>
+    </item>
     <item>
       <title>Aebli Christopher T. (LHX) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/2151644/0000202058-26-000070-index.htm</link>

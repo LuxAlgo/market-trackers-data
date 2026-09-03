@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — CNO</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Linnenbringer Jeanne L. (CNO) S: 3919 shares @ $55.1109</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1960364/0001960364-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001960364-26-000006:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linnenbringer Jeanne L. (CNO) S: 4060 shares @ $54.7308</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1960364/0001960364-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001960364-26-000006:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linnenbringer Jeanne L. (CNO) S: 5010 shares @ $54.9879</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1960364/0001960364-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001960364-26-000006:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linnenbringer Jeanne L. (CNO) M: 5010 shares @ $23.33</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1960364/0001960364-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001960364-26-000006:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linnenbringer Jeanne L. (CNO) S: 1550 shares @ $54.9846</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1960364/0001960364-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001960364-26-000006:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linnenbringer Jeanne L. (CNO) M: 5010 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1960364/0001960364-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001960364-26-000006:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeToro Karen J. (CNO) S: 5964 shares @ $55.1188</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1789577/0001789577-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001789577-26-000011:nd:6</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeToro Karen J. (CNO) S: 7500 shares @ $54.7358</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1789577/0001789577-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001789577-26-000011:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeToro Karen J. (CNO) M: 7500 shares @ $15.83</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1789577/0001789577-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001789577-26-000011:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeToro Karen J. (CNO) S: 1836 shares @ $54.7301</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1789577/0001789577-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001789577-26-000011:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeToro Karen J. (CNO) S: 7500 shares @ $54.9777</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1789577/0001789577-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001789577-26-000011:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeToro Karen J. (CNO) M: 7500 shares @ $15.83</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1789577/0001789577-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001789577-26-000011:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeToro Karen J. (CNO) S: 1874 shares @ $54.9805</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1789577/0001789577-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001789577-26-000011:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeToro Karen J. (CNO) M: 7500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1789577/0001789577-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001789577-26-000011:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeToro Karen J. (CNO) M: 7500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1789577/0001789577-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001789577-26-000011:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:41 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

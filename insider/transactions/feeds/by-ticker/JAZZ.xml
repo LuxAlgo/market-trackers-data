@@ -4,7 +4,151 @@
     <title>LuxAlgo Market Trackers — Insider transactions — JAZZ</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Kennedy Patrick (JAZZ) F: 1840 shares @ $241.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2013944/0002013944-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002013944-26-000006:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kennedy Patrick (JAZZ) F: 15 shares @ $244.0647</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2013944/0002013944-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002013944-26-000006:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Henderson Mary Elizabeth (JAZZ) F: 16 shares @ $244.6444</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1989533/0001989533-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001989533-26-000015:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Henderson Mary Elizabeth (JAZZ) F: 2076 shares @ $241.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1989533/0001989533-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001989533-26-000015:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smith Mark Douglas (JAZZ) F: 1692 shares @ $241.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1756253/0001756253-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001756253-26-000009:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smith Mark Douglas (JAZZ) F: 14 shares @ $244.6443</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1756253/0001756253-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001756253-26-000009:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cook Jennifer E. (JAZZ) F: 1692 shares @ $241.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1754371/0001754371-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001754371-26-000007:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cook Jennifer E. (JAZZ) F: 14 shares @ $244.0643</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1754371/0001754371-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001754371-26-000007:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hamill Laura (JAZZ) F: 1692 shares @ $241.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1751804/0001751804-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001751804-26-000005:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hamill Laura (JAZZ) F: 14 shares @ $244.0643</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1751804/0001751804-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001751804-26-000005:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>McSharry Heather Ann (JAZZ) F: 1840 shares @ $241.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1576068/0001576068-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001576068-26-000009:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>McSharry Heather Ann (JAZZ) F: 15 shares @ $244.6447</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1576068/0001576068-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001576068-26-000009:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Winningham Rick E (JAZZ) F: 14 shares @ $244.6443</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1302443/0001302443-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001302443-26-000015:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Winningham Rick E (JAZZ) F: 1692 shares @ $241.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1302443/0001302443-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001302443-26-000015:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ENRIGHT PATRICK G (JAZZ) F: 1692 shares @ $241.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1253886/0001253886-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001253886-26-000011:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>ENRIGHT PATRICK G (JAZZ) F: 14 shares @ $244.6443</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1253886/0001253886-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001253886-26-000011:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>COZADD BRUCE C (JAZZ) S: 6000 shares @ $250.13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1232524/0001193210-26-000025-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193210-26-000025:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>COZADD BRUCE C (JAZZ) F: 1209 shares @ $241.3899</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1232524/0001193210-26-000025-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193210-26-000025:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>COZADD BRUCE C (JAZZ) F: 10 shares @ $244.064</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1232524/0001193210-26-000025-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193210-26-000025:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>LOVE TED W (JAZZ) F: 737 shares @ $241.3899</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1232524/0001188919-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001188919-26-000015:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>LOVE TED W (JAZZ) F: 6 shares @ $244.0633</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1232524/0001188919-26-000015-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001188919-26-000015:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>RIEDEL NORBERT G (JAZZ) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1232524/0001161662-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001161662-26-000008:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>RIEDEL NORBERT G (JAZZ) F: 1692 shares @ $241.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1232524/0001161662-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001161662-26-000008:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>RIEDEL NORBERT G (JAZZ) F: 14 shares @ $244.6443</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1232524/0001161662-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001161662-26-000008:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:34 GMT</pubDate>
+    </item>
     <item>
       <title>Iannone Robert (JAZZ) S: 300 shares @ $252.76</title>
       <link>https://www.sec.gov/Archives/edgar/data/1737329/0001737329-26-000016-index.htm</link>

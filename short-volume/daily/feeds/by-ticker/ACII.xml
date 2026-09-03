@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Short-sale volume — ACII</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>ACII 2026-09-02: 5425/18498.538173 short (29.3%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-02:ACII:CNMS</guid>
+      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+    </item>
     <item>
       <title>ACII 2026-09-01: 33167.8111/203429.894991 short (16.3%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260901.txt</link>

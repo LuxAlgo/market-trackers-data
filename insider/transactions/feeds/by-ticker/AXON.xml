@@ -4,7 +4,199 @@
     <title>LuxAlgo Market Trackers — Insider transactions — AXON</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Fields Isaiah (AXON) F: 763.159 shares @ $566.56</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2104464/0001628280-26-060209-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060209:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Coughlin Elizabeth Reid (AXON) F: 479.268 shares @ $566.56</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2104461/0001628280-26-060211-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060211:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brooks Cameron (AXON) F: 734.82 shares @ $566.56</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2017144/0001628280-26-060213-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060213:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mak Jennifer H (AXON) F: 155.674 shares @ $566.56</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1673075/0001628280-26-060216-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060216:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 643 shares @ $570.9401</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:9</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 898 shares @ $569.6997</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:8</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 1684 shares @ $568.9514</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:7</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 193 shares @ $567.5284</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:6</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 188 shares @ $566.3179</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 661 shares @ $565.3687</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 1232 shares @ $564.4728</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 40 shares @ $595.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:27</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 91 shares @ $592.5056</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:26</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 109 shares @ $590.2116</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:25</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 280 shares @ $588.4629</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:24</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 280 shares @ $586.4329</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:23</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 565 shares @ $585.7196</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:22</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 477 shares @ $584.5413</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:21</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 120 shares @ $582.8433</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:20</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 359 shares @ $563.4984</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 318 shares @ $581.7572</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:19</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 793 shares @ $580.5882</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:18</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 1663 shares @ $579.7628</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:17</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 1379 shares @ $578.7338</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:16</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 625 shares @ $577.743</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:15</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 1075 shares @ $576.8044</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:14</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 1108 shares @ $575.788</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:13</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 283 shares @ $574.6702</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:12</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 314 shares @ $573.3663</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:11</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 677 shares @ $571.9827</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:10</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 373 shares @ $562.2679</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isner Joshua (AXON) S: 347 shares @ $561.0789</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648518/0001628280-26-060121-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060121:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:20 GMT</pubDate>
+    </item>
     <item>
       <title>Kunins Jeffrey C (AXON) S: 400 shares @ $617.5684</title>
       <link>https://www.sec.gov/Archives/edgar/data/1788888/0001628280-26-058683-index.htm</link>

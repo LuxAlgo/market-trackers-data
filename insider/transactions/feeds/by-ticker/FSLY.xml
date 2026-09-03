@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — FSLY</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Compton Charles Lacey III (FSLY) S: 1100 shares @ $22.61</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2074428/0001517413-26-000265-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000265:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Compton Charles Lacey III (FSLY) S: 18978 shares @ $21.86</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2074428/0001517413-26-000265-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000265:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Compton Charles Lacey III (FSLY) S: 35501 shares @ $21.1</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2074428/0001517413-26-000265-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000265:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Compton Charles Lacey III (FSLY) S: 15028 shares @ $23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2074428/0001517413-26-000265-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000265:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lovett Scott R. (FSLY) S: 19624 shares @ $23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024441/0001517413-26-000264-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000264:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bergman Artur (FSLY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1769490/0001517413-26-000266-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000266:nd:6</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bergman Artur (FSLY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1769490/0001517413-26-000266-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000266:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bergman Artur (FSLY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1769490/0001517413-26-000266-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000266:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bergman Artur (FSLY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1769490/0001517413-26-000266-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000266:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bergman Artur (FSLY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1769490/0001517413-26-000266-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000266:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bergman Artur (FSLY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1769490/0001517413-26-000266-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000266:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bergman Artur (FSLY) S: 6225 shares @ $23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1769490/0001517413-26-000266-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000266:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAISLEY CHRISTOPHER B (FSLY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1517413/0001517413-26-000260-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000260:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>PAISLEY CHRISTOPHER B (FSLY) S: 3000 shares @ $23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1517413/0001517413-26-000260-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000260:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bergman Artur (FSLY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1769490/0001517413-26-000258-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000258:nd:6</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bergman Artur (FSLY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1769490/0001517413-26-000258-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000258:nd:5</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bergman Artur (FSLY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1769490/0001517413-26-000258-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000258:nd:4</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bergman Artur (FSLY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1769490/0001517413-26-000258-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000258:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bergman Artur (FSLY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1769490/0001517413-26-000258-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000258:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bergman Artur (FSLY) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1769490/0001517413-26-000258-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000258:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bergman Artur (FSLY) S: 851 shares @ $24.08</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1769490/0001517413-26-000258-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000258:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>WONG RICHARD (FSLY) S: 1808 shares @ $24.95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2082904/0001517413-26-000250-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000250:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>WONG RICHARD (FSLY) S: 29013 shares @ $24.29</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2082904/0001517413-26-000250-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000250:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>WONG RICHARD (FSLY) S: 16855 shares @ $23.64</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2082904/0001517413-26-000250-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000250:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:22:50 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

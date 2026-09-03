@@ -4,7 +4,19 @@
     <title>LuxAlgo Market Trackers — Insider transactions — DT</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Kulkarni Amol (DT) M: 519 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1991569/0001991569-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001991569-26-000010:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kulkarni Amol (DT) M: 519 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1991569/0001991569-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001991569-26-000010:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:08 GMT</pubDate>
+    </item>
     <item>
       <title>Thota Chandrasekhar (DT) A: 379 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/2147955/0002147955-26-000006-index.htm</link>

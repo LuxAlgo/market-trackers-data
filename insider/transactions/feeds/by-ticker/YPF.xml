@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — YPF</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Azcurra Maria Martina (YPF) F: 10507 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004466-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004466:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Azcurra Maria Martina (YPF) A: 30020 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004466-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004466:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Azcurra Maria Martina (YPF) A: 8500 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004466-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004466:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Azcurra Maria Martina (YPF) A: 8250 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004466-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004466:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Martin Mauricio Alejandro (YPF) F: 54220 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004464-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004464:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Martin Mauricio Alejandro (YPF) A: 154914 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004464-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004464:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kearney Pedro Luis (YPF) F: 33496 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004462-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004462:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kearney Pedro Luis (YPF) A: 95701 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004462-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004462:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Actis Walter Ariel (YPF) F: 28172 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004450-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004450:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Actis Walter Ariel (YPF) A: 80492 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004450-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004450:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ayala Silvia Noemi (YPF) F: 5628 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004448-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004448:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ayala Silvia Noemi (YPF) A: 16080 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004448-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004448:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aldeco Marcelo Gustavo (YPF) F: 32639 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004446-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004446:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aldeco Marcelo Gustavo (YPF) A: 93253 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004446-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004446:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wyss Alejandro Luis (YPF) F: 35843 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004444-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004444:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wyss Alejandro Luis (YPF) A: 102406 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004444-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004444:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Westen Maximiliano Pedro (YPF) F: 35001 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004442-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004442:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Westen Maximiliano Pedro (YPF) A: 100002 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004442-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004442:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tiscornia Florencia (YPF) F: 38499 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004440-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004440:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tiscornia Florencia (YPF) A: 109996 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004440-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004440:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pitrelli Guillermo Andres Filiberto (YPF) F: 28190 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004438-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004438:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pitrelli Guillermo Andres Filiberto (YPF) A: 80542 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004438-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004438:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mata Juan Jose (YPF) F: 40159 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004436-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004436:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mata Juan Jose (YPF) A: 114740 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004436-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004436:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Martinez Tanoira Santiago (YPF) F: 54458 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004434-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004434:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Martinez Tanoira Santiago (YPF) A: 155594 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004434-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004434:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garat Guillermo Jose (YPF) F: 34999 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004432-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004432:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garat Guillermo Jose (YPF) A: 99998 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004432-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004432:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallino Gustavo Maria (YPF) F: 35279 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004430-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004430:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallino Gustavo Maria (YPF) A: 100796 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004430-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004430:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fernandez Lahore German Vito (YPF) F: 42464 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004428-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004428:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fernandez Lahore German Vito (YPF) A: 121324 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004428-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004428:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deleonardis Lisandro (YPF) F: 34999 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004426-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004426:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deleonardis Lisandro (YPF) A: 99998 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004426-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004426:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scarone Andres Marcelo (YPF) F: 27827 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004424-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004424:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scarone Andres Marcelo (YPF) A: 79505 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004424-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004424:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Polotnianka Ariel (YPF) F: 2918 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004422-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004422:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Polotnianka Ariel (YPF) A: 8335 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004422-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004422:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marin Horacio Daniel (YPF) F: 189772 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004420-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004420:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marin Horacio Daniel (YPF) A: 542205 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004420-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004420:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Farina Matias Osvaldo (YPF) F: 66735 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004418-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004418:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Farina Matias Osvaldo (YPF) A: 190671 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004418-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004418:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Berto Carlos Alejandro (YPF) F: 11587 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004416-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004416:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Berto Carlos Alejandro (YPF) A: 33105 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004416-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004416:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Archimbal Maria de las Mercedes (YPF) F: 6538 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004414-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004414:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Archimbal Maria de las Mercedes (YPF) A: 18680 shares @ $7983</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004414-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004414:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Santilli Diego Cesar (YPF) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/904851/0001292814-26-004408-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001292814-26-004408:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:36 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

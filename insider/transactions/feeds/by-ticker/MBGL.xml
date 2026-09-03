@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — MBGL</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Ranganathan Shilpa (MBGL) A: 11095 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2134717/0002090312-26-000020-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002090312-26-000020:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ranganathan Shilpa (MBGL) A: 20172 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2134717/0002090312-26-000020-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002090312-26-000020:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Taussig Alexander R. (MBGL) A: 11095 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2111745/0002090312-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002090312-26-000018:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Taussig Alexander R. (MBGL) A: 20172 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2111745/0002090312-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002090312-26-000018:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aboaf Eric W. (MBGL) A: 11095 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2090312/0002090312-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002090312-26-000027:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aboaf Eric W. (MBGL) A: 20172 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2090312/0002090312-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002090312-26-000027:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eager William W (MBGL) A: 126072 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2090312/0002090312-26-000025-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002090312-26-000025:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lavallee Heather H. (MBGL) A: 11095 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2090312/0002090312-26-000023-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002090312-26-000023:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lavallee Heather H. (MBGL) A: 20172 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2090312/0002090312-26-000023-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002090312-26-000023:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Leroux Monique F. (MBGL) A: 11095 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2090312/0002090312-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002090312-26-000022:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Leroux Monique F. (MBGL) A: 20172 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2090312/0002090312-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002090312-26-000022:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEEK MARK S (MBGL) A: 11095 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2090312/0002090312-26-000021-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002090312-26-000021:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEEK MARK S (MBGL) A: 20172 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2090312/0002090312-26-000021-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002090312-26-000021:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hinrichs Joseph R (MBGL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2090312/0002090312-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002090312-26-000017:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hinrichs Joseph R (MBGL) A: 11095 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2090312/0002090312-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002090312-26-000017:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hinrichs Joseph R (MBGL) A: 20172 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2090312/0002090312-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002090312-26-000017:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:26 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

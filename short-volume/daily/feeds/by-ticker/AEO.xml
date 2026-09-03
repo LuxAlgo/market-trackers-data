@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Short-sale volume — AEO</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>AEO 2026-09-02: 858482.344252/1659963.943612 short (51.7%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-02:AEO:CNMS</guid>
+      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEO 2026-09-01: 1005208.044765/1533902.977701 short (65.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260901.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-01:AEO:CNMS</guid>
+      <pubDate>Wed, 02 Sep 2026 12:54:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEO 2026-08-31: 914992.969828/1389244.636715 short (65.9%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260831.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-31:AEO:CNMS</guid>
+      <pubDate>Tue, 01 Sep 2026 12:53:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEO 2026-08-28: 941077.69438/1556505.849782 short (60.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260828.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-28:AEO:CNMS</guid>
+      <pubDate>Sat, 29 Aug 2026 12:46:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEO 2026-08-27: 967465.135861/1466719.832466 short (66.0%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260827.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-27:AEO:CNMS</guid>
+      <pubDate>Fri, 28 Aug 2026 02:16:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEO 2026-08-26: 1648795.979385/3073343.973104 short (53.6%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260826.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-26:AEO:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEO 2026-08-25: 1440185.248566/2158249.167511 short (66.7%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260825.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-25:AEO:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEO 2026-08-24: 919925.027566/1881773.727497 short (48.9%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260824.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-24:AEO:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:58 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

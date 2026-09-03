@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — ERAS</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
     <item>
       <title>Erasca, Inc. — RECRUITING PHASE1: A Study of ERAS-0015 in Patients With Advanced or Metastatic Solid Tumors</title>
       <link>https://clinicaltrials.gov/study/NCT06983743</link>
       <guid isPermaLink="false">clinical-trials:NCT06983743</guid>
-      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
     </item>
   </channel>
 </rss>

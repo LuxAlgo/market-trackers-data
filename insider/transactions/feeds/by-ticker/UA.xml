@@ -4,7 +4,145 @@
     <title>LuxAlgo Market Trackers — Insider transactions — UA</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Sweeney Robert John (UA) A: 29880.48 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2066263/0001336917-26-000139-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000139:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smith Eugene Dubois (UA) A: 29880.48 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2065153/0001336917-26-000137-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000137:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gibbs David W (UA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628590/0001336917-26-000133-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000133:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gibbs David W (UA) A: 29880.48 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628590/0001336917-26-000133-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000133:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fitzpatrick Dawn N. (UA) A: 29880.48 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1611994/0001336917-26-000131-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000131:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Everson Carolyn (UA) A: 29880.48 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1577369/0001336917-26-000129-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000129:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Olson Eric T (UA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1535177/0001336917-26-000135-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000135:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Olson Eric T (UA) A: 29880.48 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1535177/0001336917-26-000135-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000135:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Whitesell Patrick (UA) A: 29880.48 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1531362/0001336917-26-000141-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000141:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>El-Erian Mohamed (UA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1424598/0001336917-26-000127-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000127:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>El-Erian Mohamed (UA) A: 29880.48 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1424598/0001336917-26-000127-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000127:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>COLTHARP DOUGLAS E (UA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1336917/0001336917-26-000125-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000125:nd:9</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>COLTHARP DOUGLAS E (UA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1336917/0001336917-26-000125-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000125:nd:8</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>COLTHARP DOUGLAS E (UA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1336917/0001336917-26-000125-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000125:nd:7</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>COLTHARP DOUGLAS E (UA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1336917/0001336917-26-000125-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000125:nd:6</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>COLTHARP DOUGLAS E (UA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1336917/0001336917-26-000125-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000125:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>COLTHARP DOUGLAS E (UA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1336917/0001336917-26-000125-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000125:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>COLTHARP DOUGLAS E (UA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1336917/0001336917-26-000125-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000125:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>COLTHARP DOUGLAS E (UA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1336917/0001336917-26-000125-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000125:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>COLTHARP DOUGLAS E (UA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1336917/0001336917-26-000125-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000125:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>COLTHARP DOUGLAS E (UA) A: 29880.48 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1336917/0001336917-26-000125-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001336917-26-000125:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>DEVARD JERRI (UA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1336917/0001278602-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001278602-26-000003:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>DEVARD JERRI (UA) A: 29880.48 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1336917/0001278602-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001278602-26-000003:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:42 GMT</pubDate>
+    </item>
     <item>
       <title>Pestridge Simon James (UA) F: 3679 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/2137002/0001336917-26-000123-index.htm</link>

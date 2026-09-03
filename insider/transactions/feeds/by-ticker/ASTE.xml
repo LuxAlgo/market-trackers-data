@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — ASTE</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Hartley Chad Jeffrey (ASTE) A: 38 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/792987/0002132452-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002132452-26-000003:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>PUTNEY ROBERT GERALD (ASTE) A: 3 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/792987/0002057758-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002057758-26-000005:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GILBERT EDWARD TERRELL JR (ASTE) A: 22 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/792987/0002017267-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002017267-26-000006:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>NORRIS MICHAEL PAUL (ASTE) A: 23 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/792987/0002002460-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002002460-26-000005:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>WINFORD JAMES MURPHY JR (ASTE) A: 7 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/792987/0001986754-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001986754-26-000004:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Knoll Linda I. (ASTE) A: 7 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/792987/0001926752-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001926752-26-000004:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jain Nalin (ASTE) A: 7 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/792987/0001802466-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001802466-26-000004:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cook Tracey H (ASTE) A: 18 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/792987/0001759710-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001759710-26-000014:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merwe Jaco van der (ASTE) A: 139 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/792987/0001683999-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683999-26-000005:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merwe Jaco van der (ASTE) A: 4.2118 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/792987/0001683999-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001683999-26-000005:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Harris Brian James (ASTE) A: 37 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/792987/0001635271-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001635271-26-000005:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shannon Patrick S (ASTE) A: 18 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/792987/0001589049-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001589049-26-000004:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jackson Jeffrey T (ASTE) A: 25 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/792987/0001366229-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001366229-26-000007:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gliebe Mark Joseph (ASTE) A: 7 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/792987/0001315380-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001315380-26-000004:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>HOWELL MARY L (ASTE) A: 7 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/792987/0001227228-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001227228-26-000006:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:56 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

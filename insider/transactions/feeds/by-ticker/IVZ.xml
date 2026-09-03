@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — IVZ</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Butcher Stephanie (IVZ) F: 9761 shares @ $32.78</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001965994-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001965994-26-000004:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Butcher Stephanie (IVZ) A: 20766 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001965994-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001965994-26-000004:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Butcher Stephanie (IVZ) F: 9015 shares @ $32.78</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001965994-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001965994-26-000004:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Butcher Stephanie (IVZ) A: 19179 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001965994-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001965994-26-000004:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Butcher Stephanie (IVZ) F: 11984 shares @ $32.78</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001965994-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001965994-26-000004:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Butcher Stephanie (IVZ) A: 25497 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001965994-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001965994-26-000004:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Butcher Stephanie (IVZ) M: 20766 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001965994-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001965994-26-000004:d:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Butcher Stephanie (IVZ) M: 19179 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001965994-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001965994-26-000004:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Butcher Stephanie (IVZ) M: 25497 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001965994-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001965994-26-000004:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sharp Douglas J (IVZ) A: 22642 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:nd:6</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sharp Douglas J (IVZ) F: 10358 shares @ $32.78</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sharp Douglas J (IVZ) A: 22404 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sharp Douglas J (IVZ) F: 5524 shares @ $32.78</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sharp Douglas J (IVZ) A: 11891 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sharp Douglas J (IVZ) F: 6331 shares @ $32.78</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sharp Douglas J (IVZ) A: 13548 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sharp Douglas J (IVZ) M: 22642 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:d:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sharp Douglas J (IVZ) M: 22404 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:d:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sharp Douglas J (IVZ) M: 11891 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sharp Douglas J (IVZ) M: 13548 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

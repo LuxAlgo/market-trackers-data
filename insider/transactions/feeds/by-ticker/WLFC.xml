@@ -4,7 +4,31 @@
     <title>LuxAlgo Market Trackers — Insider transactions — WLFC</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-004063-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-004063:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-004063-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-004063:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-004063-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-004063:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIS CHARLES F IV (WLFC) S: 400 shares @ $52.9505</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-004063-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-004063:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:12 GMT</pubDate>
+    </item>
     <item>
       <title>WILLIS CHARLES F IV (WLFC) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1033309/0000905148-26-003969-index.htm</link>

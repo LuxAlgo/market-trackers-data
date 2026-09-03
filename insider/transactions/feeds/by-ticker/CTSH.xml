@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Insider transactions — CTSH</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Kerdman Alina (CTSH) S: 144 shares @ $63.34</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2075228/0002075228-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002075228-26-000022:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:21 GMT</pubDate>
+    </item>
     <item>
       <title>Schot Abraham (CTSH) A: 21.8273 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1970614/0001970614-26-000008-index.htm</link>

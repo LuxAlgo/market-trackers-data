@@ -4,7 +4,31 @@
     <title>LuxAlgo Market Trackers — Insider transactions — OPFI</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Schwartz Todd G. (OPFI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1873026/0000905148-26-004066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-004066:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schwartz Todd G. (OPFI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1873026/0000905148-26-004066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-004066:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schwartz Todd G. (OPFI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1873026/0000905148-26-004066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-004066:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schwartz Todd G. (OPFI) P: 3550 shares @ $6.9133</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1873026/0000905148-26-004066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000905148-26-004066:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:55 GMT</pubDate>
+    </item>
     <item>
       <title>Schwartz Todd G. (OPFI) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1873026/0000905148-26-004056-index.htm</link>

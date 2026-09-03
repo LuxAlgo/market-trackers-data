@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Lobbying filings — GD</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Lobbying disclosure filings from the Senate LDA API with best-effort client→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>GENERAL DYNAMICS CORPORATION via MELTSNER STRATEGIES, LLC (2026 third_quarter) — $12500</title>
+      <link>https://lda.gov/filings/public/filing/db132ccc-f755-42ea-8e4b-d016e1ae78d7/print/</link>
+      <guid isPermaLink="false">lobbying-filings:db132ccc-f755-42ea-8e4b-d016e1ae78d7</guid>
+      <pubDate>Thu, 03 Sep 2026 02:47:03 GMT</pubDate>
+    </item>
     <item>
       <title>GENERAL DYNAMICS via MORAN GLOBAL STRATEGIES, INC. (2026 second_quarter) — $50000</title>
       <link>https://lda.gov/filings/public/filing/fdf4b006-6721-4d42-924b-88ca820ed96d/print/</link>

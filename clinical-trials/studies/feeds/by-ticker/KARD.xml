@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — KARD</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
     <item>
       <title>Kardigan, Inc. — RECRUITING PHASE3: A Study of the Long-term Safety and Efficacy of Danicamtiv in Adults With Symptomatic Genetic and Familial Dilated Cardiomyopathy</title>
       <link>https://clinicaltrials.gov/study/NCT07771465</link>
       <guid isPermaLink="false">clinical-trials:NCT07771465</guid>
-      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
     </item>
     <item>
       <title>Kardigan, Inc. — RECRUITING PHASE2: Study of Efficacy and Safety of Tonlamarsen in Participants With a Recent Hospitalization and a Concurrent Episode of Acute Severe Hypertension</title>
       <link>https://clinicaltrials.gov/study/NCT07511361</link>
       <guid isPermaLink="false">clinical-trials:NCT07511361</guid>
-      <pubDate>Wed, 02 Sep 2026 15:15:01 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 02:47:19 GMT</pubDate>
     </item>
   </channel>
 </rss>

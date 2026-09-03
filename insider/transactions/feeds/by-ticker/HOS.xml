@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — HOS</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Neikirk Kenneth English (HOS) M: 83732 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380387:d:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neikirk Kenneth English (HOS) M: 33978 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380387:d:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neikirk Kenneth English (HOS) M: 15402 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380387:d:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neikirk Kenneth English (HOS) M: 142344 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380387:d:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neikirk Kenneth English (HOS) M: 68040 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380387:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neikirk Kenneth English (HOS) M: 69309 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380387-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380387:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KRATZ OWEN E (HOS) M: 287081 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380372-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380372:d:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KRATZ OWEN E (HOS) M: 128756 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380372-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380372:d:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KRATZ OWEN E (HOS) M: 58366 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380372-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380372:d:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KRATZ OWEN E (HOS) M: 488038 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380372-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380372:d:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KRATZ OWEN E (HOS) M: 257833 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380372-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380372:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KRATZ OWEN E (HOS) M: 262646 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380372-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380372:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arriaga Brent Alexander (HOS) M: 31898 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380366-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380366:d:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arriaga Brent Alexander (HOS) M: 14306 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380366-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380366:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arriaga Brent Alexander (HOS) M: 4054 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380366-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380366:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Staffeldt Erik (HOS) M: 125199 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380340-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380340:d:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Staffeldt Erik (HOS) M: 52933 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380340-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380340:d:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Staffeldt Erik (HOS) M: 21077 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380340-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380340:d:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Staffeldt Erik (HOS) M: 212838 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380340-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380340:d:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Staffeldt Erik (HOS) M: 105998 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380340-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380340:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Staffeldt Erik (HOS) M: 94845 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/0001193125-26-380340-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380340:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:45:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

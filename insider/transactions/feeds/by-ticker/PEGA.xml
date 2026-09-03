@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — PEGA</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Higgins John Gerard (PEGA) F: 104 shares @ $36.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1915414/0001915414-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001915414-26-000018:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Higgins John Gerard (PEGA) M: 186 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1915414/0001915414-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001915414-26-000018:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Higgins John Gerard (PEGA) F: 104 shares @ $36.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1915414/0001915414-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001915414-26-000018:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Higgins John Gerard (PEGA) M: 186 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1915414/0001915414-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001915414-26-000018:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Higgins John Gerard (PEGA) F: 575 shares @ $36.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1915414/0001915414-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001915414-26-000018:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Higgins John Gerard (PEGA) M: 1030 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1915414/0001915414-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001915414-26-000018:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Higgins John Gerard (PEGA) M: 186 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1915414/0001915414-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001915414-26-000018:d:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Higgins John Gerard (PEGA) M: 186 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1915414/0001915414-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001915414-26-000018:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Higgins John Gerard (PEGA) M: 1030 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1915414/0001915414-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001915414-26-000018:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Akgonul Rifat Kerim (PEGA) F: 569 shares @ $36.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1855325/0001855325-26-000028-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001855325-26-000028:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Akgonul Rifat Kerim (PEGA) M: 1176 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1855325/0001855325-26-000028-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001855325-26-000028:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Akgonul Rifat Kerim (PEGA) M: 1176 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1855325/0001855325-26-000028-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001855325-26-000028:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>STILLWELL KENNETH (PEGA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1680115/0001680115-26-000032-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001680115-26-000032:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>STILLWELL KENNETH (PEGA) F: 925 shares @ $36.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1680115/0001680115-26-000032-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001680115-26-000032:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>STILLWELL KENNETH (PEGA) M: 2350 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1680115/0001680115-26-000032-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001680115-26-000032:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>STILLWELL KENNETH (PEGA) M: 2350 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1680115/0001680115-26-000032-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001680115-26-000032:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trefler Leon (PEGA) F: 463 shares @ $36.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1480560/0001480560-26-000020-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001480560-26-000020:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trefler Leon (PEGA) M: 1176 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1480560/0001480560-26-000020-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001480560-26-000020:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trefler Leon (PEGA) M: 1176 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1480560/0001480560-26-000020-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001480560-26-000020:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>KOUNINIS EFSTATHIOS A (PEGA) F: 51 shares @ $36.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1353196/0001353196-26-000024-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001353196-26-000024:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>KOUNINIS EFSTATHIOS A (PEGA) M: 206 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1353196/0001353196-26-000024-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001353196-26-000024:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>KOUNINIS EFSTATHIOS A (PEGA) S: 1012 shares @ $36.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1353196/0001353196-26-000024-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001353196-26-000024:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>KOUNINIS EFSTATHIOS A (PEGA) F: 1488 shares @ $36.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1353196/0001353196-26-000024-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001353196-26-000024:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>KOUNINIS EFSTATHIOS A (PEGA) M: 2500 shares @ $16.95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1353196/0001353196-26-000024-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001353196-26-000024:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>KOUNINIS EFSTATHIOS A (PEGA) M: 206 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1353196/0001353196-26-000024-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001353196-26-000024:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>KOUNINIS EFSTATHIOS A (PEGA) M: 2500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1353196/0001353196-26-000024-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001353196-26-000024:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Akgonul Rifat Kerim (PEGA) S: 1300 shares @ $34</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1855325/0001855325-26-000026-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001855325-26-000026:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Akgonul Rifat Kerim (PEGA) S: 1700 shares @ $33.9801</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1855325/0001855325-26-000026-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001855325-26-000026:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEDINGHAM DIANNE (PEGA) G: 6242 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1684701/0001684701-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001684701-26-000004:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>LEDINGHAM DIANNE (PEGA) G: 6242 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1684701/0001684701-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001684701-26-000004:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:16 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

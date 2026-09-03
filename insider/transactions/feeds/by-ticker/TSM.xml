@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — TSM</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Wang Ying-Lang (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2118010/0001046179-26-000588-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000588:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Ying-Lang (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2118010/0001046179-26-000588-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000588:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Ying-Lang (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2118010/0001046179-26-000588-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000588:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wang Ying-Lang (TSM) A: 12881 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2118010/0001046179-26-000588-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000588:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chin Yung-Pei (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117998/0001046179-26-000578-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000578:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chin Yung-Pei (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117998/0001046179-26-000578-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000578:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chin Yung-Pei (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117998/0001046179-26-000578-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000578:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chin Yung-Pei (TSM) A: 32204 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117998/0001046179-26-000578-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000578:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zhang Kevin Xiaoqiang (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2115263/0001046179-26-000591-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000591:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zhang Kevin Xiaoqiang (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2115263/0001046179-26-000591-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000591:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zhang Kevin Xiaoqiang (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2115263/0001046179-26-000591-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000591:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zhang Kevin Xiaoqiang (TSM) A: 20313 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2115263/0001046179-26-000591-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000591:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lu Lee-Chung (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114032/0001046179-26-000587-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000587:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lu Lee-Chung (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114032/0001046179-26-000587-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000587:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lu Lee-Chung (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114032/0001046179-26-000587-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000587:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lu Lee-Chung (TSM) A: 8175 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114032/0001046179-26-000587-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000587:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hsu Kuo-Chin (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114031/0001046179-26-000584-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000584:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hsu Kuo-Chin (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114031/0001046179-26-000584-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000584:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hsu Kuo-Chin (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114031/0001046179-26-000584-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000584:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hsu Kuo-Chin (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114031/0001046179-26-000584-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000584:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hsu Kuo-Chin (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114031/0001046179-26-000584-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000584:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hsu Kuo-Chin (TSM) A: 8175 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114031/0001046179-26-000584-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000584:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chuang Tzu-Sou (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114030/0001046179-26-000579-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000579:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chuang Tzu-Sou (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114030/0001046179-26-000579-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000579:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chuang Tzu-Sou (TSM) A: 8175 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114030/0001046179-26-000579-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000579:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chuang Juiping (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114029/0001046179-26-000574-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000574:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chuang Juiping (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114029/0001046179-26-000574-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000574:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chuang Juiping (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114029/0001046179-26-000574-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000574:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chuang Juiping (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114029/0001046179-26-000574-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000574:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chuang Juiping (TSM) A: 8175 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114029/0001046179-26-000574-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000574:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wu Shien-Yang (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113784/0001046179-26-000592-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000592:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wu Shien-Yang (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113784/0001046179-26-000592-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000592:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wu Shien-Yang (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113784/0001046179-26-000592-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000592:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wu Shien-Yang (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113784/0001046179-26-000592-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000592:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wu Shien-Yang (TSM) A: 12881 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113784/0001046179-26-000592-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000592:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yoo Chue-San (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113775/0001046179-26-000593-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000593:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yoo Chue-San (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113775/0001046179-26-000593-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000593:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yoo Chue-San (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113775/0001046179-26-000593-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000593:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yoo Chue-San (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113775/0001046179-26-000593-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000593:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yoo Chue-San (TSM) A: 8175 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113775/0001046179-26-000593-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000593:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>He Jun (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113771/0001046179-26-000581-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000581:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>He Jun (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113771/0001046179-26-000581-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000581:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>He Jun (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113771/0001046179-26-000581-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000581:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>He Jun (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113771/0001046179-26-000581-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000581:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>He Jun (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113771/0001046179-26-000581-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000581:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>He Jun (TSM) A: 8175 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113771/0001046179-26-000581-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000581:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yeap Choh Fei (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113762/0001046179-26-000594-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000594:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yeap Choh Fei (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113762/0001046179-26-000594-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000594:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yeap Choh Fei (TSM) A: 12881 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113762/0001046179-26-000594-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000594:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lin Chris Horng-Dar (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113756/0001046179-26-000586-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000586:nd:6</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lin Chris Horng-Dar (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113756/0001046179-26-000586-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000586:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lin Chris Horng-Dar (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113756/0001046179-26-000586-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000586:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lin Chris Horng-Dar (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113756/0001046179-26-000586-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000586:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lin Chris Horng-Dar (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113756/0001046179-26-000586-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000586:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lin Chris Horng-Dar (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113756/0001046179-26-000586-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000586:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lin Chris Horng-Dar (TSM) A: 8175 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113756/0001046179-26-000586-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000586:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee Chun-Hsien (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113739/0001046179-26-000585-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000585:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee Chun-Hsien (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113739/0001046179-26-000585-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000585:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee Chun-Hsien (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113739/0001046179-26-000585-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000585:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lee Chun-Hsien (TSM) A: 12881 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113739/0001046179-26-000585-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000585:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mii Yuh-Jier (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113729/0001046179-26-000589-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000589:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mii Yuh-Jier (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113729/0001046179-26-000589-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000589:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mii Yuh-Jier (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113729/0001046179-26-000589-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000589:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mii Yuh-Jier (TSM) A: 32204 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113729/0001046179-26-000589-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000589:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mii Yuh-Jier (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113729/0001046179-26-000589-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000589:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wei Che-Chia (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113717/0001046179-26-000590-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000590:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wei Che-Chia (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113717/0001046179-26-000590-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000590:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wei Che-Chia (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113717/0001046179-26-000590-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000590:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wei Che-Chia (TSM) A: 204375 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113717/0001046179-26-000590-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000590:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chang Tzonz-Sheng (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113710/0001046179-26-000577-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000577:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chang Tzonz-Sheng (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113710/0001046179-26-000577-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000577:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chang Tzonz-Sheng (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113710/0001046179-26-000577-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000577:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chang Tzonz-Sheng (TSM) A: 12881 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113710/0001046179-26-000577-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000577:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Huang Jen-Chau (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113699/0001046179-26-000583-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000583:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Huang Jen-Chau (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113699/0001046179-26-000583-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000583:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Huang Jen-Chau (TSM) A: 20313 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113699/0001046179-26-000583-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000583:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fang Shu-Hua (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113698/0001046179-26-000576-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000576:nd:6</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fang Shu-Hua (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113698/0001046179-26-000576-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000576:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fang Shu-Hua (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113698/0001046179-26-000576-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000576:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fang Shu-Hua (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113698/0001046179-26-000576-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000576:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fang Shu-Hua (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113698/0001046179-26-000576-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000576:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fang Shu-Hua (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113698/0001046179-26-000576-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000576:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fang Shu-Hua (TSM) A: 20313 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113698/0001046179-26-000576-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000576:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jang Syun-Ming (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113688/0001046179-26-000582-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000582:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jang Syun-Ming (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113688/0001046179-26-000582-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000582:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jang Syun-Ming (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113688/0001046179-26-000582-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000582:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jang Syun-Ming (TSM) A: 8175 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113688/0001046179-26-000582-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000582:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hou Yung-Chin (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113680/0001046179-26-000580-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000580:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hou Yung-Chin (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113680/0001046179-26-000580-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000580:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hou Yung-Chin (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113680/0001046179-26-000580-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000580:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hou Yung-Chin (TSM) A: 20313 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113680/0001046179-26-000580-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000580:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cao Min (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113031/0001046179-26-000575-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000575:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cao Min (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113031/0001046179-26-000575-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000575:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cao Min (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113031/0001046179-26-000575-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000575:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cao Min (TSM) A: 12881 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113031/0001046179-26-000575-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000575:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:31 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

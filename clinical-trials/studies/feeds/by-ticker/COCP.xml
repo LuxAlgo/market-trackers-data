@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — COCP</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
     <item>
       <title>Cocrystal Pharma, Inc. — COMPLETED PHASE1: CDI-988 Safety Study in Healthy Participants</title>
       <link>https://clinicaltrials.gov/study/NCT05977140</link>

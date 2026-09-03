@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — WIX</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Shai Omer (WIX) S: 490 shares @ $95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1976036/0001628280-26-059984-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059984:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shai Omer (WIX) P: 490 shares @ $59.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1976036/0001628280-26-059984-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059984:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zohar Nir (WIX) S: 271 shares @ $95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1975805/0001628280-26-059979-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059979:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zohar Nir (WIX) P: 271 shares @ $59.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1975805/0001628280-26-059979-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059979:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zohar Nir (WIX) S: 376 shares @ $95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1975805/0001628280-26-059979-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059979:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zohar Nir (WIX) P: 376 shares @ $59.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1975805/0001628280-26-059979-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059979:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Even-Haim Yaniv (WIX) S: 320 shares @ $95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969635/0001628280-26-059986-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059986:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Even-Haim Yaniv (WIX) P: 320 shares @ $59.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969635/0001628280-26-059986-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059986:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abrahami Avishai (WIX) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969583/0001628280-26-059977-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059977:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abrahami Avishai (WIX) S: 55 shares @ $95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969583/0001628280-26-059977-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059977:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abrahami Avishai (WIX) P: 55 shares @ $59.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969583/0001628280-26-059977-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059977:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abrahami Avishai (WIX) S: 654 shares @ $95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969583/0001628280-26-059977-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059977:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abrahami Avishai (WIX) P: 654 shares @ $59.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969583/0001628280-26-059977-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059977:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meyer Shelly B (WIX) S: 479 shares @ $95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969467/0001628280-26-059988-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059988:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meyer Shelly B (WIX) P: 479 shares @ $59.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969467/0001628280-26-059988-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059988:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shemesh Lior (WIX) S: 456 shares @ $95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1826257/0001628280-26-059982-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059982:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shemesh Lior (WIX) P: 456 shares @ $59.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1826257/0001628280-26-059982-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059982:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gutler Ron (WIX) S: 844 shares @ $83</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967428/0001628280-26-059480-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059480:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gutler Ron (WIX) S: 704 shares @ $85.08</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967428/0001628280-26-059480-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059480:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gutler Ron (WIX) S: 3901 shares @ $85.93</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967428/0001628280-26-059480-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059480:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gutler Ron (WIX) S: 269 shares @ $86.51</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1967428/0001628280-26-059480-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059480:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:41:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zohar Nir (WIX) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1975805/0001628280-26-059068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059068:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zohar Nir (WIX) S: 13743 shares @ $85.22</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1975805/0001628280-26-059068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059068:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zohar Nir (WIX) S: 15283 shares @ $85.92</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1975805/0001628280-26-059068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059068:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zohar Nir (WIX) S: 974 shares @ $85.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1975805/0001628280-26-059068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059068:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:24:52 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

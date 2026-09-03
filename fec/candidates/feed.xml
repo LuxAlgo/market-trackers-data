@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — FEC candidate totals</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Candidate-cycle campaign-finance summaries (receipts, disbursements, cash on hand) from the FEC's keyless bulk downloads, joined to congress members via FEC candidate ids. Every item links its primary-source document.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 15:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
     <item>
       <title>JENKINS, EVAN H (REP, S-WV) 2026: $0 receipts</title>
       <link>https://www.fec.gov/data/candidate/S8WV00127/?cycle=2026</link>

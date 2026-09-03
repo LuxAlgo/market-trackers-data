@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — APLE</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Woolley Howard E. (APLE) A: 2116 shares @ $15.95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849229/0001193125-26-380272-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380272:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Woolley Howard E. (APLE) J: 342 shares @ $15.95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849229/0001193125-26-380272-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380272:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Handlon Carolyn B (APLE) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1705809/0001193125-26-380273-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380273:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Handlon Carolyn B (APLE) J: 35 shares @ $15.95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1705809/0001193125-26-380273-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380273:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Handlon Carolyn B (APLE) A: 2116 shares @ $15.95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1705809/0001193125-26-380273-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380273:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fosheim Jon A (APLE) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628418/0001193125-26-380274-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380274:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fosheim Jon A (APLE) A: 1904 shares @ $15.95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628418/0001193125-26-380274-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380274:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fosheim Jon A (APLE) J: 424 shares @ $15.95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628418/0001193125-26-380274-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380274:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fosheim Jon A (APLE) A: 212 shares @ $15.95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1628418/0001193125-26-380274-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380274:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bunting Glenn W Jr (APLE) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1418121/0001193125-26-380275-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380275:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bunting Glenn W Jr (APLE) A: 2116 shares @ $15.95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1418121/0001193125-26-380275-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380275:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hugh Redd (APLE) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1418121/0001193125-26-380270-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380270:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hugh Redd (APLE) J: 449 shares @ $15.95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1418121/0001193125-26-380270-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380270:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hugh Redd (APLE) A: 2116 shares @ $15.95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1418121/0001193125-26-380270-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380270:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGARVIE BLYTHE J (APLE) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1418121/0001193125-26-380269-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380269:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCGARVIE BLYTHE J (APLE) A: 2116 shares @ $15.95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1418121/0001193125-26-380269-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380269:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:49 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

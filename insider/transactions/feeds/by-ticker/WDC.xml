@@ -4,7 +4,61 @@
     <title>LuxAlgo Market Trackers — Insider transactions — WDC</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Tan Irving (WDC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729518/0001266824-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001266824-26-000192:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tan Irving (WDC) G: 112500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729518/0001266824-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001266824-26-000192:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tan Irving (WDC) G: 112500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729518/0001266824-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001266824-26-000192:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tan Irving (WDC) J: 112500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729518/0001266824-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001266824-26-000192:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tan Irving (WDC) J: 112500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1729518/0001266824-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001266824-26-000192:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>STREETER STEPHANIE A (WDC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/106040/0001266824-26-000191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001266824-26-000191:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>STREETER STEPHANIE A (WDC) S: 1600 shares @ $455</title>
+      <link>https://www.sec.gov/Archives/edgar/data/106040/0001266824-26-000191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001266824-26-000191:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>STREETER STEPHANIE A (WDC) S: 2000 shares @ $448.58</title>
+      <link>https://www.sec.gov/Archives/edgar/data/106040/0001266824-26-000191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001266824-26-000191:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>STREETER STEPHANIE A (WDC) S: 2000 shares @ $447.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/106040/0001266824-26-000191-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001266824-26-000191:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
     <item>
       <title>Shihab Ahmed Mohammed (WDC) F: 2741 shares @ $468.88</title>
       <link>https://www.sec.gov/Archives/edgar/data/2059396/0001266824-26-000186-index.htm</link>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — CLST</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Bourque Jacques L.J. (CLST) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1911094/0001911094-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001911094-26-000004:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bourque Jacques L.J. (CLST) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1911094/0001911094-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001911094-26-000004:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bourque Jacques L.J. (CLST) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1911094/0001911094-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001911094-26-000004:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bourque Jacques L.J. (CLST) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1911094/0001911094-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001911094-26-000004:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bourque Jacques L.J. (CLST) F: 131 shares @ $17.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1911094/0001911094-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001911094-26-000004:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bourque Jacques L.J. (CLST) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1911094/0001911094-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001911094-26-000004:d:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bourque Jacques L.J. (CLST) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1911094/0001911094-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001911094-26-000004:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bourque Jacques L.J. (CLST) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1911094/0001911094-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001911094-26-000004:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quebedeaux Amanda B. (CLST) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1885819/0001885819-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001885819-26-000006:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quebedeaux Amanda B. (CLST) F: 553 shares @ $17.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1885819/0001885819-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001885819-26-000006:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quebedeaux Amanda B. (CLST) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1885819/0001885819-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001885819-26-000006:d:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quebedeaux Amanda B. (CLST) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1885819/0001885819-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001885819-26-000006:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quebedeaux Amanda B. (CLST) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1885819/0001885819-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001885819-26-000006:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zanco Joseph B (CLST) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849867/0001318329-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001318329-26-000004:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zanco Joseph B (CLST) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849867/0001318329-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001318329-26-000004:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zanco Joseph B (CLST) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849867/0001318329-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001318329-26-000004:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zanco Joseph B (CLST) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849867/0001318329-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001318329-26-000004:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zanco Joseph B (CLST) F: 1158 shares @ $17.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849867/0001318329-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001318329-26-000004:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zanco Joseph B (CLST) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849867/0001318329-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001318329-26-000004:d:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zanco Joseph B (CLST) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849867/0001318329-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001318329-26-000004:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zanco Joseph B (CLST) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849867/0001318329-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001318329-26-000004:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

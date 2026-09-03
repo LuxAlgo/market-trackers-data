@@ -4,7 +4,145 @@
     <title>LuxAlgo Market Trackers — Insider transactions — LQDT</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Daunt John (LQDT) S: 390 shares @ $41.27</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) M: 390 shares @ $21.62</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) S: 325 shares @ $41.27</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) M: 325 shares @ $17.31</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:9</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:8</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:7</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:6</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:18</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:17</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:16</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:15</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:14</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:13</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:12</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:11</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:10</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) M: 390 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daunt John (LQDT) M: 325 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774667/0001774667-26-000029-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001774667-26-000029:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:38 GMT</pubDate>
+    </item>
     <item>
       <title>Murray Novelette (LQDT) J: 486 shares @ $43.12</title>
       <link>https://www.sec.gov/Archives/edgar/data/1825422/0001825422-26-000012-index.htm</link>
@@ -466,144 +604,6 @@
       <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001406206-26-000020:nd:1</guid>
       <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) M: 1367 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:nd:0</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:d:9</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:d:8</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:d:7</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:d:6</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:d:5</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:d:4</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:d:3</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:d:2</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:d:17</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:d:16</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:d:15</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:d:14</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:d:13</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:d:12</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:d:11</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:d:10</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) M: 2050 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:d:1</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celaya Jorge (LQDT) M: 2677 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1406206/0001406206-26-000020-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001406206-26-000020:d:0</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Angrick William P III (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1352618/0001352618-26-000012-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001352618-26-000012:nd:4</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Angrick William P III (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1352618/0001352618-26-000012-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001352618-26-000012:nd:3</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Angrick William P III (LQDT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1352618/0001352618-26-000012-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001352618-26-000012:nd:2</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Angrick William P III (LQDT) M: 6305 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1352618/0001352618-26-000012-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001352618-26-000012:nd:1</guid>
-      <pubDate>Sat, 29 Aug 2026 16:21:33 GMT</pubDate>
     </item>
   </channel>
 </rss>

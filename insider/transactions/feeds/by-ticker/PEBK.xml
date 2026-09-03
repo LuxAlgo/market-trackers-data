@@ -4,7 +4,43 @@
     <title>LuxAlgo Market Trackers — Insider transactions — PEBK</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>ABERNETHY JAMES S (PEBK) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1244172/0001654954-26-008093-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-008093:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABERNETHY JAMES S (PEBK) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1244172/0001654954-26-008093-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-008093:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABERNETHY JAMES S (PEBK) S: 500 shares @ $43.5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1244172/0001654954-26-008093-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-008093:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABERNETHY ROBERT C (PEBK) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1183129/0001654954-26-008097-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-008097:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABERNETHY ROBERT C (PEBK) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1183129/0001654954-26-008097-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-008097:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>ABERNETHY ROBERT C (PEBK) S: 7000 shares @ $43.61</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1183129/0001654954-26-008097-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001654954-26-008097:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:42:27 GMT</pubDate>
+    </item>
     <item>
       <title>Abernethy Robert C. JR (PEBK) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/2052002/0001654954-26-008057-index.htm</link>

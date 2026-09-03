@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — TDUP</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Homer Christopher (TDUP) S: 14135 shares @ $2.5812</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850197/0001628280-26-060227-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060227:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Homer Christopher (TDUP) M: 28745 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850197/0001628280-26-060227-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060227:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Homer Christopher (TDUP) S: 19463 shares @ $2.5812</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850197/0001628280-26-060227-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060227:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Homer Christopher (TDUP) M: 39583 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850197/0001628280-26-060227-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060227:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Homer Christopher (TDUP) S: 26632 shares @ $2.5812</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850197/0001628280-26-060227-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060227:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Homer Christopher (TDUP) M: 54167 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850197/0001628280-26-060227-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060227:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Homer Christopher (TDUP) M: 28745 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850197/0001628280-26-060227-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060227:d:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Homer Christopher (TDUP) M: 39583 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850197/0001628280-26-060227-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060227:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Homer Christopher (TDUP) M: 54167 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850197/0001628280-26-060227-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060227:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reinhart James G. (TDUP) S: 27068 shares @ $2.5812</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849447/0001628280-26-060220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060220:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reinhart James G. (TDUP) M: 52316 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849447/0001628280-26-060220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060220:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reinhart James G. (TDUP) S: 57771 shares @ $2.5812</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849447/0001628280-26-060220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060220:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reinhart James G. (TDUP) M: 111666 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849447/0001628280-26-060220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060220:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reinhart James G. (TDUP) S: 86223 shares @ $2.5812</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849447/0001628280-26-060220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060220:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reinhart James G. (TDUP) M: 166667 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849447/0001628280-26-060220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060220:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reinhart James G. (TDUP) M: 52316 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849447/0001628280-26-060220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060220:d:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reinhart James G. (TDUP) M: 111666 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849447/0001628280-26-060220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060220:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reinhart James G. (TDUP) M: 166667 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849447/0001628280-26-060220-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060220:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sobers Sean (TDUP) S: 12218 shares @ $2.5812</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1688472/0001628280-26-060219-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060219:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sobers Sean (TDUP) M: 23610 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1688472/0001628280-26-060219-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060219:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sobers Sean (TDUP) S: 13368 shares @ $2.5812</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1688472/0001628280-26-060219-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060219:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sobers Sean (TDUP) M: 25833 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1688472/0001628280-26-060219-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060219:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sobers Sean (TDUP) S: 18973 shares @ $2.5812</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1688472/0001628280-26-060219-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060219:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sobers Sean (TDUP) M: 36667 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1688472/0001628280-26-060219-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060219:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sobers Sean (TDUP) M: 23610 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1688472/0001628280-26-060219-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060219:d:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sobers Sean (TDUP) M: 25833 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1688472/0001628280-26-060219-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060219:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sobers Sean (TDUP) M: 36667 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1688472/0001628280-26-060219-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060219:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:25 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

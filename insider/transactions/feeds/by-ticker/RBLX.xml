@@ -4,7 +4,49 @@
     <title>LuxAlgo Market Trackers — Insider transactions — RBLX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Baszucki Gregory (RBLX) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1834990/0001315098-26-000182-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001315098-26-000182:nd:6</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Baszucki Gregory (RBLX) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1834990/0001315098-26-000182-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001315098-26-000182:nd:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Baszucki Gregory (RBLX) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1834990/0001315098-26-000182-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001315098-26-000182:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Baszucki Gregory (RBLX) S: 3152 shares @ $40.6903</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1834990/0001315098-26-000182-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001315098-26-000182:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Baszucki Gregory (RBLX) S: 5181 shares @ $40.333</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1834990/0001315098-26-000182-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001315098-26-000182:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Baszucki Gregory (RBLX) S: 3153 shares @ $40.6903</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1834990/0001315098-26-000182-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001315098-26-000182:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Baszucki Gregory (RBLX) S: 5180 shares @ $40.3332</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1834990/0001315098-26-000182-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001315098-26-000182:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:49 GMT</pubDate>
+    </item>
     <item>
       <title>Wong Andrea L (RBLX) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1490754/0001490754-26-000004-index.htm</link>

@@ -4,7 +4,115 @@
     <title>LuxAlgo Market Trackers — Insider transactions — AUGO</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:54:11 GMT</lastBuildDate>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) C: 100 shares @ $82.05</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000027:nd:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) C: 3900 shares @ $81.5538</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000027:nd:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) C: 3225 shares @ $80.4232</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000027:nd:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) S: 127500 shares @ $81.2</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000027:nd:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) P: 10 shares @ $79.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000027:nd:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) S: 1500 shares @ $7.65</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000027:d:9</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) C: 21675 shares @ $26.7386</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000027:d:8</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) P: 405273 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000027:d:7</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) S: 27286 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000027:d:6</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) S: 377987 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000027:d:5</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) P: 70153 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000027:d:4</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) S: 70153 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000027:d:3</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) S: 65 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000027:d:2</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) S: 1500 shares @ $10.33</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000027:d:12</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) P: 1500 shares @ $4.53</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000027:d:11</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) P: 1500 shares @ $7.55</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000027:d:10</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) S: 125 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000027:d:1</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) S: 1 shares @ $26.7369</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000027-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000027:d:0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:34 GMT</pubDate>
+    </item>
     <item>
       <title>Sousa Mauad Bruno (AUGO) C: 17118 shares @ $83.4283</title>
       <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000026-index.htm</link>

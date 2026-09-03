@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Congressional trades — MDT</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 18:38:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:34:37 GMT</lastBuildDate>
     <item>
       <title>Hon. Kevin Hern (house) sell: MDT — $15,001 - $50,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>

@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — UA</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 18:38:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:34:37 GMT</lastBuildDate>
     <item>
       <title>Sweeney Robert John (UA) A: 29880.48 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/2066263/0001336917-26-000139-index.htm</link>

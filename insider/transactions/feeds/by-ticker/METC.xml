@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — METC</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 18:38:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:34:37 GMT</lastBuildDate>
     <item>
       <title>Atkins Randall Whittaker (METC) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1693822/0001213900-26-095754-index.htm</link>

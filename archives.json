@@ -1,0 +1,2646 @@
+{
+  "generatedAt": "2026-09-03T03:04:20.398Z",
+  "repository": "LuxAlgo/market-trackers-data",
+  "datasets": {
+    "congress-trades": {
+      "years": {
+        "2012": {
+          "tag": "archive-senate-efd-2012-01-01-2026-08-27",
+          "asset": "snapshot-2012.json.gz",
+          "bytes": 739,
+          "updatedAt": "2026-08-27T14:10:28Z"
+        },
+        "2013": {
+          "tag": "archive-senate-efd-2012-01-01-2026-08-27",
+          "asset": "snapshot-2013.json.gz",
+          "bytes": 1674,
+          "updatedAt": "2026-08-27T14:10:30Z"
+        },
+        "2014": {
+          "tag": "archive-senate-efd-2012-01-01-2026-08-27",
+          "asset": "snapshot-2014.json.gz",
+          "bytes": 39685,
+          "updatedAt": "2026-08-27T14:10:32Z"
+        },
+        "2015": {
+          "tag": "archive-senate-efd-2012-01-01-2026-08-27",
+          "asset": "snapshot-2015.json.gz",
+          "bytes": 54766,
+          "updatedAt": "2026-08-27T14:10:33Z"
+        },
+        "2016": {
+          "tag": "archive-senate-efd-2012-01-01-2026-08-27",
+          "asset": "snapshot-2016.json.gz",
+          "bytes": 45412,
+          "updatedAt": "2026-08-27T14:10:34Z"
+        },
+        "2017": {
+          "tag": "archive-senate-efd-2012-01-01-2026-08-27",
+          "asset": "snapshot-2017.json.gz",
+          "bytes": 54944,
+          "updatedAt": "2026-08-27T14:10:36Z"
+        },
+        "2018": {
+          "tag": "archive-senate-efd-2012-01-01-2026-08-27",
+          "asset": "snapshot-2018.json.gz",
+          "bytes": 58218,
+          "updatedAt": "2026-08-27T14:10:37Z"
+        },
+        "2019": {
+          "tag": "archive-senate-efd-2012-01-01-2026-08-27",
+          "asset": "snapshot-2019.json.gz",
+          "bytes": 41774,
+          "updatedAt": "2026-08-27T14:10:38Z"
+        },
+        "2020": {
+          "tag": "archive-senate-efd-2012-01-01-2026-08-27",
+          "asset": "snapshot-2020.json.gz",
+          "bytes": 70503,
+          "updatedAt": "2026-08-27T14:10:40Z"
+        },
+        "2021": {
+          "tag": "archive-senate-efd-2012-01-01-2026-08-27",
+          "asset": "snapshot-2021.json.gz",
+          "bytes": 30197,
+          "updatedAt": "2026-08-27T14:10:41Z"
+        },
+        "2022": {
+          "tag": "archive-house-clerk-2008-01-01-2026-08-30",
+          "asset": "snapshot-2022.json.gz",
+          "bytes": 119873,
+          "updatedAt": "2026-08-30T18:29:39Z"
+        },
+        "2023": {
+          "tag": "archive-house-clerk-2008-01-01-2026-08-30",
+          "asset": "snapshot-2023.json.gz",
+          "bytes": 178482,
+          "updatedAt": "2026-08-30T18:29:41Z"
+        },
+        "2024": {
+          "tag": "archive-house-clerk-2008-01-01-2026-08-30",
+          "asset": "snapshot-2024.json.gz",
+          "bytes": 124401,
+          "updatedAt": "2026-08-30T18:29:42Z"
+        },
+        "2025": {
+          "tag": "archive-house-clerk-2008-01-01-2026-08-30",
+          "asset": "snapshot-2025.json.gz",
+          "bytes": 281641,
+          "updatedAt": "2026-08-30T18:29:43Z"
+        },
+        "2026": {
+          "tag": "archive-house-clerk-2008-01-01-2026-08-30",
+          "asset": "snapshot-2026.json.gz",
+          "bytes": 96624,
+          "updatedAt": "2026-08-30T18:29:45Z"
+        }
+      }
+    },
+    "insider-transactions": {
+      "years": {
+        "1980": {
+          "tag": "archive-edgar-2004-01-01-2005-12-31",
+          "asset": "snapshot-1980.json.gz",
+          "bytes": 494,
+          "updatedAt": "2026-09-03T02:49:29Z"
+        },
+        "1982": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-1982.json.gz",
+          "bytes": 488,
+          "updatedAt": "2026-08-31T02:36:31Z"
+        },
+        "1983": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-1983.json.gz",
+          "bytes": 495,
+          "updatedAt": "2026-08-31T02:36:31Z"
+        },
+        "1985": {
+          "tag": "archive-edgar-2004-01-01-2005-12-31",
+          "asset": "snapshot-1985.json.gz",
+          "bytes": 496,
+          "updatedAt": "2026-09-03T02:49:31Z"
+        },
+        "1986": {
+          "tag": "archive-edgar-2004-01-01-2026-08-31",
+          "asset": "snapshot-1986.json.gz",
+          "bytes": 959,
+          "updatedAt": "2026-08-31T05:53:18Z"
+        },
+        "1987": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-1987.json.gz",
+          "bytes": 979,
+          "updatedAt": "2026-08-31T02:36:33Z"
+        },
+        "1988": {
+          "tag": "archive-edgar-2004-01-01-2005-12-31",
+          "asset": "snapshot-1988.json.gz",
+          "bytes": 32888,
+          "updatedAt": "2026-09-03T02:49:34Z"
+        },
+        "1989": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-1989.json.gz",
+          "bytes": 724,
+          "updatedAt": "2026-08-31T02:36:34Z"
+        },
+        "1990": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-1990.json.gz",
+          "bytes": 1549,
+          "updatedAt": "2026-08-31T02:36:34Z"
+        },
+        "1991": {
+          "tag": "archive-edgar-2004-01-01-2005-12-31",
+          "asset": "snapshot-1991.json.gz",
+          "bytes": 1429,
+          "updatedAt": "2026-09-03T02:49:38Z"
+        },
+        "1992": {
+          "tag": "archive-edgar-2004-01-01-2005-12-31",
+          "asset": "snapshot-1992.json.gz",
+          "bytes": 1782,
+          "updatedAt": "2026-09-03T02:49:39Z"
+        },
+        "1993": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-1993.json.gz",
+          "bytes": 2995,
+          "updatedAt": "2026-08-31T02:36:37Z"
+        },
+        "1994": {
+          "tag": "archive-edgar-2004-01-01-2005-12-31",
+          "asset": "snapshot-1994.json.gz",
+          "bytes": 5967,
+          "updatedAt": "2026-09-03T02:49:41Z"
+        },
+        "1995": {
+          "tag": "archive-edgar-2004-01-01-2005-12-31",
+          "asset": "snapshot-1995.json.gz",
+          "bytes": 11361,
+          "updatedAt": "2026-09-03T02:49:42Z"
+        },
+        "1996": {
+          "tag": "archive-edgar-2004-01-01-2005-12-31",
+          "asset": "snapshot-1996.json.gz",
+          "bytes": 21979,
+          "updatedAt": "2026-09-03T02:49:43Z"
+        },
+        "1997": {
+          "tag": "archive-edgar-2004-01-01-2005-12-31",
+          "asset": "snapshot-1997.json.gz",
+          "bytes": 40928,
+          "updatedAt": "2026-09-03T02:49:44Z"
+        },
+        "1998": {
+          "tag": "archive-edgar-2004-01-01-2005-12-31",
+          "asset": "snapshot-1998.json.gz",
+          "bytes": 62669,
+          "updatedAt": "2026-09-03T02:49:45Z"
+        },
+        "1999": {
+          "tag": "archive-edgar-2004-01-01-2005-12-31",
+          "asset": "snapshot-1999.json.gz",
+          "bytes": 79929,
+          "updatedAt": "2026-09-03T02:49:46Z"
+        },
+        "2000": {
+          "tag": "archive-edgar-2004-01-01-2005-12-31",
+          "asset": "snapshot-2000.json.gz",
+          "bytes": 130901,
+          "updatedAt": "2026-09-03T02:49:47Z"
+        },
+        "2001": {
+          "tag": "archive-edgar-2004-01-01-2005-12-31",
+          "asset": "snapshot-2001.json.gz",
+          "bytes": 153103,
+          "updatedAt": "2026-09-03T02:49:48Z"
+        },
+        "2002": {
+          "tag": "archive-edgar-2004-01-01-2005-12-31",
+          "asset": "snapshot-2002.json.gz",
+          "bytes": 240722,
+          "updatedAt": "2026-09-03T02:49:50Z"
+        },
+        "2003": {
+          "tag": "archive-edgar-2004-01-01-2005-12-31",
+          "asset": "snapshot-2003.json.gz",
+          "bytes": 1687025,
+          "updatedAt": "2026-09-03T02:49:51Z"
+        },
+        "2004": {
+          "tag": "archive-edgar-2004-01-01-2005-12-31",
+          "asset": "snapshot-2004.json.gz",
+          "bytes": 30290671,
+          "updatedAt": "2026-09-03T02:49:53Z"
+        },
+        "2005": {
+          "tag": "archive-edgar-2004-01-01-2005-12-31",
+          "asset": "snapshot-2005.json.gz",
+          "bytes": 27365756,
+          "updatedAt": "2026-09-03T02:49:56Z"
+        },
+        "2006": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2006.json.gz",
+          "bytes": 28014783,
+          "updatedAt": "2026-08-31T02:36:47Z"
+        },
+        "2007": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2007.json.gz",
+          "bytes": 30624317,
+          "updatedAt": "2026-08-31T02:36:49Z"
+        },
+        "2008": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2008.json.gz",
+          "bytes": 25919494,
+          "updatedAt": "2026-08-31T02:36:51Z"
+        },
+        "2009": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2009.json.gz",
+          "bytes": 19470721,
+          "updatedAt": "2026-08-31T02:36:52Z"
+        },
+        "2010": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2010.json.gz",
+          "bytes": 21090511,
+          "updatedAt": "2026-08-31T02:36:53Z"
+        },
+        "2011": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2011.json.gz",
+          "bytes": 20285633,
+          "updatedAt": "2026-08-31T02:36:55Z"
+        },
+        "2012": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2012.json.gz",
+          "bytes": 20911781,
+          "updatedAt": "2026-08-31T02:36:56Z"
+        },
+        "2013": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2013.json.gz",
+          "bytes": 20746531,
+          "updatedAt": "2026-08-31T02:36:58Z"
+        },
+        "2014": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2014.json.gz",
+          "bytes": 20380642,
+          "updatedAt": "2026-08-31T02:36:59Z"
+        },
+        "2015": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2015.json.gz",
+          "bytes": 19665586,
+          "updatedAt": "2026-08-31T02:37:00Z"
+        },
+        "2016": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2016.json.gz",
+          "bytes": 18300174,
+          "updatedAt": "2026-08-31T02:37:02Z"
+        },
+        "2017": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2017.json.gz",
+          "bytes": 18252300,
+          "updatedAt": "2026-08-31T02:37:03Z"
+        },
+        "2018": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2018.json.gz",
+          "bytes": 18604474,
+          "updatedAt": "2026-08-31T02:37:05Z"
+        },
+        "2019": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2019.json.gz",
+          "bytes": 17808436,
+          "updatedAt": "2026-08-31T02:37:06Z"
+        },
+        "2020": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2020.json.gz",
+          "bytes": 18358758,
+          "updatedAt": "2026-08-31T02:37:08Z"
+        },
+        "2021": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2021.json.gz",
+          "bytes": 20883839,
+          "updatedAt": "2026-08-31T02:37:09Z"
+        },
+        "2022": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2022.json.gz",
+          "bytes": 17662551,
+          "updatedAt": "2026-08-31T02:37:11Z"
+        },
+        "2023": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2023.json.gz",
+          "bytes": 17237878,
+          "updatedAt": "2026-08-31T02:37:13Z"
+        },
+        "2024": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2024.json.gz",
+          "bytes": 17114990,
+          "updatedAt": "2026-08-31T02:37:14Z"
+        },
+        "2025": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2025.json.gz",
+          "bytes": 16378085,
+          "updatedAt": "2026-08-31T02:37:15Z"
+        },
+        "2026": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2026.json.gz",
+          "bytes": 6076084,
+          "updatedAt": "2026-08-31T02:37:16Z"
+        },
+        "2027": {
+          "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+          "asset": "snapshot-2027.json.gz",
+          "bytes": 1105,
+          "updatedAt": "2026-08-31T02:37:17Z"
+        }
+      }
+    },
+    "gov-contracts": {
+      "years": {
+        "1913": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-1913.json.gz",
+          "bytes": 468,
+          "updatedAt": "2026-08-28T02:06:12Z"
+        },
+        "1949": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1949.json.gz",
+          "bytes": 435,
+          "updatedAt": "2026-09-03T02:48:53Z"
+        },
+        "1950": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1950.json.gz",
+          "bytes": 403,
+          "updatedAt": "2026-09-03T02:48:53Z"
+        },
+        "1951": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1951.json.gz",
+          "bytes": 426,
+          "updatedAt": "2026-09-03T02:48:54Z"
+        },
+        "1952": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1952.json.gz",
+          "bytes": 456,
+          "updatedAt": "2026-09-03T02:48:55Z"
+        },
+        "1953": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1953.json.gz",
+          "bytes": 554,
+          "updatedAt": "2026-09-03T02:48:56Z"
+        },
+        "1954": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-1954.json.gz",
+          "bytes": 787,
+          "updatedAt": "2026-08-28T02:06:13Z"
+        },
+        "1955": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-1955.json.gz",
+          "bytes": 460,
+          "updatedAt": "2026-08-28T02:06:14Z"
+        },
+        "1957": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-1957.json.gz",
+          "bytes": 469,
+          "updatedAt": "2026-08-28T02:06:14Z"
+        },
+        "1960": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1960.json.gz",
+          "bytes": 451,
+          "updatedAt": "2026-09-03T02:48:57Z"
+        },
+        "1962": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1962.json.gz",
+          "bytes": 413,
+          "updatedAt": "2026-09-03T02:48:58Z"
+        },
+        "1964": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-1964.json.gz",
+          "bytes": 961,
+          "updatedAt": "2026-08-28T02:06:15Z"
+        },
+        "1965": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1965.json.gz",
+          "bytes": 419,
+          "updatedAt": "2026-09-03T02:48:58Z"
+        },
+        "1966": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1966.json.gz",
+          "bytes": 402,
+          "updatedAt": "2026-09-03T02:48:59Z"
+        },
+        "1967": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1967.json.gz",
+          "bytes": 387,
+          "updatedAt": "2026-09-03T02:49:00Z"
+        },
+        "1968": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1968.json.gz",
+          "bytes": 551,
+          "updatedAt": "2026-09-03T02:49:01Z"
+        },
+        "1969": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-1969.json.gz",
+          "bytes": 2176,
+          "updatedAt": "2026-08-28T02:06:22Z"
+        },
+        "1970": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-1970.json.gz",
+          "bytes": 3279,
+          "updatedAt": "2026-08-28T02:06:23Z"
+        },
+        "1971": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-1971.json.gz",
+          "bytes": 2015,
+          "updatedAt": "2026-08-28T02:06:24Z"
+        },
+        "1972": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-1972.json.gz",
+          "bytes": 1286,
+          "updatedAt": "2026-08-28T02:06:24Z"
+        },
+        "1973": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1973.json.gz",
+          "bytes": 394,
+          "updatedAt": "2026-09-03T02:49:02Z"
+        },
+        "1974": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-1974.json.gz",
+          "bytes": 2415,
+          "updatedAt": "2026-08-28T02:06:27Z"
+        },
+        "1975": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-1975.json.gz",
+          "bytes": 10490,
+          "updatedAt": "2026-08-28T02:06:28Z"
+        },
+        "1976": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-1976.json.gz",
+          "bytes": 8681,
+          "updatedAt": "2026-08-28T02:06:29Z"
+        },
+        "1977": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1977.json.gz",
+          "bytes": 480,
+          "updatedAt": "2026-09-03T02:49:02Z"
+        },
+        "1978": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1978.json.gz",
+          "bytes": 880,
+          "updatedAt": "2026-09-03T02:49:03Z"
+        },
+        "1979": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1979.json.gz",
+          "bytes": 2116,
+          "updatedAt": "2026-09-03T02:49:04Z"
+        },
+        "1980": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1980.json.gz",
+          "bytes": 673,
+          "updatedAt": "2026-09-03T02:49:05Z"
+        },
+        "1981": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1981.json.gz",
+          "bytes": 566,
+          "updatedAt": "2026-09-03T02:49:05Z"
+        },
+        "1982": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1982.json.gz",
+          "bytes": 581,
+          "updatedAt": "2026-09-03T02:49:06Z"
+        },
+        "1983": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1983.json.gz",
+          "bytes": 652,
+          "updatedAt": "2026-09-03T02:49:07Z"
+        },
+        "1984": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1984.json.gz",
+          "bytes": 804,
+          "updatedAt": "2026-09-03T02:49:08Z"
+        },
+        "1985": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1985.json.gz",
+          "bytes": 982,
+          "updatedAt": "2026-09-03T02:49:09Z"
+        },
+        "1986": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1986.json.gz",
+          "bytes": 858,
+          "updatedAt": "2026-09-03T02:49:09Z"
+        },
+        "1987": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1987.json.gz",
+          "bytes": 1741,
+          "updatedAt": "2026-09-03T02:49:10Z"
+        },
+        "1988": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1988.json.gz",
+          "bytes": 1262,
+          "updatedAt": "2026-09-03T02:49:11Z"
+        },
+        "1989": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1989.json.gz",
+          "bytes": 1358,
+          "updatedAt": "2026-09-03T02:49:12Z"
+        },
+        "1990": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1990.json.gz",
+          "bytes": 983,
+          "updatedAt": "2026-09-03T02:49:12Z"
+        },
+        "1991": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1991.json.gz",
+          "bytes": 1665,
+          "updatedAt": "2026-09-03T02:49:13Z"
+        },
+        "1992": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1992.json.gz",
+          "bytes": 3545,
+          "updatedAt": "2026-09-03T02:49:14Z"
+        },
+        "1993": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1993.json.gz",
+          "bytes": 3217,
+          "updatedAt": "2026-09-03T02:49:15Z"
+        },
+        "1994": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1994.json.gz",
+          "bytes": 3853,
+          "updatedAt": "2026-09-03T02:49:16Z"
+        },
+        "1995": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1995.json.gz",
+          "bytes": 3740,
+          "updatedAt": "2026-09-03T02:49:16Z"
+        },
+        "1996": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1996.json.gz",
+          "bytes": 35002,
+          "updatedAt": "2026-09-03T02:49:17Z"
+        },
+        "1997": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1997.json.gz",
+          "bytes": 59930,
+          "updatedAt": "2026-09-03T02:49:19Z"
+        },
+        "1998": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1998.json.gz",
+          "bytes": 72656,
+          "updatedAt": "2026-09-03T02:49:19Z"
+        },
+        "1999": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-1999.json.gz",
+          "bytes": 168211,
+          "updatedAt": "2026-09-03T02:49:20Z"
+        },
+        "2000": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-2000.json.gz",
+          "bytes": 341209,
+          "updatedAt": "2026-09-03T02:49:21Z"
+        },
+        "2001": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-contracts--snapshot-2001.json.gz",
+          "bytes": 302076,
+          "updatedAt": "2026-09-03T02:49:22Z"
+        },
+        "2002": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2002.json.gz",
+          "bytes": 155434,
+          "updatedAt": "2026-08-28T02:07:03Z"
+        },
+        "2003": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2003.json.gz",
+          "bytes": 112958,
+          "updatedAt": "2026-08-28T02:07:04Z"
+        },
+        "2004": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2004.json.gz",
+          "bytes": 82134,
+          "updatedAt": "2026-08-28T02:07:06Z"
+        },
+        "2005": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2005.json.gz",
+          "bytes": 91245,
+          "updatedAt": "2026-08-28T02:07:07Z"
+        },
+        "2006": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2006.json.gz",
+          "bytes": 128067,
+          "updatedAt": "2026-08-28T02:07:08Z"
+        },
+        "2007": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2007.json.gz",
+          "bytes": 128599,
+          "updatedAt": "2026-08-28T02:07:10Z"
+        },
+        "2008": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2008.json.gz",
+          "bytes": 126536,
+          "updatedAt": "2026-08-28T02:07:11Z"
+        },
+        "2009": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2009.json.gz",
+          "bytes": 126215,
+          "updatedAt": "2026-08-28T02:07:12Z"
+        },
+        "2010": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2010.json.gz",
+          "bytes": 141965,
+          "updatedAt": "2026-08-28T02:07:13Z"
+        },
+        "2011": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2011.json.gz",
+          "bytes": 152534,
+          "updatedAt": "2026-08-28T02:07:15Z"
+        },
+        "2012": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2012.json.gz",
+          "bytes": 154841,
+          "updatedAt": "2026-08-28T02:07:16Z"
+        },
+        "2013": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2013.json.gz",
+          "bytes": 165339,
+          "updatedAt": "2026-08-28T02:07:17Z"
+        },
+        "2014": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2014.json.gz",
+          "bytes": 184647,
+          "updatedAt": "2026-08-28T02:07:19Z"
+        },
+        "2015": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2015.json.gz",
+          "bytes": 178071,
+          "updatedAt": "2026-08-28T02:07:20Z"
+        },
+        "2016": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-27",
+          "asset": "snapshot-2016.json.gz",
+          "bytes": 264855,
+          "updatedAt": "2026-08-28T00:38:12Z"
+        },
+        "2017": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-27",
+          "asset": "snapshot-2017.json.gz",
+          "bytes": 286287,
+          "updatedAt": "2026-08-28T00:38:13Z"
+        },
+        "2018": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2018.json.gz",
+          "bytes": 183534,
+          "updatedAt": "2026-08-28T02:07:24Z"
+        },
+        "2019": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2019.json.gz",
+          "bytes": 263663,
+          "updatedAt": "2026-08-28T02:07:25Z"
+        },
+        "2020": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2020.json.gz",
+          "bytes": 348704,
+          "updatedAt": "2026-08-28T02:07:27Z"
+        },
+        "2021": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2021.json.gz",
+          "bytes": 914890,
+          "updatedAt": "2026-08-28T02:07:28Z"
+        },
+        "2022": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2022.json.gz",
+          "bytes": 1732954,
+          "updatedAt": "2026-08-28T02:07:30Z"
+        },
+        "2023": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2023.json.gz",
+          "bytes": 37766,
+          "updatedAt": "2026-08-28T02:07:31Z"
+        },
+        "2024": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2024.json.gz",
+          "bytes": 3535,
+          "updatedAt": "2026-08-28T02:07:32Z"
+        },
+        "2025": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2025.json.gz",
+          "bytes": 5255,
+          "updatedAt": "2026-08-28T02:07:34Z"
+        },
+        "2026": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2026.json.gz",
+          "bytes": 17264,
+          "updatedAt": "2026-08-28T02:07:35Z"
+        },
+        "2027": {
+          "tag": "archive-usaspending-2008-01-01-2026-08-28",
+          "asset": "snapshot-2027.json.gz",
+          "bytes": 993,
+          "updatedAt": "2026-08-28T02:06:02Z"
+        }
+      }
+    },
+    "gov-grants": {
+      "years": {
+        "1954": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1954.json.gz",
+          "bytes": 717,
+          "updatedAt": "2026-09-03T02:49:24Z"
+        },
+        "1955": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1955.json.gz",
+          "bytes": 460,
+          "updatedAt": "2026-09-03T02:49:24Z"
+        },
+        "1957": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1957.json.gz",
+          "bytes": 466,
+          "updatedAt": "2026-09-03T02:49:25Z"
+        },
+        "1964": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1964.json.gz",
+          "bytes": 440,
+          "updatedAt": "2026-09-03T02:49:26Z"
+        },
+        "1966": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1966.json.gz",
+          "bytes": 420,
+          "updatedAt": "2026-09-03T02:49:27Z"
+        },
+        "1970": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1970.json.gz",
+          "bytes": 758,
+          "updatedAt": "2026-09-03T02:49:28Z"
+        },
+        "1971": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1971.json.gz",
+          "bytes": 434,
+          "updatedAt": "2026-09-03T02:49:28Z"
+        },
+        "1972": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1972.json.gz",
+          "bytes": 647,
+          "updatedAt": "2026-09-03T02:49:29Z"
+        },
+        "1973": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1973.json.gz",
+          "bytes": 431,
+          "updatedAt": "2026-09-03T02:49:30Z"
+        },
+        "1974": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1974.json.gz",
+          "bytes": 1086,
+          "updatedAt": "2026-09-03T02:49:31Z"
+        },
+        "1975": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1975.json.gz",
+          "bytes": 5126,
+          "updatedAt": "2026-09-03T02:49:32Z"
+        },
+        "1976": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1976.json.gz",
+          "bytes": 5039,
+          "updatedAt": "2026-09-03T02:49:33Z"
+        },
+        "1977": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1977.json.gz",
+          "bytes": 7462,
+          "updatedAt": "2026-09-03T02:49:33Z"
+        },
+        "1978": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1978.json.gz",
+          "bytes": 9493,
+          "updatedAt": "2026-09-03T02:49:34Z"
+        },
+        "1979": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1979.json.gz",
+          "bytes": 7166,
+          "updatedAt": "2026-09-03T02:49:35Z"
+        },
+        "1980": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1980.json.gz",
+          "bytes": 7040,
+          "updatedAt": "2026-09-03T02:49:36Z"
+        },
+        "1981": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1981.json.gz",
+          "bytes": 6474,
+          "updatedAt": "2026-09-03T02:49:37Z"
+        },
+        "1982": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1982.json.gz",
+          "bytes": 6805,
+          "updatedAt": "2026-09-03T02:49:38Z"
+        },
+        "1983": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1983.json.gz",
+          "bytes": 10444,
+          "updatedAt": "2026-09-03T02:49:38Z"
+        },
+        "1984": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1984.json.gz",
+          "bytes": 11729,
+          "updatedAt": "2026-09-03T02:49:39Z"
+        },
+        "1985": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1985.json.gz",
+          "bytes": 12394,
+          "updatedAt": "2026-09-03T02:49:40Z"
+        },
+        "1986": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1986.json.gz",
+          "bytes": 13572,
+          "updatedAt": "2026-09-03T02:49:41Z"
+        },
+        "1987": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1987.json.gz",
+          "bytes": 14087,
+          "updatedAt": "2026-09-03T02:49:42Z"
+        },
+        "1988": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1988.json.gz",
+          "bytes": 18123,
+          "updatedAt": "2026-09-03T02:49:43Z"
+        },
+        "1989": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1989.json.gz",
+          "bytes": 15571,
+          "updatedAt": "2026-09-03T02:49:43Z"
+        },
+        "1990": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1990.json.gz",
+          "bytes": 20896,
+          "updatedAt": "2026-09-03T02:49:44Z"
+        },
+        "1991": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1991.json.gz",
+          "bytes": 30463,
+          "updatedAt": "2026-09-03T02:49:45Z"
+        },
+        "1992": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1992.json.gz",
+          "bytes": 26299,
+          "updatedAt": "2026-09-03T02:49:46Z"
+        },
+        "1993": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1993.json.gz",
+          "bytes": 23952,
+          "updatedAt": "2026-09-03T02:49:47Z"
+        },
+        "1994": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1994.json.gz",
+          "bytes": 30155,
+          "updatedAt": "2026-09-03T02:49:47Z"
+        },
+        "1995": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1995.json.gz",
+          "bytes": 31147,
+          "updatedAt": "2026-09-03T02:49:48Z"
+        },
+        "1996": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1996.json.gz",
+          "bytes": 39251,
+          "updatedAt": "2026-09-03T02:49:49Z"
+        },
+        "1997": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1997.json.gz",
+          "bytes": 59472,
+          "updatedAt": "2026-09-03T02:49:50Z"
+        },
+        "1998": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1998.json.gz",
+          "bytes": 54419,
+          "updatedAt": "2026-09-03T02:49:51Z"
+        },
+        "1999": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-1999.json.gz",
+          "bytes": 79365,
+          "updatedAt": "2026-09-03T02:49:52Z"
+        },
+        "2000": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-2000.json.gz",
+          "bytes": 99372,
+          "updatedAt": "2026-09-03T02:49:53Z"
+        },
+        "2001": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-03",
+          "asset": "gov-grants--snapshot-2001.json.gz",
+          "bytes": 42594,
+          "updatedAt": "2026-09-03T02:49:54Z"
+        }
+      }
+    },
+    "lobbying-filings": {
+      "years": {
+        "1999": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-1999.json.gz",
+          "bytes": 2069704,
+          "updatedAt": "2026-09-03T02:48:46Z"
+        },
+        "2000": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2000.json.gz",
+          "bytes": 2090133,
+          "updatedAt": "2026-09-03T02:48:48Z"
+        },
+        "2001": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2001.json.gz",
+          "bytes": 2373628,
+          "updatedAt": "2026-09-03T02:48:49Z"
+        },
+        "2002": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2002.json.gz",
+          "bytes": 2446607,
+          "updatedAt": "2026-09-03T02:48:50Z"
+        },
+        "2003": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2003.json.gz",
+          "bytes": 2807686,
+          "updatedAt": "2026-09-03T02:48:52Z"
+        },
+        "2004": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2004.json.gz",
+          "bytes": 3017753,
+          "updatedAt": "2026-09-03T02:48:53Z"
+        },
+        "2005": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2005.json.gz",
+          "bytes": 3295948,
+          "updatedAt": "2026-09-03T02:48:55Z"
+        },
+        "2006": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2006.json.gz",
+          "bytes": 3397542,
+          "updatedAt": "2026-09-03T02:48:56Z"
+        },
+        "2007": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2007.json.gz",
+          "bytes": 3912680,
+          "updatedAt": "2026-09-03T02:48:57Z"
+        },
+        "2008": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2008.json.gz",
+          "bytes": 7345483,
+          "updatedAt": "2026-09-03T02:48:59Z"
+        },
+        "2009": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2009.json.gz",
+          "bytes": 7255342,
+          "updatedAt": "2026-09-03T02:49:01Z"
+        },
+        "2010": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2010.json.gz",
+          "bytes": 7043046,
+          "updatedAt": "2026-09-03T02:49:03Z"
+        },
+        "2011": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2011.json.gz",
+          "bytes": 6372491,
+          "updatedAt": "2026-09-03T02:49:04Z"
+        },
+        "2012": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2012.json.gz",
+          "bytes": 6099216,
+          "updatedAt": "2026-09-03T02:49:06Z"
+        },
+        "2013": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2013.json.gz",
+          "bytes": 5749378,
+          "updatedAt": "2026-09-03T02:49:07Z"
+        },
+        "2014": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2014.json.gz",
+          "bytes": 5851144,
+          "updatedAt": "2026-09-03T02:49:09Z"
+        },
+        "2015": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2015.json.gz",
+          "bytes": 5729026,
+          "updatedAt": "2026-09-03T02:49:10Z"
+        },
+        "2016": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2016.json.gz",
+          "bytes": 5712928,
+          "updatedAt": "2026-09-03T02:49:12Z"
+        },
+        "2017": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2017.json.gz",
+          "bytes": 5861860,
+          "updatedAt": "2026-09-03T02:49:14Z"
+        },
+        "2018": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2018.json.gz",
+          "bytes": 6171959,
+          "updatedAt": "2026-09-03T02:49:15Z"
+        },
+        "2019": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2019.json.gz",
+          "bytes": 6169636,
+          "updatedAt": "2026-09-03T02:49:17Z"
+        },
+        "2020": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2020.json.gz",
+          "bytes": 6658092,
+          "updatedAt": "2026-09-03T02:49:18Z"
+        },
+        "2021": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2021.json.gz",
+          "bytes": 6905007,
+          "updatedAt": "2026-09-03T02:49:20Z"
+        },
+        "2022": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2022.json.gz",
+          "bytes": 5192087,
+          "updatedAt": "2026-09-03T02:49:21Z"
+        },
+        "2026": {
+          "tag": "archive-lda-1999-01-01-2026-09-02",
+          "asset": "snapshot-2026.json.gz",
+          "bytes": 4168283,
+          "updatedAt": "2026-09-03T02:49:22Z"
+        }
+      }
+    },
+    "short-volume": {
+      "years": {
+        "2017": {
+          "tag": "archive-finra-2009-01-01-2026-08-26",
+          "asset": "snapshot-2017.json.gz",
+          "bytes": 175447,
+          "updatedAt": "2026-08-26T22:04:00Z"
+        },
+        "2018": {
+          "tag": "archive-finra-2009-01-01-2026-08-26",
+          "asset": "snapshot-2018.json.gz",
+          "bytes": 17890776,
+          "updatedAt": "2026-08-26T22:04:02Z"
+        },
+        "2019": {
+          "tag": "archive-finra-2009-01-01-2026-08-26",
+          "asset": "snapshot-2019.json.gz",
+          "bytes": 43946503,
+          "updatedAt": "2026-08-26T22:04:04Z"
+        },
+        "2020": {
+          "tag": "archive-finra-2009-01-01-2026-08-26",
+          "asset": "snapshot-2020.json.gz",
+          "bytes": 48531315,
+          "updatedAt": "2026-08-26T22:04:06Z"
+        },
+        "2021": {
+          "tag": "archive-finra-2009-01-01-2026-08-26",
+          "asset": "snapshot-2021.json.gz",
+          "bytes": 55344396,
+          "updatedAt": "2026-08-26T22:04:09Z"
+        },
+        "2022": {
+          "tag": "archive-finra-2009-01-01-2026-08-26",
+          "asset": "snapshot-2022.json.gz",
+          "bytes": 56633835,
+          "updatedAt": "2026-08-26T22:04:12Z"
+        },
+        "2023": {
+          "tag": "archive-finra-2009-01-01-2026-08-26",
+          "asset": "snapshot-2023.json.gz",
+          "bytes": 55349684,
+          "updatedAt": "2026-08-26T22:04:15Z"
+        },
+        "2024": {
+          "tag": "archive-finra-2009-01-01-2026-08-26",
+          "asset": "snapshot-2024.json.gz",
+          "bytes": 57063618,
+          "updatedAt": "2026-08-26T22:04:18Z"
+        },
+        "2025": {
+          "tag": "archive-finra-2009-01-01-2026-08-26",
+          "asset": "snapshot-2025.json.gz",
+          "bytes": 60338854,
+          "updatedAt": "2026-08-26T22:04:21Z"
+        },
+        "2026": {
+          "tag": "archive-finra-2009-01-01-2026-08-26",
+          "asset": "snapshot-2026.json.gz",
+          "bytes": 51183423,
+          "updatedAt": "2026-08-26T22:04:23Z"
+        }
+      }
+    },
+    "clinical-trials": {
+      "years": {
+        "2005": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2005.json.gz",
+          "bytes": 130859,
+          "updatedAt": "2026-08-26T21:52:05Z"
+        },
+        "2006": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2006.json.gz",
+          "bytes": 152209,
+          "updatedAt": "2026-08-26T21:52:06Z"
+        },
+        "2007": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2007.json.gz",
+          "bytes": 273284,
+          "updatedAt": "2026-08-26T21:52:07Z"
+        },
+        "2008": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2008.json.gz",
+          "bytes": 452829,
+          "updatedAt": "2026-08-26T21:52:08Z"
+        },
+        "2009": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2009.json.gz",
+          "bytes": 512598,
+          "updatedAt": "2026-08-26T21:52:08Z"
+        },
+        "2010": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2010.json.gz",
+          "bytes": 615922,
+          "updatedAt": "2026-08-26T21:52:09Z"
+        },
+        "2011": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2011.json.gz",
+          "bytes": 858706,
+          "updatedAt": "2026-08-26T21:52:10Z"
+        },
+        "2012": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2012.json.gz",
+          "bytes": 1131527,
+          "updatedAt": "2026-08-26T21:52:11Z"
+        },
+        "2013": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2013.json.gz",
+          "bytes": 1384188,
+          "updatedAt": "2026-08-26T21:52:12Z"
+        },
+        "2014": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2014.json.gz",
+          "bytes": 1534449,
+          "updatedAt": "2026-08-26T21:52:13Z"
+        },
+        "2015": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2015.json.gz",
+          "bytes": 1813991,
+          "updatedAt": "2026-08-26T21:52:14Z"
+        },
+        "2016": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2016.json.gz",
+          "bytes": 2133596,
+          "updatedAt": "2026-08-26T21:52:15Z"
+        },
+        "2017": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2017.json.gz",
+          "bytes": 2708860,
+          "updatedAt": "2026-08-26T21:52:16Z"
+        },
+        "2018": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2018.json.gz",
+          "bytes": 2604138,
+          "updatedAt": "2026-08-26T21:52:17Z"
+        },
+        "2019": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2019.json.gz",
+          "bytes": 2985364,
+          "updatedAt": "2026-08-26T21:52:18Z"
+        },
+        "2020": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2020.json.gz",
+          "bytes": 3231914,
+          "updatedAt": "2026-08-26T21:52:19Z"
+        },
+        "2021": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2021.json.gz",
+          "bytes": 3474857,
+          "updatedAt": "2026-08-26T21:52:20Z"
+        },
+        "2022": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2022.json.gz",
+          "bytes": 3614429,
+          "updatedAt": "2026-08-26T21:52:21Z"
+        },
+        "2023": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2023.json.gz",
+          "bytes": 4493940,
+          "updatedAt": "2026-08-26T21:52:22Z"
+        },
+        "2024": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2024.json.gz",
+          "bytes": 5558216,
+          "updatedAt": "2026-08-26T21:52:23Z"
+        },
+        "2025": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2025.json.gz",
+          "bytes": 7385868,
+          "updatedAt": "2026-08-26T21:52:24Z"
+        },
+        "2026": {
+          "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+          "asset": "snapshot-2026.json.gz",
+          "bytes": 10084023,
+          "updatedAt": "2026-08-26T21:52:26Z"
+        }
+      }
+    },
+    "fda-approvals": {
+      "years": {
+        "1990": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-1990.json.gz",
+          "bytes": 61466,
+          "updatedAt": "2026-08-26T21:51:41Z"
+        },
+        "1991": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-1991.json.gz",
+          "bytes": 79566,
+          "updatedAt": "2026-08-26T21:51:42Z"
+        },
+        "1992": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-1992.json.gz",
+          "bytes": 78465,
+          "updatedAt": "2026-08-26T21:51:43Z"
+        },
+        "1993": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-1993.json.gz",
+          "bytes": 75960,
+          "updatedAt": "2026-08-26T21:51:43Z"
+        },
+        "1994": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-1994.json.gz",
+          "bytes": 79881,
+          "updatedAt": "2026-08-26T21:51:44Z"
+        },
+        "1995": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-1995.json.gz",
+          "bytes": 81289,
+          "updatedAt": "2026-08-26T21:51:45Z"
+        },
+        "1996": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-1996.json.gz",
+          "bytes": 99813,
+          "updatedAt": "2026-08-26T21:51:46Z"
+        },
+        "1997": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-1997.json.gz",
+          "bytes": 95469,
+          "updatedAt": "2026-08-26T21:51:47Z"
+        },
+        "1998": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-1998.json.gz",
+          "bytes": 109939,
+          "updatedAt": "2026-08-26T21:51:48Z"
+        },
+        "1999": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-1999.json.gz",
+          "bytes": 103340,
+          "updatedAt": "2026-08-26T21:51:49Z"
+        },
+        "2000": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2000.json.gz",
+          "bytes": 110065,
+          "updatedAt": "2026-08-26T21:51:50Z"
+        },
+        "2001": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2001.json.gz",
+          "bytes": 112189,
+          "updatedAt": "2026-08-26T21:51:50Z"
+        },
+        "2002": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2002.json.gz",
+          "bytes": 123110,
+          "updatedAt": "2026-08-26T21:51:51Z"
+        },
+        "2003": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2003.json.gz",
+          "bytes": 50760,
+          "updatedAt": "2026-08-26T21:51:52Z"
+        },
+        "2004": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2004.json.gz",
+          "bytes": 56806,
+          "updatedAt": "2026-08-26T21:51:53Z"
+        },
+        "2005": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2005.json.gz",
+          "bytes": 51486,
+          "updatedAt": "2026-08-26T21:51:54Z"
+        },
+        "2006": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2006.json.gz",
+          "bytes": 53347,
+          "updatedAt": "2026-08-26T21:51:55Z"
+        },
+        "2007": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2007.json.gz",
+          "bytes": 71810,
+          "updatedAt": "2026-08-26T21:51:56Z"
+        },
+        "2008": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2008.json.gz",
+          "bytes": 70370,
+          "updatedAt": "2026-08-26T21:51:57Z"
+        },
+        "2009": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2009.json.gz",
+          "bytes": 71570,
+          "updatedAt": "2026-08-26T21:51:57Z"
+        },
+        "2010": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2010.json.gz",
+          "bytes": 73883,
+          "updatedAt": "2026-08-26T21:51:58Z"
+        },
+        "2011": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2011.json.gz",
+          "bytes": 85622,
+          "updatedAt": "2026-08-26T21:51:59Z"
+        },
+        "2012": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2012.json.gz",
+          "bytes": 87752,
+          "updatedAt": "2026-08-26T21:52:00Z"
+        },
+        "2013": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2013.json.gz",
+          "bytes": 110100,
+          "updatedAt": "2026-08-26T21:52:01Z"
+        },
+        "2014": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2014.json.gz",
+          "bytes": 121792,
+          "updatedAt": "2026-08-26T21:52:02Z"
+        },
+        "2015": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2015.json.gz",
+          "bytes": 145827,
+          "updatedAt": "2026-08-26T21:52:03Z"
+        },
+        "2016": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2016.json.gz",
+          "bytes": 129046,
+          "updatedAt": "2026-08-26T21:52:04Z"
+        },
+        "2017": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2017.json.gz",
+          "bytes": 106322,
+          "updatedAt": "2026-08-26T21:52:04Z"
+        },
+        "2018": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2018.json.gz",
+          "bytes": 100607,
+          "updatedAt": "2026-08-26T21:52:05Z"
+        },
+        "2019": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2019.json.gz",
+          "bytes": 134356,
+          "updatedAt": "2026-08-26T21:52:06Z"
+        },
+        "2020": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2020.json.gz",
+          "bytes": 135988,
+          "updatedAt": "2026-08-26T21:52:07Z"
+        },
+        "2021": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2021.json.gz",
+          "bytes": 121598,
+          "updatedAt": "2026-08-26T21:52:08Z"
+        },
+        "2022": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2022.json.gz",
+          "bytes": 109919,
+          "updatedAt": "2026-08-26T21:52:08Z"
+        },
+        "2023": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2023.json.gz",
+          "bytes": 147274,
+          "updatedAt": "2026-08-26T21:52:09Z"
+        },
+        "2024": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2024.json.gz",
+          "bytes": 160850,
+          "updatedAt": "2026-08-26T21:52:10Z"
+        },
+        "2025": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2025.json.gz",
+          "bytes": 141173,
+          "updatedAt": "2026-08-26T21:52:11Z"
+        },
+        "2026": {
+          "tag": "archive-openfda-1990-01-01-2026-08-26",
+          "asset": "snapshot-2026.json.gz",
+          "bytes": 85903,
+          "updatedAt": "2026-08-26T21:52:12Z"
+        }
+      }
+    },
+    "cot-reports": {
+      "years": {
+        "1986": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-1986.json.gz",
+          "bytes": 49792,
+          "updatedAt": "2026-08-26T21:51:37Z"
+        },
+        "1987": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-1987.json.gz",
+          "bytes": 52863,
+          "updatedAt": "2026-08-26T21:51:38Z"
+        },
+        "1988": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-1988.json.gz",
+          "bytes": 49094,
+          "updatedAt": "2026-08-26T21:51:39Z"
+        },
+        "1989": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-1989.json.gz",
+          "bytes": 59743,
+          "updatedAt": "2026-08-26T21:51:40Z"
+        },
+        "1990": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-1990.json.gz",
+          "bytes": 61295,
+          "updatedAt": "2026-08-26T21:51:41Z"
+        },
+        "1991": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-1991.json.gz",
+          "bytes": 66212,
+          "updatedAt": "2026-08-26T21:51:41Z"
+        },
+        "1992": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-1992.json.gz",
+          "bytes": 97968,
+          "updatedAt": "2026-08-26T21:51:42Z"
+        },
+        "1993": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-1993.json.gz",
+          "bytes": 166018,
+          "updatedAt": "2026-08-26T21:51:43Z"
+        },
+        "1994": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-1994.json.gz",
+          "bytes": 172232,
+          "updatedAt": "2026-08-26T21:51:44Z"
+        },
+        "1995": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-1995.json.gz",
+          "bytes": 174920,
+          "updatedAt": "2026-08-26T21:51:45Z"
+        },
+        "1996": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-1996.json.gz",
+          "bytes": 198589,
+          "updatedAt": "2026-08-26T21:51:46Z"
+        },
+        "1997": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-1997.json.gz",
+          "bytes": 204031,
+          "updatedAt": "2026-08-26T21:51:47Z"
+        },
+        "1998": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-1998.json.gz",
+          "bytes": 212481,
+          "updatedAt": "2026-08-26T21:51:47Z"
+        },
+        "1999": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-1999.json.gz",
+          "bytes": 210155,
+          "updatedAt": "2026-08-26T21:51:48Z"
+        },
+        "2000": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2000.json.gz",
+          "bytes": 149475,
+          "updatedAt": "2026-08-26T21:51:49Z"
+        },
+        "2001": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2001.json.gz",
+          "bytes": 115059,
+          "updatedAt": "2026-08-26T21:51:50Z"
+        },
+        "2002": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2002.json.gz",
+          "bytes": 130263,
+          "updatedAt": "2026-08-26T21:51:51Z"
+        },
+        "2003": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2003.json.gz",
+          "bytes": 165745,
+          "updatedAt": "2026-08-26T21:51:51Z"
+        },
+        "2004": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2004.json.gz",
+          "bytes": 183483,
+          "updatedAt": "2026-08-26T21:51:52Z"
+        },
+        "2005": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2005.json.gz",
+          "bytes": 207699,
+          "updatedAt": "2026-08-26T21:51:53Z"
+        },
+        "2006": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2006.json.gz",
+          "bytes": 257160,
+          "updatedAt": "2026-08-26T21:51:54Z"
+        },
+        "2007": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2007.json.gz",
+          "bytes": 284940,
+          "updatedAt": "2026-08-26T21:51:55Z"
+        },
+        "2008": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2008.json.gz",
+          "bytes": 292978,
+          "updatedAt": "2026-08-26T21:51:56Z"
+        },
+        "2009": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2009.json.gz",
+          "bytes": 336028,
+          "updatedAt": "2026-08-26T21:51:57Z"
+        },
+        "2010": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2010.json.gz",
+          "bytes": 367713,
+          "updatedAt": "2026-08-26T21:51:57Z"
+        },
+        "2011": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2011.json.gz",
+          "bytes": 373295,
+          "updatedAt": "2026-08-26T21:51:58Z"
+        },
+        "2012": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2012.json.gz",
+          "bytes": 400456,
+          "updatedAt": "2026-08-26T21:51:59Z"
+        },
+        "2013": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2013.json.gz",
+          "bytes": 518682,
+          "updatedAt": "2026-08-26T21:52:00Z"
+        },
+        "2014": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2014.json.gz",
+          "bytes": 609339,
+          "updatedAt": "2026-08-26T21:52:01Z"
+        },
+        "2015": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2015.json.gz",
+          "bytes": 589016,
+          "updatedAt": "2026-08-26T21:52:02Z"
+        },
+        "2016": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2016.json.gz",
+          "bytes": 629104,
+          "updatedAt": "2026-08-26T21:52:03Z"
+        },
+        "2017": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2017.json.gz",
+          "bytes": 628524,
+          "updatedAt": "2026-08-26T21:52:04Z"
+        },
+        "2018": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2018.json.gz",
+          "bytes": 693597,
+          "updatedAt": "2026-08-26T21:52:05Z"
+        },
+        "2019": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2019.json.gz",
+          "bytes": 693212,
+          "updatedAt": "2026-08-26T21:52:06Z"
+        },
+        "2020": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2020.json.gz",
+          "bytes": 673297,
+          "updatedAt": "2026-08-26T21:52:06Z"
+        },
+        "2021": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2021.json.gz",
+          "bytes": 683030,
+          "updatedAt": "2026-08-26T21:52:07Z"
+        },
+        "2022": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2022.json.gz",
+          "bytes": 714661,
+          "updatedAt": "2026-08-26T21:52:08Z"
+        },
+        "2023": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2023.json.gz",
+          "bytes": 766597,
+          "updatedAt": "2026-08-26T21:52:09Z"
+        },
+        "2024": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2024.json.gz",
+          "bytes": 833705,
+          "updatedAt": "2026-08-26T21:52:10Z"
+        },
+        "2025": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2025.json.gz",
+          "bytes": 858396,
+          "updatedAt": "2026-08-26T21:52:11Z"
+        },
+        "2026": {
+          "tag": "archive-cftc-1986-01-06-2026-08-26",
+          "asset": "snapshot-2026.json.gz",
+          "bytes": 573375,
+          "updatedAt": "2026-08-26T21:52:12Z"
+        }
+      }
+    },
+    "wiki-pageviews": {
+      "years": {
+        "2015": {
+          "tag": "archive-wikimedia-2015-07-01-2026-08-26",
+          "asset": "snapshot-2015.json.gz",
+          "bytes": 128058,
+          "updatedAt": "2026-08-26T21:51:33Z"
+        },
+        "2016": {
+          "tag": "archive-wikimedia-2015-07-01-2026-08-26",
+          "asset": "snapshot-2016.json.gz",
+          "bytes": 257085,
+          "updatedAt": "2026-08-26T21:51:34Z"
+        },
+        "2017": {
+          "tag": "archive-wikimedia-2015-07-01-2026-08-26",
+          "asset": "snapshot-2017.json.gz",
+          "bytes": 254474,
+          "updatedAt": "2026-08-26T21:51:35Z"
+        },
+        "2018": {
+          "tag": "archive-wikimedia-2015-07-01-2026-08-26",
+          "asset": "snapshot-2018.json.gz",
+          "bytes": 254439,
+          "updatedAt": "2026-08-26T21:51:36Z"
+        },
+        "2019": {
+          "tag": "archive-wikimedia-2015-07-01-2026-08-26",
+          "asset": "snapshot-2019.json.gz",
+          "bytes": 264084,
+          "updatedAt": "2026-08-26T21:51:36Z"
+        },
+        "2020": {
+          "tag": "archive-wikimedia-2015-07-01-2026-08-26",
+          "asset": "snapshot-2020.json.gz",
+          "bytes": 266461,
+          "updatedAt": "2026-08-26T21:51:37Z"
+        },
+        "2021": {
+          "tag": "archive-wikimedia-2015-07-01-2026-08-26",
+          "asset": "snapshot-2021.json.gz",
+          "bytes": 266792,
+          "updatedAt": "2026-08-26T21:51:38Z"
+        },
+        "2022": {
+          "tag": "archive-wikimedia-2015-07-01-2026-08-26",
+          "asset": "snapshot-2022.json.gz",
+          "bytes": 276734,
+          "updatedAt": "2026-08-26T21:51:39Z"
+        },
+        "2023": {
+          "tag": "archive-wikimedia-2015-07-01-2026-08-26",
+          "asset": "snapshot-2023.json.gz",
+          "bytes": 277469,
+          "updatedAt": "2026-08-26T21:51:39Z"
+        },
+        "2024": {
+          "tag": "archive-wikimedia-2015-07-01-2026-08-26",
+          "asset": "snapshot-2024.json.gz",
+          "bytes": 273274,
+          "updatedAt": "2026-08-26T21:51:40Z"
+        },
+        "2025": {
+          "tag": "archive-wikimedia-2015-07-01-2026-08-26",
+          "asset": "snapshot-2025.json.gz",
+          "bytes": 269023,
+          "updatedAt": "2026-08-26T21:51:41Z"
+        },
+        "2026": {
+          "tag": "archive-wikimedia-2015-07-01-2026-08-26",
+          "asset": "snapshot-2026.json.gz",
+          "bytes": 175535,
+          "updatedAt": "2026-08-26T21:51:41Z"
+        }
+      }
+    },
+    "bills": {
+      "years": {
+        "2013": {
+          "tag": "archive-govinfo-2013-01-01-2026-08-27",
+          "asset": "snapshot-2013.json.gz",
+          "bytes": 448567,
+          "updatedAt": "2026-08-27T14:30:05Z"
+        },
+        "2014": {
+          "tag": "archive-govinfo-2013-01-01-2026-08-27",
+          "asset": "snapshot-2014.json.gz",
+          "bytes": 367994,
+          "updatedAt": "2026-08-27T14:30:07Z"
+        },
+        "2015": {
+          "tag": "archive-govinfo-2013-01-01-2026-08-27",
+          "asset": "snapshot-2015.json.gz",
+          "bytes": 535616,
+          "updatedAt": "2026-08-27T14:30:08Z"
+        },
+        "2016": {
+          "tag": "archive-govinfo-2013-01-01-2026-08-27",
+          "asset": "snapshot-2016.json.gz",
+          "bytes": 384200,
+          "updatedAt": "2026-08-27T14:30:10Z"
+        },
+        "2017": {
+          "tag": "archive-govinfo-2013-01-01-2026-08-27",
+          "asset": "snapshot-2017.json.gz",
+          "bytes": 528650,
+          "updatedAt": "2026-08-27T14:30:11Z"
+        },
+        "2018": {
+          "tag": "archive-govinfo-2013-01-01-2026-08-27",
+          "asset": "snapshot-2018.json.gz",
+          "bytes": 488167,
+          "updatedAt": "2026-08-27T14:30:13Z"
+        },
+        "2019": {
+          "tag": "archive-govinfo-2013-01-01-2026-08-27",
+          "asset": "snapshot-2019.json.gz",
+          "bytes": 655448,
+          "updatedAt": "2026-08-27T14:30:14Z"
+        },
+        "2020": {
+          "tag": "archive-govinfo-2013-01-01-2026-08-27",
+          "asset": "snapshot-2020.json.gz",
+          "bytes": 534326,
+          "updatedAt": "2026-08-27T14:30:15Z"
+        },
+        "2021": {
+          "tag": "archive-govinfo-2013-01-01-2026-08-27",
+          "asset": "snapshot-2021.json.gz",
+          "bytes": 738423,
+          "updatedAt": "2026-08-27T14:30:17Z"
+        },
+        "2022": {
+          "tag": "archive-govinfo-2013-01-01-2026-08-27",
+          "asset": "snapshot-2022.json.gz",
+          "bytes": 590627,
+          "updatedAt": "2026-08-27T14:30:18Z"
+        },
+        "2023": {
+          "tag": "archive-govinfo-2013-01-01-2026-08-27",
+          "asset": "snapshot-2023.json.gz",
+          "bytes": 741084,
+          "updatedAt": "2026-08-27T14:30:20Z"
+        },
+        "2024": {
+          "tag": "archive-govinfo-2013-01-01-2026-08-27",
+          "asset": "snapshot-2024.json.gz",
+          "bytes": 632521,
+          "updatedAt": "2026-08-27T14:30:21Z"
+        },
+        "2025": {
+          "tag": "archive-govinfo-2013-01-01-2026-08-27",
+          "asset": "snapshot-2025.json.gz",
+          "bytes": 794238,
+          "updatedAt": "2026-08-27T14:30:23Z"
+        },
+        "2026": {
+          "tag": "archive-govinfo-2013-01-01-2026-08-27",
+          "asset": "snapshot-2026.json.gz",
+          "bytes": 530352,
+          "updatedAt": "2026-08-27T14:30:24Z"
+        }
+      }
+    },
+    "congress-hearings": {
+      "years": {
+        "1933": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-1933.json.gz",
+          "bytes": 749,
+          "updatedAt": "2026-08-27T21:52:23Z"
+        },
+        "1967": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-1967.json.gz",
+          "bytes": 818,
+          "updatedAt": "2026-08-27T21:52:24Z"
+        },
+        "1970": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-1970.json.gz",
+          "bytes": 690,
+          "updatedAt": "2026-08-27T21:52:25Z"
+        },
+        "1992": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-1992.json.gz",
+          "bytes": 872,
+          "updatedAt": "2026-08-27T21:52:25Z"
+        },
+        "1995": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-1995.json.gz",
+          "bytes": 17007,
+          "updatedAt": "2026-08-27T21:52:27Z"
+        },
+        "1996": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-1996.json.gz",
+          "bytes": 10225,
+          "updatedAt": "2026-08-27T21:52:28Z"
+        },
+        "1997": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-1997.json.gz",
+          "bytes": 25867,
+          "updatedAt": "2026-08-27T21:52:30Z"
+        },
+        "1998": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-1998.json.gz",
+          "bytes": 73887,
+          "updatedAt": "2026-08-27T21:52:31Z"
+        },
+        "1999": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-1999.json.gz",
+          "bytes": 154158,
+          "updatedAt": "2026-08-27T21:52:32Z"
+        },
+        "2000": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2000.json.gz",
+          "bytes": 151344,
+          "updatedAt": "2026-08-27T21:52:33Z"
+        },
+        "2001": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2001.json.gz",
+          "bytes": 211223,
+          "updatedAt": "2026-08-27T21:52:34Z"
+        },
+        "2002": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2002.json.gz",
+          "bytes": 211001,
+          "updatedAt": "2026-08-27T21:52:34Z"
+        },
+        "2003": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2003.json.gz",
+          "bytes": 250671,
+          "updatedAt": "2026-08-27T21:52:35Z"
+        },
+        "2004": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2004.json.gz",
+          "bytes": 201272,
+          "updatedAt": "2026-08-27T21:52:36Z"
+        },
+        "2005": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2005.json.gz",
+          "bytes": 271432,
+          "updatedAt": "2026-08-27T21:52:37Z"
+        },
+        "2006": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2006.json.gz",
+          "bytes": 277997,
+          "updatedAt": "2026-08-27T21:52:38Z"
+        },
+        "2007": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2007.json.gz",
+          "bytes": 471145,
+          "updatedAt": "2026-08-27T21:52:39Z"
+        },
+        "2008": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2008.json.gz",
+          "bytes": 341419,
+          "updatedAt": "2026-08-27T21:52:40Z"
+        },
+        "2009": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2009.json.gz",
+          "bytes": 432561,
+          "updatedAt": "2026-08-27T21:52:41Z"
+        },
+        "2010": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2010.json.gz",
+          "bytes": 298408,
+          "updatedAt": "2026-08-27T21:52:42Z"
+        },
+        "2011": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2011.json.gz",
+          "bytes": 403495,
+          "updatedAt": "2026-08-27T21:52:43Z"
+        },
+        "2012": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2012.json.gz",
+          "bytes": 287447,
+          "updatedAt": "2026-08-27T21:52:44Z"
+        },
+        "2013": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2013.json.gz",
+          "bytes": 330031,
+          "updatedAt": "2026-08-27T21:52:45Z"
+        },
+        "2014": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2014.json.gz",
+          "bytes": 282133,
+          "updatedAt": "2026-08-27T21:52:46Z"
+        },
+        "2015": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2015.json.gz",
+          "bytes": 344969,
+          "updatedAt": "2026-08-27T21:52:47Z"
+        },
+        "2016": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2016.json.gz",
+          "bytes": 244880,
+          "updatedAt": "2026-08-27T21:52:48Z"
+        },
+        "2017": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2017.json.gz",
+          "bytes": 292685,
+          "updatedAt": "2026-08-27T21:52:49Z"
+        },
+        "2018": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2018.json.gz",
+          "bytes": 226740,
+          "updatedAt": "2026-08-27T21:52:50Z"
+        },
+        "2019": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2019.json.gz",
+          "bytes": 323203,
+          "updatedAt": "2026-08-27T21:52:50Z"
+        },
+        "2020": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2020.json.gz",
+          "bytes": 152497,
+          "updatedAt": "2026-08-27T21:52:51Z"
+        },
+        "2021": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2021.json.gz",
+          "bytes": 277693,
+          "updatedAt": "2026-08-27T21:52:52Z"
+        },
+        "2022": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2022.json.gz",
+          "bytes": 204701,
+          "updatedAt": "2026-08-27T21:52:53Z"
+        },
+        "2023": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2023.json.gz",
+          "bytes": 293610,
+          "updatedAt": "2026-08-27T21:52:54Z"
+        },
+        "2024": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2024.json.gz",
+          "bytes": 193988,
+          "updatedAt": "2026-08-27T21:52:55Z"
+        },
+        "2025": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2025.json.gz",
+          "bytes": 166404,
+          "updatedAt": "2026-08-27T21:52:56Z"
+        },
+        "2026": {
+          "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+          "asset": "snapshot-2026.json.gz",
+          "bytes": 34300,
+          "updatedAt": "2026-08-27T21:52:57Z"
+        }
+      }
+    },
+    "fed-communications": {
+      "years": {
+        "2006": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2006.json.gz",
+          "bytes": 7059,
+          "updatedAt": "2026-08-27T18:54:58Z"
+        },
+        "2007": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2007.json.gz",
+          "bytes": 7813,
+          "updatedAt": "2026-08-27T18:54:59Z"
+        },
+        "2008": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2008.json.gz",
+          "bytes": 11332,
+          "updatedAt": "2026-08-27T18:54:59Z"
+        },
+        "2009": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2009.json.gz",
+          "bytes": 8863,
+          "updatedAt": "2026-08-27T18:55:00Z"
+        },
+        "2010": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2010.json.gz",
+          "bytes": 7315,
+          "updatedAt": "2026-08-27T18:55:01Z"
+        },
+        "2011": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2011.json.gz",
+          "bytes": 6772,
+          "updatedAt": "2026-08-27T18:55:02Z"
+        },
+        "2012": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2012.json.gz",
+          "bytes": 6175,
+          "updatedAt": "2026-08-27T18:55:02Z"
+        },
+        "2013": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2013.json.gz",
+          "bytes": 6587,
+          "updatedAt": "2026-08-27T18:55:03Z"
+        },
+        "2014": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2014.json.gz",
+          "bytes": 6189,
+          "updatedAt": "2026-08-27T18:55:04Z"
+        },
+        "2015": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2015.json.gz",
+          "bytes": 6379,
+          "updatedAt": "2026-08-27T18:55:05Z"
+        },
+        "2016": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2016.json.gz",
+          "bytes": 5276,
+          "updatedAt": "2026-08-27T18:55:06Z"
+        },
+        "2017": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2017.json.gz",
+          "bytes": 6567,
+          "updatedAt": "2026-08-27T18:55:07Z"
+        },
+        "2018": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2018.json.gz",
+          "bytes": 6004,
+          "updatedAt": "2026-08-27T18:55:08Z"
+        },
+        "2019": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2019.json.gz",
+          "bytes": 8840,
+          "updatedAt": "2026-08-27T18:55:08Z"
+        },
+        "2020": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2020.json.gz",
+          "bytes": 9433,
+          "updatedAt": "2026-08-27T18:55:09Z"
+        },
+        "2021": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2021.json.gz",
+          "bytes": 8452,
+          "updatedAt": "2026-08-27T18:55:10Z"
+        },
+        "2022": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2022.json.gz",
+          "bytes": 6387,
+          "updatedAt": "2026-08-27T18:55:11Z"
+        },
+        "2023": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2023.json.gz",
+          "bytes": 10310,
+          "updatedAt": "2026-08-27T18:55:12Z"
+        },
+        "2024": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2024.json.gz",
+          "bytes": 10495,
+          "updatedAt": "2026-08-27T18:55:12Z"
+        },
+        "2025": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2025.json.gz",
+          "bytes": 10719,
+          "updatedAt": "2026-08-27T18:55:13Z"
+        },
+        "2026": {
+          "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+          "asset": "snapshot-2026.json.gz",
+          "bytes": 5901,
+          "updatedAt": "2026-08-27T18:55:14Z"
+        }
+      }
+    }
+  },
+  "releases": [
+    {
+      "tag": "archive-usaspending-2008-01-01-2026-09-03",
+      "source": "usaspending",
+      "from": "2008-01-01",
+      "to": "2026-09-03",
+      "publishedAt": "2026-09-03T02:48:51Z",
+      "assets": 75
+    },
+    {
+      "tag": "archive-lda-1999-01-01-2026-09-02",
+      "source": "lda",
+      "from": "1999-01-01",
+      "to": "2026-09-02",
+      "publishedAt": "2026-09-02T05:17:30Z",
+      "assets": 25
+    },
+    {
+      "tag": "archive-lda-1999-01-01-2026-09-01",
+      "source": "lda",
+      "from": "1999-01-01",
+      "to": "2026-09-01",
+      "publishedAt": "2026-09-01T08:09:12Z",
+      "assets": 19
+    },
+    {
+      "tag": "archive-edgar-2004-01-01-2005-12-31",
+      "source": "edgar",
+      "from": "2004-01-01",
+      "to": "2005-12-31",
+      "publishedAt": "2026-08-31T11:30:55Z",
+      "assets": 39
+    },
+    {
+      "tag": "archive-edgar-2004-01-01-2026-08-31",
+      "source": "edgar",
+      "from": "2004-01-01",
+      "to": "2026-08-31",
+      "publishedAt": "2026-08-31T05:53:14Z",
+      "assets": 37
+    },
+    {
+      "tag": "archive-lda-1999-01-01-2026-08-31",
+      "source": "lda",
+      "from": "1999-01-01",
+      "to": "2026-08-31",
+      "publishedAt": "2026-08-31T05:52:38Z",
+      "assets": 14
+    },
+    {
+      "tag": "archive-edgar-bulk-2006-01-01-2026-08-31",
+      "source": "edgar-bulk",
+      "from": "2006-01-01",
+      "to": "2026-08-31",
+      "publishedAt": "2026-08-31T02:36:22Z",
+      "assets": 66
+    },
+    {
+      "tag": "archive-house-clerk-2008-01-01-2026-08-30",
+      "source": "house-clerk",
+      "from": "2008-01-01",
+      "to": "2026-08-30",
+      "publishedAt": "2026-08-30T13:19:18Z",
+      "assets": 13
+    },
+    {
+      "tag": "archive-edgar-2004-01-01-2026-08-30",
+      "source": "edgar",
+      "from": "2004-01-01",
+      "to": "2026-08-30",
+      "publishedAt": "2026-08-30T13:15:59Z",
+      "assets": 35
+    },
+    {
+      "tag": "archive-lda-1999-01-01-2026-08-30",
+      "source": "lda",
+      "from": "1999-01-01",
+      "to": "2026-08-30",
+      "publishedAt": "2026-08-30T05:55:00Z",
+      "assets": 8
+    },
+    {
+      "tag": "archive-house-clerk-2008-01-01-2026-08-29",
+      "source": "house-clerk",
+      "from": "2008-01-01",
+      "to": "2026-08-29",
+      "publishedAt": "2026-08-29T09:46:12Z",
+      "assets": 13
+    },
+    {
+      "tag": "archive-lda-1999-01-01-2026-08-29",
+      "source": "lda",
+      "from": "1999-01-01",
+      "to": "2026-08-29",
+      "publishedAt": "2026-08-29T07:20:11Z",
+      "assets": 1
+    },
+    {
+      "tag": "archive-edgar-2004-01-01-2026-08-29",
+      "source": "edgar",
+      "from": "2004-01-01",
+      "to": "2026-08-29",
+      "publishedAt": "2026-08-29T03:56:35Z",
+      "assets": 34
+    },
+    {
+      "tag": "archive-edgar-2004-01-01-2026-08-28",
+      "source": "edgar",
+      "from": "2004-01-01",
+      "to": "2026-08-28",
+      "publishedAt": "2026-08-29T02:08:14Z",
+      "assets": 21
+    },
+    {
+      "tag": "archive-house-clerk-2008-01-01-2026-08-28",
+      "source": "house-clerk",
+      "from": "2008-01-01",
+      "to": "2026-08-28",
+      "publishedAt": "2026-08-28T11:44:53Z",
+      "assets": 13
+    },
+    {
+      "tag": "archive-lda-1999-01-01-2026-08-28",
+      "source": "lda",
+      "from": "1999-01-01",
+      "to": "2026-08-28",
+      "publishedAt": "2026-08-28T10:05:53Z",
+      "assets": 1
+    },
+    {
+      "tag": "archive-usaspending-2008-01-01-2026-08-28",
+      "source": "usaspending",
+      "from": "2008-01-01",
+      "to": "2026-08-28",
+      "publishedAt": "2026-08-28T02:05:03Z",
+      "assets": 84
+    },
+    {
+      "tag": "archive-house-clerk-2008-01-01-2026-08-27",
+      "source": "house-clerk",
+      "from": "2008-01-01",
+      "to": "2026-08-27",
+      "publishedAt": "2026-08-27T23:30:02Z",
+      "assets": 13
+    },
+    {
+      "tag": "archive-govinfo-hearings-1995-01-01-2026-08-27",
+      "source": "govinfo-hearings",
+      "from": "1995-01-01",
+      "to": "2026-08-27",
+      "publishedAt": "2026-08-27T18:57:32Z",
+      "assets": 36
+    },
+    {
+      "tag": "archive-federalreserve-1996-01-01-2026-08-27",
+      "source": "federalreserve",
+      "from": "1996-01-01",
+      "to": "2026-08-27",
+      "publishedAt": "2026-08-27T18:54:57Z",
+      "assets": 21
+    },
+    {
+      "tag": "archive-lda-1999-01-01-2026-08-27",
+      "source": "lda",
+      "from": "1999-01-01",
+      "to": "2026-08-27",
+      "publishedAt": "2026-08-27T16:22:25Z",
+      "assets": 1
+    },
+    {
+      "tag": "archive-govinfo-2013-01-01-2026-08-27",
+      "source": "govinfo",
+      "from": "2013-01-01",
+      "to": "2026-08-27",
+      "publishedAt": "2026-08-27T13:06:41Z",
+      "assets": 14
+    },
+    {
+      "tag": "archive-senate-efd-2012-01-01-2026-08-27",
+      "source": "senate-efd",
+      "from": "2012-01-01",
+      "to": "2026-08-27",
+      "publishedAt": "2026-08-27T09:21:20Z",
+      "assets": 15
+    },
+    {
+      "tag": "archive-usaspending-2008-01-01-2026-08-27",
+      "source": "usaspending",
+      "from": "2008-01-01",
+      "to": "2026-08-27",
+      "publishedAt": "2026-08-27T00:25:21Z",
+      "assets": 75
+    },
+    {
+      "tag": "archive-finra-2009-01-01-2026-08-26",
+      "source": "finra",
+      "from": "2009-01-01",
+      "to": "2026-08-26",
+      "publishedAt": "2026-08-26T22:03:59Z",
+      "assets": 10
+    },
+    {
+      "tag": "archive-usaspending-2008-01-01-2026-08-26",
+      "source": "usaspending",
+      "from": "2008-01-01",
+      "to": "2026-08-26",
+      "publishedAt": "2026-08-26T21:56:46Z",
+      "assets": 51
+    },
+    {
+      "tag": "archive-clinicaltrials-2000-01-01-2026-08-26",
+      "source": "clinicaltrials",
+      "from": "2000-01-01",
+      "to": "2026-08-26",
+      "publishedAt": "2026-08-26T21:52:04Z",
+      "assets": 22
+    },
+    {
+      "tag": "archive-openfda-1990-01-01-2026-08-26",
+      "source": "openfda",
+      "from": "1990-01-01",
+      "to": "2026-08-26",
+      "publishedAt": "2026-08-26T21:51:40Z",
+      "assets": 37
+    },
+    {
+      "tag": "archive-cftc-1986-01-06-2026-08-26",
+      "source": "cftc",
+      "from": "1986-01-06",
+      "to": "2026-08-26",
+      "publishedAt": "2026-08-26T21:51:36Z",
+      "assets": 41
+    },
+    {
+      "tag": "archive-wikimedia-2015-07-01-2026-08-26",
+      "source": "wikimedia",
+      "from": "2015-07-01",
+      "to": "2026-08-26",
+      "publishedAt": "2026-08-26T21:51:32Z",
+      "assets": 12
+    }
+  ]
+}

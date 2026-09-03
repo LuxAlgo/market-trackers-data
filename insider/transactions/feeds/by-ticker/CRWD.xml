@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — CRWD</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 14:35:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:13:41 GMT</lastBuildDate>
     <item>
       <title>Kurtz George (CRWD) S: 802 shares @ $213.39</title>
       <link>https://www.sec.gov/Archives/edgar/data/1778564/0001778564-26-000153-index.htm</link>

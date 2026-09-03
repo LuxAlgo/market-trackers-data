@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — ARDX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 14:35:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:13:41 GMT</lastBuildDate>
     <item>
       <title>Hohenleitner Susan (ARDX) S: 1558 shares @ $3.8569</title>
       <link>https://www.sec.gov/Archives/edgar/data/2093095/0002093095-26-000007-index.htm</link>

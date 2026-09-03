@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — MPLT</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:13:41 GMT</lastBuildDate>
     <item>
       <title>MapLight Therapeutics — RECRUITING PHASE2: A Long-Term Open-Label Study of ML-007C-MA in Adults With Schizophrenia</title>
       <link>https://clinicaltrials.gov/study/NCT07459647</link>
       <guid isPermaLink="false">clinical-trials:NCT07459647</guid>
-      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:17 GMT</pubDate>
     </item>
     <item>
       <title>MapLight Therapeutics — RECRUITING PHASE2: A Study to Assess the Efficacy and Safety of ML-007C-MA for the Treatment of Alzheimer's Disease Psychosis</title>
       <link>https://clinicaltrials.gov/study/NCT06887192</link>
       <guid isPermaLink="false">clinical-trials:NCT06887192</guid>
-      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:17 GMT</pubDate>
     </item>
   </channel>
 </rss>

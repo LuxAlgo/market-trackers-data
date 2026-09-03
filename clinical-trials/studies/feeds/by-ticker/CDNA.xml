@@ -4,24 +4,24 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — CDNA</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:13:41 GMT</lastBuildDate>
     <item>
       <title>CareDx — ACTIVE_NOT_RECRUITING: Molecular Assessment and Profiling of Liver Transplant Recipients</title>
       <link>https://clinicaltrials.gov/study/NCT04793360</link>
       <guid isPermaLink="false">clinical-trials:NCT04793360</guid>
-      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:17 GMT</pubDate>
     </item>
     <item>
       <title>CareDx — ACTIVE_NOT_RECRUITING: Assessment of Chimerism and Relapse Post Bone Marrow/Hematopoietic Cell Transplant (HCT) Using AlloHeme Test</title>
       <link>https://clinicaltrials.gov/study/NCT04635384</link>
       <guid isPermaLink="false">clinical-trials:NCT04635384</guid>
-      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:17 GMT</pubDate>
     </item>
     <item>
       <title>CareDx — ACTIVE_NOT_RECRUITING: Surveillance HeartCare® Outcomes Registry</title>
       <link>https://clinicaltrials.gov/study/NCT03695601</link>
       <guid isPermaLink="false">clinical-trials:NCT03695601</guid>
-      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:17 GMT</pubDate>
     </item>
   </channel>
 </rss>

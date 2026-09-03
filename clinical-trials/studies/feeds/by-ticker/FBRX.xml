@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — FBRX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:13:41 GMT</lastBuildDate>
     <item>
       <title>Forte Biosciences, Inc. — RECRUITING PHASE1: A Study Testing the Safety and Effects of FB102 in Healthy Volunteers</title>
       <link>https://clinicaltrials.gov/study/NCT07623057</link>

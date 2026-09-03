@@ -4,24 +4,24 @@
     <title>LuxAlgo Market Trackers — Government contract awards — OMCL</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:13:41 GMT</lastBuildDate>
     <item>
       <title>OMNICELL, INC. — $42266.39 from Department of Veterans Affairs (2026-09-01)</title>
       <link>https://www.usaspending.gov/award/CONT_AWD_36C26026N0319_3600_36C26024A0019_3600</link>
       <guid isPermaLink="false">gov-contracts:CONT_AWD_36C26026N0319_3600_36C26024A0019_3600</guid>
-      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:12:24 GMT</pubDate>
     </item>
     <item>
       <title>OMNICELL, INC. — $116307 from Department of Veterans Affairs (2026-09-01)</title>
       <link>https://www.usaspending.gov/award/CONT_AWD_36C24626F0215_3600_36F79723D0073_3600</link>
       <guid isPermaLink="false">gov-contracts:CONT_AWD_36C24626F0215_3600_36F79723D0073_3600</guid>
-      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:12:24 GMT</pubDate>
     </item>
     <item>
       <title>OMNICELL, INC. — $562328.85 from Department of Veterans Affairs (2026-08-31)</title>
       <link>https://www.usaspending.gov/award/CONT_AWD_36C24526N0703_3600_36C24525A0030_3600</link>
       <guid isPermaLink="false">gov-contracts:CONT_AWD_36C24526N0703_3600_36C24525A0030_3600</guid>
-      <pubDate>Thu, 03 Sep 2026 12:54:51 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:12:24 GMT</pubDate>
     </item>
   </channel>
 </rss>

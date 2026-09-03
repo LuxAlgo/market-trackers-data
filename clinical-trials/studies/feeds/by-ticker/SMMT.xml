@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — SMMT</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:13:41 GMT</lastBuildDate>
     <item>
       <title>Summit Therapeutics — RECRUITING PHASE3: Phase III Study of Ivonescimab or Bevacizumab Combined With FOLFOX in Patients With Metastatic Colorectal Cancer</title>
       <link>https://clinicaltrials.gov/study/NCT07228832</link>
       <guid isPermaLink="false">clinical-trials:NCT07228832</guid>
-      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:17 GMT</pubDate>
     </item>
     <item>
       <title>Summit Therapeutics — RECRUITING PHASE3: Clinical Study of Ivonescimab for First-line Treatment of Metastatic NSCLC Patients</title>

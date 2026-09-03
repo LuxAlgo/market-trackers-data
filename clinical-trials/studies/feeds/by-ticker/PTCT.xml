@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — PTCT</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:13:41 GMT</lastBuildDate>
     <item>
       <title>PTC Therapeutics — RECRUITING PHASE3: A Study of Sepiapterin in Participants With Phenylketonuria (PKU)</title>
       <link>https://clinicaltrials.gov/study/NCT06302348</link>
       <guid isPermaLink="false">clinical-trials:NCT06302348</guid>
-      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:17 GMT</pubDate>
     </item>
     <item>
       <title>PTC Therapeutics — NOT_YET_RECRUITING PHASE2: Study of PTC844 in Participants With Active Rheumatoid Arthritis</title>

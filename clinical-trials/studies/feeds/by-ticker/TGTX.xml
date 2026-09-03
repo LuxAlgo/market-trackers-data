@@ -4,23 +4,23 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — TGTX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 12:59:32 GMT</lastBuildDate>
-    <item>
-      <title>TG Therapeutics, Inc. — RECRUITING PHASE2: Study to Evaluate the Safety and Efficacy of Ublituximab in Participants With Schizophrenia</title>
-      <link>https://clinicaltrials.gov/study/NCT07680946</link>
-      <guid isPermaLink="false">clinical-trials:NCT07680946</guid>
-      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Sep 2026 15:13:41 GMT</lastBuildDate>
     <item>
       <title>TG Therapeutics, Inc. — RECRUITING: A Study Evaluating the Real World Experience of Participants Treated With BRIUMVI® (Ublituximab-xiiy) for Relapsing Multiple Sclerosis (RMS)</title>
       <link>https://clinicaltrials.gov/study/NCT06433752</link>
       <guid isPermaLink="false">clinical-trials:NCT06433752</guid>
-      <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:17 GMT</pubDate>
     </item>
     <item>
       <title>TG Therapeutics, Inc. — RECRUITING PHASE3: Study to Evaluate Safety, Efficacy and Pharmacokinetics (PK) of a Modified Regimen of Ublituximab</title>
       <link>https://clinicaltrials.gov/study/NCT05877963</link>
       <guid isPermaLink="false">clinical-trials:NCT05877963</guid>
+      <pubDate>Thu, 03 Sep 2026 15:13:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>TG Therapeutics, Inc. — RECRUITING PHASE2: Study to Evaluate the Safety and Efficacy of Ublituximab in Participants With Schizophrenia</title>
+      <link>https://clinicaltrials.gov/study/NCT07680946</link>
+      <guid isPermaLink="false">clinical-trials:NCT07680946</guid>
       <pubDate>Thu, 03 Sep 2026 12:57:41 GMT</pubDate>
     </item>
     <item>

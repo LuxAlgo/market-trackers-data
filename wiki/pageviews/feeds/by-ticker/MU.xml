@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Wikipedia pageviews — MU</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Daily per-article Wikipedia pageview counts for a curated map of public-company articles, from the Wikimedia REST pageviews API (keyless, CC0 counts). Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <item>
+      <title>Micron_Technology (MU): 1075 views on 2026-09-03</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Micron_Technology/daily/2026090300/2026090300</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Micron_Technology:2026-09-03</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:14 GMT</pubDate>
+    </item>
     <item>
       <title>Micron_Technology (MU): 1084 views on 2026-09-02</title>
       <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Micron_Technology/daily/2026090200/2026090200</link>

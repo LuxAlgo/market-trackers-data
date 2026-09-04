@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — PEN</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
     <item>
       <title>Penumbra Inc. — RECRUITING: A Study of Patients With Lower Extremity Acute Limb Ischemia to Remove Thrombus With the Indigo™ Aspiration System (STRIDE II)</title>
       <link>https://clinicaltrials.gov/study/NCT06747117</link>
       <guid isPermaLink="false">clinical-trials:NCT06747117</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
   </channel>
 </rss>

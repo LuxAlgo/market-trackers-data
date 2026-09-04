@@ -4,24 +4,24 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — RVMDW</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
     <item>
       <title>Revolution Medicines, Inc. — APPROVED_FOR_MARKETING: Expanded Access Program for Daraxonrasib (RMC-6236) in Previously Treated Metastatic Pancreatic Adenocarcinoma</title>
       <link>https://clinicaltrials.gov/study/NCT07573215</link>
       <guid isPermaLink="false">clinical-trials:NCT07573215</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Revolution Medicines, Inc. — RECRUITING PHASE3: Study of Daraxonrasib and Daraxonrasib + GnP as First-line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma</title>
       <link>https://clinicaltrials.gov/study/NCT07491445</link>
       <guid isPermaLink="false">clinical-trials:NCT07491445</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Revolution Medicines, Inc. — RECRUITING PHASE3: Study of Daraxonrasib (RMC-6236) in Patients With RAS Mutated NSCLC (RASolve 301)</title>
       <link>https://clinicaltrials.gov/study/NCT06881784</link>
       <guid isPermaLink="false">clinical-trials:NCT06881784</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Revolution Medicines, Inc. — RECRUITING PHASE3: Study of Daraxonrasib (RMC-6236) in Patients With Resected Pancreatic Ductal Adenocarcinoma (PDAC)</title>

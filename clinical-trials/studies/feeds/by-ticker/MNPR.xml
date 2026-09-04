@@ -4,18 +4,30 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — MNPR</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <item>
+      <title>Monopar Therapeutics — TEMPORARILY_NOT_AVAILABLE: MNPR-101-PCTA-177Lu Expanded Access Program (EAP) for Patients With Solid Tumor Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT06980519</link>
+      <guid isPermaLink="false">clinical-trials:NCT06980519</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monopar Therapeutics — TEMPORARILY_NOT_AVAILABLE: MNPR-101-DFO*-89Zr Expanded Access Program (EAP) for Patients With Solid Tumor Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT06980506</link>
+      <guid isPermaLink="false">clinical-trials:NCT06980506</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
     <item>
       <title>Monopar Therapeutics — ACTIVE_NOT_RECRUITING PHASE1: Dose-Escalation of MNPR-101-PCTA-177Lu in Solid Tumors</title>
       <link>https://clinicaltrials.gov/study/NCT06617169</link>
       <guid isPermaLink="false">clinical-trials:NCT06617169</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Monopar Therapeutics — ACTIVE_NOT_RECRUITING PHASE1: Diagnostic Efficacy and Dosimetry of MNPR-101-DFO*-89Zr in Patients With Solid Tumors</title>
       <link>https://clinicaltrials.gov/study/NCT06337084</link>
       <guid isPermaLink="false">clinical-trials:NCT06337084</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,36 +4,42 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — IONS</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
     <item>
       <title>Ionis Pharmaceuticals, Inc. — RECRUITING PHASE2: A Study to Assess the Safety, Tolerability and Efficacy of ION775</title>
       <link>https://clinicaltrials.gov/study/NCT07604974</link>
       <guid isPermaLink="false">clinical-trials:NCT07604974</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Ionis Pharmaceuticals, Inc. — RECRUITING PHASE1/PHASE2: ASCEND: Safety and Tolerability of ION337 for the Treatment of Dravet Syndrome</title>
       <link>https://clinicaltrials.gov/study/NCT07531745</link>
       <guid isPermaLink="false">clinical-trials:NCT07531745</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Ionis Pharmaceuticals, Inc. — RECRUITING PHASE3: Donidalorsen Treatment in Children With Hereditary Angioedema</title>
       <link>https://clinicaltrials.gov/study/NCT07298447</link>
       <guid isPermaLink="false">clinical-trials:NCT07298447</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Ionis Pharmaceuticals, Inc. — RECRUITING PHASE3: REVEAL: A Phase 3 Study of Obudanersen (ION582) in Angelman Syndrome</title>
       <link>https://clinicaltrials.gov/study/NCT06914609</link>
       <guid isPermaLink="false">clinical-trials:NCT06914609</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ionis Pharmaceuticals, Inc. — APPROVED_FOR_MARKETING: Donidalorsen Expanded Access Program for Patients With Hereditary Angioedema</title>
+      <link>https://clinicaltrials.gov/study/NCT06415448</link>
+      <guid isPermaLink="false">clinical-trials:NCT06415448</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Ionis Pharmaceuticals, Inc. — COMPLETED PHASE3: CARDIO-TTRansform: A Study to Evaluate the Efficacy and Safety of Eplontersen (Formerly Known as ION-682884, IONIS-TTR-LRx and AKCEA-TTR-LRx) in Participants With Transthyretin-Mediated Amyloid Cardiomyopathy (ATTR CM)</title>
       <link>https://clinicaltrials.gov/study/NCT04136171</link>
       <guid isPermaLink="false">clinical-trials:NCT04136171</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Ionis Pharmaceuticals, Inc. — RECRUITING PHASE3: A Study of Olezarsen for the Treatment of Familial Chylomicronemia Syndrome (FCS) in Pediatric Participants</title>

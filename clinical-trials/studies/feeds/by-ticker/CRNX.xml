@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — CRNX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
     <item>
       <title>Crinetics Pharmaceuticals Inc. — RECRUITING PHASE2/PHASE3: A Study in Pediatric Participants With Congenital Adrenal Hyperplasia (Balance-CAH)</title>
       <link>https://clinicaltrials.gov/study/NCT07159841</link>
       <guid isPermaLink="false">clinical-trials:NCT07159841</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Crinetics Pharmaceuticals Inc. — RECRUITING PHASE3: A Study to Evaluate Atumelnant in Adults With Congenital Adrenal Hyperplasia</title>
       <link>https://clinicaltrials.gov/study/NCT07144163</link>
       <guid isPermaLink="false">clinical-trials:NCT07144163</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Crinetics Pharmaceuticals Inc. — COMPLETED PHASE1: Drug-Drug Interaction Study of Atumelnant in Healthy Participants</title>

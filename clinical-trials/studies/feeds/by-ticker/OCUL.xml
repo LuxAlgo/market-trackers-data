@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — OCUL</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
     <item>
       <title>Ocular Therapeutix, Inc. — COMPLETED PHASE2: A Study to Evaluate the Efficacy and Safety of OTX-TIC (Travoprost) Intracameral Implant for Patients With Open-angle Glaucoma (OAG) or Ocular Hypertension (OHT)</title>
       <link>https://clinicaltrials.gov/study/NCT05335122</link>
       <guid isPermaLink="false">clinical-trials:NCT05335122</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
   </channel>
 </rss>

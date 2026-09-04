@@ -4,66 +4,72 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — SNY</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
     <item>
       <title>Sanofi — NOT_YET_RECRUITING PHASE3: A Study to Evaluate the Long-term Safety and Efficacy of Lunsekimig in Adult Participants With Chronic Obstructive Pulmonary Disease (COPD)</title>
       <link>https://clinicaltrials.gov/study/NCT07793409</link>
       <guid isPermaLink="false">clinical-trials:NCT07793409</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanofi — COMPLETED: Low-Density Lipoprotein Cholesterol Reduction With Alirocumab 150 mg Versus Inclisiran in Individuals Initiating Therapy in Routine Clinical Practice</title>
+      <link>https://clinicaltrials.gov/study/NCT07615166</link>
+      <guid isPermaLink="false">clinical-trials:NCT07615166</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Sanofi — RECRUITING: The Study of Chronic Obstructive Pulmonary Disease (COPD) Participants Treated With Dupilumab (STRIDE) Registry</title>
       <link>https://clinicaltrials.gov/study/NCT07612878</link>
       <guid isPermaLink="false">clinical-trials:NCT07612878</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Sanofi — RECRUITING PHASE2: A Study to Investigate Efficacy and Safety With SAR445399 in Adult Participants With Moderate to Severe Hidradenitis Suppurativa</title>
       <link>https://clinicaltrials.gov/study/NCT07225569</link>
       <guid isPermaLink="false">clinical-trials:NCT07225569</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Sanofi — RECRUITING PHASE3: Efficacy, Safety, and Tolerability Study of Lunsekimig Compared With Placebo in Adult Participants With Inadequately Controlled Chronic Obstructive Pulmonary Disease (COPD) Characterized by an Eosinophilic Phenotype</title>
       <link>https://clinicaltrials.gov/study/NCT07190209</link>
       <guid isPermaLink="false">clinical-trials:NCT07190209</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Sanofi — ACTIVE_NOT_RECRUITING PHASE2: A Phase 2a/b Study of the Efficacy and Safety of Subcutaneous Amlitelimab in Adults With Nonresponsive Celiac Disease</title>
       <link>https://clinicaltrials.gov/study/NCT06557772</link>
       <guid isPermaLink="false">clinical-trials:NCT06557772</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Sanofi — ACTIVE_NOT_RECRUITING PHASE3: A Study to Evaluate the Efficacy and Safety of Subcutaneous Amlitelimab on Background Topical Corticosteroids Therapy in Participants Aged 12 Years and Older With Moderate-to-severe AD Who Have Had an Inadequate Response to Prior Biologic Therapy or an Oral JAK Inhibitor</title>
       <link>https://clinicaltrials.gov/study/NCT06241118</link>
       <guid isPermaLink="false">clinical-trials:NCT06241118</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Sanofi — ACTIVE_NOT_RECRUITING PHASE2/PHASE3: Long-Term Safety and Efficacy Evaluation of Amlitelimab in Participants of Previous Amlitelimab Moderate to Severe Atopic Dermatitis Clinical Trials</title>
       <link>https://clinicaltrials.gov/study/NCT05492578</link>
       <guid isPermaLink="false">clinical-trials:NCT05492578</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Sanofi — ACTIVE_NOT_RECRUITING PHASE3: SC Versus IV Isatuximab in Combination With Pomalidomide and Dexamethasone in RRMM</title>
       <link>https://clinicaltrials.gov/study/NCT05405166</link>
       <guid isPermaLink="false">clinical-trials:NCT05405166</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Sanofi — COMPLETED PHASE2: Mechanistic Study of the Effect of Itepekimab on Airway Inflammation in Patients With COPD</title>
       <link>https://clinicaltrials.gov/study/NCT05326412</link>
       <guid isPermaLink="false">clinical-trials:NCT05326412</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Sanofi — COMPLETED PHASE3: Dupilumab in Allergic Fungal Rhinosinusitis (AFRS)</title>
       <link>https://clinicaltrials.gov/study/NCT04684524</link>
       <guid isPermaLink="false">clinical-trials:NCT04684524</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Sanofi — RECRUITING: Real-World Study of Patients With Type 1 Diabetes Treated With Teplizumab as Part of Managed Access Programs (MAPs)</title>

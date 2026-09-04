@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — AMAL</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 14:34:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
     <item>
       <title>Tenner Mandy (AMAL) F: 1338 shares @ $47.34</title>
       <link>https://www.sec.gov/Archives/edgar/data/1917010/0000912282-26-001220-index.htm</link>

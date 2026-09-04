@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Clinical trial registrations — NVCR</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <item>
+      <title>NovoCure Ltd. — COMPLETED PHASE2: EF-39 PANOVA-4: Study of Tumor Treating Fields Concomitant With Atezolizumab, Gemcitabine and Nab-Paclitaxel as First-LineTreatment for Metastatic Pancreatic Ductal Adenocarcinoma</title>
+      <link>https://clinicaltrials.gov/study/NCT06390059</link>
+      <guid isPermaLink="false">clinical-trials:NCT06390059</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

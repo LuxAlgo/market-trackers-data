@@ -4,72 +4,210 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — LLY</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <item>
+      <title>Eli Lilly and Company — NOT_YET_RECRUITING PHASE1: A Study of Tirzepatide (LY3298176) in Participants With Type 1 Diabetes Mellitus and Overweight or Obesity</title>
+      <link>https://clinicaltrials.gov/study/NCT07803744</link>
+      <guid isPermaLink="false">clinical-trials:NCT07803744</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
     <item>
       <title>Eli Lilly and Company — NOT_YET_RECRUITING PHASE1: A Study of LY5625575 in Healthy Participants and in Participants With Inflammation (Elevated C-Reactive Protein)</title>
       <link>https://clinicaltrials.gov/study/NCT07801300</link>
       <guid isPermaLink="false">clinical-trials:NCT07801300</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — NOT_YET_RECRUITING PHASE1: A Study Comparing Two Ways of Taking Olomorasib (LY3537982) in Healthy Participants</title>
       <link>https://clinicaltrials.gov/study/NCT07794592</link>
       <guid isPermaLink="false">clinical-trials:NCT07794592</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — NOT_YET_RECRUITING PHASE3: A Study of Orforglipron in Participants With Overweight at Risk of Development of Obesity-Related Complications or Progression to Class 1 Obesity</title>
       <link>https://clinicaltrials.gov/study/NCT07794579</link>
       <guid isPermaLink="false">clinical-trials:NCT07794579</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — NOT_YET_RECRUITING PHASE3: A Study of Orforglipron (LY3502970) in Chinese Participants With Obesity or Overweight and Weight-Related Health Problems</title>
       <link>https://clinicaltrials.gov/study/NCT07790861</link>
       <guid isPermaLink="false">clinical-trials:NCT07790861</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — NOT_YET_RECRUITING PHASE1: A Master Protocol Studying Multiple Amyloid-Targeting Therapies in Healthy Participants and Participants With Alzheimer's Disease</title>
       <link>https://clinicaltrials.gov/study/NCT07787169</link>
       <guid isPermaLink="false">clinical-trials:NCT07787169</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — NOT_YET_RECRUITING PHASE3: A Study of Brenipatide (LY3537031) in Adult Participants With Major Depressive Disorder</title>
       <link>https://clinicaltrials.gov/study/NCT07775300</link>
       <guid isPermaLink="false">clinical-trials:NCT07775300</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — RECRUITING PHASE1: A Study of LY4174794 in Participants With Obesity or Overweight Who Are Otherwise Healthy</title>
       <link>https://clinicaltrials.gov/study/NCT07654972</link>
       <guid isPermaLink="false">clinical-trials:NCT07654972</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE2: A Chronic Pain Master Protocol (CPMP): A Study of LY4065967 in Participants With Osteoarthritis Pain</title>
+      <link>https://clinicaltrials.gov/study/NCT07641517</link>
+      <guid isPermaLink="false">clinical-trials:NCT07641517</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE2: A Chronic Pain Master Protocol (CPMP): A Study of LY4065967 in Participants With Chronic Low Back Pain</title>
+      <link>https://clinicaltrials.gov/study/NCT07641504</link>
+      <guid isPermaLink="false">clinical-trials:NCT07641504</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE1: A Study of LY3439539 in Participants With Alzheimer's Disease</title>
+      <link>https://clinicaltrials.gov/study/NCT07598370</link>
+      <guid isPermaLink="false">clinical-trials:NCT07598370</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE2: A Study of Brenipatide in Participants With Opioid Use Disorder</title>
+      <link>https://clinicaltrials.gov/study/NCT07420283</link>
+      <guid isPermaLink="false">clinical-trials:NCT07420283</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE2: A Study of Brenipatide in Adult Participants With Schizophrenia</title>
+      <link>https://clinicaltrials.gov/study/NCT07410507</link>
+      <guid isPermaLink="false">clinical-trials:NCT07410507</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE2: A Study of Imlunestrant (LY3484356) in Premenopausal Women With Estrogen Receptor-Positive (ER+) Human Epidermal Growth Factor Receptor 2 Negative (HER2-) Early Breast Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT07287098</link>
+      <guid isPermaLink="false">clinical-trials:NCT07287098</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE2: A Study of Brenipatide in Adult Participants With Bipolar Disorder (RENEW-Bipolar-1)</title>
+      <link>https://clinicaltrials.gov/study/NCT07286175</link>
+      <guid isPermaLink="false">clinical-trials:NCT07286175</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — RECRUITING PHASE1: A Study of LY4298445 in Healthy Participants and Participants With Systemic Lupus Erythematosus (SLE) or Rheumatoid Arthritis (RA)</title>
       <link>https://clinicaltrials.gov/study/NCT07276958</link>
       <guid isPermaLink="false">clinical-trials:NCT07276958</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE3: A Study of Baricitinib (LY3009104) to Preserve Beta Cell Function in Children and Adults Newly Diagnosed With Type 1 Diabetes (BARICADE-PRESERVE)</title>
+      <link>https://clinicaltrials.gov/study/NCT07222332</link>
+      <guid isPermaLink="false">clinical-trials:NCT07222332</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE3: A Study of Baricitinib (LY3009104) for the Delay of Stage 3 Type 1 Diabetes in At-Risk Children and Adults</title>
+      <link>https://clinicaltrials.gov/study/NCT07222137</link>
+      <guid isPermaLink="false">clinical-trials:NCT07222137</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE3: A Study of Brenipatide in Participants With Moderate-to-Severe Alcohol Use Disorder</title>
+      <link>https://clinicaltrials.gov/study/NCT07219966</link>
+      <guid isPermaLink="false">clinical-trials:NCT07219966</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE4: A Study of Pirtobrutinib (LY3527727) in Participants With Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma</title>
+      <link>https://clinicaltrials.gov/study/NCT07218341</link>
+      <guid isPermaLink="false">clinical-trials:NCT07218341</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE1: A Study of LY4337713 in Participants With FAP-Positive Solid Tumors</title>
+      <link>https://clinicaltrials.gov/study/NCT07213791</link>
+      <guid isPermaLink="false">clinical-trials:NCT07213791</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE2: A Study to Evaluate LY3537021 for the Treatment of Nausea and Vomiting Caused by Chemotherapy in Adults With Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT07169851</link>
+      <guid isPermaLink="false">clinical-trials:NCT07169851</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE3: Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a)</title>
+      <link>https://clinicaltrials.gov/study/NCT07157774</link>
+      <guid isPermaLink="false">clinical-trials:NCT07157774</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE1: A Study of LY4257496 in Participants With Cancer (OMNIRAY)</title>
+      <link>https://clinicaltrials.gov/study/NCT07114601</link>
+      <guid isPermaLink="false">clinical-trials:NCT07114601</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — TERMINATED PHASE2: A Study of LY3549492 in Adults With Obesity or Overweight With Type 2 Diabetes</title>
       <link>https://clinicaltrials.gov/study/NCT07030868</link>
       <guid isPermaLink="false">clinical-trials:NCT07030868</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE3: Mirikizumab and Tirzepatide Administered in Adult Participants With Moderately to Severely Active Crohn's Disease and Obesity or Overweight</title>
+      <link>https://clinicaltrials.gov/study/NCT06937099</link>
+      <guid isPermaLink="false">clinical-trials:NCT06937099</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE3: Mirikizumab Administered at the Same Time as Tirzepatide in Adult Participants With Moderately to Severely Active Ulcerative Colitis and Obesity or Overweight: Phase 3b Study</title>
+      <link>https://clinicaltrials.gov/study/NCT06937086</link>
+      <guid isPermaLink="false">clinical-trials:NCT06937086</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE4: A Study to Investigate the Effectiveness of Tirzepatide (LY3298176) Following Initiation of Ixekizumab (LY2439821) in Participants With Moderate-to-Severe Plaque PsO and Obesity or Overweight in Clinical Practice (TOGETHER AMPLIFY-PsO)</title>
+      <link>https://clinicaltrials.gov/study/NCT06857942</link>
+      <guid isPermaLink="false">clinical-trials:NCT06857942</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE1: A Study of LY4052031 in Participants With Advanced or Metastatic Urothelial Cancer or Other Solid Tumors</title>
+      <link>https://clinicaltrials.gov/study/NCT06465069</link>
+      <guid isPermaLink="false">clinical-trials:NCT06465069</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE3: A Study of Tirzepatide in Adolescents With Obesity and Weight-Related Comorbidities (SURMOUNT-ADOLESCENTS-2)</title>
+      <link>https://clinicaltrials.gov/study/NCT06439277</link>
+      <guid isPermaLink="false">clinical-trials:NCT06439277</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — RECRUITING PHASE1: A Study of Sofe-M in Participants With Selected Advanced Solid Tumors</title>
+      <link>https://clinicaltrials.gov/study/NCT06400472</link>
+      <guid isPermaLink="false">clinical-trials:NCT06400472</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — COMPLETED PHASE3: A Study of Orforglipron (LY3502970) in Adult Participants With Type 2 Diabetes and Inadequate Glycemic Control With Diet and Exercise Alone</title>
       <link>https://clinicaltrials.gov/study/NCT05971940</link>
       <guid isPermaLink="false">clinical-trials:NCT05971940</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli Lilly and Company — COMPLETED PHASE3: A Study of Orforglipron in Adult Participants With Obesity or Overweight and Type 2 Diabetes</title>
+      <link>https://clinicaltrials.gov/study/NCT05872620</link>
+      <guid isPermaLink="false">clinical-trials:NCT05872620</guid>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — TERMINATED PHASE3: A Study of Lasmiditan (LY573144) Treatment in Children Aged 6 to 17 With Migraine</title>
       <link>https://clinicaltrials.gov/study/NCT04396236</link>
       <guid isPermaLink="false">clinical-trials:NCT04396236</guid>
-      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly and Company — NOT_YET_RECRUITING PHASE1: A Study of LY4405094 in Healthy Participants and Participants With Alzheimer's Disease</title>
@@ -99,12 +237,6 @@
       <title>Eli Lilly and Company — RECRUITING PHASE2: A Study of Donanemab (LY3002813) in Participants With Early Cognitive Decline (TRAILBLAZER-ALZ 7)</title>
       <link>https://clinicaltrials.gov/study/NCT07589595</link>
       <guid isPermaLink="false">clinical-trials:NCT07589595</guid>
-      <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — RECRUITING PHASE3: A Study of Baricitinib (LY3009104) for the Delay of Stage 3 Type 1 Diabetes in At-Risk Children and Adults</title>
-      <link>https://clinicaltrials.gov/study/NCT07222137</link>
-      <guid isPermaLink="false">clinical-trials:NCT07222137</guid>
       <pubDate>Wed, 02 Sep 2026 12:54:48 GMT</pubDate>
     </item>
     <item>
@@ -216,12 +348,6 @@
       <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>Eli Lilly and Company — RECRUITING PHASE1: A Study of LY4052031 in Participants With Advanced or Metastatic Urothelial Cancer or Other Solid Tumors</title>
-      <link>https://clinicaltrials.gov/study/NCT06465069</link>
-      <guid isPermaLink="false">clinical-trials:NCT06465069</guid>
-      <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
-    </item>
-    <item>
       <title>Eli Lilly and Company — ACTIVE_NOT_RECRUITING PHASE3: The Effect of Retatrutide Once Weekly on Cardiovascular Outcomes and Kidney Outcomes in Adults Living With Obesity (TRIUMPH-Outcomes)</title>
       <link>https://clinicaltrials.gov/study/NCT06383390</link>
       <guid isPermaLink="false">clinical-trials:NCT06383390</guid>
@@ -276,18 +402,6 @@
       <pubDate>Tue, 01 Sep 2026 13:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>Eli Lilly and Company — RECRUITING PHASE2: A Chronic Pain Master Protocol (CPMP): A Study of LY4065967 in Participants With Osteoarthritis Pain</title>
-      <link>https://clinicaltrials.gov/study/NCT07641517</link>
-      <guid isPermaLink="false">clinical-trials:NCT07641517</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — RECRUITING PHASE2: A Chronic Pain Master Protocol (CPMP): A Study of LY4065967 in Participants With Chronic Low Back Pain</title>
-      <link>https://clinicaltrials.gov/study/NCT07641504</link>
-      <guid isPermaLink="false">clinical-trials:NCT07641504</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
-    </item>
-    <item>
       <title>Eli Lilly and Company — RECRUITING PHASE3: A Study of Orforglipron (LY3502970) in Participants With Type 2 Diabetes Who Observe Ramadan Fasting</title>
       <link>https://clinicaltrials.gov/study/NCT07613307</link>
       <guid isPermaLink="false">clinical-trials:NCT07613307</guid>
@@ -318,21 +432,9 @@
       <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
-      <title>Eli Lilly and Company — RECRUITING PHASE2: A Study of Brenipatide in Participants With Opioid Use Disorder</title>
-      <link>https://clinicaltrials.gov/study/NCT07420283</link>
-      <guid isPermaLink="false">clinical-trials:NCT07420283</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
-    </item>
-    <item>
       <title>Eli Lilly and Company — RECRUITING PHASE2: LY4268989 in Adults With Moderately to Severely Active Ulcerative Colitis</title>
       <link>https://clinicaltrials.gov/study/NCT07415044</link>
       <guid isPermaLink="false">clinical-trials:NCT07415044</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — RECRUITING PHASE2: A Study of Brenipatide in Adult Participants With Schizophrenia</title>
-      <link>https://clinicaltrials.gov/study/NCT07410507</link>
-      <guid isPermaLink="false">clinical-trials:NCT07410507</guid>
       <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
@@ -360,18 +462,6 @@
       <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
-      <title>Eli Lilly and Company — RECRUITING PHASE2: A Study of Imlunestrant (LY3484356) in Premenopausal Women With Estrogen Receptor-Positive (ER+) Human Epidermal Growth Factor Receptor 2 Negative (HER2-) Early Breast Cancer</title>
-      <link>https://clinicaltrials.gov/study/NCT07287098</link>
-      <guid isPermaLink="false">clinical-trials:NCT07287098</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — RECRUITING PHASE2: A Study of Brenipatide in Adult Participants With Bipolar Disorder (RENEW-Bipolar-1)</title>
-      <link>https://clinicaltrials.gov/study/NCT07286175</link>
-      <guid isPermaLink="false">clinical-trials:NCT07286175</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
-    </item>
-    <item>
       <title>Eli Lilly and Company — RECRUITING PHASE3: A Study of Eloralintide (LY3841136) in Participants With Obesity or Overweight, and Type 2 Diabetes</title>
       <link>https://clinicaltrials.gov/study/NCT07282600</link>
       <guid isPermaLink="false">clinical-trials:NCT07282600</guid>
@@ -390,18 +480,6 @@
       <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
-      <title>Eli Lilly and Company — RECRUITING PHASE3: A Study of Baricitinib (LY3009104) to Preserve Beta Cell Function in Children and Adults Newly Diagnosed With Type 1 Diabetes (BARICADE-PRESERVE)</title>
-      <link>https://clinicaltrials.gov/study/NCT07222332</link>
-      <guid isPermaLink="false">clinical-trials:NCT07222332</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — RECRUITING PHASE3: A Study of Brenipatide in Participants With Moderate-to-Severe Alcohol Use Disorder</title>
-      <link>https://clinicaltrials.gov/study/NCT07219966</link>
-      <guid isPermaLink="false">clinical-trials:NCT07219966</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
-    </item>
-    <item>
       <title>Eli Lilly and Company — RECRUITING PHASE3: A Study of Brenipatide in Participants With Alcohol Use Disorder</title>
       <link>https://clinicaltrials.gov/study/NCT07219953</link>
       <guid isPermaLink="false">clinical-trials:NCT07219953</guid>
@@ -417,12 +495,6 @@
       <title>Eli Lilly and Company — RECRUITING PHASE3: A Study of Vepugratinib (LY3866288) in Participants With Cancer in the Urinary Tract</title>
       <link>https://clinicaltrials.gov/study/NCT07218380</link>
       <guid isPermaLink="false">clinical-trials:NCT07218380</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — RECRUITING PHASE4: A Study of Pirtobrutinib (LY3527727) in Participants With Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma</title>
-      <link>https://clinicaltrials.gov/study/NCT07218341</link>
-      <guid isPermaLink="false">clinical-trials:NCT07218341</guid>
       <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
@@ -450,21 +522,9 @@
       <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
-      <title>Eli Lilly and Company — RECRUITING PHASE2: A Study to Evaluate LY3537021 for the Treatment of Nausea and Vomiting Caused by Chemotherapy in Adults With Cancer</title>
-      <link>https://clinicaltrials.gov/study/NCT07169851</link>
-      <guid isPermaLink="false">clinical-trials:NCT07169851</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
-    </item>
-    <item>
       <title>Eli Lilly and Company — RECRUITING PHASE3: A Master Protocol of Multiple Agents in Adults With Metabolic Dysfunction-Associated Steatotic Liver Disease (SYNERGY-Outcomes)</title>
       <link>https://clinicaltrials.gov/study/NCT07165028</link>
       <guid isPermaLink="false">clinical-trials:NCT07165028</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — RECRUITING PHASE3: Assessing the Impact of Muvalaplin on Major Cardiovascular Events in Adults With Elevated Lipoprotein(a)</title>
-      <link>https://clinicaltrials.gov/study/NCT07157774</link>
-      <guid isPermaLink="false">clinical-trials:NCT07157774</guid>
       <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
@@ -474,27 +534,9 @@
       <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
-      <title>Eli Lilly and Company — RECRUITING PHASE1: A Study of LY4257496 in Participants With Cancer (OMNIRAY)</title>
-      <link>https://clinicaltrials.gov/study/NCT07114601</link>
-      <guid isPermaLink="false">clinical-trials:NCT07114601</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
-    </item>
-    <item>
       <title>Eli Lilly and Company — RECRUITING PHASE1: A Study of LY4152199 in Participants With Previously Treated B-cell Malignancies (BAF_FRontier-1 )</title>
       <link>https://clinicaltrials.gov/study/NCT07101328</link>
       <guid isPermaLink="false">clinical-trials:NCT07101328</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — RECRUITING PHASE3: Mirikizumab and Tirzepatide Administered in Adult Participants With Moderately to Severely Active Crohn's Disease and Obesity or Overweight</title>
-      <link>https://clinicaltrials.gov/study/NCT06937099</link>
-      <guid isPermaLink="false">clinical-trials:NCT06937099</guid>
-      <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — RECRUITING PHASE3: Mirikizumab Administered at the Same Time as Tirzepatide in Adult Participants With Moderately to Severely Active Ulcerative Colitis and Obesity or Overweight: Phase 3b Study</title>
-      <link>https://clinicaltrials.gov/study/NCT06937086</link>
-      <guid isPermaLink="false">clinical-trials:NCT06937086</guid>
       <pubDate>Mon, 31 Aug 2026 15:12:39 GMT</pubDate>
     </item>
     <item>
@@ -562,48 +604,6 @@
       <link>https://clinicaltrials.gov/study/NCT07612267</link>
       <guid isPermaLink="false">clinical-trials:NCT07612267</guid>
       <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — COMPLETED PHASE3: A Study to Investigate the Efficacy and Safety of Lebrikizumab in Participants With Moderate-to-Severe Atopic Hand and Foot Dermatitis</title>
-      <link>https://clinicaltrials.gov/study/NCT06921759</link>
-      <guid isPermaLink="false">clinical-trials:NCT06921759</guid>
-      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — RECRUITING PHASE1: FORAGER-1: A Study of Vepugratinib (LY3866288; LOXO-435) in Participants With Cancer With a Change in a Gene Called FGFR3</title>
-      <link>https://clinicaltrials.gov/study/NCT05614739</link>
-      <guid isPermaLink="false">clinical-trials:NCT05614739</guid>
-      <pubDate>Fri, 28 Aug 2026 14:54:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — NOT_YET_RECRUITING PHASE3: A Study of Orforglipron (LY3502970) Compared With Dulaglutide in Pediatric Participants With Type 2 Diabetes</title>
-      <link>https://clinicaltrials.gov/study/NCT07668336</link>
-      <guid isPermaLink="false">clinical-trials:NCT07668336</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — ACTIVE_NOT_RECRUITING PHASE1: A Study of Food Effect on Tersolisib (LY4064809) in Healthy Participants</title>
-      <link>https://clinicaltrials.gov/study/NCT07662798</link>
-      <guid isPermaLink="false">clinical-trials:NCT07662798</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — COMPLETED PHASE1: A Study of LY4065967 in Healthy Participants</title>
-      <link>https://clinicaltrials.gov/study/NCT07607483</link>
-      <guid isPermaLink="false">clinical-trials:NCT07607483</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — ACTIVE_NOT_RECRUITING PHASE1: A Study of Eloralintide (LY3841136) in Participants With Renal Impairment and in Participants With Normal Renal Function</title>
-      <link>https://clinicaltrials.gov/study/NCT07426380</link>
-      <guid isPermaLink="false">clinical-trials:NCT07426380</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eli Lilly and Company — COMPLETED PHASE1: A Study of LY4086940 in Healthy Participants and Participants With Overweight or Obesity, With or Without Type 2 Diabetes</title>
-      <link>https://clinicaltrials.gov/study/NCT06945419</link>
-      <guid isPermaLink="false">clinical-trials:NCT06945419</guid>
-      <pubDate>Thu, 27 Aug 2026 14:32:20 GMT</pubDate>
     </item>
   </channel>
 </rss>

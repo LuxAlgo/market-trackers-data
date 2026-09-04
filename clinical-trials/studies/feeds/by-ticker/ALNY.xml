@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — ALNY</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 15:13:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
     <item>
       <title>Alnylam Pharmaceuticals — RECRUITING PHASE1: A Study to Evaluate ALN-6222 in Participants With Obesity</title>
       <link>https://clinicaltrials.gov/study/NCT07624071</link>
       <guid isPermaLink="false">clinical-trials:NCT07624071</guid>
-      <pubDate>Thu, 03 Sep 2026 15:13:17 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
     </item>
     <item>
       <title>Alnylam Pharmaceuticals — ACTIVE_NOT_RECRUITING PHASE2: A Phase 2 Trial of ALN-APP in Patients With Cerebral Amyloid Angiopathy</title>
       <link>https://clinicaltrials.gov/study/NCT06393712</link>
       <guid isPermaLink="false">clinical-trials:NCT06393712</guid>
-      <pubDate>Thu, 03 Sep 2026 15:13:17 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
     </item>
     <item>
       <title>Alnylam Pharmaceuticals — RECRUITING PHASE3: Zilebesiran in Patients With Hypertension Not Adequately Controlled and With Either Established Cardiovascular Disease or High Risk for Cardiovascular Disease</title>

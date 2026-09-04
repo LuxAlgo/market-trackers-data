@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — CYTK</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 15:13:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
     <item>
       <title>Cytokinetics — RECRUITING PHASE2: AMBER-HFpEF: Assessment of CK-4021586 in a Multi-Center, Blinded Evaluation of Safety and Tolerability Results in HFpEF</title>
       <link>https://clinicaltrials.gov/study/NCT06793371</link>
       <guid isPermaLink="false">clinical-trials:NCT06793371</guid>
-      <pubDate>Thu, 03 Sep 2026 15:13:17 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
     </item>
     <item>
       <title>Cytokinetics — RECRUITING PHASE3: Study With Omecamtiv Mecarbil (CK-1827452) to Treat Chronic Heart Failure With Severely Reduced Ejection Fraction</title>
       <link>https://clinicaltrials.gov/study/NCT06736574</link>
       <guid isPermaLink="false">clinical-trials:NCT06736574</guid>
-      <pubDate>Thu, 03 Sep 2026 15:13:17 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
     </item>
   </channel>
 </rss>

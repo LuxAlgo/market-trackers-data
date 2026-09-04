@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Insider transactions — QMLS</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 12:45:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
     <item>
       <title>MULICA MICHAEL C (QMLS) A: 9583 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/2084026/0001211437-26-000002-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001211437-26-000002:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 12:45:09 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:54:54 GMT</pubDate>
     </item>
     <item>
       <title>MULICA MICHAEL C (QMLS) A: 9583 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/2084026/0001211437-26-000002-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001211437-26-000002:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 12:45:09 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:54:54 GMT</pubDate>
     </item>
     <item>
       <title>Glickler Andrew Mark (QMLS) A: 57496 shares @ $0</title>

@@ -4,30 +4,30 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — TEM</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 15:13:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
     <item>
       <title>Tempus AI — RECRUITING: Evaluating Minimal Residual Disease (MRD) Through Longitudinal Circulating Tumor DNA (ctDNA) Profiling in Breast Malignancies</title>
       <link>https://clinicaltrials.gov/study/NCT07211178</link>
       <guid isPermaLink="false">clinical-trials:NCT07211178</guid>
-      <pubDate>Thu, 03 Sep 2026 15:13:17 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
     </item>
     <item>
       <title>Tempus AI — RECRUITING: A Longitudinal Multi-Center Molecular Biomarker Discovery Registry for Patients With Hematologic Malignancies</title>
       <link>https://clinicaltrials.gov/study/NCT07154823</link>
       <guid isPermaLink="false">clinical-trials:NCT07154823</guid>
-      <pubDate>Thu, 03 Sep 2026 15:13:17 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
     </item>
     <item>
       <title>Tempus AI — RECRUITING NA: Multi-site Study of the Clinical Impact of an AI-assisted Approach to Referring Patients With Interstitial Lung Disease for Diagnostic Evaluation of Pulmonary Hypertension</title>
       <link>https://clinicaltrials.gov/study/NCT06911632</link>
       <guid isPermaLink="false">clinical-trials:NCT06911632</guid>
-      <pubDate>Thu, 03 Sep 2026 15:13:17 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
     </item>
     <item>
       <title>Tempus AI — RECRUITING: A Longitudinal Multi-Omic Biomarker Profiling Study of Patients With Head &amp; Neck Squamous Cell Carcinoma (HNSCC)</title>
       <link>https://clinicaltrials.gov/study/NCT06163534</link>
       <guid isPermaLink="false">clinical-trials:NCT06163534</guid>
-      <pubDate>Thu, 03 Sep 2026 15:13:17 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:58:56 GMT</pubDate>
     </item>
   </channel>
 </rss>

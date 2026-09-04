@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Short-sale volume — ABVC</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 15:13:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
+    <item>
+      <title>ABVC 2026-09-03: 55038/79308.287469 short (69.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ABVC:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
+    </item>
     <item>
       <title>ABVC 2026-09-02: 65202/88213.88532 short (73.9%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>

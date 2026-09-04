@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Short-sale volume — ACIO</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 15:13:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
+    <item>
+      <title>ACIO 2026-09-03: 33313/74460.792584 short (44.7%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ACIO:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
+    </item>
     <item>
       <title>ACIO 2026-09-02: 35207/102771.802776 short (34.3%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>

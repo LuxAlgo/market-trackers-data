@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Insider transactions — FRPT</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 12:45:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
     <item>
       <title>Baty Nicola J. (FRPT) F: 395 shares @ $70.46</title>
       <link>https://www.sec.gov/Archives/edgar/data/2035663/0000929638-26-003448-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0000929638-26-003448:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 12:44:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:54:42 GMT</pubDate>
     </item>
     <item>
       <title>Baty Nicola J. (FRPT) F: 1687 shares @ $70.46</title>
       <link>https://www.sec.gov/Archives/edgar/data/2035663/0000929638-26-003448-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0000929638-26-003448:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 12:44:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:54:42 GMT</pubDate>
     </item>
     <item>
       <title>Cyr William B. (FRPT) S: 979 shares @ $75.4</title>

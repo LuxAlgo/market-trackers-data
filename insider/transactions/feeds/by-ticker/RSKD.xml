@@ -4,42 +4,42 @@
     <title>LuxAlgo Market Trackers — Insider transactions — RSKD</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 12:45:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
     <item>
       <title>Feldman Assaf (RSKD) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1907705/0001907705-26-000017-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001907705-26-000017:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 12:44:32 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:54:18 GMT</pubDate>
     </item>
     <item>
       <title>Feldman Assaf (RSKD) S: 43904 shares @ $6.5076</title>
       <link>https://www.sec.gov/Archives/edgar/data/1907705/0001907705-26-000017-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001907705-26-000017:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 12:44:32 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:54:18 GMT</pubDate>
     </item>
     <item>
       <title>Shachar Erez (RSKD) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1851112/0001601099-26-000059-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001601099-26-000059:nd:2</guid>
-      <pubDate>Fri, 04 Sep 2026 12:44:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:54:06 GMT</pubDate>
     </item>
     <item>
       <title>Shachar Erez (RSKD) S: 100000 shares @ $6.4686</title>
       <link>https://www.sec.gov/Archives/edgar/data/1851112/0001601099-26-000059-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001601099-26-000059:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 12:44:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:54:06 GMT</pubDate>
     </item>
     <item>
       <title>Shachar Erez (RSKD) C: 2359974 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1851112/0001601099-26-000059-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001601099-26-000059:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 12:44:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:54:06 GMT</pubDate>
     </item>
     <item>
       <title>Shachar Erez (RSKD) C: 2359974 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1851112/0001601099-26-000059-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001601099-26-000059:d:0</guid>
-      <pubDate>Fri, 04 Sep 2026 12:44:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:54:06 GMT</pubDate>
     </item>
     <item>
       <title>Shachar Erez (RSKD) holding</title>

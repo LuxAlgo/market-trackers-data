@@ -4,606 +4,606 @@
     <title>LuxAlgo Market Trackers — Short-sale volume</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 15:13:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
     <item>
-      <title>ZYME 2026-09-02: 159691.060691/249192.568624 short (64.1%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZYME:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZYME 2026-09-03: 169447.331773/239021.382182 short (70.9%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZYME:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZYBT 2026-09-02: 7337.61162/35803.266295 short (20.5%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZYBT:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZYBT 2026-09-03: 1262.223602/8059.891882 short (15.7%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZYBT:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZWS 2026-09-02: 141332.819353/248987.455078 short (56.8%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZWS:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZWS 2026-09-03: 128098.03605/203115.372797 short (63.1%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZWS:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZVRA 2026-09-02: 188295.732805/469807.148046 short (40.1%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZVRA:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZVRA 2026-09-03: 129151.080353/334483.602645 short (38.6%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZVRA:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZVOL 2026-09-02: 37948.1147/66756.348191 short (56.8%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZVOL:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZVOL 2026-09-03: 26396/32325.688938 short (81.7%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZVOL:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZVIA 2026-09-02: 45718.972728/93336.126747 short (49.0%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZVIA:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZVIA 2026-09-03: 53553.149266/121871.922638 short (43.9%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZVIA:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZURA 2026-09-02: 205881.137061/297591.843636 short (69.2%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZURA:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZURA 2026-09-03: 398783.354347/635277.62366 short (62.8%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZURA:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZUMZ 2026-09-02: 37216.596315/63688.795132 short (58.4%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZUMZ:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZUMZ 2026-09-03: 43032.016029/60675.363245 short (70.9%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZUMZ:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZTWO 2026-09-02: 4/1179.9203 short (0.3%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZTWO:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZTWO 2026-09-03: 2/601.4473 short (0.3%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZTWO:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZTS 2026-09-02: 760400.509762/1487058.215996 short (51.1%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZTS:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZTS 2026-09-03: 524567.72379/1206694.693093 short (43.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZTS:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZTRE 2026-09-02: 377/2691.619273 short (14.0%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZTRE:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZTRE 2026-09-03: 907/2508.0834 short (36.2%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZTRE:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZTR 2026-09-02: 39227.55118/69287.323328 short (56.6%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZTR:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZTR 2026-09-03: 13871.565031/32095.03227 short (43.2%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZTR:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZTOP 2026-09-02: 182/1067.7511 short (17.0%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZTOP:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZTOP 2026-09-03: 326/872.0681 short (37.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZTOP:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZTO 2026-09-02: 342824.830638/450028.661379 short (76.2%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZTO:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZTO 2026-09-03: 442670.182675/636777.818051 short (69.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZTO:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZTG 2026-09-02: 8193/22560.625404 short (36.3%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZTG:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZTG 2026-09-03: 43545/69446.177456 short (62.7%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZTG:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZTEN 2026-09-02: 733/3502.0781 short (20.9%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZTEN:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZTEN 2026-09-03: 1358/3037.9851 short (44.7%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZTEN:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZTAX 2026-09-02: 5/108.8939 short (4.6%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZTAX:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZTAX 2026-09-03: 54/185.4048 short (29.1%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZTAX:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZSTK 2026-09-02: 11531.845384/23778.8923 short (48.5%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZSTK:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZSTK 2026-09-03: 7241.910527/22134.133259 short (32.7%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZSTK:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZSQR 2026-09-02: 90366.186042/169682.506145 short (53.3%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZSQR:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZSQR 2026-09-03: 80780.730354/124087.603396 short (65.1%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZSQR:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZSL 2026-09-02: 455454.184381/985752.425573 short (46.2%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZSL:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZSL 2026-09-03: 980440.746839/1599287.60781 short (61.3%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZSL:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZSEP 2026-09-02: 386854.5607/500582.385837 short (77.3%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZSEP:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZSEP 2026-09-03: 232676.3503/383444.572 short (60.7%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZSEP:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZSC 2026-09-02: 205/218.8052 short (93.7%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZSC:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZSC 2026-09-03: 129/132.7612 short (97.2%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZSC:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZSB 2026-09-02: 4.1345/10.221 short (40.5%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZSB:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZSB 2026-09-03: 103.0906/109.1797 short (94.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZSB:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZS 2026-09-02: 388082.150718/1051952.92481 short (36.9%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZS:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZS 2026-09-03: 923074.112141/2348817.18994 short (39.3%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZS:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZROZ 2026-09-02: 106535.433271/143251.574307 short (74.4%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZROZ:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZROZ 2026-09-03: 65046.485254/121402.528918 short (53.6%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZROZ:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZOOZ 2026-09-02: 1143/2691.14179 short (42.5%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZOOZ:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZOOZW 2026-09-03: 4600/4634 short (99.3%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZOOZW:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZONE 2026-09-02: 1466299/3425464.347 short (42.8%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZONE:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZOOZ 2026-09-03: 21915.735193/77514.60577 short (28.3%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZOOZ:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZOCT 2026-09-02: 395/12100.4584 short (3.3%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZOCT:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZONE 2026-09-03: 748882.5222/1607356.391735 short (46.6%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZONE:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZNTL 2026-09-02: 266266.252537/394792.871152 short (67.4%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZNTL:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZOCT 2026-09-03: 600/5809.4584 short (10.3%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZOCT:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZNOV 2026-09-02: 2011/6502.2151 short (30.9%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZNOV:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZNTL 2026-09-03: 235162.612492/479577.507962 short (49.0%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZNTL:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZNB 2026-09-02: 18121/29096.738362 short (62.3%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZNB:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZNOV 2026-09-03: 942/5051.6386 short (18.6%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZNOV:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZMUN 2026-09-02: 380/691.781134 short (54.9%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZMUN:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZNB 2026-09-03: 5990/10249.367296 short (58.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZNB:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZMAY 2026-09-02: 60/3249.7535 short (1.8%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZMAY:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZMUN 2026-09-03: 1346/2540.422134 short (53.0%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZMUN:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZMAR 2026-09-02: 3/2308.799 short (0.1%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZMAR:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZMAY 2026-09-03: 1024/3158.7535 short (32.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZMAY:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZM 2026-09-02: 369361.552877/1021537.315762 short (36.2%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZM:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZM 2026-09-03: 428787.671258/944943.778907 short (45.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZM:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZLAB 2026-09-02: 297702.36997/490139.91361 short (60.7%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZLAB:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZLAB 2026-09-03: 225915.723663/273361.628992 short (82.6%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZLAB:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZKP 2026-09-02: 23/81 short (28.4%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZKP:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZKP 2026-09-03: 3/13 short (23.1%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZKP:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZKIN 2026-09-02: 118/16581.0718 short (0.7%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZKIN:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZKIN 2026-09-03: 56/587.905133 short (9.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZKIN:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZKH 2026-09-02: 2865/10831.8091 short (26.4%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZKH:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZKH 2026-09-03: 15176/56012.887572 short (27.1%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZKH:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZJYL 2026-09-02: 9725.775627/13750.828945 short (70.7%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZJYL:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZJYL 2026-09-03: 6426/12154.694193 short (52.9%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZJYL:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZJUN 2026-09-02: 2171/36352.9936 short (6.0%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZJUN:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZJUN 2026-09-03: 19459/236627.5136 short (8.2%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZJUN:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZJUL 2026-09-02: 3654/7804.464 short (46.8%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZJUL:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZJUL 2026-09-03: 7157.5195/18278.056 short (39.2%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZJUL:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZJK 2026-09-02: 3399/6746.785206 short (50.4%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZJK:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZJK 2026-09-03: 4920.55909/9226.264798 short (53.3%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZJK:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZJAN 2026-09-02: 1581/1730.1302 short (91.4%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZJAN:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZJAN 2026-09-03: 7498/111375.1302 short (6.7%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZJAN:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZIP 2026-09-02: 172118.090354/362189.227038 short (47.5%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZIP:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZIP 2026-09-03: 127523.919562/197938.760044 short (64.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZIP:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZIONP 2026-09-02: 831/3160.8226 short (26.3%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZIONP:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZIONP 2026-09-03: 2202/4300.4874 short (51.2%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZIONP:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZION 2026-09-02: 335528.797841/438420.635554 short (76.5%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZION:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZION 2026-09-03: 286249.772726/445016.724317 short (64.3%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZION:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZINN 2026-09-02: 77/187428.6145 short (0.0%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZINN:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZINC 2026-09-03: 119/259.6983 short (45.8%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZINC:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZINC 2026-09-02: 494.693/1025.0469 short (48.3%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZINC:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZIM 2026-09-03: 89288.059091/308197.840517 short (29.0%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZIM:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZIM 2026-09-02: 159583.775603/699898.153652 short (22.8%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZIM:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZIG 2026-09-03: 3.219514/32.704576 short (9.8%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZIG:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZIG 2026-09-02: 37.901226/127.905686 short (29.6%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZIG:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZHOG 2026-09-03: 675/863.6206 short (78.2%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZHOG:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZHOG 2026-09-02: 2/2305.6206 short (0.1%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZHOG:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZHDG 2026-09-03: 1060.2838/2959.2003 short (35.8%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZHDG:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZHDG 2026-09-02: 3.8517/312.3699 short (1.2%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZHDG:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZH 2026-09-03: 123021.281798/163731.715108 short (75.1%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZH:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZH 2026-09-02: 71184.511151/108982.532058 short (65.3%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZH:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZGN 2026-09-03: 812614.87987/1051930.641053 short (77.2%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZGN:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZGN 2026-09-02: 292126.56529/613080.942315 short (47.6%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZGN:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZG 2026-09-03: 94320.788881/162233.58363 short (58.1%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZG:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZG 2026-09-02: 122919.560832/162455.596103 short (75.7%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZG:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZFEB 2026-09-03: 400/14668.3961 short (2.7%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZFEB:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZFEB 2026-09-02: 1318/13854.5315 short (9.5%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZFEB:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZETA 2026-09-03: 1261704.565771/3285331.399307 short (38.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZETA:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZETA 2026-09-02: 2420434.228323/3973337.741338 short (60.9%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZETA:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZEPP 2026-09-03: 4143.210418/7254.106568 short (57.1%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZEPP:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZEPP 2026-09-02: 18713.502251/42123.888213 short (44.4%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZEPP:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZEO 2026-09-03: 52967/286357.530209 short (18.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZEO:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZEO 2026-09-02: 391895/825431.343285 short (47.5%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZEO:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZENA 2026-09-03: 732479.549258/1135663.250339 short (64.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZENA:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZENA 2026-09-02: 776946.733125/1089115.104443 short (71.3%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZENA:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZECP 2026-09-03: 14174.1862/22866.467097 short (62.0%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZECP:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZECP 2026-09-02: 20883.808208/24453.884399 short (85.4%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZECP:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZDIS 2026-09-03: 2262/8071.9479 short (28.0%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZDIS:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZDIS 2026-09-02: 6874.9712/10013.5579 short (68.7%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZDIS:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZDGE 2026-09-03: 13070.957533/31234.182837 short (41.8%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZDGE:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZDGE 2026-09-02: 33364.5987/72958.4946 short (45.7%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZDGE:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZDEK 2026-09-03: 2/146.5897 short (1.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZDEK:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZDEK 2026-09-02: 207/2911.5897 short (7.1%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZDEK:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZDAI 2026-09-03: 228/2197.8615 short (10.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZDAI:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZDAI 2026-09-02: 5200/10260.549 short (50.7%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZDAI:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZD 2026-09-03: 133177.18999/170607.327337 short (78.1%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZD:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZD 2026-09-02: 205863.543237/280111.271144 short (73.5%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZD:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZCSH 2026-09-03: 284394.979567/369061.145625 short (77.1%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZCSH:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZCSH 2026-09-02: 49916.488372/100648.346511 short (49.6%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZCSH:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZCMD 2026-09-03: 51791/85672.237264 short (60.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZCMD:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZCMD 2026-09-02: 128186/204726.719727 short (62.6%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZCMD:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZCBG 2026-09-03: 4/7.0146 short (57.0%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZCBG:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZCBG 2026-09-02: 2/5.2236 short (38.3%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZCBG:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZCBF 2026-09-03: 2/5 short (40.0%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZCBF:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZCBF 2026-09-02: 3/6 short (50.0%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZCBF:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZCBE 2026-09-03: 1/7.0138 short (14.3%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZCBE:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZCBC 2026-09-02: 1/6.0204 short (16.6%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZCBC:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZCBC 2026-09-03: 2/7.0204 short (28.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZCBC:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZCBB 2026-09-02: 3/6 short (50.0%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZCBB:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZCBB 2026-09-03: 4/7 short (57.1%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZCBB:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZCBA 2026-09-02: 3/6 short (50.0%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZCBA:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZCBA 2026-09-03: 3/7 short (42.9%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZCBA:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZBRA 2026-09-02: 84325.827588/217637.867043 short (38.7%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZBRA:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZBRA 2026-09-03: 93780.785149/166063.568283 short (56.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZBRA:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZBIO 2026-09-02: 100610.38635/444829.774106 short (22.6%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZBIO:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZBIO 2026-09-03: 152640.437026/209079.38064 short (73.0%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZBIO:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZBH 2026-09-02: 315804.996222/476203.132645 short (66.3%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZBH:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZBH 2026-09-03: 263582.443458/441233.89566 short (59.7%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZBH:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZBAO 2026-09-02: 476735/939236.362 short (50.8%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZBAO:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZBAO 2026-09-03: 2173104.483/4117877.121776 short (52.8%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZBAO:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZAUG 2026-09-02: 2460/141410.5292 short (1.7%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZAUG:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZAUG 2026-09-03: 221734/275164.792288 short (80.6%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZAUG:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZAPR 2026-09-02: 302.3785/2401.0007 short (12.6%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZAPR:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZAPR 2026-09-03: 3/616.2437 short (0.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZAPR:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZAP 2026-09-02: 53297.880951/124046.39284 short (43.0%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZAP:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZAP 2026-09-03: 13794.898129/45771.407806 short (30.1%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZAP:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>ZALT 2026-09-02: 37508.4176/58024.07751 short (64.6%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:ZALT:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>ZALT 2026-09-03: 50053.1699/70561.4784 short (70.9%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ZALT:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>Z 2026-09-02: 462227.888021/1050540.476538 short (44.0%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:Z:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>Z 2026-09-03: 524724.378891/1080408.744465 short (48.6%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:Z:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>YYYM 2026-09-02: 35/73.733 short (47.5%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:YYYM:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>YYYM 2026-09-03: 396/939.48833 short (42.2%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:YYYM:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>YYY 2026-09-02: 72495.899125/144771.836146 short (50.1%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:YYY:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>YYY 2026-09-03: 100067.630751/216268.388772 short (46.3%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:YYY:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>YYAI 2026-09-02: 33331/113014.78842 short (29.5%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:YYAI:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>YYAI 2026-09-03: 25020.3249/59313.558157 short (42.2%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:YYAI:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>YXT 2026-09-02: 18465/22192.193 short (83.2%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:YXT:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>YXT 2026-09-03: 904/5379.1762 short (16.8%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:YXT:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>YXI 2026-09-02: 69.01/193.2123 short (35.7%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:YXI:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>YXI 2026-09-03: 504/670.157736 short (75.2%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:YXI:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>YUNG 2026-09-02: 3/6 short (50.0%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:YUNG:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>YUNG 2026-09-03: 23.3272/26.3272 short (88.6%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:YUNG:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>YUMC 2026-09-02: 188258.63031/548491.16642 short (34.3%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:YUMC:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>YUMC 2026-09-03: 255093.797924/554822.278738 short (46.0%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:YUMC:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>YUM 2026-09-02: 320271.037195/556599.70587 short (57.5%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:YUM:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>YUM 2026-09-03: 396512.668443/547486.645767 short (72.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:YUM:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>YTRA 2026-09-02: 37844/64401.90196 short (58.8%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:YTRA:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>YTRA 2026-09-03: 18138.155377/30954.156551 short (58.6%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:YTRA:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>YSXT 2026-09-02: 3867/6228 short (62.1%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:YSXT:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>YSXT 2026-09-03: 4239.749943/5738.932622 short (73.9%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:YSXT:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>YSWY 2026-09-02: 37086.812677/100634.255727 short (36.9%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:YSWY:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>YSWY 2026-09-03: 35807.871792/86351.051236 short (41.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:YSWY:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>YSS 2026-09-02: 952062.064738/1486108.086534 short (64.1%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:YSS:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>YSS 2026-09-03: 774596.54658/1184134.077365 short (65.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:YSS:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>YSPY 2026-09-02: 699/3961.1396 short (17.6%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:YSPY:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>YSPY 2026-09-03: 602.1895/3665.55059 short (16.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:YSPY:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>YSPC 2026-09-02: 15331.5811/19411.684869 short (79.0%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:YSPC:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>YSPC 2026-09-03: 7271.4275/19837.4825 short (36.7%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:YSPC:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>YSG 2026-09-02: 15325.506028/39050.124635 short (39.2%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:YSG:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>YSG 2026-09-03: 14446.097563/27774.764366 short (52.0%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:YSG:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>YSEP 2026-09-02: 3335/34798.5209 short (9.6%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:YSEP:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>YSEP 2026-09-03: 2221.9029/12117.5066 short (18.3%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:YSEP:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>YSAU 2026-09-02: 1524/1528.1142 short (99.7%)</title>
-      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
-      <guid isPermaLink="false">short-volume:2026-09-02:YSAU:CNMS</guid>
-      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+      <title>YSAU 2026-09-03: 45/298.2972 short (15.1%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:YSAU:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
     </item>
   </channel>
 </rss>

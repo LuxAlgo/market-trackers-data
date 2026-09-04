@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Short-sale volume — ADT</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 15:13:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
+    <item>
+      <title>ADT 2026-09-03: 1666336.71443/3135217.081792 short (53.1%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:ADT:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
+    </item>
     <item>
       <title>ADT 2026-09-02: 1134214.363078/2032542.229625 short (55.8%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>

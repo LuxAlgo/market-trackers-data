@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Wikipedia pageviews — CRM</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Daily per-article Wikipedia pageview counts for a curated map of public-company articles, from the Wikimedia REST pageviews API (keyless, CC0 counts). Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 15:13:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:06:37 GMT</lastBuildDate>
+    <item>
+      <title>Salesforce (CRM): 1599 views on 2026-09-03</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Salesforce/daily/2026090300/2026090300</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Salesforce:2026-09-03</guid>
+      <pubDate>Fri, 04 Sep 2026 12:59:05 GMT</pubDate>
+    </item>
     <item>
       <title>Salesforce (CRM): 1555 views on 2026-09-01</title>
       <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Salesforce/daily/2026090100/2026090100</link>

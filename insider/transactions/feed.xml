@@ -4,606 +4,606 @@
     <title>LuxAlgo Market Trackers — Insider transactions</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 01:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
     <item>
-      <title>JOHNSON MERCEDES (TER) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/97210/0000904454-26-000478-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000904454-26-000478:nd:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:13 GMT</pubDate>
+      <title>HACHIGIAN KIRK S (PCAR) J: 221.8745 shares @ $122.13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/75362/0001225208-26-007638-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007638:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>JOHNSON MERCEDES (TER) S: 167 shares @ $341.3</title>
-      <link>https://www.sec.gov/Archives/edgar/data/97210/0000904454-26-000478-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000904454-26-000478:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:13 GMT</pubDate>
+      <title>CARNWATH ALISON J (PCAR) J: 65.958 shares @ $122.13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/75362/0001225208-26-007637-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007637:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 1478 shares @ $175.5103</title>
-      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002485-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000950142-26-002485:nd:9</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Breber Pierre R (PCAR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/75362/0001225208-26-007636-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007636:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 20 shares @ $179.08</title>
-      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002485-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000950142-26-002485:nd:8</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Breber Pierre R (PCAR) J: 12.0039 shares @ $122.13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/75362/0001225208-26-007636-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007636:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 2264 shares @ $178.3361</title>
-      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002485-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000950142-26-002485:nd:7</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Breber Pierre R (PCAR) J: 11.5669 shares @ $122.13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/75362/0001225208-26-007636-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007636:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 2986 shares @ $177.5537</title>
-      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002485-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000950142-26-002485:nd:6</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Davies Philip D (VICR) S: 100 shares @ $184.85</title>
+      <link>https://www.sec.gov/Archives/edgar/data/751978/0001193125-26-381653-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381653:nd:4</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 4463 shares @ $176.1848</title>
-      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002485-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000950142-26-002485:nd:5</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Davies Philip D (VICR) S: 700 shares @ $178.66</title>
+      <link>https://www.sec.gov/Archives/edgar/data/751978/0001193125-26-381653-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381653:nd:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 267 shares @ $175.9481</title>
-      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002485-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000950142-26-002485:nd:4</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Davies Philip D (VICR) S: 1100 shares @ $177.6312</title>
+      <link>https://www.sec.gov/Archives/edgar/data/751978/0001193125-26-381653-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381653:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 122 shares @ $178.1843</title>
-      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002485-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000950142-26-002485:nd:3</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Davies Philip D (VICR) S: 1173 shares @ $176.5922</title>
+      <link>https://www.sec.gov/Archives/edgar/data/751978/0001193125-26-381653-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381653:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 1052 shares @ $177.1827</title>
-      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002485-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000950142-26-002485:nd:2</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Davies Philip D (VICR) M: 3073 shares @ $41.61</title>
+      <link>https://www.sec.gov/Archives/edgar/data/751978/0001193125-26-381653-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381653:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002485-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000950142-26-002485:nd:14</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Davies Philip D (VICR) M: 3073 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/751978/0001193125-26-381653-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381653:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 356 shares @ $179.0858</title>
-      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002485-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000950142-26-002485:nd:13</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>MONROE CAROLYN (ORI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/74260/0000074260-26-000098-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000074260-26-000098:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 1680 shares @ $178.5792</title>
-      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002485-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000950142-26-002485:nd:12</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>MONROE CAROLYN (ORI) S: 4386 shares @ $42.01</title>
+      <link>https://www.sec.gov/Archives/edgar/data/74260/0000074260-26-000098-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000074260-26-000098:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 5509 shares @ $177.3829</title>
-      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002485-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000950142-26-002485:nd:11</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Hunstad Michael (NTRS) F: 622 shares @ $183.86</title>
+      <link>https://www.sec.gov/Archives/edgar/data/73124/0002086167-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002086167-26-000006:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 977 shares @ $176.6149</title>
-      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002485-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000950142-26-002485:nd:10</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Lantheus Holdings, Inc. (CATX) S: 35769 shares @ $3.1193</title>
+      <link>https://www.sec.gov/Archives/edgar/data/728387/0002064832-26-000310-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002064832-26-000310:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 7149 shares @ $176.3437</title>
-      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002485-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000950142-26-002485:nd:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>LINCOLN NATIONAL LIFE INSURANCE CO /IN/ (CSQ) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726865/0001193125-26-381177-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381177:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 1677 shares @ $175.7694</title>
-      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002485-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000950142-26-002485:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>LINCOLN NATIONAL LIFE INSURANCE CO /IN/ (CSQ) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726865/0001193125-26-381177-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381177:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002485-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000950142-26-002485:d:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Morris Milton Mayo (NDSN) S: 156 shares @ $316.63</title>
+      <link>https://www.sec.gov/Archives/edgar/data/72331/0001454309-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001454309-26-000005:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>MALONE JOHN C (GLIBK) X: 13400 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/937797/0001104659-26-104854-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001104659-26-104854:d:5</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>FIELD Robert C (FUSB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/717806/0001193125-26-381287-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381287:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>MALONE JOHN C (GLIBK) E: 13400 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/937797/0001104659-26-104854-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001104659-26-104854:d:4</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>FIELD Robert C (FUSB) P: 288 shares @ $16.4</title>
+      <link>https://www.sec.gov/Archives/edgar/data/717806/0001193125-26-381287-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381287:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>MALONE JOHN C (GLIBK) X: 13400 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/937797/0001104659-26-104854-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001104659-26-104854:d:3</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>FIELD Robert C (FUSB) P: 3300 shares @ $16.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/717806/0001193125-26-381287-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381287:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>MALONE JOHN C (GLIBK) E: 13400 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/937797/0001104659-26-104854-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001104659-26-104854:d:2</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Gregorio Mauro (GHM) M: 936 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/716314/0000891839-26-000388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000891839-26-000388:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>MALONE JOHN C (GLIBK) X: 13400 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/937797/0001104659-26-104854-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001104659-26-104854:d:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Gregorio Mauro (GHM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/716314/0000891839-26-000388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000891839-26-000388:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>MALONE JOHN C (GLIBK) E: 13400 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/937797/0001104659-26-104854-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001104659-26-104854:d:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Gregorio Mauro (GHM) M: 936 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/716314/0000891839-26-000388-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000891839-26-000388:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>Read Craig Jack (STT) A: 9408 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/93751/0000093751-26-000575-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000093751-26-000575:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>HENDRIX DANIEL T (TILE) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715787/0001094629-26-000001-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001094629-26-000001:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>SMITH GARY B (CIEN) S: 2952 shares @ $362.899</title>
-      <link>https://www.sec.gov/Archives/edgar/data/936395/0001032553-26-000037-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001032553-26-000037:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>HENDRIX DANIEL T (TILE) S: 8000 shares @ $37.13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715787/0001094629-26-000001-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001094629-26-000001:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>DONEGAL MUTUAL INSURANCE CO (DGICA) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000022-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000935596-26-000022:nd:2</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Kokubu Fumiya (HMC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380943-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380943:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>DONEGAL MUTUAL INSURANCE CO (DGICA) P: 9257 shares @ $19.1675</title>
-      <link>https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000022-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000935596-26-000022:nd:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Kokubu Fumiya (HMC) A: 70 shares @ $10.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380943-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380943:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>DONEGAL MUTUAL INSURANCE CO (DGICA) P: 10000 shares @ $19.1765</title>
-      <link>https://www.sec.gov/Archives/edgar/data/935596/0000935596-26-000022-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000935596-26-000022:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Nagata Ryoko (HMC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380942-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380942:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>Pfirrman Christopher Keith (UPBD) A: 82755 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/933036/0001193125-26-380315-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380315:d:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Nagata Ryoko (HMC) A: 70 shares @ $10.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380942-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380942:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>Montrone Ralph T. (UPBD) A: 33226 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/933036/0001193125-26-380289-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380289:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Igarashi Masayuki (HMC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380939-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380939:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>Montrone Ralph T. (UPBD) A: 99679 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/933036/0001193125-26-380289-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380289:d:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Igarashi Masayuki (HMC) A: 454 shares @ $10.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380939-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380939:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>Wooters Rebecca (UPBD) A: 158221 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/933036/0001193125-26-380286-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380286:d:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Higashi Kazuhiro (HMC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380938-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380938:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>Taylor Transient C (UPBD) A: 22430 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/933036/0001193125-26-380278-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380278:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Higashi Kazuhiro (HMC) A: 70 shares @ $10.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380938-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380938:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>Taylor Transient C (UPBD) A: 67290 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/933036/0001193125-26-380278-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380278:d:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Morisawa Jiro (HMC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380929-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380929:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>Blasquez Anthony J (UPBD) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/933036/0001193125-26-380276-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380276:nd:2</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Morisawa Jiro (HMC) A: 383 shares @ $10.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380929-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380929:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>Blasquez Anthony J (UPBD) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/933036/0001193125-26-380276-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380276:nd:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Ito Hironao (HMC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380928-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380928:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>Blasquez Anthony J (UPBD) A: 32962 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/933036/0001193125-26-380276-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380276:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Ito Hironao (HMC) A: 442 shares @ $10.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380928-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380928:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>Blasquez Anthony J (UPBD) A: 98888 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/933036/0001193125-26-380276-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380276:d:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:12 GMT</pubDate>
+      <title>Agatsuma Mika (HMC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380923-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380923:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>Kumar Balaji (UPBD) A: 130299 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/933036/0001193125-26-380271-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380271:d:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:11 GMT</pubDate>
+      <title>Agatsuma Mika (HMC) A: 70 shares @ $10.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380923-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380923:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>Karam Fahmi (UPBD) A: 767838 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/933036/0001193125-26-380265-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380265:d:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:11 GMT</pubDate>
+      <title>Ogawa Yoichiro (HMC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380922-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380922:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>Khouri Halim (UPBD) A: 177998 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/933036/0001193125-26-380264-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380264:d:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:11 GMT</pubDate>
+      <title>Ogawa Yoichiro (HMC) A: 70 shares @ $10.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380922-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380922:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>Mack Robert Paul (PII) M: 23 shares</title>
-      <link>https://www.sec.gov/Archives/edgar/data/931015/0001628280-26-060169-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001628280-26-060169:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:11 GMT</pubDate>
+      <title>Fujimura Eiji (HMC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380919-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380919:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>Mack Robert Paul (PII) M: 23 shares</title>
-      <link>https://www.sec.gov/Archives/edgar/data/931015/0001628280-26-060169-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001628280-26-060169:d:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:11 GMT</pubDate>
+      <title>Fujimura Eiji (HMC) A: 767 shares @ $10.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380919-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380919:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>Cooper Matthew W (COF) S: 3500 shares @ $214.1</title>
-      <link>https://www.sec.gov/Archives/edgar/data/927628/0001727277-26-000018-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001727277-26-000018:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:11 GMT</pubDate>
+      <title>Oe Kensuke (HMC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380918-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380918:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>KEMPER DAVID W (POST) A: 206.595 shares @ $83.36</title>
-      <link>https://www.sec.gov/Archives/edgar/data/924750/0001530950-26-000081-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001530950-26-000081:d:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:11 GMT</pubDate>
+      <title>Oe Kensuke (HMC) A: 442 shares @ $10.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380918-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380918:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>SMITH ASHLEY B (SMID) P: 1275 shares @ $7.69</title>
-      <link>https://www.sec.gov/Archives/edgar/data/924719/0001654954-26-008101-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001654954-26-008101:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:11 GMT</pubDate>
+      <title>Sakai Kunihiko (HMC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380914-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380914:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>SIEGEL JEFFREY (LCUT) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/923401/0000923401-26-000009-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000923401-26-000009:nd:2</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:11 GMT</pubDate>
+      <title>Sakai Kunihiko (HMC) A: 70 shares @ $10.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380914-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380914:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>SIEGEL JEFFREY (LCUT) S: 193 shares @ $9.5</title>
-      <link>https://www.sec.gov/Archives/edgar/data/923401/0000923401-26-000009-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000923401-26-000009:nd:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:11 GMT</pubDate>
+      <title>Suzuki Asako (HMC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380913-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380913:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>SIEGEL JEFFREY (LCUT) S: 7359 shares @ $9.51</title>
-      <link>https://www.sec.gov/Archives/edgar/data/923401/0000923401-26-000009-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000923401-26-000009:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:11 GMT</pubDate>
+      <title>Suzuki Asako (HMC) A: 383 shares @ $10.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715153/0001193125-26-380913-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-380913:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>MCCARTNEY JOHN (GRNT) P: 5000 shares @ $5.04</title>
-      <link>https://www.sec.gov/Archives/edgar/data/923380/0001628280-26-060001-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001628280-26-060001:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:11 GMT</pubDate>
+      <title>Coape-Arnold Douglas Harold (NROM) S: 5556 shares @ $0.683</title>
+      <link>https://www.sec.gov/Archives/edgar/data/709005/0001403620-26-000001-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001403620-26-000001:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>Martin Christine M (PPL) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/922224/0001193125-26-380174-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380174:nd:2</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:11 GMT</pubDate>
+      <title>Brown Archie M (FFBC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/708955/0000708955-26-000147-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000708955-26-000147:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>Martin Christine M (PPL) F: 346 shares @ $34.47</title>
-      <link>https://www.sec.gov/Archives/edgar/data/922224/0001193125-26-380174-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380174:nd:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:11 GMT</pubDate>
+      <title>Brown Archie M (FFBC) S: 5000 shares @ $32.93</title>
+      <link>https://www.sec.gov/Archives/edgar/data/708955/0000708955-26-000147-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000708955-26-000147:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>Martin Christine M (PPL) M: 1212 shares @ $34.47</title>
-      <link>https://www.sec.gov/Archives/edgar/data/922224/0001193125-26-380174-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380174:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:11 GMT</pubDate>
+      <title>Varadarajan Seshasayee (LRCX) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/707549/0001707827-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001707827-26-000006:nd:5</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>Martin Christine M (PPL) M: 1212 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/922224/0001193125-26-380174-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380174:d:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:11 GMT</pubDate>
+      <title>Varadarajan Seshasayee (LRCX) S: 27480 shares @ $291.32</title>
+      <link>https://www.sec.gov/Archives/edgar/data/707549/0001707827-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001707827-26-000006:nd:4</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>SONNENFELD JEFFREY (LEN, LEN.B) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/920760/0001193125-26-380572-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380572:nd:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:10 GMT</pubDate>
+      <title>Varadarajan Seshasayee (LRCX) M: 27480 shares @ $30.033</title>
+      <link>https://www.sec.gov/Archives/edgar/data/707549/0001707827-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001707827-26-000006:nd:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>SONNENFELD JEFFREY (LEN, LEN.B) A: 341 shares @ $84.11</title>
-      <link>https://www.sec.gov/Archives/edgar/data/920760/0001193125-26-380572-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380572:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:10 GMT</pubDate>
+      <title>Varadarajan Seshasayee (LRCX) S: 12270 shares @ $291.32</title>
+      <link>https://www.sec.gov/Archives/edgar/data/707549/0001707827-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001707827-26-000006:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>OLIVERA ARMANDO J (LEN, LEN.B) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/920760/0001193125-26-380561-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380561:nd:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:10 GMT</pubDate>
+      <title>Varadarajan Seshasayee (LRCX) M: 12270 shares @ $59.881</title>
+      <link>https://www.sec.gov/Archives/edgar/data/707549/0001707827-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001707827-26-000006:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>OLIVERA ARMANDO J (LEN, LEN.B) A: 535 shares @ $84.11</title>
-      <link>https://www.sec.gov/Archives/edgar/data/920760/0001193125-26-380561-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001193125-26-380561:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:10 GMT</pubDate>
+      <title>Varadarajan Seshasayee (LRCX) S: 20000 shares @ $291.32</title>
+      <link>https://www.sec.gov/Archives/edgar/data/707549/0001707827-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001707827-26-000006:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>HORIZON KINETICS ASSET MANAGEMENT LLC (RCG) P: 756 shares @ $2.95</title>
-      <link>https://www.sec.gov/Archives/edgar/data/919567/0001437749-26-029505-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001437749-26-029505:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:10 GMT</pubDate>
+      <title>Varadarajan Seshasayee (LRCX) M: 27480 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/707549/0001707827-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001707827-26-000006:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>RAKOLTA JOHN JR (ADC) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/917251/0001528153-26-000013-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001528153-26-000013:nd:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:10 GMT</pubDate>
+      <title>Varadarajan Seshasayee (LRCX) M: 12270 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/707549/0001707827-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001707827-26-000006:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>RAKOLTA JOHN JR (ADC) P: 10000 shares @ $72.42</title>
-      <link>https://www.sec.gov/Archives/edgar/data/917251/0001528153-26-000013-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001528153-26-000013:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:10 GMT</pubDate>
+      <title>Moran John V (ONB) F: 2036 shares @ $25.18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/707179/0000707179-26-000059-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000707179-26-000059:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>Platz Marlo Michelle Cormier (HELE) A: 860 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/916789/0001526548-26-000009-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001526548-26-000009:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:10 GMT</pubDate>
+      <title>West Nadja (THC) S: 1152 shares @ $258.8</title>
+      <link>https://www.sec.gov/Archives/edgar/data/70318/0001193125-26-382368-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382368:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>FADEL MITCHELL E (HELE) A: 860 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/916789/0001201320-26-000008-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001201320-26-000008:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:10 GMT</pubDate>
+      <title>Gremer Kevin C (FULT) F: 803 shares @ $23.69</title>
+      <link>https://www.sec.gov/Archives/edgar/data/700564/0002086746-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002086746-26-000003:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>Woody Darren G (HELE) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/916789/0000916789-26-000121-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000916789-26-000121:nd:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:10 GMT</pubDate>
+      <title>George Bobby K (MMM) A: 15860 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/66740/0000066740-26-000276-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000066740-26-000276:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>Woody Darren G (HELE) A: 860 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/916789/0000916789-26-000121-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000916789-26-000121:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:10 GMT</pubDate>
+      <title>Cunningham Jennifer A. (MMM) A: 7049 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/66740/0000066740-26-000274-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000066740-26-000274:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>GOMEZ SADES TABATA LORENA (HELE) A: 860 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/916789/0000916789-26-000120-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000916789-26-000120:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:10 GMT</pubDate>
+      <title>Schulz Stacie (MEI) D: 1649 shares @ $18.1</title>
+      <link>https://www.sec.gov/Archives/edgar/data/65270/0002025272-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002025272-26-000002:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>RAFF BERYL (HELE) A: 860 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/916789/0000916789-26-000119-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000916789-26-000119:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:10 GMT</pubDate>
+      <title>Tapiero Jacques (MKC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/63754/0000063754-26-000307-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000063754-26-000307:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>Berry Krista (HELE) A: 860 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/916789/0000916789-26-000118-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000916789-26-000118:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:10 GMT</pubDate>
+      <title>Tapiero Jacques (MKC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/63754/0000063754-26-000307-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000063754-26-000307:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>CASE THURMAN K (HELE) A: 860 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/916789/0000916789-26-000117-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000916789-26-000117:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Tapiero Jacques (MKC) A: 185.874 shares @ $53.8</title>
+      <link>https://www.sec.gov/Archives/edgar/data/63754/0000063754-26-000307-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000063754-26-000307:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>Otero Elena (HELE) A: 860 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/916789/0000916789-26-000116-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000916789-26-000116:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Tapiero Jacques (MKC) J: 23.942 shares @ $52.24</title>
+      <link>https://www.sec.gov/Archives/edgar/data/63754/0000063754-26-000307-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000063754-26-000307:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>Petro Michael J (MLM) A: 9331 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/916076/0000916076-26-000088-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000916076-26-000088:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Brennan Katherine (MRSH) S: 1197 shares @ $187.899</title>
+      <link>https://www.sec.gov/Archives/edgar/data/62709/0000062709-26-000229-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000062709-26-000229:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>WAJSGRAS DAVID C (MLM) A: 78 shares @ $518.7</title>
-      <link>https://www.sec.gov/Archives/edgar/data/916076/0000916076-26-000086-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000916076-26-000086:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Brennan Katherine (MRSH) M: 1197 shares @ $83.046</title>
+      <link>https://www.sec.gov/Archives/edgar/data/62709/0000062709-26-000229-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000062709-26-000229:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>Pike Thomas (MLM) A: 66 shares @ $518.7</title>
-      <link>https://www.sec.gov/Archives/edgar/data/916076/0000916076-26-000084-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000916076-26-000084:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Brennan Katherine (MRSH) M: 1197 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/62709/0000062709-26-000229-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000062709-26-000229:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>LYONS MARTIN J (MLM) A: 68 shares @ $518.7</title>
-      <link>https://www.sec.gov/Archives/edgar/data/916076/0000916076-26-000082-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000916076-26-000082:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Doyle John Q (MRSH) S: 16656 shares @ $188.51</title>
+      <link>https://www.sec.gov/Archives/edgar/data/62709/0000062709-26-000228-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000062709-26-000228:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>Butcher Stephanie (IVZ) F: 9761 shares @ $32.78</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001965994-26-000004-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001965994-26-000004:nd:5</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Doyle John Q (MRSH) M: 16656 shares @ $73.195</title>
+      <link>https://www.sec.gov/Archives/edgar/data/62709/0000062709-26-000228-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000062709-26-000228:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>Butcher Stephanie (IVZ) A: 20766 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001965994-26-000004-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001965994-26-000004:nd:4</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Doyle John Q (MRSH) M: 16656 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/62709/0000062709-26-000228-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000062709-26-000228:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>Butcher Stephanie (IVZ) F: 9015 shares @ $32.78</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001965994-26-000004-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001965994-26-000004:nd:3</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Howald Aaron (LPX) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/60519/0001193125-26-381001-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381001:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>Butcher Stephanie (IVZ) A: 19179 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001965994-26-000004-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001965994-26-000004:nd:2</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Howald Aaron (LPX) A: 9083 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/60519/0001193125-26-381001-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381001:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>Butcher Stephanie (IVZ) F: 11984 shares @ $32.78</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001965994-26-000004-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001965994-26-000004:nd:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Bersaglini Clark David (KMT) F: 5078 shares @ $29.19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/55242/0002037071-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002037071-26-000003:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>Butcher Stephanie (IVZ) A: 25497 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001965994-26-000004-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001965994-26-000004:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Bersaglini Clark David (KMT) M: 11596 shares @ $29.19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/55242/0002037071-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002037071-26-000003:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>Butcher Stephanie (IVZ) M: 20766 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001965994-26-000004-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001965994-26-000004:d:2</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Bersaglini Clark David (KMT) M: 11596 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/55242/0002037071-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002037071-26-000003:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>Butcher Stephanie (IVZ) M: 19179 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001965994-26-000004-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001965994-26-000004:d:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>HICKTON DAWNE S (KMT) A: 5310 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/55242/0001215135-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001215135-26-000012:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>Butcher Stephanie (IVZ) M: 25497 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001965994-26-000004-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001965994-26-000004:d:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>HARSHMAN RICHARD J (KMT) A: 271.223 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/55242/0001200244-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001200244-26-000005:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>Sharp Douglas J (IVZ) A: 22642 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:nd:6</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>HARSHMAN RICHARD J (KMT) A: 5310 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/55242/0001200244-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001200244-26-000005:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>Sharp Douglas J (IVZ) F: 10358 shares @ $32.78</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:nd:5</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Japan Post Holdings Co., Ltd. (AFL) S: 4130 shares @ $116.01</title>
+      <link>https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-104942-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-104942:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>Sharp Douglas J (IVZ) A: 22404 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:nd:4</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Japan Post Holdings Co., Ltd. (AFL) S: 8670 shares @ $115.65</title>
+      <link>https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-104942-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-104942:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>Sharp Douglas J (IVZ) F: 5524 shares @ $32.78</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:nd:3</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Nundy Shantanu (HUM) A: 2549 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/49071/0002151421-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002151421-26-000004:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>Sharp Douglas J (IVZ) A: 11891 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:nd:2</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Hamren Elizabeth (HAS) G: 1500 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/46080/0001628280-26-060544-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060544:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>Sharp Douglas J (IVZ) F: 6331 shares @ $32.78</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:nd:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>WEINBERG JOHN S (F) A: 703 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37996/0000037996-26-000178-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037996-26-000178:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>Sharp Douglas J (IVZ) A: 13548 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>WEINBERG JOHN S (F) A: 891 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37996/0000037996-26-000178-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037996-26-000178:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>Sharp Douglas J (IVZ) M: 22642 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:d:3</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Veihmeyer John B (F) A: 770 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37996/0000037996-26-000177-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037996-26-000177:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>Sharp Douglas J (IVZ) M: 22404 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:d:2</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Veihmeyer John B (F) A: 977 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37996/0000037996-26-000177-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037996-26-000177:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>Sharp Douglas J (IVZ) M: 11891 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:d:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>THORNTON JOHN L (F) A: 4792 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37996/0000037996-26-000176-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037996-26-000176:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:27 GMT</pubDate>
     </item>
     <item>
-      <title>Sharp Douglas J (IVZ) M: 13548 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0001764168-26-000008-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001764168-26-000008:d:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:09 GMT</pubDate>
+      <title>Radakovich Lynn Vojvodich (F) A: 2173 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37996/0000037996-26-000175-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037996-26-000175:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:27 GMT</pubDate>
     </item>
     <item>
-      <title>Invesco Advisers, Inc. (Invesco Real Estate Income Trust Inc.) A: 15148.553 shares @ $28.4503</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0000020430-26-000042-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000020430-26-000042:nd:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+      <title>Radakovich Lynn Vojvodich (F) A: 609 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37996/0000037996-26-000175-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037996-26-000175:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:27 GMT</pubDate>
     </item>
     <item>
-      <title>Invesco Advisers, Inc. (Invesco Real Estate Income Trust Inc.) D: 8969.068 shares @ $28.4503</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0000020430-26-000042-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000020430-26-000042:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+      <title>MOONEY BETH E (F) A: 1468 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37996/0000037996-26-000174-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037996-26-000174:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:27 GMT</pubDate>
     </item>
     <item>
-      <title>Invesco Advisers, Inc. (Invesco Commercial Real Estate Finance Trust, Inc.) D: 52636.636 shares @ $26.037</title>
-      <link>https://www.sec.gov/Archives/edgar/data/914208/0000020430-26-000040-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000020430-26-000040:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+      <title>MOONEY BETH E (F) A: 609 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37996/0000037996-26-000174-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037996-26-000174:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:27 GMT</pubDate>
     </item>
     <item>
-      <title>Penrose Jill R (SJM) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000090-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000091419-26-000090:nd:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+      <title>Kennard William E (F) A: 2662 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37996/0000037996-26-000173-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037996-26-000173:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:27 GMT</pubDate>
     </item>
     <item>
-      <title>Penrose Jill R (SJM) F: 1461 shares @ $131.42</title>
-      <link>https://www.sec.gov/Archives/edgar/data/91419/0000091419-26-000090-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0000091419-26-000090:nd:0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:45:08 GMT</pubDate>
+      <title>Kennard William E (F) A: 609 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37996/0000037996-26-000173-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000037996-26-000173:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:27 GMT</pubDate>
     </item>
   </channel>
 </rss>

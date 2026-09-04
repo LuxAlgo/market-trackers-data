@@ -4,7 +4,181 @@
     <title>LuxAlgo Market Trackers — Insider transactions — REAX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 01:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
+    <item>
+      <title>Jani Ravi (REAX) M: 437 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0002080498-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080498-26-000003:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jani Ravi (REAX) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0002080498-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080498-26-000003:d:4</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jani Ravi (REAX) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0002080498-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080498-26-000003:d:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jani Ravi (REAX) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0002080498-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080498-26-000003:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jani Ravi (REAX) D: 248 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0002080498-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080498-26-000003:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jani Ravi (REAX) M: 437 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0002080498-26-000003-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080498-26-000003:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carlson Erik (REAX) F: 263369 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105169-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105169:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carlson Erik (REAX) A: 601998 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105169-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105169:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carlson Erik (REAX) D: 184221 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105169-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105169:d:4</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carlson Erik (REAX) D: 112465 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105169-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105169:d:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carlson Erik (REAX) D: 184221 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105169-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105169:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carlson Erik (REAX) D: 87864 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105169-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105169:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carlson Erik (REAX) D: 33227 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105169-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105169:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carlson Erik (REAX) A: 119556 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105168-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105168:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carlson Erik (REAX) A: 184221 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105168-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105168:d:4</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carlson Erik (REAX) A: 112465 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105168-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105168:d:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carlson Erik (REAX) A: 184221 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105168-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105168:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carlson Erik (REAX) A: 87864 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105168-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105168:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carlson Erik (REAX) A: 33227 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105168-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105168:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAFFAELI C CATHLEEN (REAX) A: 5348 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105167-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105167:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAFFAELI C CATHLEEN (REAX) A: 9082 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105167-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105167:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jenkins Leah R (REAX) A: 4508 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105166-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105166:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jenkins Leah R (REAX) A: 7532 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105166-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105166:d:5</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jenkins Leah R (REAX) A: 4378 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105166-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105166:d:4</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jenkins Leah R (REAX) A: 4282 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105166-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105166:d:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jenkins Leah R (REAX) A: 7532 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105166-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105166:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jenkins Leah R (REAX) A: 3420 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105166-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105166:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jenkins Leah R (REAX) A: 1807 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105166-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105166:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jenkins Norman K. (REAX) A: 10079 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-105165-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105165:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:16 GMT</pubDate>
+    </item>
     <item>
       <title>Jenkins Norman K. (REAX) A: 5348 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/2136387/0001104659-26-100429-index.htm</link>

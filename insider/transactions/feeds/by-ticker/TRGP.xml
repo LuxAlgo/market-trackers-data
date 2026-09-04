@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — TRGP</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
+    <item>
+      <title>Secrest Brent B. (TRGP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1698198/0001193125-26-382043-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382043:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:40:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Secrest Brent B. (TRGP) A: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1698198/0001193125-26-382043-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382043:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:40:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Secrest Brent B. (TRGP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1698198/0001193125-26-381994-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381994:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:40:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chung Paul W (TRGP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1389170/0001193125-26-381957-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381957:nd:4</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chung Paul W (TRGP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1389170/0001193125-26-381957-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381957:nd:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chung Paul W (TRGP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1389170/0001193125-26-381957-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381957:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chung Paul W (TRGP) S: 816 shares @ $297</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1389170/0001193125-26-381957-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381957:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chung Paul W (TRGP) S: 1000 shares @ $295.381</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1389170/0001193125-26-381957-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-381957:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>CRISP CHARLES R (TRGP) S: 3000 shares @ $290.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1389170/0001193125-26-368712-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-368712:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>CRISP CHARLES R (TRGP) G: 1200 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1389170/0001193125-26-368712-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-368712:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Davis Waters S IV (TRGP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645344/0001193125-26-365206-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365206:nd:6</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Davis Waters S IV (TRGP) S: 590 shares @ $303.8142</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645344/0001193125-26-365206-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365206:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Davis Waters S IV (TRGP) S: 270 shares @ $302.4687</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645344/0001193125-26-365206-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365206:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Davis Waters S IV (TRGP) S: 154 shares @ $300.175</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645344/0001193125-26-365206-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365206:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Davis Waters S IV (TRGP) S: 254 shares @ $298.6809</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645344/0001193125-26-365206-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365206:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Davis Waters S IV (TRGP) S: 692 shares @ $297.3792</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645344/0001193125-26-365206-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365206:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Davis Waters S IV (TRGP) S: 440 shares @ $296.3945</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645344/0001193125-26-365206-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-365206:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chung Paul W (TRGP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1389170/0001193125-26-363663-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-363663:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chung Paul W (TRGP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1389170/0001193125-26-363663-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-363663:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chung Paul W (TRGP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1389170/0001193125-26-363663-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-363663:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chung Paul W (TRGP) G: 1000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1389170/0001193125-26-363663-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-363663:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:18:04 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

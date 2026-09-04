@@ -4,7 +4,31 @@
     <title>LuxAlgo Market Trackers — Insider transactions — PEGA</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 01:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
+    <item>
+      <title>KOUNINIS EFSTATHIOS A (PEGA) S: 1063 shares @ $38.75</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1353196/0001353196-26-000026-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001353196-26-000026:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>KOUNINIS EFSTATHIOS A (PEGA) F: 1437 shares @ $38.75</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1353196/0001353196-26-000026-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001353196-26-000026:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>KOUNINIS EFSTATHIOS A (PEGA) M: 2500 shares @ $16.95</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1353196/0001353196-26-000026-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001353196-26-000026:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>KOUNINIS EFSTATHIOS A (PEGA) M: 2500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1353196/0001353196-26-000026-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001353196-26-000026:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:46 GMT</pubDate>
+    </item>
     <item>
       <title>Higgins John Gerard (PEGA) F: 104 shares @ $36.81</title>
       <link>https://www.sec.gov/Archives/edgar/data/1915414/0001915414-26-000018-index.htm</link>

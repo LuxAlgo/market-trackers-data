@@ -4,7 +4,73 @@
     <title>LuxAlgo Market Trackers — Insider transactions — CNXN</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 01:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001930044-26-000005:nd:9</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001930044-26-000005:nd:8</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001930044-26-000005:nd:7</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001930044-26-000005:nd:6</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001930044-26-000005:nd:5</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001930044-26-000005:nd:4</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) S: 2684 shares @ $80.88</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001930044-26-000005:nd:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) S: 4458 shares @ $80.4</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001930044-26-000005:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001930044-26-000005:nd:10</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) S: 2270 shares @ $79.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001930044-26-000005:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>GALLUP PATRICIA (CNXN) S: 4872 shares @ $78.76</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1930044/0001930044-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001930044-26-000005:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:28 GMT</pubDate>
+    </item>
     <item>
       <title>Duckett Barbara (CNXN) M: 500 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1465783/0001465783-26-000004-index.htm</link>

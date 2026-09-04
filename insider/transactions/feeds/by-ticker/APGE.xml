@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — APGE</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
+    <item>
+      <title>Bollinger Lisa (APGE) D: 7657 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024557/0001140361-26-035610-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035610:d:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bollinger Lisa (APGE) D: 14461 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024557/0001140361-26-035610-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035610:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bollinger Lisa (APGE) D: 8112 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024557/0001140361-26-035610-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035610:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bollinger Lisa (APGE) D: 18550 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024557/0001140361-26-035610-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035610:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dambkowski Carl (APGE) D: 167123 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1983476/0001140361-26-035613-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035613:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dambkowski Carl (APGE) D: 1375 shares @ $135.06</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1983476/0001140361-26-035613-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035613:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dambkowski Carl (APGE) D: 83690 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1983476/0001140361-26-035613-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035613:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dambkowski Carl (APGE) D: 124962 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1983476/0001140361-26-035613-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035613:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dambkowski Carl (APGE) D: 110665 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1983476/0001140361-26-035613-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035613:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>McKenna Mark C. (APGE) D: 20000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035615-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035615:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>McKenna Mark C. (APGE) D: 7657 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035615-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035615:d:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>McKenna Mark C. (APGE) D: 14461 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035615-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035615:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>McKenna Mark C. (APGE) D: 10370 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035615-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035615:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>McKenna Mark C. (APGE) D: 150000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035615-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035615:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>JONES WILLIAM A JR (APGE) D: 34824 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035614-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035614:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>JONES WILLIAM A JR (APGE) D: 7657 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035614-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035614:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>JONES WILLIAM A JR (APGE) D: 14461 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035614-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035614:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>JONES WILLIAM A JR (APGE) D: 10370 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035614-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035614:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fox Jennifer A. (APGE) D: 34824 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035612-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035612:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fox Jennifer A. (APGE) D: 7657 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035612-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035612:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fox Jennifer A. (APGE) D: 14461 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035612-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035612:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fox Jennifer A. (APGE) D: 10370 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035612-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035612:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Henderson Jane (APGE) D: 158371 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035611-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035611:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Henderson Jane (APGE) D: 83690 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035611-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035611:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Henderson Jane (APGE) D: 124962 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035611-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035611:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Henderson Jane (APGE) D: 175345 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035611-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035611:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>HENDERSON MICHAEL THOMAS (APGE) D: 920941 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035609-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035609:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>HENDERSON MICHAEL THOMAS (APGE) D: 253016 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035609-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035609:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>HENDERSON MICHAEL THOMAS (APGE) D: 357036 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035609-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035609:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>HENDERSON MICHAEL THOMAS (APGE) D: 387012 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035609-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035609:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Nimish P (APGE) D: 1750000 shares @ $135.11</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035608-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035608:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Nimish P (APGE) D: 365853 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035608-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035608:d:5</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Nimish P (APGE) D: 7657 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035608-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035608:d:4</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Nimish P (APGE) D: 14461 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035608-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035608:d:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Nimish P (APGE) D: 10370 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035608-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035608:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Nimish P (APGE) D: 47758 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035608-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035608:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shah Nimish P (APGE) D: 6743321 shares @ $135.11</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001140361-26-035608-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001140361-26-035608:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fairmount Funds Management LLC (APGE) D: 51166 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001104659-26-105119-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105119:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fairmount Funds Management LLC (APGE) D: 51166 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001104659-26-105119-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105119:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fairmount Funds Management LLC (APGE) D: 340855 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001104659-26-105119-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105119:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fairmount Funds Management LLC (APGE) D: 7657 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001104659-26-105119-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105119:d:4</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fairmount Funds Management LLC (APGE) D: 14461 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001104659-26-105119-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105119:d:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fairmount Funds Management LLC (APGE) D: 10370 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001104659-26-105119-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105119:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fairmount Funds Management LLC (APGE) D: 47758 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001104659-26-105119-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105119:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fairmount Funds Management LLC (APGE) D: 6743321 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/0001104659-26-105119-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105119:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:36 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

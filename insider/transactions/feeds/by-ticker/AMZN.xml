@@ -4,7 +4,19 @@
     <title>LuxAlgo Market Trackers — Insider transactions — AMZN</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 01:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
+    <item>
+      <title>Herrington Douglas J (AMZN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1936006/0001936006-26-000024-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001936006-26-000024:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Herrington Douglas J (AMZN) S: 1000 shares @ $254.77</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1936006/0001936006-26-000024-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001936006-26-000024:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:29 GMT</pubDate>
+    </item>
     <item>
       <title>BEZOS JEFFREY P (AMZN) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1043298/0001043298-26-000002-index.htm</link>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — AFRM</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
+    <item>
+      <title>Adkins Katherine (AFRM) S: 41664 shares @ $75.53</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870331/0001628280-26-060528-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060528:nd:8</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adkins Katherine (AFRM) M: 37260 shares @ $23.35</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870331/0001628280-26-060528-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060528:nd:7</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adkins Katherine (AFRM) M: 4404 shares @ $22.3</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870331/0001628280-26-060528-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060528:nd:6</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adkins Katherine (AFRM) S: 2300 shares @ $71.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870331/0001628280-26-060528-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060528:nd:5</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adkins Katherine (AFRM) S: 15599 shares @ $71</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870331/0001628280-26-060528-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060528:nd:4</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adkins Katherine (AFRM) S: 23765 shares @ $70.13</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870331/0001628280-26-060528-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060528:nd:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adkins Katherine (AFRM) M: 41664 shares @ $22.3</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870331/0001628280-26-060528-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060528:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adkins Katherine (AFRM) F: 4795 shares @ $69.94</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870331/0001628280-26-060528-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060528:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adkins Katherine (AFRM) M: 10594 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870331/0001628280-26-060528-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060528:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adkins Katherine (AFRM) M: 37260 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870331/0001628280-26-060528-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060528:d:6</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adkins Katherine (AFRM) M: 4404 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870331/0001628280-26-060528-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060528:d:5</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adkins Katherine (AFRM) M: 41664 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870331/0001628280-26-060528-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060528:d:4</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adkins Katherine (AFRM) M: 1403 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870331/0001628280-26-060528-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060528:d:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adkins Katherine (AFRM) M: 5086 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870331/0001628280-26-060528-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060528:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adkins Katherine (AFRM) M: 2483 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870331/0001628280-26-060528-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060528:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adkins Katherine (AFRM) M: 1622 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1870331/0001628280-26-060528-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060528:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Michalek Libor (AFRM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832810/0001628280-26-060412-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060412:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Michalek Libor (AFRM) F: 5784 shares @ $69.94</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832810/0001628280-26-060412-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060412:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Michalek Libor (AFRM) M: 11364 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832810/0001628280-26-060412-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060412:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Michalek Libor (AFRM) M: 3707 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832810/0001628280-26-060412-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060412:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Michalek Libor (AFRM) M: 5319 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832810/0001628280-26-060412-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060412:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Michalek Libor (AFRM) M: 2338 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832810/0001628280-26-060412-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060412:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jiyane Siphelele (AFRM) F: 3558 shares @ $69.94</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832806/0001628280-26-060406-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060406:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jiyane Siphelele (AFRM) M: 9038 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832806/0001628280-26-060406-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060406:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jiyane Siphelele (AFRM) M: 1122 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832806/0001628280-26-060406-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060406:d:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jiyane Siphelele (AFRM) M: 2500 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832806/0001628280-26-060406-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060406:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jiyane Siphelele (AFRM) M: 3333 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832806/0001628280-26-060406-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060406:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jiyane Siphelele (AFRM) M: 2083 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832806/0001628280-26-060406-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060406:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>O'Hare Robert (AFRM) S: 5886 shares @ $74.02</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/0001628280-26-060416-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060416:nd:4</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>O'Hare Robert (AFRM) S: 200 shares @ $72.51</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/0001628280-26-060416-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060416:nd:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>O'Hare Robert (AFRM) S: 15545 shares @ $71.59</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/0001628280-26-060416-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060416:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>O'Hare Robert (AFRM) F: 6101 shares @ $69.94</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/0001628280-26-060416-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060416:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>O'Hare Robert (AFRM) M: 11987 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/0001628280-26-060416-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060416:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>O'Hare Robert (AFRM) M: 2781 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/0001628280-26-060416-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060416:d:4</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>O'Hare Robert (AFRM) M: 1357 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/0001628280-26-060416-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060416:d:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>O'Hare Robert (AFRM) M: 2128 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/0001628280-26-060416-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060416:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>O'Hare Robert (AFRM) M: 5019 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/0001628280-26-060416-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060416:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>O'Hare Robert (AFRM) M: 702 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/0001628280-26-060416-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060416:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linford Michael (AFRM) F: 4662 shares @ $69.94</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/0001628280-26-060408-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060408:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linford Michael (AFRM) M: 11719 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/0001628280-26-060408-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060408:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linford Michael (AFRM) M: 3707 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/0001628280-26-060408-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060408:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linford Michael (AFRM) M: 5674 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/0001628280-26-060408-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060408:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linford Michael (AFRM) M: 2338 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/0001628280-26-060408-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060408:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linford Michael (AFRM) S: 79219 shares @ $90.01</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/0001628280-26-059834-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059834:nd:1</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linford Michael (AFRM) M: 79219 shares @ $5.39</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/0001628280-26-059834-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059834:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linford Michael (AFRM) M: 79219 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820953/0001628280-26-059834-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-059834:d:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:55:36 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

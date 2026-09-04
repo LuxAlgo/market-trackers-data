@@ -4,7 +4,43 @@
     <title>LuxAlgo Market Trackers — Insider transactions — BAND</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 01:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
+    <item>
+      <title>Ross Kade (BAND) S: 753 shares @ $49.2896</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1807759/0001807759-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001807759-26-000022:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ross Kade (BAND) S: 1151 shares @ $48.5029</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1807759/0001807759-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001807759-26-000022:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ross Kade (BAND) S: 2096 shares @ $47.5397</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1807759/0001807759-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001807759-26-000022:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raiford Daryl E (BAND) S: 3291 shares @ $49.9675</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1514416/0001405026-26-000045-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001405026-26-000045:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:40:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raiford Daryl E (BAND) S: 1400 shares @ $48.987</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1514416/0001405026-26-000045-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001405026-26-000045:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:40:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raiford Daryl E (BAND) S: 2536 shares @ $47.7354</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1514416/0001405026-26-000045-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001405026-26-000045:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:40:04 GMT</pubDate>
+    </item>
     <item>
       <title>Krupka Devin M (BAND) S: 3074 shares @ $48.9739</title>
       <link>https://www.sec.gov/Archives/edgar/data/1967808/0001967808-26-000030-index.htm</link>

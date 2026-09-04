@@ -4,7 +4,73 @@
     <title>LuxAlgo Market Trackers — Insider transactions — FLYW</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 01:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
+    <item>
+      <title>Kansal Mohit (FLYW) S: 12423 shares @ $18.6945</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2116833/0001628280-26-060452-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060452:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kansal Mohit (FLYW) F: 9923 shares @ $18.185</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2116833/0001628280-26-060452-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060452:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pitigoi Cosmin (FLYW) F: 21673 shares @ $18.185</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2013285/0001628280-26-060457-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060457:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>King David R. (FLYW) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1862946/0001628280-26-060468-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060468:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>King David R. (FLYW) F: 15971 shares @ $18.185</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1862946/0001628280-26-060468-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060468:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Butterfield Peter (FLYW) F: 7878 shares @ $18.185</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1862133/0001628280-26-060475-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060475:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Massaro Michael (FLYW) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1862130/0001628280-26-060411-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060411:nd:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Massaro Michael (FLYW) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1862130/0001628280-26-060411-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060411:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Massaro Michael (FLYW) S: 112500 shares @ $18.3883</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1862130/0001628280-26-060411-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060411:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Massaro Michael (FLYW) F: 39993 shares @ $18.185</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1862130/0001628280-26-060411-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060411:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Orgel Rob (FLYW) F: 21979 shares @ $18.185</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1862049/0001628280-26-060486-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060486:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:16 GMT</pubDate>
+    </item>
     <item>
       <title>Voss Capital, LP (FLYW) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1969435/0002060757-26-000054-index.htm</link>

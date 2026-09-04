@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — SCSC</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
+    <item>
+      <title>Ford Brandy (SCSC) F: 481 shares @ $56.24</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1976915/0001193125-26-382255-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382255:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ford Brandy (SCSC) A: 3594 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1976915/0001193125-26-382255-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382255:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Webb Michael Reed (SCSC) A: 5614 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1970916/0001193125-26-382259-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382259:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jones Stephen (SCSC) S: 1297 shares @ $57.21</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1837268/0001193125-26-382262-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382262:nd:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jones Stephen (SCSC) S: 8703 shares @ $56.69</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1837268/0001193125-26-382262-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382262:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jones Stephen (SCSC) F: 2044 shares @ $56.24</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1837268/0001193125-26-382262-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382262:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jones Stephen (SCSC) A: 16619 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1837268/0001193125-26-382262-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382262:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Emory Frank Edward Jr. (SCSC) A: 3234 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1827598/0001193125-26-382264-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382264:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Temple Elizabeth Orazem (SCSC) A: 3234 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1715977/0001193125-26-382256-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382256:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:40:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smith Shana C (SCSC) F: 1070 shares @ $56.24</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1646468/0001193125-26-382254-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382254:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:40:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smith Shana C (SCSC) A: 7636 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1646468/0001193125-26-382254-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382254:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:40:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ramoneda Dorothy F (SCSC) A: 3234 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1599156/0001193125-26-382258-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382258:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:40:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mathis Charles Alexander (SCSC) A: 3234 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1438831/0001193125-26-382265-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382265:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAUR MICHAEL L (SCSC) F: 8023 shares @ $56.24</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1251456/0001193125-26-382261-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382261:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAUR MICHAEL L (SCSC) A: 53899 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1251456/0001193125-26-382261-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382261:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>RODEK JEFFREY R (SCSC) A: 3234 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1233406/0001193125-26-382257-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382257:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>NAGEL VERNON J (SCSC) A: 3234 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1183398/0001193125-26-382260-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-382260:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smith Shana C (SCSC) F: 910 shares @ $56.55</title>
+      <link>https://www.sec.gov/Archives/edgar/data/918965/0001193125-26-378745-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378745:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ford Brandy (SCSC) F: 239 shares @ $56.55</title>
+      <link>https://www.sec.gov/Archives/edgar/data/918965/0001193125-26-378744-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378744:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jones Stephen (SCSC) F: 1591 shares @ $56.55</title>
+      <link>https://www.sec.gov/Archives/edgar/data/918965/0001193125-26-378720-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378720:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAUR MICHAEL L (SCSC) F: 5687 shares @ $56.55</title>
+      <link>https://www.sec.gov/Archives/edgar/data/918965/0001193125-26-378714-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-378714:nd:0</guid>
+      <pubDate>Wed, 02 Sep 2026 02:56:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAUR MICHAEL L (SCSC) F: 6571 shares @ $56.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/918965/0001193125-26-371667-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-371667:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAUR MICHAEL L (SCSC) F: 21094 shares @ $56.19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/918965/0001193125-26-371667-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-371667:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smith Shana C (SCSC) F: 1644 shares @ $56.19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/918965/0001193125-26-371666-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-371666:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jones Stephen (SCSC) F: 2426 shares @ $56.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/918965/0001193125-26-371665-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-371665:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jones Stephen (SCSC) F: 6569 shares @ $56.19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/918965/0001193125-26-371665-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-371665:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ford Brandy (SCSC) F: 329 shares @ $56.17</title>
+      <link>https://www.sec.gov/Archives/edgar/data/918965/0001193125-26-371664-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-371664:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ford Brandy (SCSC) F: 331 shares @ $56.19</title>
+      <link>https://www.sec.gov/Archives/edgar/data/918965/0001193125-26-371664-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-371664:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:40 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

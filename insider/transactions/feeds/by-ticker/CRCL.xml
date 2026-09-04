@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — CRCL</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
+    <item>
+      <title>Razzaghi Hossein (CRCL) S: 7458 shares @ $87.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2083179/0001876042-26-000261-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000261:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Razzaghi Hossein (CRCL) F: 6987 shares @ $95.55</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2083179/0001876042-26-000261-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000261:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:42:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tarbert Heath (CRCL) F: 11382 shares @ $95.55</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2060670/0001876042-26-000260-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000260:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neville Patrick Sean (CRCL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2060511/0001876042-26-000258-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000258:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neville Patrick Sean (CRCL) S: 50000 shares @ $92.09</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2060511/0001876042-26-000258-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000258:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neville Patrick Sean (CRCL) C: 50000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2060511/0001876042-26-000258-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000258:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neville Patrick Sean (CRCL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2060511/0001876042-26-000258-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000258:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neville Patrick Sean (CRCL) C: 50000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2060511/0001876042-26-000258-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000258:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chandhok Nikhil (CRCL) F: 7603 shares @ $95.55</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2060495/0001876042-26-000263-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000263:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fox-Geen Jeremy (CRCL) S: 8120 shares @ $87.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001876042-26-000262-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000262:nd:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fox-Geen Jeremy (CRCL) F: 7426 shares @ $95.55</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001876042-26-000262-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000262:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fox-Geen Jeremy (CRCL) S: 15000 shares @ $92.2</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001876042-26-000262-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000262:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fox-Geen Jeremy (CRCL) M: 15000 shares @ $10.11</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001876042-26-000262-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000262:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fox-Geen Jeremy (CRCL) M: 15000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001876042-26-000262-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000262:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schulz Tamara L (CRCL) S: 1194 shares @ $87.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001876042-26-000259-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000259:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schulz Tamara L (CRCL) F: 1538 shares @ $95.55</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001876042-26-000259-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000259:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Allaire Jeremy (CRCL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001539940-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001539940-26-000002:nd:4</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Allaire Jeremy (CRCL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001539940-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001539940-26-000002:nd:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Allaire Jeremy (CRCL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001539940-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001539940-26-000002:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Allaire Jeremy (CRCL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001539940-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001539940-26-000002:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Allaire Jeremy (CRCL) F: 8219 shares @ $95.55</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001539940-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001539940-26-000002:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Allaire Jeremy (CRCL) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001539940-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001539940-26-000002:d:5</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Allaire Jeremy (CRCL) F: 8404 shares @ $95.55</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001539940-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001539940-26-000002:d:4</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Allaire Jeremy (CRCL) M: 15193 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001539940-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001539940-26-000002:d:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Allaire Jeremy (CRCL) M: 6017 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001539940-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001539940-26-000002:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Allaire Jeremy (CRCL) M: 6742 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001539940-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001539940-26-000002:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Allaire Jeremy (CRCL) M: 2434 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001539940-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001539940-26-000002:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fox-Geen Jeremy (CRCL) S: 45000 shares @ $90</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001876042-26-000257-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000257:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fox-Geen Jeremy (CRCL) M: 45000 shares @ $10.11</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001876042-26-000257-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000257:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fox-Geen Jeremy (CRCL) M: 45000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1876042/0001876042-26-000257-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001876042-26-000257:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:20:10 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

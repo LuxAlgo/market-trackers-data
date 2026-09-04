@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — LOB</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
+    <item>
+      <title>WILLIAMS WILLIAM L. III (LOB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1635831/0001635831-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001635831-26-000008:nd:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:40:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIAMS WILLIAM L. III (LOB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1635831/0001635831-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001635831-26-000008:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:40:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIAMS WILLIAM L. III (LOB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1635831/0001635831-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001635831-26-000008:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:40:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>WILLIAMS WILLIAM L. III (LOB) S: 1810 shares @ $40.0006</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1635831/0001635831-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001635831-26-000008:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:40:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAHAN JAMES S III (LOB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001036743-26-000035-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001036743-26-000035:nd:5</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAHAN JAMES S III (LOB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001036743-26-000035-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001036743-26-000035:nd:4</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAHAN JAMES S III (LOB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001036743-26-000035-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001036743-26-000035:nd:3</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAHAN JAMES S III (LOB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001036743-26-000035-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001036743-26-000035:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAHAN JAMES S III (LOB) S: 258 shares @ $39.875</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001036743-26-000035-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001036743-26-000035:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAHAN JAMES S III (LOB) S: 9742 shares @ $39.5323</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001036743-26-000035-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001036743-26-000035:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 02:39:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAHAN JAMES S III (LOB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001036743-26-000033-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001036743-26-000033:nd:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAHAN JAMES S III (LOB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001036743-26-000033-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001036743-26-000033:nd:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAHAN JAMES S III (LOB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001036743-26-000033-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001036743-26-000033:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAHAN JAMES S III (LOB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001036743-26-000033-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001036743-26-000033:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAHAN JAMES S III (LOB) S: 10000 shares @ $39.659</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001036743-26-000033-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001036743-26-000033:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAHAN JAMES S III (LOB) S: 10000 shares @ $39.9878</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001036743-26-000033-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001036743-26-000033:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:27:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Losch William C III (LOB) F: 22221 shares @ $39.99</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001453279-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001453279-26-000010:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Losch William C III (LOB) M: 50000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001453279-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001453279-26-000010:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Losch William C III (LOB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001453279-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001453279-26-000010:d:5</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Losch William C III (LOB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001453279-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001453279-26-000010:d:4</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Losch William C III (LOB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001453279-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001453279-26-000010:d:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Losch William C III (LOB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001453279-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001453279-26-000010:d:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Losch William C III (LOB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001453279-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001453279-26-000010:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Losch William C III (LOB) M: 50000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1462120/0001453279-26-000010-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001453279-26-000010:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:55 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

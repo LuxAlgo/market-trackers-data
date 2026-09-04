@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Congressional trades — NVDA</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 22:33:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 01:06:50 GMT</lastBuildDate>
     <item>
       <title>Sheldon Whitehouse (senate) sell: NVDA — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/</link>
       <guid isPermaLink="false">congress-trades:senate:f8d003c0-ca1e-4c39-9d66-632d220180e1:2</guid>
-      <pubDate>Thu, 03 Sep 2026 22:30:49 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 01:03:17 GMT</pubDate>
     </item>
     <item>
       <title>Sheldon Whitehouse (senate) sell: NVDA — $15,001 - $50,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/</link>
       <guid isPermaLink="false">congress-trades:senate:f8d003c0-ca1e-4c39-9d66-632d220180e1:1</guid>
-      <pubDate>Thu, 03 Sep 2026 22:30:49 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 01:03:17 GMT</pubDate>
     </item>
     <item>
       <title>Hon. John J Mr McGuire III (house) buy: NVDA — $1,001 - $15,000</title>

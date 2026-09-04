@@ -4,138 +4,138 @@
     <title>LuxAlgo Market Trackers — Insider transactions — CVNA</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:35:55 GMT</lastBuildDate>
     <item>
       <title>Palmer Stephen R (CVNA) S: 1600 shares @ $71.88</title>
       <link>https://www.sec.gov/Archives/edgar/data/1783558/0001783558-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001783558-26-000020:nd:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:20 GMT</pubDate>
     </item>
     <item>
       <title>Palmer Stephen R (CVNA) S: 3400 shares @ $71.4</title>
       <link>https://www.sec.gov/Archives/edgar/data/1783558/0001783558-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001783558-26-000020:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:20 GMT</pubDate>
     </item>
     <item>
       <title>Palmer Stephen R (CVNA) F: 3023 shares @ $72.18</title>
       <link>https://www.sec.gov/Archives/edgar/data/1783558/0001783558-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001783558-26-000020:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:56 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:20 GMT</pubDate>
     </item>
     <item>
       <title>GARCIA ERNEST C. III (CVNA) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1700548/0001700548-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001700548-26-000020:nd:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:38 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:02 GMT</pubDate>
     </item>
     <item>
       <title>GARCIA ERNEST C. III (CVNA) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1700548/0001700548-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001700548-26-000020:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:38 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:02 GMT</pubDate>
     </item>
     <item>
       <title>GARCIA ERNEST C. III (CVNA) F: 7070 shares @ $72.18</title>
       <link>https://www.sec.gov/Archives/edgar/data/1700548/0001700548-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001700548-26-000020:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:38 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:02 GMT</pubDate>
     </item>
     <item>
       <title>BREAUX PAUL W. (CVNA) F: 4457 shares @ $72.18</title>
       <link>https://www.sec.gov/Archives/edgar/data/1700545/0001700545-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001700545-26-000020:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:38 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:02 GMT</pubDate>
     </item>
     <item>
       <title>KEETON RYAN S. (CVNA) F: 2879 shares @ $72.18</title>
       <link>https://www.sec.gov/Archives/edgar/data/1700542/0001700542-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001700542-26-000020:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:38 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:02 GMT</pubDate>
     </item>
     <item>
       <title>JENKINS MARK W. (CVNA) S: 26344 shares @ $71.83</title>
       <link>https://www.sec.gov/Archives/edgar/data/1700540/0001700540-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001700540-26-000020:nd:5</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:38 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:02 GMT</pubDate>
     </item>
     <item>
       <title>JENKINS MARK W. (CVNA) S: 37406 shares @ $71.36</title>
       <link>https://www.sec.gov/Archives/edgar/data/1700540/0001700540-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001700540-26-000020:nd:4</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:38 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:02 GMT</pubDate>
     </item>
     <item>
       <title>JENKINS MARK W. (CVNA) M: 3750 shares @ $10.39</title>
       <link>https://www.sec.gov/Archives/edgar/data/1700540/0001700540-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001700540-26-000020:nd:3</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:38 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:02 GMT</pubDate>
     </item>
     <item>
       <title>JENKINS MARK W. (CVNA) M: 10000 shares @ $8.41</title>
       <link>https://www.sec.gov/Archives/edgar/data/1700540/0001700540-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001700540-26-000020:nd:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:38 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:02 GMT</pubDate>
     </item>
     <item>
       <title>JENKINS MARK W. (CVNA) M: 50000 shares @ $2.01</title>
       <link>https://www.sec.gov/Archives/edgar/data/1700540/0001700540-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001700540-26-000020:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:38 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:02 GMT</pubDate>
     </item>
     <item>
       <title>JENKINS MARK W. (CVNA) F: 7016 shares @ $72.18</title>
       <link>https://www.sec.gov/Archives/edgar/data/1700540/0001700540-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001700540-26-000020:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:38 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:02 GMT</pubDate>
     </item>
     <item>
       <title>JENKINS MARK W. (CVNA) M: 3750 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1700540/0001700540-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001700540-26-000020:d:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:38 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:02 GMT</pubDate>
     </item>
     <item>
       <title>JENKINS MARK W. (CVNA) M: 10000 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1700540/0001700540-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001700540-26-000020:d:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:38 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:02 GMT</pubDate>
     </item>
     <item>
       <title>JENKINS MARK W. (CVNA) M: 50000 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1700540/0001700540-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001700540-26-000020:d:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:38 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:02 GMT</pubDate>
     </item>
     <item>
       <title>GILL DANIEL J. (CVNA) F: 7705 shares @ $72.18</title>
       <link>https://www.sec.gov/Archives/edgar/data/1700538/0001700538-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001700538-26-000020:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:38 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:02 GMT</pubDate>
     </item>
     <item>
       <title>HUSTON BENJAMIN E. (CVNA) S: 20526 shares @ $71.83</title>
       <link>https://www.sec.gov/Archives/edgar/data/1700537/0001700537-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001700537-26-000020:nd:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:37 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:02 GMT</pubDate>
     </item>
     <item>
       <title>HUSTON BENJAMIN E. (CVNA) S: 29474 shares @ $71.36</title>
       <link>https://www.sec.gov/Archives/edgar/data/1700537/0001700537-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001700537-26-000020:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:37 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:02 GMT</pubDate>
     </item>
     <item>
       <title>HUSTON BENJAMIN E. (CVNA) F: 7016 shares @ $72.18</title>
       <link>https://www.sec.gov/Archives/edgar/data/1700537/0001700537-26-000020-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001700537-26-000020:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:37 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:02 GMT</pubDate>
     </item>
     <item>
       <title>Taira Thomas (CVNA) F: 3949 shares @ $72.18</title>
       <link>https://www.sec.gov/Archives/edgar/data/1690820/0001607889-26-000032-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001607889-26-000032:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:35 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:59 GMT</pubDate>
     </item>
   </channel>
 </rss>

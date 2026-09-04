@@ -4,438 +4,438 @@
     <title>LuxAlgo Market Trackers — Insider transactions — KNSA</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:35:55 GMT</lastBuildDate>
     <item>
       <title>Moat Ross (KNSA) F: 4007 shares @ $79.28</title>
       <link>https://www.sec.gov/Archives/edgar/data/1857177/0001857177-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001857177-26-000008:nd:4</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:15 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:39 GMT</pubDate>
     </item>
     <item>
       <title>Moat Ross (KNSA) M: 2457 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1857177/0001857177-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001857177-26-000008:nd:3</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:15 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:39 GMT</pubDate>
     </item>
     <item>
       <title>Moat Ross (KNSA) M: 1740 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1857177/0001857177-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001857177-26-000008:nd:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:15 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:39 GMT</pubDate>
     </item>
     <item>
       <title>Moat Ross (KNSA) M: 1611 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1857177/0001857177-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001857177-26-000008:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:15 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:39 GMT</pubDate>
     </item>
     <item>
       <title>Moat Ross (KNSA) M: 2477 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1857177/0001857177-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001857177-26-000008:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:15 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:39 GMT</pubDate>
     </item>
     <item>
       <title>Moat Ross (KNSA) M: 2477 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1857177/0001857177-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001857177-26-000008:d:5</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:15 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:39 GMT</pubDate>
     </item>
     <item>
       <title>Moat Ross (KNSA) M: 1611 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1857177/0001857177-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001857177-26-000008:d:4</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:15 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:39 GMT</pubDate>
     </item>
     <item>
       <title>Moat Ross (KNSA) M: 1740 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1857177/0001857177-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001857177-26-000008:d:3</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:15 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:39 GMT</pubDate>
     </item>
     <item>
       <title>Moat Ross (KNSA) M: 2457 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1857177/0001857177-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001857177-26-000008:d:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:15 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:39 GMT</pubDate>
     </item>
     <item>
       <title>Moat Ross (KNSA) A: 36950 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1857177/0001857177-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001857177-26-000008:d:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:15 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:39 GMT</pubDate>
     </item>
     <item>
       <title>Moat Ross (KNSA) A: 9250 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1857177/0001857177-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001857177-26-000008:d:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:15 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:39 GMT</pubDate>
     </item>
     <item>
       <title>Ragosa Mark (KNSA) F: 4404 shares @ $79.28</title>
       <link>https://www.sec.gov/Archives/edgar/data/1835458/0001835458-26-000012-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001835458-26-000012:nd:4</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:10 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:34 GMT</pubDate>
     </item>
     <item>
       <title>Ragosa Mark (KNSA) M: 3069 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1835458/0001835458-26-000012-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001835458-26-000012:nd:3</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:10 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:34 GMT</pubDate>
     </item>
     <item>
       <title>Ragosa Mark (KNSA) M: 1591 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1835458/0001835458-26-000012-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001835458-26-000012:nd:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:10 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:34 GMT</pubDate>
     </item>
     <item>
       <title>Ragosa Mark (KNSA) M: 1750 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1835458/0001835458-26-000012-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001835458-26-000012:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:10 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:34 GMT</pubDate>
     </item>
     <item>
       <title>Ragosa Mark (KNSA) M: 2694 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1835458/0001835458-26-000012-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001835458-26-000012:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:10 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:34 GMT</pubDate>
     </item>
     <item>
       <title>Ragosa Mark (KNSA) M: 2694 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1835458/0001835458-26-000012-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001835458-26-000012:d:5</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:10 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:34 GMT</pubDate>
     </item>
     <item>
       <title>Ragosa Mark (KNSA) M: 1750 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1835458/0001835458-26-000012-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001835458-26-000012:d:4</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:10 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:34 GMT</pubDate>
     </item>
     <item>
       <title>Ragosa Mark (KNSA) M: 1591 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1835458/0001835458-26-000012-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001835458-26-000012:d:3</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:10 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:34 GMT</pubDate>
     </item>
     <item>
       <title>Ragosa Mark (KNSA) M: 3069 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1835458/0001835458-26-000012-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001835458-26-000012:d:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:10 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:34 GMT</pubDate>
     </item>
     <item>
       <title>Ragosa Mark (KNSA) A: 31150 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1835458/0001835458-26-000012-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001835458-26-000012:d:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:10 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:34 GMT</pubDate>
     </item>
     <item>
       <title>Ragosa Mark (KNSA) A: 7800 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1835458/0001835458-26-000012-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001835458-26-000012:d:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:10 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:34 GMT</pubDate>
     </item>
     <item>
       <title>Paolini John F. (KNSA) F: 4029 shares @ $79.28</title>
       <link>https://www.sec.gov/Archives/edgar/data/1741533/0001741533-26-000010-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001741533-26-000010:nd:4</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:48 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:11 GMT</pubDate>
     </item>
     <item>
       <title>Paolini John F. (KNSA) M: 2457 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1741533/0001741533-26-000010-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001741533-26-000010:nd:3</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:48 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:11 GMT</pubDate>
     </item>
     <item>
       <title>Paolini John F. (KNSA) M: 1750 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1741533/0001741533-26-000010-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001741533-26-000010:nd:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:48 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:11 GMT</pubDate>
     </item>
     <item>
       <title>Paolini John F. (KNSA) M: 1624 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1741533/0001741533-26-000010-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001741533-26-000010:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:48 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:11 GMT</pubDate>
     </item>
     <item>
       <title>Paolini John F. (KNSA) M: 2497 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1741533/0001741533-26-000010-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001741533-26-000010:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:48 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:11 GMT</pubDate>
     </item>
     <item>
       <title>Paolini John F. (KNSA) M: 2497 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1741533/0001741533-26-000010-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001741533-26-000010:d:5</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:48 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:11 GMT</pubDate>
     </item>
     <item>
       <title>Paolini John F. (KNSA) M: 1624 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1741533/0001741533-26-000010-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001741533-26-000010:d:4</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:48 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:11 GMT</pubDate>
     </item>
     <item>
       <title>Paolini John F. (KNSA) M: 1750 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1741533/0001741533-26-000010-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001741533-26-000010:d:3</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:48 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:11 GMT</pubDate>
     </item>
     <item>
       <title>Paolini John F. (KNSA) M: 2457 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1741533/0001741533-26-000010-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001741533-26-000010:d:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:48 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:11 GMT</pubDate>
     </item>
     <item>
       <title>Paolini John F. (KNSA) A: 26750 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1741533/0001741533-26-000010-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001741533-26-000010:d:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:48 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:11 GMT</pubDate>
     </item>
     <item>
       <title>Paolini John F. (KNSA) A: 6700 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1741533/0001741533-26-000010-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001741533-26-000010:d:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:48 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:11 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000016-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000016:nd:6</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000016-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000016:nd:5</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) F: 15144 shares @ $79.28</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000016-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000016:nd:4</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) M: 8609 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000016-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000016:nd:3</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) M: 6237 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000016-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000016:nd:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) M: 6481 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000016-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000016:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) M: 9991 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000016-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000016:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) M: 9991 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000016-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000016:d:5</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) M: 6481 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000016-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000016:d:4</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) M: 6237 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000016-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000016:d:3</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) M: 8609 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000016-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000016:d:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) A: 120150 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000016-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000016:d:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) A: 30050 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000016-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000016:d:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000014-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000014:nd:6</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000014-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000014:nd:5</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) F: 15144 shares @ $79.28</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000014-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000014:nd:4</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) M: 8609 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000014-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000014:nd:3</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) M: 6237 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000014-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000014:nd:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) M: 6481 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000014-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000014:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) M: 9991 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000014-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000014:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) M: 9991 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000014-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000014:d:5</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) M: 6481 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000014-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000014:d:4</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) M: 6237 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000014-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000014:d:3</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) M: 8609 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000014-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000014:d:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) A: 120150 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000014-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000014:d:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Patel Sanj K (KNSA) A: 30050 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001532218-26-000014-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001532218-26-000014:d:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Megna Michael R (KNSA) S: 4600 shares @ $80.3</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001464583-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001464583-26-000008:nd:6</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Megna Michael R (KNSA) F: 5531 shares @ $79.28</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001464583-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001464583-26-000008:nd:5</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Megna Michael R (KNSA) M: 2644 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001464583-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001464583-26-000008:nd:4</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Megna Michael R (KNSA) M: 2362 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001464583-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001464583-26-000008:nd:3</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Megna Michael R (KNSA) M: 2558 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001464583-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001464583-26-000008:nd:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Megna Michael R (KNSA) M: 3932 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001464583-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001464583-26-000008:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Megna Michael R (KNSA) A: 279 shares @ $33.5</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001464583-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001464583-26-000008:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Megna Michael R (KNSA) M: 3932 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001464583-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001464583-26-000008:d:5</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Megna Michael R (KNSA) M: 2558 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001464583-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001464583-26-000008:d:4</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Megna Michael R (KNSA) M: 2362 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001464583-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001464583-26-000008:d:3</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Megna Michael R (KNSA) M: 2644 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001464583-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001464583-26-000008:d:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Megna Michael R (KNSA) A: 14600 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001464583-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001464583-26-000008:d:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
     <item>
       <title>Megna Michael R (KNSA) A: 3650 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1730430/0001464583-26-000008-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001464583-26-000008:d:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:44 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:08 GMT</pubDate>
     </item>
   </channel>
 </rss>

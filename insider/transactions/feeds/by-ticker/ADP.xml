@@ -4,276 +4,276 @@
     <title>LuxAlgo Market Trackers — Insider transactions — ADP</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:35:55 GMT</lastBuildDate>
     <item>
       <title>Orihuela Samantha D (ADP) F: 154.127 shares @ $283.49</title>
       <link>https://www.sec.gov/Archives/edgar/data/2148725/0001225208-26-007613-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007613:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:42:19 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:35:43 GMT</pubDate>
     </item>
     <item>
       <title>Orihuela Samantha D (ADP) A: 1163 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/2148725/0001225208-26-007613-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007613:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:42:19 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:35:43 GMT</pubDate>
     </item>
     <item>
       <title>Hadley Peter J (ADP) F: 1650.629 shares @ $283.49</title>
       <link>https://www.sec.gov/Archives/edgar/data/2072082/0001225208-26-007607-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007607:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:58 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:35:22 GMT</pubDate>
     </item>
     <item>
       <title>Hadley Peter J (ADP) A: 6464 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/2072082/0001225208-26-007607-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007607:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:58 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:35:22 GMT</pubDate>
     </item>
     <item>
       <title>Foskett David (ADP) S: 1529 shares @ $283</title>
       <link>https://www.sec.gov/Archives/edgar/data/2046853/0001225208-26-007606-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007606:nd:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:52 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:35:16 GMT</pubDate>
     </item>
     <item>
       <title>Foskett David (ADP) F: 1980.495 shares @ $283.49</title>
       <link>https://www.sec.gov/Archives/edgar/data/2046853/0001225208-26-007606-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007606:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:52 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:35:16 GMT</pubDate>
     </item>
     <item>
       <title>Foskett David (ADP) A: 4006 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/2046853/0001225208-26-007606-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007606:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:52 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:35:16 GMT</pubDate>
     </item>
     <item>
       <title>Lehberger Jonathan S (ADP) F: 406.397 shares @ $283.49</title>
       <link>https://www.sec.gov/Archives/edgar/data/2026933/0001225208-26-007610-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007610:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:47 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:35:11 GMT</pubDate>
     </item>
     <item>
       <title>Lehberger Jonathan S (ADP) A: 903 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/2026933/0001225208-26-007610-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007610:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:47 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:35:11 GMT</pubDate>
     </item>
     <item>
       <title>Boland Paul (ADP) F: 3133.562 shares @ $283.49</title>
       <link>https://www.sec.gov/Archives/edgar/data/1981634/0001225208-26-007602-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007602:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:37 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:35:01 GMT</pubDate>
     </item>
     <item>
       <title>Boland Paul (ADP) A: 3634 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1981634/0001225208-26-007602-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007602:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:37 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:35:01 GMT</pubDate>
     </item>
     <item>
       <title>Magliulo Virginia (ADP) F: 2708.956 shares @ $283.49</title>
       <link>https://www.sec.gov/Archives/edgar/data/1884374/0001225208-26-007611-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007611:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:23 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:47 GMT</pubDate>
     </item>
     <item>
       <title>Magliulo Virginia (ADP) A: 2858 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1884374/0001225208-26-007611-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007611:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:23 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:47 GMT</pubDate>
     </item>
     <item>
       <title>Kwon David (ADP) F: 1969.287 shares @ $283.49</title>
       <link>https://www.sec.gov/Archives/edgar/data/1872194/0001225208-26-007609-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007609:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:19 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:43 GMT</pubDate>
     </item>
     <item>
       <title>Kwon David (ADP) A: 1763 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1872194/0001225208-26-007609-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007609:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:19 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:43 GMT</pubDate>
     </item>
     <item>
       <title>D'Ambrosio Christopher (ADP) S: 1872 shares @ $283</title>
       <link>https://www.sec.gov/Archives/edgar/data/1866614/0001225208-26-007604-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007604:nd:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:42 GMT</pubDate>
     </item>
     <item>
       <title>D'Ambrosio Christopher (ADP) F: 1735.776 shares @ $283.49</title>
       <link>https://www.sec.gov/Archives/edgar/data/1866614/0001225208-26-007604-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007604:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:42 GMT</pubDate>
     </item>
     <item>
       <title>D'Ambrosio Christopher (ADP) A: 2565 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1866614/0001225208-26-007604-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007604:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:18 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:42 GMT</pubDate>
     </item>
     <item>
       <title>Michaud Brian L. (ADP) F: 2281.429 shares @ $283.49</title>
       <link>https://www.sec.gov/Archives/edgar/data/1805287/0001225208-26-007612-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007612:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:02 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:26 GMT</pubDate>
     </item>
     <item>
       <title>Michaud Brian L. (ADP) A: 2683 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1805287/0001225208-26-007612-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007612:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:02 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:26 GMT</pubDate>
     </item>
     <item>
       <title>DeSilva Joseph (ADP) S: 6512 shares @ $283</title>
       <link>https://www.sec.gov/Archives/edgar/data/1805266/0001225208-26-007605-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007605:nd:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:02 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:26 GMT</pubDate>
     </item>
     <item>
       <title>DeSilva Joseph (ADP) F: 7482.01 shares @ $283.49</title>
       <link>https://www.sec.gov/Archives/edgar/data/1805266/0001225208-26-007605-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007605:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:02 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:26 GMT</pubDate>
     </item>
     <item>
       <title>DeSilva Joseph (ADP) A: 5089 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1805266/0001225208-26-007605-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007605:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:02 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:26 GMT</pubDate>
     </item>
     <item>
       <title>KUTAM SREENIVASA (ADP) F: 7328.964 shares @ $283.49</title>
       <link>https://www.sec.gov/Archives/edgar/data/1742936/0001225208-26-007608-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007608:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:48 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:12 GMT</pubDate>
     </item>
     <item>
       <title>KUTAM SREENIVASA (ADP) A: 5259 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1742936/0001225208-26-007608-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007608:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:48 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:12 GMT</pubDate>
     </item>
     <item>
       <title>Black Maria (ADP) S: 1018 shares @ $281.5993</title>
       <link>https://www.sec.gov/Archives/edgar/data/1608466/0001225208-26-007601-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007601:nd:9</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:44 GMT</pubDate>
     </item>
     <item>
       <title>Black Maria (ADP) S: 786 shares @ $280.2682</title>
       <link>https://www.sec.gov/Archives/edgar/data/1608466/0001225208-26-007601-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007601:nd:8</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:44 GMT</pubDate>
     </item>
     <item>
       <title>Black Maria (ADP) S: 760 shares @ $281.6961</title>
       <link>https://www.sec.gov/Archives/edgar/data/1608466/0001225208-26-007601-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007601:nd:7</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:44 GMT</pubDate>
     </item>
     <item>
       <title>Black Maria (ADP) S: 700 shares @ $278.5886</title>
       <link>https://www.sec.gov/Archives/edgar/data/1608466/0001225208-26-007601-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007601:nd:6</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:44 GMT</pubDate>
     </item>
     <item>
       <title>Black Maria (ADP) S: 610 shares @ $281.8625</title>
       <link>https://www.sec.gov/Archives/edgar/data/1608466/0001225208-26-007601-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007601:nd:5</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:44 GMT</pubDate>
     </item>
     <item>
       <title>Black Maria (ADP) S: 559 shares @ $279.9339</title>
       <link>https://www.sec.gov/Archives/edgar/data/1608466/0001225208-26-007601-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007601:nd:4</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:44 GMT</pubDate>
     </item>
     <item>
       <title>Black Maria (ADP) S: 256 shares @ $279.4446</title>
       <link>https://www.sec.gov/Archives/edgar/data/1608466/0001225208-26-007601-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007601:nd:3</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:44 GMT</pubDate>
     </item>
     <item>
       <title>Black Maria (ADP) S: 214 shares @ $279.2119</title>
       <link>https://www.sec.gov/Archives/edgar/data/1608466/0001225208-26-007601-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007601:nd:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:44 GMT</pubDate>
     </item>
     <item>
       <title>Black Maria (ADP) S: 10591 shares @ $280.8179</title>
       <link>https://www.sec.gov/Archives/edgar/data/1608466/0001225208-26-007601-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007601:nd:15</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:44 GMT</pubDate>
     </item>
     <item>
       <title>Black Maria (ADP) S: 7724 shares @ $281.6597</title>
       <link>https://www.sec.gov/Archives/edgar/data/1608466/0001225208-26-007601-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007601:nd:14</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:44 GMT</pubDate>
     </item>
     <item>
       <title>Black Maria (ADP) S: 2898 shares @ $279.7355</title>
       <link>https://www.sec.gov/Archives/edgar/data/1608466/0001225208-26-007601-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007601:nd:13</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:44 GMT</pubDate>
     </item>
     <item>
       <title>Black Maria (ADP) S: 1483 shares @ $281.1319</title>
       <link>https://www.sec.gov/Archives/edgar/data/1608466/0001225208-26-007601-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007601:nd:12</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:44 GMT</pubDate>
     </item>
     <item>
       <title>Black Maria (ADP) S: 1193 shares @ $280.9598</title>
       <link>https://www.sec.gov/Archives/edgar/data/1608466/0001225208-26-007601-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007601:nd:11</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:44 GMT</pubDate>
     </item>
     <item>
       <title>Black Maria (ADP) S: 1018 shares @ $280.5952</title>
       <link>https://www.sec.gov/Archives/edgar/data/1608466/0001225208-26-007601-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007601:nd:10</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:44 GMT</pubDate>
     </item>
     <item>
       <title>Black Maria (ADP) F: 31215.462 shares @ $283.49</title>
       <link>https://www.sec.gov/Archives/edgar/data/1608466/0001225208-26-007601-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007601:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:44 GMT</pubDate>
     </item>
     <item>
       <title>Black Maria (ADP) A: 21689 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1608466/0001225208-26-007601-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007601:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:44 GMT</pubDate>
     </item>
     <item>
       <title>Bonarti Michael A (ADP) F: 7726.947 shares @ $283.49</title>
       <link>https://www.sec.gov/Archives/edgar/data/1487699/0001225208-26-007603-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007603:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:01 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:25 GMT</pubDate>
     </item>
     <item>
       <title>Bonarti Michael A (ADP) A: 5076 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1487699/0001225208-26-007603-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007603:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:40:01 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:25 GMT</pubDate>
     </item>
     <item>
       <title>Rodriguez Carlos A (ADP) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1378514/0001225208-26-007614-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007614:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:39:48 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:12 GMT</pubDate>
     </item>
     <item>
       <title>Rodriguez Carlos A (ADP) F: 13471.836 shares @ $283.49</title>
       <link>https://www.sec.gov/Archives/edgar/data/1378514/0001225208-26-007614-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001225208-26-007614:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:39:48 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:33:12 GMT</pubDate>
     </item>
     <item>
       <title>Michaud Brian L. (ADP) S: 120 shares @ $279.7</title>

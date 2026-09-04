@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — TSM</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:35:55 GMT</lastBuildDate>
     <item>
       <title>Wang Ying-Lang (TSM) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/2118010/0001046179-26-000588-index.htm</link>

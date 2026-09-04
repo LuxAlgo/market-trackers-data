@@ -4,36 +4,36 @@
     <title>LuxAlgo Market Trackers — Insider transactions — CSTL</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:35:55 GMT</lastBuildDate>
     <item>
       <title>Oelschlager Kristen M (CSTL) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1856565/0001628280-26-060430-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001628280-26-060430:nd:3</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:15 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:39 GMT</pubDate>
     </item>
     <item>
       <title>Oelschlager Kristen M (CSTL) S: 200 shares @ $34.02</title>
       <link>https://www.sec.gov/Archives/edgar/data/1856565/0001628280-26-060430-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001628280-26-060430:nd:2</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:15 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:39 GMT</pubDate>
     </item>
     <item>
       <title>Oelschlager Kristen M (CSTL) S: 3952 shares @ $33.36</title>
       <link>https://www.sec.gov/Archives/edgar/data/1856565/0001628280-26-060430-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001628280-26-060430:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:15 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:39 GMT</pubDate>
     </item>
     <item>
       <title>Oelschlager Kristen M (CSTL) M: 4152 shares @ $3.38</title>
       <link>https://www.sec.gov/Archives/edgar/data/1856565/0001628280-26-060430-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001628280-26-060430:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:15 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:39 GMT</pubDate>
     </item>
     <item>
       <title>Oelschlager Kristen M (CSTL) M: 4152 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1856565/0001628280-26-060430-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001628280-26-060430:d:0</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:15 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 10:34:39 GMT</pubDate>
     </item>
     <item>
       <title>Juvenal Tobin W (CSTL) S: 1730 shares @ $32.81</title>

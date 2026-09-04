@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — ARR</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 02:42:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:35:55 GMT</lastBuildDate>
     <item>
       <title>Losyev Sergey (ARR) F: 1118 shares @ $16.32</title>
       <link>https://www.sec.gov/Archives/edgar/data/2016863/0002016863-26-000009-index.htm</link>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>LuxAlgo Market Trackers — Congressional trades — CRM</title>
+    <title>LuxAlgo Market Trackers — Congressional trades — VSAT</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
     <lastBuildDate>Fri, 04 Sep 2026 20:33:32 GMT</lastBuildDate>
     <item>
-      <title>John Boozman (senate) sell: CRM — $1,001 - $15,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/</link>
-      <guid isPermaLink="false">congress-trades:senate:51455bcd-4966-4e77-b481-09897ada81ae:3</guid>
-      <pubDate>Wed, 02 Sep 2026 18:36:17 GMT</pubDate>
+      <title>Hon. Jonathan Jackson (house) sell: VSAT — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035370.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035370:0</guid>
+      <pubDate>Fri, 04 Sep 2026 20:31:37 GMT</pubDate>
     </item>
   </channel>
 </rss>

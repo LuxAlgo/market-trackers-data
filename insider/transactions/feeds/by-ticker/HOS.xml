@@ -4,54 +4,54 @@
     <title>LuxAlgo Market Trackers — Insider transactions — HOS</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 10:35:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:45:38 GMT</lastBuildDate>
     <item>
       <title>Sparks Scott Andrew (HOS) A: 70000 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1640450/0001193125-26-382139-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001193125-26-382139:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 10:33:51 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:43:34 GMT</pubDate>
     </item>
     <item>
       <title>Sparks Scott Andrew (HOS) A: 210000 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1640450/0001193125-26-382139-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001193125-26-382139:d:2</guid>
-      <pubDate>Fri, 04 Sep 2026 10:33:51 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:43:34 GMT</pubDate>
     </item>
     <item>
       <title>Sparks Scott Andrew (HOS) D: 250292 shares @ $10.3</title>
       <link>https://www.sec.gov/Archives/edgar/data/1640450/0001193125-26-382139-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001193125-26-382139:d:1</guid>
-      <pubDate>Fri, 04 Sep 2026 10:33:51 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:43:34 GMT</pubDate>
     </item>
     <item>
       <title>Sparks Scott Andrew (HOS) D: 181120 shares @ $10.3</title>
       <link>https://www.sec.gov/Archives/edgar/data/1640450/0001193125-26-382139-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001193125-26-382139:d:0</guid>
-      <pubDate>Fri, 04 Sep 2026 10:33:51 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:43:34 GMT</pubDate>
     </item>
     <item>
       <title>LOVOI JOHN (HOS) A: 16990 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1271502/0001193125-26-382133-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001193125-26-382133:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 10:33:03 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:42:46 GMT</pubDate>
     </item>
     <item>
       <title>LOVOI JOHN (HOS) F: 4552 shares @ $10.3</title>
       <link>https://www.sec.gov/Archives/edgar/data/1271502/0001193125-26-382133-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001193125-26-382133:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 10:33:03 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:42:46 GMT</pubDate>
     </item>
     <item>
       <title>TRANSIER WILLIAM L (HOS) A: 31553 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1187452/0001193125-26-382105-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001193125-26-382105:nd:1</guid>
-      <pubDate>Fri, 04 Sep 2026 10:32:54 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:42:37 GMT</pubDate>
     </item>
     <item>
       <title>TRANSIER WILLIAM L (HOS) F: 7656 shares @ $10.3</title>
       <link>https://www.sec.gov/Archives/edgar/data/1187452/0001193125-26-382105-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001193125-26-382105:nd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 10:32:54 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 12:42:37 GMT</pubDate>
     </item>
     <item>
       <title>Neikirk Kenneth English (HOS) M: 83732 shares @ $0</title>

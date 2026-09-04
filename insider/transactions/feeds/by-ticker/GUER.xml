@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — GUER</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 10:35:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:45:38 GMT</lastBuildDate>
     <item>
       <title>HAMMER TODD B (GUER) M: 14164 shares @ $6</title>
       <link>https://www.sec.gov/Archives/edgar/data/1832487/0001437749-26-029432-index.htm</link>

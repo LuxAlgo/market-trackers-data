@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — HSY</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 10:35:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:45:38 GMT</lastBuildDate>
     <item>
       <title>HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL (HSY) S: 1478 shares @ $175.5103</title>
       <link>https://www.sec.gov/Archives/edgar/data/938543/0000950142-26-002485-index.htm</link>

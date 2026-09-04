@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — PMTS</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 20:33:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 22:32:37 GMT</lastBuildDate>
     <item>
       <title>Dixon Robert Michael (PMTS) F: 223 shares @ $28.97</title>
       <link>https://www.sec.gov/Archives/edgar/data/2116673/0002116673-26-000002-index.htm</link>

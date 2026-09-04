@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Congressional trades — Christopher A Coons</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 20:33:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 22:32:37 GMT</lastBuildDate>
     <item>
       <title>Christopher A Coons (senate) sell: W.L. Gore &amp; Associates, Inc. Company: W.L. Gore &amp; Associates, Inc. (Newark, Delaware) Description: Advanced materials manufacturing — $100,001 - $250,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/5a76ceb6-2d1d-4430-8a17-6512bcb402be/</link>
       <guid isPermaLink="false">congress-trades:senate:5a76ceb6-2d1d-4430-8a17-6512bcb402be:0</guid>
-      <pubDate>Fri, 04 Sep 2026 20:31:33 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 22:30:50 GMT</pubDate>
     </item>
   </channel>
 </rss>

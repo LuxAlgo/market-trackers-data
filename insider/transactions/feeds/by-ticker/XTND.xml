@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — XTND</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 22:32:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 01:04:07 GMT</lastBuildDate>
     <item>
       <title>Liani Reuven (XTND) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/2140179/0001193125-26-382076-index.htm</link>

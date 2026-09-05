@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — ISRG</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
     <item>
       <title>Intuitive Surgical — RECRUITING PHASE4: A Randomized Controlled Trial Comparing Percutaneous CT-Guided Biopsy and Shape-Sensing Robotic-Assisted Bronchoscopy</title>
       <link>https://clinicaltrials.gov/study/NCT07761351</link>
       <guid isPermaLink="false">clinical-trials:NCT07761351</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Intuitive Surgical — ACTIVE_NOT_RECRUITING: A Study to Understand the Utility of the Force Feedback Instruments in Robotic Procedures Using da Vinci 5 Robot</title>
       <link>https://clinicaltrials.gov/study/NCT06879912</link>
       <guid isPermaLink="false">clinical-trials:NCT06879912</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Intuitive Surgical — RECRUITING NA: Use of Force Feedback Instruments With the da Vinci Surgical System, Model IS5000 for Mitral Valve Repair</title>

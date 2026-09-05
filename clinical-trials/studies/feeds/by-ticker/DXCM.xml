@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — DXCM</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
     <item>
       <title>DexCom, Inc. — ACTIVE_NOT_RECRUITING: Dexcom Continuous Glucose Monitoring System Use in aReal-World, Global Registry (Dexcom Global Registry)</title>
       <link>https://clinicaltrials.gov/study/NCT06483945</link>
       <guid isPermaLink="false">clinical-trials:NCT06483945</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
   </channel>
 </rss>

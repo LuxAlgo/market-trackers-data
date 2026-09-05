@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Short-sale volume — AADX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <item>
+      <title>AADX 2026-09-04: 343125.107956/879563.456798 short (39.0%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260904.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-04:AADX:CNMS</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:06 GMT</pubDate>
+    </item>
     <item>
       <title>AADX 2026-09-03: 499653.764303/1051645.707139 short (47.5%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>

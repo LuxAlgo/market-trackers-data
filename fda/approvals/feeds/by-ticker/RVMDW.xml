@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — FDA drug application events — RVMDW</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Drug-application submission events (originals and supplements) with FDA status codes, from openFDA's Drugs@FDA endpoint, with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
     <item>
       <title>REVOLUTION MEDICINES INC NDA220910 ORIG 1: AP (2026-08-26)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=220910</link>
       <guid isPermaLink="false">fda-approvals:NDA220910:ORIG:1</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
   </channel>
 </rss>

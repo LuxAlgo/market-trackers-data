@@ -4,24 +4,24 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — XENE</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
     <item>
       <title>Xenon Pharmaceuticals Inc. — ENROLLING_BY_INVITATION PHASE3: An Open-label Study of Azetukalner in Bipolar I or II Depression (X-CEED-OLE)</title>
       <link>https://clinicaltrials.gov/study/NCT07217860</link>
       <guid isPermaLink="false">clinical-trials:NCT07217860</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Xenon Pharmaceuticals Inc. — RECRUITING PHASE3: A Randomized Study of Azetukalner Versus Placebo in Depressive Episodes Associated With Bipolar I or II Disorder (Bipolar Depression)</title>
       <link>https://clinicaltrials.gov/study/NCT07172516</link>
       <guid isPermaLink="false">clinical-trials:NCT07172516</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Xenon Pharmaceuticals Inc. — ENROLLING_BY_INVITATION PHASE3: An Open-Label Study of Azetukalner in Major Depressive Disorder</title>
       <link>https://clinicaltrials.gov/study/NCT06922110</link>
       <guid isPermaLink="false">clinical-trials:NCT06922110</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
   </channel>
 </rss>

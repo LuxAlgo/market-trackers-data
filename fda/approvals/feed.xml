@@ -4,348 +4,516 @@
     <title>LuxAlgo Market Trackers — FDA drug application events</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Drug-application submission events (originals and supplements) with FDA status codes, from openFDA's Drugs@FDA endpoint, with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
     <item>
       <title>GILEAD SCIENCES INC NDA221443 SUPPL 1: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=221443</link>
       <guid isPermaLink="false">fda-approvals:NDA221443:SUPPL:1</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>GILEAD SCIENCES INC NDA221443 ORIG 1: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=221443</link>
       <guid isPermaLink="false">fda-approvals:NDA221443:ORIG:1</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>GILEAD SCIENCES NDA221104 ORIG 1: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=221104</link>
       <guid isPermaLink="false">fda-approvals:NDA221104:ORIG:1</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>REVOLUTION MEDICINES INC NDA220910 ORIG 1: AP (2026-08-26)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=220910</link>
       <guid isPermaLink="false">fda-approvals:NDA220910:ORIG:1</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>TAKEDA PHARMACEUTICALS U.S.A., INC. NDA220605 ORIG 1: AP (2026-08-28)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=220605</link>
       <guid isPermaLink="false">fda-approvals:NDA220605:ORIG:1</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>PRIOVANT THERAPEUTICS INC NDA220106 ORIG 1: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=220106</link>
       <guid isPermaLink="false">fda-approvals:NDA220106:ORIG:1</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>ELI LILLY AND CO NDA217806 SUPPL 41: AP (2026-08-26)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=217806</link>
       <guid isPermaLink="false">fda-approvals:NDA217806:SUPPL:41</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>BRISTOL NDA216340 SUPPL 11: AP (2026-09-01)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=216340</link>
+      <guid isPermaLink="false">fda-approvals:NDA216340:SUPPL:11</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>GILEAD SCIENCES INC NDA215974 SUPPL 17: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=215974</link>
       <guid isPermaLink="false">fda-approvals:NDA215974:SUPPL:17</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>GILEAD SCIENCES INC NDA215973 SUPPL 24: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=215973</link>
       <guid isPermaLink="false">fda-approvals:NDA215973:SUPPL:24</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>ELI LILLY AND CO NDA215866 SUPPL 45: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=215866</link>
       <guid isPermaLink="false">fda-approvals:NDA215866:SUPPL:45</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>ELI LILLY AND CO NDA215866 SUPPL 44: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=215866</link>
       <guid isPermaLink="false">fda-approvals:NDA215866:SUPPL:44</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>VIIV HLTHCARE NDA213983 SUPPL 7: AP (2026-08-25)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=213983</link>
       <guid isPermaLink="false">fda-approvals:NDA213983:SUPPL:7</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER NDA213871 SUPPL 3: AP (2026-09-02)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=213871</link>
+      <guid isPermaLink="false">fda-approvals:NDA213871:SUPPL:3</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>AADI NDA213312 SUPPL 14: AP (2026-09-02)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=213312</link>
+      <guid isPermaLink="false">fda-approvals:NDA213312:SUPPL:14</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>SUN PHARMACEUTICAL INDUSTRIES LIMITED NDA213225 ORIG 1: AP (2026-08-26)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=213225</link>
       <guid isPermaLink="false">fda-approvals:NDA213225:ORIG:1</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>NOVO NDA209637 SUPPL 44: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=209637</link>
       <guid isPermaLink="false">fda-approvals:NDA209637:SUPPL:44</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHATTEM SANOFI NDA209090 SUPPL 8: AP (2026-08-31)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=209090</link>
+      <guid isPermaLink="false">fda-approvals:NDA209090:SUPPL:8</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>BAXTER HLTHCARE CORP NDA207131 SUPPL 14: AP (2026-08-31)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=207131</link>
       <guid isPermaLink="false">fda-approvals:NDA207131:SUPPL:14</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>ETON NDA205410 SUPPL 7: AP (2026-08-28)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=205410</link>
       <guid isPermaLink="false">fda-approvals:NDA205410:SUPPL:7</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>VIIV HLTHCARE NDA204790 SUPPL 34: AP (2026-08-25)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=204790</link>
       <guid isPermaLink="false">fda-approvals:NDA204790:SUPPL:34</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>TAKEDA PHARMS USA NDA203441 SUPPL 28: AP (2026-08-26)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=203441</link>
       <guid isPermaLink="false">fda-approvals:NDA203441:SUPPL:28</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>BAXTER HLTHCARE NDA050640 SUPPL 24: AP (2026-08-31)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=050640</link>
       <guid isPermaLink="false">fda-approvals:NDA050640:SUPPL:24</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER NDA050162 SUPPL 108: AP (2026-09-01)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=050162</link>
+      <guid isPermaLink="false">fda-approvals:NDA050162:SUPPL:108</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHEPLAPHARM NDA020457 SUPPL 20: AP (2026-09-02)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=020457</link>
+      <guid isPermaLink="false">fda-approvals:NDA020457:SUPPL:20</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>CURIUM NDA019981 SUPPL 11: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=019981</link>
       <guid isPermaLink="false">fda-approvals:NDA019981:SUPPL:11</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>JANSSEN BIOTECH BLA761430 SUPPL 2: AP (2026-08-24)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=761430</link>
       <guid isPermaLink="false">fda-approvals:BLA761430:SUPPL:2</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>JAZZ PHARMS BLA761416 SUPPL 3: AP (2026-08-25)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=761416</link>
       <guid isPermaLink="false">fda-approvals:BLA761416:SUPPL:3</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>JAZZ PHARMS BLA761416 SUPPL 2: AP (2026-08-25)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=761416</link>
       <guid isPermaLink="false">fda-approvals:BLA761416:SUPPL:2</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>CHECKPOINT THERAPEUTICS INC BLA761297 SUPPL 4: AP (2026-08-31)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=761297</link>
       <guid isPermaLink="false">fda-approvals:BLA761297:SUPPL:4</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>ASTRAZENECA AB BLA761289 SUPPL 9: AP (2026-08-31)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=761289</link>
       <guid isPermaLink="false">fda-approvals:BLA761289:SUPPL:9</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>AKESO BIOPHARMA BLA761258 SUPPL 2: AP (2026-08-31)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=761258</link>
       <guid isPermaLink="false">fda-approvals:BLA761258:SUPPL:2</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>COHERUS BIOSCIENCES INC BLA761240 SUPPL 6: AP (2026-08-31)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=761240</link>
       <guid isPermaLink="false">fda-approvals:BLA761240:SUPPL:6</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>BEIGENE BLA761232 SUPPL 18: AP (2026-08-25)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=761232</link>
       <guid isPermaLink="false">fda-approvals:BLA761232:SUPPL:18</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>SAMSUNG BIOEPIS CO LTD BLA761202 SUPPL 20: AP (2026-09-01)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=761202</link>
+      <guid isPermaLink="false">fda-approvals:BLA761202:SUPPL:20</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>PHARMAESSENTIA CORP BLA761166 SUPPL 13: AP (2026-08-28)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=761166</link>
       <guid isPermaLink="false">fda-approvals:BLA761166:SUPPL:13</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>REGENERON PHARMACEUTICALS BLA761097 SUPPL 38: AP (2026-08-31)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=761097</link>
       <guid isPermaLink="false">fda-approvals:BLA761097:SUPPL:38</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>ASTRAZENECA UK LTD BLA761069 SUPPL 60: AP (2026-08-31)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=761069</link>
       <guid isPermaLink="false">fda-approvals:BLA761069:SUPPL:60</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>EMD SERONO INC BLA761049 SUPPL 26: AP (2026-08-31)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=761049</link>
       <guid isPermaLink="false">fda-approvals:BLA761049:SUPPL:26</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>JANSSEN BIOTECH BLA761044 SUPPL 21: AP (2026-08-28)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=761044</link>
       <guid isPermaLink="false">fda-approvals:BLA761044:SUPPL:21</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>BRISTOL MYERS SQUIBB BLA125377 SUPPL 140: AP (2026-08-31)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=125377</link>
       <guid isPermaLink="false">fda-approvals:BLA125377:SUPPL:140</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>CENTOCOR ORTHO BIOTECH INC BLA125261 SUPPL 173: AP (2026-08-28)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=125261</link>
       <guid isPermaLink="false">fda-approvals:BLA125261:SUPPL:173</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>ORBICULAR PHARM TECH ANDA220938 ORIG 1: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=220938</link>
       <guid isPermaLink="false">fda-approvals:ANDA220938:ORIG:1</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>QILU PHARM HAINAN ANDA220919 ORIG 1: AP (2026-08-31)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=220919</link>
+      <guid isPermaLink="false">fda-approvals:ANDA220919:ORIG:1</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>SANDOZ ANDA220741 ORIG 1: AP (2026-08-31)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=220741</link>
       <guid isPermaLink="false">fda-approvals:ANDA220741:ORIG:1</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>APOTEX INC ANDA220684 ORIG 1: TA (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=220684</link>
       <guid isPermaLink="false">fda-approvals:ANDA220684:ORIG:1</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>TARO PHARMACEUTICALS INC. ANDA220075 ORIG 1: TA (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=220075</link>
       <guid isPermaLink="false">fda-approvals:ANDA220075:ORIG:1</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>CIPLA ANDA219718 ORIG 1: AP (2026-08-31)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=219718</link>
       <guid isPermaLink="false">fda-approvals:ANDA219718:ORIG:1</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>MACLEODS PHARMS LTD ANDA219429 ORIG 1: AP (2026-08-31)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=219429</link>
+      <guid isPermaLink="false">fda-approvals:ANDA219429:ORIG:1</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>SANDOZ INC ANDA219225 ORIG 1: TA (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=219225</link>
       <guid isPermaLink="false">fda-approvals:ANDA219225:ORIG:1</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>MILLA PHARMS ANDA219037 ORIG 1: AP (2026-08-28)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=219037</link>
       <guid isPermaLink="false">fda-approvals:ANDA219037:ORIG:1</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>HAINAN POLY ANDA218749 SUPPL 1: AP (2026-08-28)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=218749</link>
       <guid isPermaLink="false">fda-approvals:ANDA218749:SUPPL:1</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>TEVA PHARM ANDA217650 ORIG 1: TA (2026-09-01)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=217650</link>
+      <guid isPermaLink="false">fda-approvals:ANDA217650:ORIG:1</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>AUROBINDO PHARMA LTD ANDA217088 SUPPL 3: AP (2026-08-25)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=217088</link>
       <guid isPermaLink="false">fda-approvals:ANDA217088:SUPPL:3</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>AUROBINDO PHARMA LTD ANDA217088 SUPPL 2: AP (2026-08-25)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=217088</link>
       <guid isPermaLink="false">fda-approvals:ANDA217088:SUPPL:2</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>RUBICON RESEARCH ANDA216492 SUPPL 6: AP (2026-08-25)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=216492</link>
       <guid isPermaLink="false">fda-approvals:ANDA216492:SUPPL:6</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>MEITHEAL ANDA216038 SUPPL 4: AP (2026-09-01)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=216038</link>
+      <guid isPermaLink="false">fda-approvals:ANDA216038:SUPPL:4</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>ANNORA PHARMA ANDA215008 SUPPL 2: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=215008</link>
       <guid isPermaLink="false">fda-approvals:ANDA215008:SUPPL:2</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>NATCO ANDA214173 ORIG 1: AP (2026-08-26)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=214173</link>
       <guid isPermaLink="false">fda-approvals:ANDA214173:ORIG:1</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>AUROBINDO PHARMA LTD ANDA213466 SUPPL 1: AP (2026-08-31)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=213466</link>
+      <guid isPermaLink="false">fda-approvals:ANDA213466:SUPPL:1</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>DR REDDYS ANDA213234 ORIG 1: AP (2026-08-31)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=213234</link>
+      <guid isPermaLink="false">fda-approvals:ANDA213234:ORIG:1</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>EUGIA PHARMA ANDA211864 SUPPL 2: AP (2026-08-25)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=211864</link>
       <guid isPermaLink="false">fda-approvals:ANDA211864:SUPPL:2</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>RISING ANDA211626 SUPPL 9: AP (2026-08-31)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=211626</link>
+      <guid isPermaLink="false">fda-approvals:ANDA211626:SUPPL:9</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>IXORA LIFESCIENCE ANDA211619 SUPPL 1: AP (2026-09-01)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=211619</link>
+      <guid isPermaLink="false">fda-approvals:ANDA211619:SUPPL:1</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>AJANTA PHARMA LTD ANDA211482 SUPPL 1: AP (2026-09-02)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=211482</link>
+      <guid isPermaLink="false">fda-approvals:ANDA211482:SUPPL:1</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>SPIL ANDA210232 ORIG 1: AP (2026-08-31)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=210232</link>
+      <guid isPermaLink="false">fda-approvals:ANDA210232:ORIG:1</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>GUARDIAN DRUG ANDA210149 SUPPL 8: AP (2026-08-26)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=210149</link>
       <guid isPermaLink="false">fda-approvals:ANDA210149:SUPPL:8</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>SANDOZ ANDA209710 SUPPL 8: AP (2026-08-31)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=209710</link>
+      <guid isPermaLink="false">fda-approvals:ANDA209710:SUPPL:8</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>SUN PHARM ANDA208934 SUPPL 8: AP (2026-08-25)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=208934</link>
       <guid isPermaLink="false">fda-approvals:ANDA208934:SUPPL:8</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>B BRAUN MEDICAL ANDA208475 SUPPL 1: AP (2026-09-01)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=208475</link>
+      <guid isPermaLink="false">fda-approvals:ANDA208475:SUPPL:1</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>MICRO LABS ANDA206713 SUPPL 8: AP (2026-08-31)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=206713</link>
+      <guid isPermaLink="false">fda-approvals:ANDA206713:SUPPL:8</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>MYLAN ANDA205651 SUPPL 9: AP (2026-09-01)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=205651</link>
+      <guid isPermaLink="false">fda-approvals:ANDA205651:SUPPL:9</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>HETERO LABS LTD III ANDA205541 SUPPL 9: AP (2026-08-25)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=205541</link>
       <guid isPermaLink="false">fda-approvals:ANDA205541:SUPPL:9</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>HETERO LABS LTD III ANDA205541 SUPPL 6: AP (2026-08-25)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=205541</link>
       <guid isPermaLink="false">fda-approvals:ANDA205541:SUPPL:6</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>LUPIN LTD ANDA091322 SUPPL 6: AP (2026-08-31)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=091322</link>
+      <guid isPermaLink="false">fda-approvals:ANDA091322:SUPPL:6</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>MICRO LABS ANDA090562 SUPPL 14: AP (2026-08-31)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=090562</link>
+      <guid isPermaLink="false">fda-approvals:ANDA090562:SUPPL:14</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>MICRO LABS ANDA090562 SUPPL 12: AP (2026-08-31)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=090562</link>
+      <guid isPermaLink="false">fda-approvals:ANDA090562:SUPPL:12</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>HIKMA ANDA088744 SUPPL 37: AP (2026-08-28)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=088744</link>
+      <guid isPermaLink="false">fda-approvals:ANDA088744:SUPPL:37</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>PETNET ANDA079086 SUPPL 31: AP (2026-08-31)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=079086</link>
       <guid isPermaLink="false">fda-approvals:ANDA079086:SUPPL:31</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>MLV ANDA078786 SUPPL 5: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=078786</link>
       <guid isPermaLink="false">fda-approvals:ANDA078786:SUPPL:5</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>SANDOZ ANDA078510 SUPPL 20: AP (2026-08-31)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=078510</link>
+      <guid isPermaLink="false">fda-approvals:ANDA078510:SUPPL:20</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>APOTEX ANDA076212 SUPPL 12: AP (2026-08-28)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=076212</link>
       <guid isPermaLink="false">fda-approvals:ANDA076212:SUPPL:12</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>DR REDDYS LABS LTD ANDA075576 SUPPL 29: AP (2026-08-27)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=075576</link>
       <guid isPermaLink="false">fda-approvals:ANDA075576:SUPPL:29</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHARTWELL RX ANDA061996 SUPPL 9: AP (2026-09-01)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=061996</link>
+      <guid isPermaLink="false">fda-approvals:ANDA061996:SUPPL:9</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>HIKMA ANDA040110 SUPPL 15: AP (2026-08-28)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=040110</link>
+      <guid isPermaLink="false">fda-approvals:ANDA040110:SUPPL:15</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
   </channel>
 </rss>

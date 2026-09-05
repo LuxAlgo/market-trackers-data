@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — WEYS</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
     <item>
       <title>Chang Tina M (WEYS) S: 3000 shares @ $45.07</title>
       <link>https://www.sec.gov/Archives/edgar/data/1389308/0001389308-26-000009-index.htm</link>

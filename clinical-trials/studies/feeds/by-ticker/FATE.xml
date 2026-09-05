@@ -4,24 +4,24 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — FATE</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
     <item>
       <title>Fate Therapeutics — RECRUITING PHASE1/PHASE2: FT839 in Autoimmune Diseases</title>
       <link>https://clinicaltrials.gov/study/NCT07800871</link>
       <guid isPermaLink="false">clinical-trials:NCT07800871</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Fate Therapeutics — RECRUITING PHASE2: A Phase 2, Open-Label, Single-Arm Trial of FT819 in Participants With Lupus Nephritis</title>
       <link>https://clinicaltrials.gov/study/NCT07570862</link>
       <guid isPermaLink="false">clinical-trials:NCT07570862</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Fate Therapeutics — RECRUITING PHASE1: FT836 With or Without Chemotherapy and/or Monoclonal Antibodies, in Participants With Advanced Solid Tumors</title>
       <link>https://clinicaltrials.gov/study/NCT07216105</link>
       <guid isPermaLink="false">clinical-trials:NCT07216105</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
   </channel>
 </rss>

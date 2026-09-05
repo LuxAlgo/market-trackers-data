@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — RARE</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
     <item>
       <title>Ultragenyx Pharmaceutical Inc — RECRUITING PHASE1/PHASE2: First-in-human Study of UX016 in GNEM</title>
       <link>https://clinicaltrials.gov/study/NCT07511556</link>
       <guid isPermaLink="false">clinical-trials:NCT07511556</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Ultragenyx Pharmaceutical Inc — ACTIVE_NOT_RECRUITING: X-linked Hypophosphatemia Disease Monitoring Program</title>
       <link>https://clinicaltrials.gov/study/NCT03651505</link>
       <guid isPermaLink="false">clinical-trials:NCT03651505</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Ultragenyx Pharmaceutical Inc — RECRUITING: Mucopolysaccharidosis VII Disease Monitoring Program</title>

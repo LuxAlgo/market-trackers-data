@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — FDA drug application events — PFE</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>Drug-application submission events (originals and supplements) with FDA status codes, from openFDA's Drugs@FDA endpoint, with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <item>
+      <title>PFIZER NDA213871 SUPPL 3: AP (2026-09-02)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=213871</link>
+      <guid isPermaLink="false">fda-approvals:NDA213871:SUPPL:3</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>PFIZER NDA050162 SUPPL 108: AP (2026-09-01)</title>
+      <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=050162</link>
+      <guid isPermaLink="false">fda-approvals:NDA050162:SUPPL:108</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

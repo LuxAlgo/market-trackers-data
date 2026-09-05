@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — ANET</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
     <item>
       <title>Breithaupt Chantelle Yvette (ANET) S: 612 shares @ $195.77</title>
       <link>https://www.sec.gov/Archives/edgar/data/1850596/0001596532-26-000222-index.htm</link>

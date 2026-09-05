@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — FDA drug application events — REGN</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Drug-application submission events (originals and supplements) with FDA status codes, from openFDA's Drugs@FDA endpoint, with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
     <item>
       <title>REGENERON PHARMACEUTICALS BLA761097 SUPPL 38: AP (2026-08-31)</title>
       <link>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=761097</link>
       <guid isPermaLink="false">fda-approvals:BLA761097:SUPPL:38</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:13 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>REGENERON PHARMACEUTICALS, INC BLA761508 ORIG 1: AP (2026-08-19)</title>

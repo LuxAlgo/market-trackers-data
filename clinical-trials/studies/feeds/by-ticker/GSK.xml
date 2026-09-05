@@ -4,83 +4,83 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — GSK</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
     <item>
       <title>GlaxoSmithKline — NOT_YET_RECRUITING PHASE3: A Study on the Efficacy of a Vaccine Against Influenza in Adults ≥65 Years of Age</title>
       <link>https://clinicaltrials.gov/study/NCT07805707</link>
       <guid isPermaLink="false">clinical-trials:NCT07805707</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>GlaxoSmithKline — NOT_YET_RECRUITING PHASE3: A Study of Risvutatug Rezetecan in Participants With Metastatic Castration-resistant Prostate Cancer (mCRPC)</title>
       <link>https://clinicaltrials.gov/study/NCT07802704</link>
       <guid isPermaLink="false">clinical-trials:NCT07802704</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>GlaxoSmithKline — NOT_YET_RECRUITING PHASE2: A Study to Investigate the Safety and Efficacy of Efimosfermin Alfa Compared With Placebo in Adult Participants With Alcohol-related Liver Disease (ALD)</title>
-      <link>https://clinicaltrials.gov/study/NCT07791043</link>
-      <guid isPermaLink="false">clinical-trials:NCT07791043</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>GlaxoSmithKline — RECRUITING PHASE1: A Study to Evaluate Pharmacokinetics, Safety, and Tolerability of Two GSK3862995B Formulations in Healthy Participants</title>
       <link>https://clinicaltrials.gov/study/NCT07789899</link>
       <guid isPermaLink="false">clinical-trials:NCT07789899</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>GlaxoSmithKline — NOT_YET_RECRUITING PHASE3: A Study to Investigate Mocertatug Rezetecan With Bevacizumab Compared With Platinum Doublet With Bevacizumab in Participants With Platinum-sensitive Ovarian Cancer (BEHOLD-Ovarian02)</title>
       <link>https://clinicaltrials.gov/study/NCT07684612</link>
       <guid isPermaLink="false">clinical-trials:NCT07684612</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>GlaxoSmithKline — NOT_YET_RECRUITING PHASE3: A Study to Investigate Mocertatug Rezetecan as Maintenance Treatment for Participants With MMRp Endometrial Cancer (BEHOLD-Endometrial02)</title>
       <link>https://clinicaltrials.gov/study/NCT07684599</link>
       <guid isPermaLink="false">clinical-trials:NCT07684599</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>GlaxoSmithKline — WITHDRAWN PHASE1: A Study to Investigate the Difference In Blood Levels of Camlipixant Between Different Camlipixant Formulation Prototypes</title>
       <link>https://clinicaltrials.gov/study/NCT07684586</link>
       <guid isPermaLink="false">clinical-trials:NCT07684586</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>GlaxoSmithKline — RECRUITING PHASE3: A Study to Investigate Mocertatug Rezetecan Compared With Chemotherapy in Participants With Endometrial Cancer After Platinum-based Chemotherapy and Immunotherapy (BEHOLD-Endometrial01)</title>
       <link>https://clinicaltrials.gov/study/NCT07286331</link>
       <guid isPermaLink="false">clinical-trials:NCT07286331</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>GlaxoSmithKline — RECRUITING PHASE3: A Study of GSK5764227 in Participants With Relapsed Small Cell Lung Cancer (SCLC)</title>
       <link>https://clinicaltrials.gov/study/NCT07099898</link>
       <guid isPermaLink="false">clinical-trials:NCT07099898</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>GlaxoSmithKline — ACTIVE_NOT_RECRUITING PHASE4: A Study Describing the Efficacy and Safety of Belimumab Administered in Adult Participants With Early Systemic Lupus Erythematosus (SLE)</title>
       <link>https://clinicaltrials.gov/study/NCT06411249</link>
       <guid isPermaLink="false">clinical-trials:NCT06411249</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>GlaxoSmithKline — TERMINATED PHASE1/PHASE2: Evaluation of Programmed Death Ligand 1 (PDL1) Response to Treatment in Extracellular Vesicles (EVs), Patient-derived Organoid (PDOs)s and Immune-marker Positron Emission Tomography (PET) Scanning in Non-small Cell Lung Cancer (NSCLC)</title>
       <link>https://clinicaltrials.gov/study/NCT06405230</link>
       <guid isPermaLink="false">clinical-trials:NCT06405230</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>GlaxoSmithKline — COMPLETED PHASE2: A Study on the Safety, Reactogenicity, and Immune Response to the GVGH iNTS-GMMA Vaccine Against Invasive Nontyphoidal Salmonella in Adults, Children, and Infants</title>
       <link>https://clinicaltrials.gov/study/NCT06213506</link>
       <guid isPermaLink="false">clinical-trials:NCT06213506</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>GlaxoSmithKline — RECRUITING PHASE3: Depemokimab in Participants With Hypereosinophilic Syndrome, Efficacy, and Safety Trial</title>
       <link>https://clinicaltrials.gov/study/NCT05334368</link>
       <guid isPermaLink="false">clinical-trials:NCT05334368</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>GlaxoSmithKline — NOT_YET_RECRUITING PHASE2: A Study to Investigate the Safety and Efficacy of Efimosfermin Alfa Compared With Placebo in Adult Participants With Alcohol-related Liver Disease (ALD)</title>
+      <link>https://clinicaltrials.gov/study/NCT07791043</link>
+      <guid isPermaLink="false">clinical-trials:NCT07791043</guid>
       <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>

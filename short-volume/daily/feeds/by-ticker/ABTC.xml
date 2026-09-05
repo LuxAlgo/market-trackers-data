@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Short-sale volume — ABTC</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <item>
+      <title>ABTC 2026-09-04: 1241782.491716/2141357.266513 short (58.0%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260904.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-04:ABTC:CNMS</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:06 GMT</pubDate>
+    </item>
     <item>
       <title>ABTC 2026-09-03: 656534.677192/1455130.116197 short (45.1%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>

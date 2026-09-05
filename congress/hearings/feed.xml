@@ -4,18 +4,30 @@
     <title>LuxAlgo Market Trackers — Congressional hearing transcripts</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Published hearing transcript packages from GPO GovInfo's CHRG collection (keyless): title, committees, witnesses, member bioguide ids, and deep links to the transcript — an index with receipts; the text stays at govinfo. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
     <item>
-      <title>senate hearing 2026-06-03 — Special Committee on Aging: POISONED PILLS: THE HUMAN COST OF DANGEROUS FOREIGN DRUGS</title>
-      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119shrg64196/mods.xml</link>
-      <guid isPermaLink="false">congress-hearings:CHRG-119shrg64196</guid>
-      <pubDate>Fri, 04 Sep 2026 13:06:35 GMT</pubDate>
+      <title>house hearing 2026-06-30 — Committee on Transportation and Infrastructure: TAKING ACCOUNT: IMPLEMENTATION OF THE COAST GUARD AUTHORIZATION ACT OF 2025, RECONCILIATION, AND FORCE DESIGN 2028</title>
+      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119hhrg64383/mods.xml</link>
+      <guid isPermaLink="false">congress-hearings:CHRG-119hhrg64383</guid>
+      <pubDate>Sat, 05 Sep 2026 12:56:30 GMT</pubDate>
     </item>
     <item>
-      <title>house hearing 2026-03-26 — Committee on Homeland Security: ARCTIC SECURITY IN AN ERA OF GLOBAL COMPETITION: SAFEGUARDING U.S. INTERESTS IN FRIGID WATERS</title>
-      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119hhrg64203/mods.xml</link>
-      <guid isPermaLink="false">congress-hearings:CHRG-119hhrg64203</guid>
-      <pubDate>Fri, 04 Sep 2026 13:06:35 GMT</pubDate>
+      <title>house hearing 2026-04-15 — Committee on Veterans' Affairs: FASTER DECISIONS, STRONGER OUTCOMES: VA'S WORK TO STREAMLINE THE DISABILITY CLAIMS BACKLOG</title>
+      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119hhrg64343/mods.xml</link>
+      <guid isPermaLink="false">congress-hearings:CHRG-119hhrg64343</guid>
+      <pubDate>Sat, 05 Sep 2026 12:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>house hearing 2026-07-01 — Committee on Small Business: 250 YEARS OF AMERICAN LEGACY: SMALL BUSINESSES AND THE AMERICAN DREAM</title>
+      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119hhrg64146/mods.xml</link>
+      <guid isPermaLink="false">congress-hearings:CHRG-119hhrg64146</guid>
+      <pubDate>Sat, 05 Sep 2026 12:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>house hearing 2025-09-16 — Committee on Appropriations: APPLIANCE AND BUILDING POLICIES: RESTORING THE AMERICAN DREAM OF HOME OWNERSHIP AND CONSUMER CHOICE</title>
+      <link>https://www.govinfo.gov/metadata/pkg/CHRG-119hhrg61790/mods.xml</link>
+      <guid isPermaLink="false">congress-hearings:CHRG-119hhrg61790</guid>
+      <pubDate>Sat, 05 Sep 2026 12:56:30 GMT</pubDate>
     </item>
   </channel>
 </rss>

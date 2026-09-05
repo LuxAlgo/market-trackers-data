@@ -4,353 +4,539 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — MRK</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — NOT_YET_RECRUITING PHASE4: A Trial of Pembrolizumab With Chemotherapy or Chemoradiotherapy in Participants From India With Different Types of Cancer (MK-3475-G44/KEYNOTE-G44)</title>
       <link>https://clinicaltrials.gov/study/NCT07801027</link>
       <guid isPermaLink="false">clinical-trials:NCT07801027</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — NOT_YET_RECRUITING PHASE2: A Clinical Trial of MK-2010 Alone and With Other Treatments in Participants With Advanced Solid Tumors (MK-2010-002)</title>
       <link>https://clinicaltrials.gov/study/NCT07793942</link>
       <guid isPermaLink="false">clinical-trials:NCT07793942</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — NOT_YET_RECRUITING PHASE3: A Clinical Study of V503 in Chinese Females Who Have Previously Received a Bivalent Human Papillomavirus (HPV) Vaccine (V503-108)</title>
       <link>https://clinicaltrials.gov/study/NCT07785843</link>
       <guid isPermaLink="false">clinical-trials:NCT07785843</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — NOT_YET_RECRUITING PHASE3: A Study of Raludotatug Deruxtecan With or Without Bevacizumab as First-Line Maintenance Treatment in Non-HRD-Positive Advanced Ovarian Cancer (MK-5909-006, (ENGOT-ov102/GOG-3141/ REJOICE-Ovarian 04)</title>
       <link>https://clinicaltrials.gov/study/NCT07776691</link>
       <guid isPermaLink="false">clinical-trials:NCT07776691</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — NOT_YET_RECRUITING PHASE1: A Clinical Trial of Multiple Formulations of MK-4082 in Healthy Overweight and Obese Participants (MK-4082-007)</title>
       <link>https://clinicaltrials.gov/study/NCT07748351</link>
       <guid isPermaLink="false">clinical-trials:NCT07748351</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — NOT_YET_RECRUITING PHASE3: A Clinical Trial of Raludotatug Deruxtecan (R-DXd) With or Without Bevacizumab in Participants With Ovarian Cancer Who Have Progressed During Treatment With PARP-inhibitors Treatment on First Line Maintenance (MK-5909-008/ENGOT-ov107/GOG-3142 / REJOICE-Ovarian05)</title>
       <link>https://clinicaltrials.gov/study/NCT07743164</link>
       <guid isPermaLink="false">clinical-trials:NCT07743164</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1: A Study of V132 in Healthy Older Participants (V132-001)</title>
       <link>https://clinicaltrials.gov/study/NCT07712575</link>
       <guid isPermaLink="false">clinical-trials:NCT07712575</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — NOT_YET_RECRUITING PHASE2: A Clinical Trial of MK-1045 in People With B-cell Cancer (MK-1045-006)</title>
-      <link>https://clinicaltrials.gov/study/NCT07709000</link>
-      <guid isPermaLink="false">clinical-trials:NCT07709000</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Clinical Trial of MK-8748 Compared to Aflibercept in Participants With Diabetic Macular Edema (MK-8748-004)</title>
       <link>https://clinicaltrials.gov/study/NCT07705555</link>
       <guid isPermaLink="false">clinical-trials:NCT07705555</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — NOT_YET_RECRUITING PHASE2: A Study of Belzutifan in Adolescent Participants With Solid Tumors (MK-9999-01E/LIGHTBEAM-U01)</title>
       <link>https://clinicaltrials.gov/study/NCT07700758</link>
       <guid isPermaLink="false">clinical-trials:NCT07700758</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — ACTIVE_NOT_RECRUITING PHASE1: A Clinical Study of MK-8527 in Healthy Participants (MK-8527-021)</title>
       <link>https://clinicaltrials.gov/study/NCT07661108</link>
       <guid isPermaLink="false">clinical-trials:NCT07661108</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE2/PHASE3: A Clinical Trial of MK-1045 and Rituximab in People With Follicular Lymphoma (MK-1045-007)</title>
       <link>https://clinicaltrials.gov/study/NCT07634471</link>
       <guid isPermaLink="false">clinical-trials:NCT07634471</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: A Study of Ifinatamab Deruxtecan in Pediatric Participants With Relapsed or Refractory Solid Tumors (MK-9999-01D/LIGHTBEAM-U01)</title>
       <link>https://clinicaltrials.gov/study/NCT07630974</link>
       <guid isPermaLink="false">clinical-trials:NCT07630974</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE2: A Clinical Trial of MK-7262 and Enlicitide in Participants With High Lipoprotein(a) (MK-7262-004)</title>
       <link>https://clinicaltrials.gov/study/NCT07614984</link>
       <guid isPermaLink="false">clinical-trials:NCT07614984</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1: Clinical Study of MK-4884 in Participants With Advanced or Metastatic Solid Tumors (MK-4884-001)</title>
       <link>https://clinicaltrials.gov/study/NCT07600749</link>
       <guid isPermaLink="false">clinical-trials:NCT07600749</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE2/PHASE3: A Clinical Trial of MK-1045 in People With B-cell Acute Lymphoblastic Leukemia (MK-1045-005)</title>
       <link>https://clinicaltrials.gov/study/NCT07570173</link>
       <guid isPermaLink="false">clinical-trials:NCT07570173</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Clinical Trial of Calderasib (MK-1084) and Durvalumab in People With Non-Small Cell Lung Cancer (MK-1084-015/KANDLELIT-015)</title>
       <link>https://clinicaltrials.gov/study/NCT07554339</link>
       <guid isPermaLink="false">clinical-trials:NCT07554339</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: A Clinical Study of MK-1045 in People With Non-Hodgkin Lymphoma (MK-1045-008)</title>
       <link>https://clinicaltrials.gov/study/NCT07519772</link>
       <guid isPermaLink="false">clinical-trials:NCT07519772</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Clinical Study of Belzutifan (MK-6482) and Zanzalintinib in People With Renal Cell Carcinoma (RCC) (LITESPARK-034/LS-034/MK-6482-034)</title>
       <link>https://clinicaltrials.gov/study/NCT07489495</link>
       <guid isPermaLink="false">clinical-trials:NCT07489495</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE2: A Study to Evaluate Efficacy and Safety of MK-8690 in Participants With Moderately to Severely Active Ulcerative Colitis (MK-8690-002)</title>
       <link>https://clinicaltrials.gov/study/NCT07463183</link>
       <guid isPermaLink="false">clinical-trials:NCT07463183</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: MK-3475A±Calderasib (MK-1084) in Completely Resected Stage IIA-IIIB (N2) KRAS G12Cm NSCLC (MK-1084-013)</title>
       <link>https://clinicaltrials.gov/study/NCT07431827</link>
       <guid isPermaLink="false">clinical-trials:NCT07431827</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Clinical Trial of Sacituzumab Tirumotecan (Sac-TMT, MK-2870) to Treat Urothelial Cancer (MK-2870-031)</title>
       <link>https://clinicaltrials.gov/study/NCT07419295</link>
       <guid isPermaLink="false">clinical-trials:NCT07419295</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: Extension Study for Participants in Studies That Include Belzutifan (MK-6482-043/LITESPARK-043)</title>
       <link>https://clinicaltrials.gov/study/NCT07405164</link>
       <guid isPermaLink="false">clinical-trials:NCT07405164</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: A Clinical Trial of Ifinatamab Deruxtecan in People With Advanced Esophageal Cancer (MK-3475-06F)</title>
       <link>https://clinicaltrials.gov/study/NCT07405151</link>
       <guid isPermaLink="false">clinical-trials:NCT07405151</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1: A Clinical Study of MK-1045 in People With Lupus or Rheumatoid Arthritis (MK-1045-004)</title>
       <link>https://clinicaltrials.gov/study/NCT07363590</link>
       <guid isPermaLink="false">clinical-trials:NCT07363590</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Clinical Trial of Sac-TMT in People With Non-HRD Positive Advanced Ovarian Cancer (MK-2870-021)</title>
       <link>https://clinicaltrials.gov/study/NCT07318558</link>
       <guid isPermaLink="false">clinical-trials:NCT07318558</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: A Clinical Study of MK-1084 With Other Treatments for Non-small Cell Lung Cancer (MK-3475-01F)</title>
       <link>https://clinicaltrials.gov/study/NCT07286149</link>
       <guid isPermaLink="false">clinical-trials:NCT07286149</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE2: KEYMAKER-U01 Substudy 01J: A Study of Pembrolizumab Plus MK-1084 in Participants With Non-Small Cell Lung Cancer (NSCLC) With Kirsten Rat Sarcoma Viral Oncogene Homolog (KRAS) G12C Mutations (MK-3475-01J/KEYMAKER-U01J)</title>
       <link>https://clinicaltrials.gov/study/NCT07252739</link>
       <guid isPermaLink="false">clinical-trials:NCT07252739</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1: A Clinical Study of MK-4716 in People With Certain Solid Tumors (MK-4716-001)</title>
       <link>https://clinicaltrials.gov/study/NCT07247110</link>
       <guid isPermaLink="false">clinical-trials:NCT07247110</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: KEYMAKER-U04 Substudy 04D: A Clinical Study of New Treatments Given With Enfortumab Vedotin and Pembrolizumab in People With Urothelial Cancer (MK-3475-04D/KEYMAKER-U04)</title>
       <link>https://clinicaltrials.gov/study/NCT07232602</link>
       <guid isPermaLink="false">clinical-trials:NCT07232602</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: A Clinical Study of MK-3120 in People With Bladder Cancer (MK-3120-003)</title>
       <link>https://clinicaltrials.gov/study/NCT07222488</link>
       <guid isPermaLink="false">clinical-trials:NCT07222488</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Clinical Study of Sotatercept (MK-7962) in People With Pulmonary Arterial Hypertension (MK-7962-038)</title>
       <link>https://clinicaltrials.gov/study/NCT07218029</link>
       <guid isPermaLink="false">clinical-trials:NCT07218029</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Clinical Study of Sacituzumab Tirumotecan (MK-2870) in Combination With Pembrolizumab (MK-3475) as First-line Maintenance Treatment of Cervical Cancer (MK-2870-036/TroFuse-036/GOG-3123/ENGOT-cx22)</title>
       <link>https://clinicaltrials.gov/study/NCT07216703</link>
       <guid isPermaLink="false">clinical-trials:NCT07216703</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — ACTIVE_NOT_RECRUITING PHASE3: A Clinical Study of Enlicitide in Participants With High Cholesterol (MK-0616-037)</title>
       <link>https://clinicaltrials.gov/study/NCT07216482</link>
       <guid isPermaLink="false">clinical-trials:NCT07216482</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Clinical Study of Calderasib (MK-1084) and Other Treatments for Participants With Non-Small Cell Lung Cancer (MK-1084-007/KANDLELIT-007)</title>
       <link>https://clinicaltrials.gov/study/NCT07190248</link>
       <guid isPermaLink="false">clinical-trials:NCT07190248</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE2: A Clinical Study of Tulisokibart (MK-7240) to Treat Radiographic Axial Spondyloarthritis (MK-7240-013)</title>
       <link>https://clinicaltrials.gov/study/NCT07133633</link>
       <guid isPermaLink="false">clinical-trials:NCT07133633</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Study of MK-8527 to Prevent Human Immunodeficiency Virus Type 1 (HIV-1) (MK-8527-010)</title>
       <link>https://clinicaltrials.gov/study/NCT07071623</link>
       <guid isPermaLink="false">clinical-trials:NCT07071623</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Clinical Study of Patritumab Deruxtecan to Treat Breast Cancer (MK-1022-016)</title>
       <link>https://clinicaltrials.gov/study/NCT07060807</link>
       <guid isPermaLink="false">clinical-trials:NCT07060807</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: Substudy 03C: A Study of Combination Therapies in Participants With Renal Cell Carcinoma With Recurrent Disease During or After Anti-PD-(L)1 Therapy (MK-3475-03C/KEYMAKER-U03)</title>
       <link>https://clinicaltrials.gov/study/NCT07049926</link>
       <guid isPermaLink="false">clinical-trials:NCT07049926</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1: A Clinical Study of MK-8294 in Participants With Advanced Solid Tumors (MK-8294-001)</title>
       <link>https://clinicaltrials.gov/study/NCT07030712</link>
       <guid isPermaLink="false">clinical-trials:NCT07030712</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Study to Evaluate V181 Dengue Vaccine in Healthy Participants 2 to 17 Years of Age (V181-005/MOBILIZE-1)</title>
       <link>https://clinicaltrials.gov/study/NCT07013487</link>
       <guid isPermaLink="false">clinical-trials:NCT07013487</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Clinical Study of Calderasib (MK-1084) With Targeted Therapy and Chemotherapy in People With Colorectal Cancer (MK-1084-012/KANDLELIT-012)</title>
       <link>https://clinicaltrials.gov/study/NCT06997497</link>
       <guid isPermaLink="false">clinical-trials:NCT06997497</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE2: A Study of MK-5684 in People With Certain Solid Tumors (MK-5684-015/OMAHA-015)</title>
       <link>https://clinicaltrials.gov/study/NCT06979596</link>
       <guid isPermaLink="false">clinical-trials:NCT06979596</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Clinical Study of Sacituzumab Tirumotecan (Sac-TMT, MK-2870) in People With Breast Cancer (MK-2870-032)</title>
       <link>https://clinicaltrials.gov/study/NCT06966700</link>
       <guid isPermaLink="false">clinical-trials:NCT06966700</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Study to Compare Sacituzumab Tirumotecan (MK-2870) in Combination With Pembrolizumab (MK-3475) Versus Pembrolizumab Alone as Treatment in Participants With Mismatch Repair Proficient Endometrial Cancer (MK-2870-033/TroFuse-033/GOG-3119/ENGOT-en29)</title>
       <link>https://clinicaltrials.gov/study/NCT06952504</link>
       <guid isPermaLink="false">clinical-trials:NCT06952504</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: A Study of Patritumab Deruxtecan in Pediatric Participants With Relapsed or Refractory Solid Tumors (MK-9999-01C/LIGHTBEAM-U01)</title>
       <link>https://clinicaltrials.gov/study/NCT06941272</link>
       <guid isPermaLink="false">clinical-trials:NCT06941272</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Clinical Study of Ifinatamab Deruxtecan (I-DXd) in People With Metastatic Prostate Cancer (MK-2400-001)</title>
       <link>https://clinicaltrials.gov/study/NCT06925737</link>
       <guid isPermaLink="false">clinical-trials:NCT06925737</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE2: A Clinical Study of Zilovertamab Vedotin (MK-2140) Plus Rituximab Plus Cyclophosphamide, Doxorubicin, and Prednisone (R-CHP) Versus Polatuzumab Vedotin Plus R-CHP in People With Diffuse Large B-cell Lymphoma (DLBCL) (MK-2140-011/waveLINE-011)</title>
       <link>https://clinicaltrials.gov/study/NCT06890884</link>
       <guid isPermaLink="false">clinical-trials:NCT06890884</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: A Clinical Study of Raludotatug Deruxtecan in People With Ovarian Cancer (MK-5909-003)</title>
       <link>https://clinicaltrials.gov/study/NCT06843447</link>
       <guid isPermaLink="false">clinical-trials:NCT06843447</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Study of Sacituzumab Tirumotecan (Sac-TMT, MK-2870) as Monotherapy and in Combination With Pembrolizumab (MK-3475) in Participants With Triple-Negative Breast Cancer (MK-2870-011/TroFuse-011)</title>
       <link>https://clinicaltrials.gov/study/NCT06841354</link>
       <guid isPermaLink="false">clinical-trials:NCT06841354</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Study to Evaluate the Efficacy and Safety of Sacituzumab Tirumotecan (MK-2870) Maintenance Treatment Versus Standard of Care in Participants With Platinum-sensitive Recurrent Ovarian Cancer (MK-2870-022/TroFuse-022/ENGOT-ov84/GOG-3103)</title>
       <link>https://clinicaltrials.gov/study/NCT06824467</link>
       <guid isPermaLink="false">clinical-trials:NCT06824467</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE2: Pembrolizumab (MK-3475) Plus Investigational Agents in Resectable Non-small Cell Lung Cancer (NSCLC) (MK-3475-01E/KEYMAKER-U01)</title>
       <link>https://clinicaltrials.gov/study/NCT06788912</link>
       <guid isPermaLink="false">clinical-trials:NCT06788912</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: A Study to Evaluate the Safety and Efficacy of Gocatamig (MK-6070) and Ifinatamab Deruxtecan (I-DXd) in Participants With Relapsed/Refractory Extensive-Stage Small Cell Lung Cancer (MK-6070-002)</title>
       <link>https://clinicaltrials.gov/study/NCT06780137</link>
       <guid isPermaLink="false">clinical-trials:NCT06780137</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: Substudy 06E: Umbrella Study of Combination Therapies in Esophageal Cancer (MK-3475-06E/KEYMAKER-U06)</title>
       <link>https://clinicaltrials.gov/study/NCT06780111</link>
       <guid isPermaLink="false">clinical-trials:NCT06780111</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Study to Evaluate Zilovertamab Vedotin (MK-2140) Combination With Rituximab Plus Cyclophosphamide, Doxorubicin, and Prednisone (R-CHP) Versus Rituximab Plus Cyclophosphamide, Doxorubicin, Vincristine, and Prednisone (R-CHOP) in Participants With Previously Untreated DLBCL (MK-2140-010)</title>
       <link>https://clinicaltrials.gov/study/NCT06717347</link>
       <guid isPermaLink="false">clinical-trials:NCT06717347</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Clinical Study of Molnupiravir to Prevent Severe Illness From Coronavirus Disease 2019 (COVID-19) in People Who Are High Risk (MK-4482-023)</title>
       <link>https://clinicaltrials.gov/study/NCT06667700</link>
       <guid isPermaLink="false">clinical-trials:NCT06667700</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Study of Suvorexant (MK-4305) for the Treatment of Insomnia Disorder in Participants With Opioid Use Disorder (MK-4305-098)</title>
       <link>https://clinicaltrials.gov/study/NCT06655883</link>
       <guid isPermaLink="false">clinical-trials:NCT06655883</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: A Clinical Study of Sacituzumab Tirumotecan (MK-2870) in Patients With Bladder Cancer (MK-2870-027)</title>
       <link>https://clinicaltrials.gov/study/NCT06637423</link>
       <guid isPermaLink="false">clinical-trials:NCT06637423</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1: Safety and Immunogenicity of V540B in Healthy Adults (V540B-002).</title>
+      <link>https://clinicaltrials.gov/study/NCT06623409</link>
+      <guid isPermaLink="false">clinical-trials:NCT06623409</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: Study of Patritumab Deruxtecan in Participants With Gastrointestinal Cancers (MK-1022-011) (HERTHENA-PanTumor02)</title>
+      <link>https://clinicaltrials.gov/study/NCT06596694</link>
+      <guid isPermaLink="false">clinical-trials:NCT06596694</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: Substudy 06C: A Study of Investigational Agents With Pembrolizumab (MK-3475) and Chemotherapy in Participants With First-Line Locally Advanced Unresectable/Metastatic Gastroesophageal Adenocarcinoma (MK-3475-06C/KEYMAKER-U06)</title>
+      <link>https://clinicaltrials.gov/study/NCT06469944</link>
+      <guid isPermaLink="false">clinical-trials:NCT06469944</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — COMPLETED PHASE1: A Study of MK-6837 as a Monotherapy and Combination Therapy in Participants With Advanced/Metastatic Solid Tumors (MK-6837-001)</title>
+      <link>https://clinicaltrials.gov/study/NCT06460961</link>
+      <guid isPermaLink="false">clinical-trials:NCT06460961</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — ACTIVE_NOT_RECRUITING PHASE3: A Study to Compare Sacituzumab Tirumotecan (MK-2870) Monotherapy Versus Treatment of Physician's Choice as Second-line Treatment for Participants With Recurrent or Metastatic Cervical Cancer (MK-2870-020/TroFuse-020/Gog-3101/ENGOT-cx20)</title>
+      <link>https://clinicaltrials.gov/study/NCT06459180</link>
+      <guid isPermaLink="false">clinical-trials:NCT06459180</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: Substudy 06D: Combination Therapies in Second Line (2L) Gastroesophageal Adenocarcinoma (MK-3475-06D/Keymaker-U06)</title>
+      <link>https://clinicaltrials.gov/study/NCT06445972</link>
+      <guid isPermaLink="false">clinical-trials:NCT06445972</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — COMPLETED PHASE1: A Study of Nemtabrutinib in Participants With Moderate Hepatic Impairment (MK-1026-015)</title>
+      <link>https://clinicaltrials.gov/study/NCT06442436</link>
+      <guid isPermaLink="false">clinical-trials:NCT06442436</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: A Clinical Study of MK-2870 Alone or With Other Treatments to Treat Gastrointestinal Cancers (MK-9999-02A)</title>
+      <link>https://clinicaltrials.gov/study/NCT06428409</link>
+      <guid isPermaLink="false">clinical-trials:NCT06428409</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — ACTIVE_NOT_RECRUITING PHASE2: Study of Belzutifan (MK-6482) Plus Fulvestrant for ER+/HER2- Metastatic Breast Cancer (MK-6482-029/LITESPARK-029)</title>
+      <link>https://clinicaltrials.gov/study/NCT06428396</link>
+      <guid isPermaLink="false">clinical-trials:NCT06428396</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: Pembrolizumab With or Without Maintenance Sacituzumab Tirumotecan (Sac-TMT; MK-2870) in Metastatic Squamous Non-small Cell Lung Cancer (NSCLC) [MK-2870-023]</title>
+      <link>https://clinicaltrials.gov/study/NCT06422143</link>
+      <guid isPermaLink="false">clinical-trials:NCT06422143</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: Substudy 01A: Zilovertamab Vedotin in Pediatric and Young Adult Participants With Hematologic Malignancies or Solid Tumors (MK-9999-01A/LIGHTBEAM-U01)</title>
+      <link>https://clinicaltrials.gov/study/NCT06395103</link>
+      <guid isPermaLink="false">clinical-trials:NCT06395103</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: Sacituzumab Tirumotecan (MK-2870) Plus Pembrolizumab Versus TPC in TNBC Who Did Not Achieve pCR (MK-2870-012)</title>
+      <link>https://clinicaltrials.gov/study/NCT06393374</link>
+      <guid isPermaLink="false">clinical-trials:NCT06393374</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: Substudy 01A: Safety and Efficacy of Opevesostat (MK-5684)-Based Treatment Combinations or Opevesostat Alone in Participants With Metastatic Castration-resistant Prostate Cancer (mCRPC) (MK-5684-01A)</title>
+      <link>https://clinicaltrials.gov/study/NCT06353386</link>
+      <guid isPermaLink="false">clinical-trials:NCT06353386</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Study of Sacituzumab Tirumotecan (MK-2870) as a Single Agent and in Combination With Pembrolizumab (MK-3475) Versus Treatment of Physician's Choice in Participants With HR+/HER2- Unresectable Locally Advanced or Metastatic Breast Cancer (MK-2870-010)</title>
+      <link>https://clinicaltrials.gov/study/NCT06312176</link>
+      <guid isPermaLink="false">clinical-trials:NCT06312176</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: Sacituzumab Tirumotecan (MK-2870) in Combination With Pembrolizumab Versus Pembrolizumab Alone in Metastatic Non-small Cell Lung Cancer (NSCLC) With Programmed Cell Death Ligand 1 (PD-L1) Tumor Proportion Score (TPS) ≥ 50% (MK-2870-007)</title>
+      <link>https://clinicaltrials.gov/study/NCT06170788</link>
+      <guid isPermaLink="false">clinical-trials:NCT06170788</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: Study of Opevesostat (MK-5684) Versus Alternative NHA in mCRPC (MK-5684-003)</title>
+      <link>https://clinicaltrials.gov/study/NCT06136624</link>
+      <guid isPermaLink="false">clinical-trials:NCT06136624</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — ACTIVE_NOT_RECRUITING PHASE3: Sacituzumab Tirumotecan (MK-2870) in Post Platinum and Post Immunotherapy Endometrial Cancer (MK-2870-005)</title>
+      <link>https://clinicaltrials.gov/study/NCT06132958</link>
+      <guid isPermaLink="false">clinical-trials:NCT06132958</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — ACTIVE_NOT_RECRUITING PHASE1: Sacituzumab Tirumotecan (MK-2870) as Monotherapy and in Combination With Pembrolizumab in Participants With Advanced Solid Tumors (MK-2870-008)</title>
+      <link>https://clinicaltrials.gov/study/NCT06049212</link>
+      <guid isPermaLink="false">clinical-trials:NCT06049212</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE2/PHASE3: Efficacy, Safety, and Pharmacokinetics of Vericiguat in Pediatric Participants With Heart Failure Due to Left Ventricular Systolic Dysfunction (MK-1242-036)</title>
+      <link>https://clinicaltrials.gov/study/NCT05714085</link>
+      <guid isPermaLink="false">clinical-trials:NCT05714085</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — COMPLETED PHASE2: A Study of Coformulated Favezelimab/Pembrolizumab (MK-4280A) Versus Physician's Choice Chemotherapy in PD-(L)1-refractory, Relapsed or Refractory Classical Hodgkin Lymphoma (MK-4280A-008)</title>
+      <link>https://clinicaltrials.gov/study/NCT05508867</link>
+      <guid isPermaLink="false">clinical-trials:NCT05508867</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — COMPLETED PHASE1: A Study of MK-2214 in Adults With Mild Cognitive Impairment or Mild-to-Moderate Alzheimer's Disease (MK-2214-002)</title>
+      <link>https://clinicaltrials.gov/study/NCT05466422</link>
+      <guid isPermaLink="false">clinical-trials:NCT05466422</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: A Study to Evaluate Investigational Agents With or Without Pembrolizumab (MK-3475) in Participants With Advanced Esophageal Cancer Previously Exposed to Programmed Cell Death 1 Protein (PD-1)/ Programmed Cell Death Ligand 1 (PD-L1) Treatment (MK-3475-06B)</title>
+      <link>https://clinicaltrials.gov/study/NCT05319730</link>
+      <guid isPermaLink="false">clinical-trials:NCT05319730</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — COMPLETED PHASE3: Study of Pembrolizumab/Vibostolimab (MK-7684A) in Combination With Concurrent Chemoradiotherapy Followed by Pembrolizumab/Vibostolimab Versus Concurrent Chemoradiotherapy Followed by Durvalumab in Participants With Stage III Non-small Cell Lung Cancer (MK-7684A-006)</title>
+      <link>https://clinicaltrials.gov/study/NCT05298423</link>
+      <guid isPermaLink="false">clinical-trials:NCT05298423</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE2/PHASE3: A Study of Zilovertamab Vedotin (MK-2140) in Combination With Standard of Care in Participants With Relapsed or Refractory Diffuse Large B-Cell Lymphoma (rrDLBCL) (MK-2140-003)</title>
+      <link>https://clinicaltrials.gov/study/NCT05139017</link>
+      <guid isPermaLink="false">clinical-trials:NCT05139017</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — COMPLETED PHASE3: Efficacy and Safety of Pembrolizumab (MK-3475) Plus Enzalutamide Plus Androgen Deprivation Therapy (ADT) Versus Placebo Plus Enzalutamide Plus ADT in Participants With Metastatic Hormone-Sensitive Prostate Cancer (mHSPC) (MK-3475-991/KEYNOTE-991)-China Extension</title>
+      <link>https://clinicaltrials.gov/study/NCT04934722</link>
+      <guid isPermaLink="false">clinical-trials:NCT04934722</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE2: Belzutifan/MK-6482 for the Treatment of Advanced Pheochromocytoma/Paraganglioma (PPGL), Pancreatic Neuroendocrine Tumor (pNET), Von Hippel-Lindau (VHL) Disease-Associated Tumors, Advanced Gastrointestinal Stromal Tumor (wt GIST), or Solid Tumors With HIF-2α Related Genetic Alterations (MK-6482-015)</title>
+      <link>https://clinicaltrials.gov/study/NCT04924075</link>
+      <guid isPermaLink="false">clinical-trials:NCT04924075</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — COMPLETED PHASE1/PHASE2: Substudy 02A: Safety and Efficacy of Pembrolizumab in Combination With Investigational Agents in Participants With Programmed Cell-death 1 (PD-1) Refractory Melanoma (MK-3475-02A/KEYMAKER-U02)</title>
+      <link>https://clinicaltrials.gov/study/NCT04305041</link>
+      <guid isPermaLink="false">clinical-trials:NCT04305041</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — TERMINATED PHASE3: Safety and Efficacy of Lenvatinib (E7080/MK-7902) With Pembrolizumab (MK-3475) in Combination With Transarterial Chemoembolization (TACE) in Participants With Incurable/Non-metastatic Hepatocellular Carcinoma (MK-7902-012/E7080-G000-318/LEAP-012)</title>
+      <link>https://clinicaltrials.gov/study/NCT04246177</link>
+      <guid isPermaLink="false">clinical-trials:NCT04246177</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — ACTIVE_NOT_RECRUITING PHASE3: Efficacy, Immunogenicity and Safety of V503 in Chinese Women Aged 20-45 Years (V503-023)</title>
+      <link>https://clinicaltrials.gov/study/NCT03998254</link>
+      <guid isPermaLink="false">clinical-trials:NCT03998254</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: Long-term Safety and Efficacy Extension Study for Participants With Advanced Tumors Who Are Currently on Treatment or in Follow-up in a Pembrolizumab (MK-3475) Study (MK-3475-587/KEYNOTE-587)</title>
+      <link>https://clinicaltrials.gov/study/NCT03486873</link>
+      <guid isPermaLink="false">clinical-trials:NCT03486873</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — TERMINATED PHASE2: Study of Pembrolizumab (MK-3475) and Pembrolizumab With Other Investigational Agents in Participants With High Risk Non-muscle Invasive Bladder Cancer (MK-3475-057/KEYNOTE-057)</title>
+      <link>https://clinicaltrials.gov/study/NCT02625961</link>
+      <guid isPermaLink="false">clinical-trials:NCT02625961</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merck Sharp &amp; Dohme LLC — NOT_YET_RECRUITING PHASE2: A Clinical Trial of MK-1045 in People With B-cell Cancer (MK-1045-006)</title>
+      <link>https://clinicaltrials.gov/study/NCT07709000</link>
+      <guid isPermaLink="false">clinical-trials:NCT07709000</guid>
       <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
@@ -360,105 +546,9 @@
       <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
-      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1: Safety and Immunogenicity of V540B in Healthy Adults (V540B-002).</title>
-      <link>https://clinicaltrials.gov/study/NCT06623409</link>
-      <guid isPermaLink="false">clinical-trials:NCT06623409</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: Study of Patritumab Deruxtecan in Participants With Gastrointestinal Cancers (MK-1022-011) (HERTHENA-PanTumor02)</title>
-      <link>https://clinicaltrials.gov/study/NCT06596694</link>
-      <guid isPermaLink="false">clinical-trials:NCT06596694</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: Substudy 06C: A Study of Investigational Agents With Pembrolizumab (MK-3475) and Chemotherapy in Participants With First-Line Locally Advanced Unresectable/Metastatic Gastroesophageal Adenocarcinoma (MK-3475-06C/KEYMAKER-U06)</title>
-      <link>https://clinicaltrials.gov/study/NCT06469944</link>
-      <guid isPermaLink="false">clinical-trials:NCT06469944</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — COMPLETED PHASE1: A Study of MK-6837 as a Monotherapy and Combination Therapy in Participants With Advanced/Metastatic Solid Tumors (MK-6837-001)</title>
-      <link>https://clinicaltrials.gov/study/NCT06460961</link>
-      <guid isPermaLink="false">clinical-trials:NCT06460961</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — ACTIVE_NOT_RECRUITING PHASE3: A Study to Compare Sacituzumab Tirumotecan (MK-2870) Monotherapy Versus Treatment of Physician's Choice as Second-line Treatment for Participants With Recurrent or Metastatic Cervical Cancer (MK-2870-020/TroFuse-020/Gog-3101/ENGOT-cx20)</title>
-      <link>https://clinicaltrials.gov/study/NCT06459180</link>
-      <guid isPermaLink="false">clinical-trials:NCT06459180</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
       <title>Merck Sharp &amp; Dohme LLC — ACTIVE_NOT_RECRUITING PHASE3: Bomedemstat vs Hydroxyurea for Essential Thrombocythemia (MK-3543-007)</title>
       <link>https://clinicaltrials.gov/study/NCT06456346</link>
       <guid isPermaLink="false">clinical-trials:NCT06456346</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: Substudy 06D: Combination Therapies in Second Line (2L) Gastroesophageal Adenocarcinoma (MK-3475-06D/Keymaker-U06)</title>
-      <link>https://clinicaltrials.gov/study/NCT06445972</link>
-      <guid isPermaLink="false">clinical-trials:NCT06445972</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — COMPLETED PHASE1: A Study of Nemtabrutinib in Participants With Moderate Hepatic Impairment (MK-1026-015)</title>
-      <link>https://clinicaltrials.gov/study/NCT06442436</link>
-      <guid isPermaLink="false">clinical-trials:NCT06442436</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: A Clinical Study of MK-2870 Alone or With Other Treatments to Treat Gastrointestinal Cancers (MK-9999-02A)</title>
-      <link>https://clinicaltrials.gov/study/NCT06428409</link>
-      <guid isPermaLink="false">clinical-trials:NCT06428409</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — ACTIVE_NOT_RECRUITING PHASE2: Study of Belzutifan (MK-6482) Plus Fulvestrant for ER+/HER2- Metastatic Breast Cancer (MK-6482-029/LITESPARK-029)</title>
-      <link>https://clinicaltrials.gov/study/NCT06428396</link>
-      <guid isPermaLink="false">clinical-trials:NCT06428396</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: Pembrolizumab With or Without Maintenance Sacituzumab Tirumotecan (Sac-TMT; MK-2870) in Metastatic Squamous Non-small Cell Lung Cancer (NSCLC) [MK-2870-023]</title>
-      <link>https://clinicaltrials.gov/study/NCT06422143</link>
-      <guid isPermaLink="false">clinical-trials:NCT06422143</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: Substudy 01A: Zilovertamab Vedotin in Pediatric and Young Adult Participants With Hematologic Malignancies or Solid Tumors (MK-9999-01A/LIGHTBEAM-U01)</title>
-      <link>https://clinicaltrials.gov/study/NCT06395103</link>
-      <guid isPermaLink="false">clinical-trials:NCT06395103</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: Sacituzumab Tirumotecan (MK-2870) Plus Pembrolizumab Versus TPC in TNBC Who Did Not Achieve pCR (MK-2870-012)</title>
-      <link>https://clinicaltrials.gov/study/NCT06393374</link>
-      <guid isPermaLink="false">clinical-trials:NCT06393374</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: Substudy 01A: Safety and Efficacy of Opevesostat (MK-5684)-Based Treatment Combinations or Opevesostat Alone in Participants With Metastatic Castration-resistant Prostate Cancer (mCRPC) (MK-5684-01A)</title>
-      <link>https://clinicaltrials.gov/study/NCT06353386</link>
-      <guid isPermaLink="false">clinical-trials:NCT06353386</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Study of Sacituzumab Tirumotecan (MK-2870) as a Single Agent and in Combination With Pembrolizumab (MK-3475) Versus Treatment of Physician's Choice in Participants With HR+/HER2- Unresectable Locally Advanced or Metastatic Breast Cancer (MK-2870-010)</title>
-      <link>https://clinicaltrials.gov/study/NCT06312176</link>
-      <guid isPermaLink="false">clinical-trials:NCT06312176</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: Sacituzumab Tirumotecan (MK-2870) in Combination With Pembrolizumab Versus Pembrolizumab Alone in Metastatic Non-small Cell Lung Cancer (NSCLC) With Programmed Cell Death Ligand 1 (PD-L1) Tumor Proportion Score (TPS) ≥ 50% (MK-2870-007)</title>
-      <link>https://clinicaltrials.gov/study/NCT06170788</link>
-      <guid isPermaLink="false">clinical-trials:NCT06170788</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: Study of Opevesostat (MK-5684) Versus Alternative NHA in mCRPC (MK-5684-003)</title>
-      <link>https://clinicaltrials.gov/study/NCT06136624</link>
-      <guid isPermaLink="false">clinical-trials:NCT06136624</guid>
       <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
@@ -468,105 +558,15 @@
       <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
-      <title>Merck Sharp &amp; Dohme LLC — ACTIVE_NOT_RECRUITING PHASE3: Sacituzumab Tirumotecan (MK-2870) in Post Platinum and Post Immunotherapy Endometrial Cancer (MK-2870-005)</title>
-      <link>https://clinicaltrials.gov/study/NCT06132958</link>
-      <guid isPermaLink="false">clinical-trials:NCT06132958</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — ACTIVE_NOT_RECRUITING PHASE1: Sacituzumab Tirumotecan (MK-2870) as Monotherapy and in Combination With Pembrolizumab in Participants With Advanced Solid Tumors (MK-2870-008)</title>
-      <link>https://clinicaltrials.gov/study/NCT06049212</link>
-      <guid isPermaLink="false">clinical-trials:NCT06049212</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
       <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: A Study of Nemtabrutinib Plus Venetoclax vs Venetoclax + Rituximab (VR) in Second-line (2L) + Relapsed/Refractory (R/R) Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL) (MK-1026-010/BELLWAVE-010).</title>
       <link>https://clinicaltrials.gov/study/NCT05947851</link>
       <guid isPermaLink="false">clinical-trials:NCT05947851</guid>
       <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
-      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE2/PHASE3: Efficacy, Safety, and Pharmacokinetics of Vericiguat in Pediatric Participants With Heart Failure Due to Left Ventricular Systolic Dysfunction (MK-1242-036)</title>
-      <link>https://clinicaltrials.gov/study/NCT05714085</link>
-      <guid isPermaLink="false">clinical-trials:NCT05714085</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — COMPLETED PHASE2: A Study of Coformulated Favezelimab/Pembrolizumab (MK-4280A) Versus Physician's Choice Chemotherapy in PD-(L)1-refractory, Relapsed or Refractory Classical Hodgkin Lymphoma (MK-4280A-008)</title>
-      <link>https://clinicaltrials.gov/study/NCT05508867</link>
-      <guid isPermaLink="false">clinical-trials:NCT05508867</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — COMPLETED PHASE1: A Study of MK-2214 in Adults With Mild Cognitive Impairment or Mild-to-Moderate Alzheimer's Disease (MK-2214-002)</title>
-      <link>https://clinicaltrials.gov/study/NCT05466422</link>
-      <guid isPermaLink="false">clinical-trials:NCT05466422</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE1/PHASE2: A Study to Evaluate Investigational Agents With or Without Pembrolizumab (MK-3475) in Participants With Advanced Esophageal Cancer Previously Exposed to Programmed Cell Death 1 Protein (PD-1)/ Programmed Cell Death Ligand 1 (PD-L1) Treatment (MK-3475-06B)</title>
-      <link>https://clinicaltrials.gov/study/NCT05319730</link>
-      <guid isPermaLink="false">clinical-trials:NCT05319730</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — COMPLETED PHASE3: Study of Pembrolizumab/Vibostolimab (MK-7684A) in Combination With Concurrent Chemoradiotherapy Followed by Pembrolizumab/Vibostolimab Versus Concurrent Chemoradiotherapy Followed by Durvalumab in Participants With Stage III Non-small Cell Lung Cancer (MK-7684A-006)</title>
-      <link>https://clinicaltrials.gov/study/NCT05298423</link>
-      <guid isPermaLink="false">clinical-trials:NCT05298423</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE2/PHASE3: A Study of Zilovertamab Vedotin (MK-2140) in Combination With Standard of Care in Participants With Relapsed or Refractory Diffuse Large B-Cell Lymphoma (rrDLBCL) (MK-2140-003)</title>
-      <link>https://clinicaltrials.gov/study/NCT05139017</link>
-      <guid isPermaLink="false">clinical-trials:NCT05139017</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — COMPLETED PHASE3: Efficacy and Safety of Pembrolizumab (MK-3475) Plus Enzalutamide Plus Androgen Deprivation Therapy (ADT) Versus Placebo Plus Enzalutamide Plus ADT in Participants With Metastatic Hormone-Sensitive Prostate Cancer (mHSPC) (MK-3475-991/KEYNOTE-991)-China Extension</title>
-      <link>https://clinicaltrials.gov/study/NCT04934722</link>
-      <guid isPermaLink="false">clinical-trials:NCT04934722</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE2: Belzutifan/MK-6482 for the Treatment of Advanced Pheochromocytoma/Paraganglioma (PPGL), Pancreatic Neuroendocrine Tumor (pNET), Von Hippel-Lindau (VHL) Disease-Associated Tumors, Advanced Gastrointestinal Stromal Tumor (wt GIST), or Solid Tumors With HIF-2α Related Genetic Alterations (MK-6482-015)</title>
-      <link>https://clinicaltrials.gov/study/NCT04924075</link>
-      <guid isPermaLink="false">clinical-trials:NCT04924075</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — COMPLETED PHASE1/PHASE2: Substudy 02A: Safety and Efficacy of Pembrolizumab in Combination With Investigational Agents in Participants With Programmed Cell-death 1 (PD-1) Refractory Melanoma (MK-3475-02A/KEYMAKER-U02)</title>
-      <link>https://clinicaltrials.gov/study/NCT04305041</link>
-      <guid isPermaLink="false">clinical-trials:NCT04305041</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
       <title>Merck Sharp &amp; Dohme LLC — COMPLETED PHASE1/PHASE2: Substudy 02C: Safety and Efficacy of Pembrolizumab in Combination With Investigational Agents or Pembrolizumab Alone in Participants With Stage III Melanoma Who Are Candidates for Neoadjuvant Therapy (MK-3475-02C/KEYMAKER-U02)</title>
       <link>https://clinicaltrials.gov/study/NCT04303169</link>
       <guid isPermaLink="false">clinical-trials:NCT04303169</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — TERMINATED PHASE3: Safety and Efficacy of Lenvatinib (E7080/MK-7902) With Pembrolizumab (MK-3475) in Combination With Transarterial Chemoembolization (TACE) in Participants With Incurable/Non-metastatic Hepatocellular Carcinoma (MK-7902-012/E7080-G000-318/LEAP-012)</title>
-      <link>https://clinicaltrials.gov/study/NCT04246177</link>
-      <guid isPermaLink="false">clinical-trials:NCT04246177</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — ACTIVE_NOT_RECRUITING PHASE3: Efficacy, Immunogenicity and Safety of V503 in Chinese Women Aged 20-45 Years (V503-023)</title>
-      <link>https://clinicaltrials.gov/study/NCT03998254</link>
-      <guid isPermaLink="false">clinical-trials:NCT03998254</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — RECRUITING PHASE3: Long-term Safety and Efficacy Extension Study for Participants With Advanced Tumors Who Are Currently on Treatment or in Follow-up in a Pembrolizumab (MK-3475) Study (MK-3475-587/KEYNOTE-587)</title>
-      <link>https://clinicaltrials.gov/study/NCT03486873</link>
-      <guid isPermaLink="false">clinical-trials:NCT03486873</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Merck Sharp &amp; Dohme LLC — TERMINATED PHASE2: Study of Pembrolizumab (MK-3475) and Pembrolizumab With Other Investigational Agents in Participants With High Risk Non-muscle Invasive Bladder Cancer (MK-3475-057/KEYNOTE-057)</title>
-      <link>https://clinicaltrials.gov/study/NCT02625961</link>
-      <guid isPermaLink="false">clinical-trials:NCT02625961</guid>
       <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>

@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — GEHC</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
     <item>
       <title>Estrampes Catherine (GEHC) F: 508 shares @ $70.56</title>
       <link>https://www.sec.gov/Archives/edgar/data/2131383/0002131383-26-000006-index.htm</link>

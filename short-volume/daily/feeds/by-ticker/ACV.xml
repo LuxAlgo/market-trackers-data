@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Short-sale volume — ACV</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <item>
+      <title>ACV 2026-09-04: 843.646924/4321.721824 short (19.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260904.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-04:ACV:CNMS</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:06 GMT</pubDate>
+    </item>
     <item>
       <title>ACV 2026-09-03: 3897.038248/8222.873402 short (47.4%)</title>
       <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>

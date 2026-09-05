@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Short-sale volume — AEON</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>FINRA Reg SHO daily short-sale volume files, one row per symbol-day-market, both pre- and post-2026 volume formats. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <item>
+      <title>AEON 2026-09-04: 295341/649072.302133 short (45.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260904.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-04:AEON:CNMS</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEON 2026-09-03: 96352/177271.452083 short (54.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260903.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-03:AEON:CNMS</guid>
+      <pubDate>Fri, 04 Sep 2026 12:58:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEON 2026-09-02: 36563/82846.307116 short (44.1%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260902.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-02:AEON:CNMS</guid>
+      <pubDate>Thu, 03 Sep 2026 02:47:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEON 2026-09-01: 22380/153212.578956 short (14.6%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260901.txt</link>
+      <guid isPermaLink="false">short-volume:2026-09-01:AEON:CNMS</guid>
+      <pubDate>Wed, 02 Sep 2026 12:54:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEON 2026-08-31: 118385/287090.250038 short (41.2%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260831.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-31:AEON:CNMS</guid>
+      <pubDate>Tue, 01 Sep 2026 12:53:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEON 2026-08-28: 263952.3708/664251.959963 short (39.7%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260828.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-28:AEON:CNMS</guid>
+      <pubDate>Sat, 29 Aug 2026 12:46:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEON 2026-08-27: 1456021.0225/2961161.160912 short (49.2%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260827.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-27:AEON:CNMS</guid>
+      <pubDate>Fri, 28 Aug 2026 02:16:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEON 2026-08-26: 1132698/2673543.733253 short (42.4%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260826.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-26:AEON:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 21:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEON 2026-08-25: 12916821.8155/27219832.526849 short (47.5%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260825.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-25:AEON:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>AEON 2026-08-24: 185013/292546.840312 short (63.2%)</title>
+      <link>https://cdn.finra.org/equity/regsho/daily/CNMSshvol20260824.txt</link>
+      <guid isPermaLink="false">short-volume:2026-08-24:AEON:CNMS</guid>
+      <pubDate>Wed, 26 Aug 2026 19:26:58 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

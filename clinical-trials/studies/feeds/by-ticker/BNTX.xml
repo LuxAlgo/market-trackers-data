@@ -4,24 +4,66 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — BNTX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 15:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
     <item>
       <title>BioNTech SE — NOT_YET_RECRUITING PHASE3: A Study of COVID-19 Vaccine(s) in Children and Adults</title>
       <link>https://clinicaltrials.gov/study/NCT07798648</link>
       <guid isPermaLink="false">clinical-trials:NCT07798648</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>BioNTech SE — RECRUITING PHASE1: A Clinical Trial Investigating the Safety and Biological Activity of the Antibody BNT351 in Adults Living Without and With HIV</title>
       <link>https://clinicaltrials.gov/study/NCT07392372</link>
       <guid isPermaLink="false">clinical-trials:NCT07392372</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>BioNTech SE — RECRUITING PHASE3: A Phase III Trial of BNT324 Versus Docetaxel in Metastatic Castration-resistant Prostate Cancer</title>
       <link>https://clinicaltrials.gov/study/NCT07365995</link>
       <guid isPermaLink="false">clinical-trials:NCT07365995</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>BioNTech SE — RECRUITING PHASE1/PHASE2: A Clinical Study to Test if an Investigational Treatment Called BNT326 is Safe and Potentially Beneficial When Used Alone or in Combination With Other Investigational Treatments Such as BNT327, for People With Advanced Malignant Tumors</title>
+      <link>https://clinicaltrials.gov/study/NCT07070232</link>
+      <guid isPermaLink="false">clinical-trials:NCT07070232</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>BioNTech SE — RECRUITING PHASE3: Safety and Efficacy of BNT327, an Investigational Therapy in Combination With Chemotherapy for Patients With Untreated Small-cell Lung Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT06712355</link>
+      <guid isPermaLink="false">clinical-trials:NCT06712355</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>BioNTech SE — RECRUITING PHASE2/PHASE3: Safety, Efficacy, and Pharmacokinetics of BNT327 in Combination With Chemotherapy and Other Investigational Agents for Lung Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT06712316</link>
+      <guid isPermaLink="false">clinical-trials:NCT06712316</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>BioNTech SE — RECRUITING PHASE3: A Clinical Study of the Anti-cancer Effects of an Investigational Therapy or Chemotherapy in Patients With Recurring Uterine Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT06340568</link>
+      <guid isPermaLink="false">clinical-trials:NCT06340568</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>BioNTech SE — COMPLETED PHASE1/PHASE2: A Clinical Trial to Evaluate the Safety, Efficacy and Immune Responses After Vaccination With an Investigational RNA-based Vaccine Against Malaria</title>
+      <link>https://clinicaltrials.gov/study/NCT06069544</link>
+      <guid isPermaLink="false">clinical-trials:NCT06069544</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>BioNTech SE — RECRUITING PHASE2/PHASE3: A Clinical Trial Investigating the Safety, Tolerability, and Therapeutic Effects of BNT113 in Combination With Pembrolizumab Versus Pembrolizumab Alone for Patients With a Form of Head and Neck Cancer Positive for Human Papilloma Virus 16 and Expressing the Protein PD-L1</title>
+      <link>https://clinicaltrials.gov/study/NCT04534205</link>
+      <guid isPermaLink="false">clinical-trials:NCT04534205</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>BioNTech SE — ACTIVE_NOT_RECRUITING PHASE2: A Phase II Clinical Trial Comparing the Efficacy of RO7198457 Versus Watchful Waiting in Patients With ctDNA-positive, Resected Stage II (High Risk) and Stage III Colorectal Cancer</title>
+      <link>https://clinicaltrials.gov/study/NCT04486378</link>
+      <guid isPermaLink="false">clinical-trials:NCT04486378</guid>
+      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>BioNTech SE — RECRUITING PHASE1/PHASE2: A Clinical Trial to Test if the Investigational Drug BNT329 is Safe and Potentially Beneficial for People With Advanced Solid Tumors Known to Express the Tumor Marker CA19-9</title>
@@ -30,51 +72,9 @@
       <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>
-      <title>BioNTech SE — RECRUITING PHASE1/PHASE2: A Clinical Study to Test if an Investigational Treatment Called BNT326 is Safe and Potentially Beneficial When Used Alone or in Combination With Other Investigational Treatments Such as BNT327, for People With Advanced Malignant Tumors</title>
-      <link>https://clinicaltrials.gov/study/NCT07070232</link>
-      <guid isPermaLink="false">clinical-trials:NCT07070232</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
       <title>BioNTech SE — RECRUITING PHASE1/PHASE2: A Clinical Study to Find the Optimal Dose of an Investigational Treatment Called BNT323 When Used in Combination With Another Investigational Treatment, BNT327, and to Test if That Combination Treatment is Safe and Beneficial for Patients With Advanced Breast Cancer</title>
       <link>https://clinicaltrials.gov/study/NCT06827236</link>
       <guid isPermaLink="false">clinical-trials:NCT06827236</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>BioNTech SE — RECRUITING PHASE3: Safety and Efficacy of BNT327, an Investigational Therapy in Combination With Chemotherapy for Patients With Untreated Small-cell Lung Cancer</title>
-      <link>https://clinicaltrials.gov/study/NCT06712355</link>
-      <guid isPermaLink="false">clinical-trials:NCT06712355</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>BioNTech SE — RECRUITING PHASE2/PHASE3: Safety, Efficacy, and Pharmacokinetics of BNT327 in Combination With Chemotherapy and Other Investigational Agents for Lung Cancer</title>
-      <link>https://clinicaltrials.gov/study/NCT06712316</link>
-      <guid isPermaLink="false">clinical-trials:NCT06712316</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>BioNTech SE — RECRUITING PHASE3: A Clinical Study of the Anti-cancer Effects of an Investigational Therapy or Chemotherapy in Patients With Recurring Uterine Cancer</title>
-      <link>https://clinicaltrials.gov/study/NCT06340568</link>
-      <guid isPermaLink="false">clinical-trials:NCT06340568</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>BioNTech SE — COMPLETED PHASE1/PHASE2: A Clinical Trial to Evaluate the Safety, Efficacy and Immune Responses After Vaccination With an Investigational RNA-based Vaccine Against Malaria</title>
-      <link>https://clinicaltrials.gov/study/NCT06069544</link>
-      <guid isPermaLink="false">clinical-trials:NCT06069544</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>BioNTech SE — RECRUITING PHASE2/PHASE3: A Clinical Trial Investigating the Safety, Tolerability, and Therapeutic Effects of BNT113 in Combination With Pembrolizumab Versus Pembrolizumab Alone for Patients With a Form of Head and Neck Cancer Positive for Human Papilloma Virus 16 and Expressing the Protein PD-L1</title>
-      <link>https://clinicaltrials.gov/study/NCT04534205</link>
-      <guid isPermaLink="false">clinical-trials:NCT04534205</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>BioNTech SE — ACTIVE_NOT_RECRUITING PHASE2: A Phase II Clinical Trial Comparing the Efficacy of RO7198457 Versus Watchful Waiting in Patients With ctDNA-positive, Resected Stage II (High Risk) and Stage III Colorectal Cancer</title>
-      <link>https://clinicaltrials.gov/study/NCT04486378</link>
-      <guid isPermaLink="false">clinical-trials:NCT04486378</guid>
       <pubDate>Fri, 04 Sep 2026 15:13:06 GMT</pubDate>
     </item>
     <item>

@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — ASND</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:10:12 GMT</lastBuildDate>
     <item>
       <title>Ascendis Pharma A/S — RECRUITING PHASE3: Trial Investigating the Efficacy and Safety of Weekly Lonapegsomatropin Compared to Daily Somatropin in Children and Adolescents With Short Stature or Growth Failure Due to Growth Hormone Sufficient Disorders</title>
       <link>https://clinicaltrials.gov/study/NCT07221851</link>
       <guid isPermaLink="false">clinical-trials:NCT07221851</guid>
-      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 15:09:33 GMT</pubDate>
     </item>
   </channel>
 </rss>

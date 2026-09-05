@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Wikipedia pageviews — ISRG</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Daily per-article Wikipedia pageview counts for a curated map of public-company articles, from the Wikimedia REST pageviews API (keyless, CC0 counts). Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:10:12 GMT</lastBuildDate>
+    <item>
+      <title>Intuitive_Surgical (ISRG): 213 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Intuitive_Surgical/daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Intuitive_Surgical:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
     <item>
       <title>Intuitive_Surgical (ISRG): 241 views on 2026-09-03</title>
       <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Intuitive_Surgical/daily/2026090300/2026090300</link>

@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — MTRX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:10:12 GMT</lastBuildDate>
     <item>
       <title>MILLER DAVID (JAMES) (MTRX) F: 932 shares @ $10.83</title>
       <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>

@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — ITRI</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:10:12 GMT</lastBuildDate>
     <item>
       <title>Patrick Justin K (ITRI) S: 1153 shares @ $97.36</title>
       <link>https://www.sec.gov/Archives/edgar/data/780571/0000780571-26-000216-index.htm</link>

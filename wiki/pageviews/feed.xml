@@ -4,7 +4,127 @@
     <title>LuxAlgo Market Trackers — Wikipedia pageviews</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Daily per-article Wikipedia pageview counts for a curated map of public-company articles, from the Wikimedia REST pageviews API (keyless, CC0 counts). Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:10:12 GMT</lastBuildDate>
+    <item>
+      <title>Walmart (WMT): 3648 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Walmart/daily/2026090300/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Walmart:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Walmart (WMT): 3405 views on 2026-09-03</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Walmart/daily/2026090300/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Walmart:2026-09-03</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visa_Inc. (V): 694 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Visa_Inc./daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Visa_Inc.:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Verizon_Communications (VZ): 86 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Verizon_Communications/daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Verizon_Communications:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>The_Walt_Disney_Company (DIS): 3499 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/The_Walt_Disney_Company/daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:The_Walt_Disney_Company:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Snowflake_Inc. (SNOW): 947 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Snowflake_Inc./daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Snowflake_Inc.:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pfizer (PFE): 637 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Pfizer/daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Pfizer:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moderna (MRNA): 321 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Moderna/daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Moderna:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Micron_Technology (MU): 1165 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Micron_Technology/daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Micron_Technology:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mastercard (MA): 650 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Mastercard/daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Mastercard:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lockheed_Martin (LMT): 1780 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Lockheed_Martin/daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Lockheed_Martin:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intuitive_Surgical (ISRG): 213 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Intuitive_Surgical/daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Intuitive_Surgical:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel (INTC): 1181 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Intel/daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Intel:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>IBM (IBM): 1493 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/IBM/daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:IBM:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eli_Lilly_and_Company (LLY): 1117 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Eli_Lilly_and_Company/daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Eli_Lilly_and_Company:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike (CRWD): 620 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/CrowdStrike/daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:CrowdStrike:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chevron_Corporation (CVX): 996 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Chevron_Corporation/daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Chevron_Corporation:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boeing (BA): 2128 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Boeing/daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:Boeing:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>American_Express (AXP): 1140 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/American_Express/daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:American_Express:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>AT&amp;T (T): 1174 views on 2026-09-04</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/AT%26T/daily/2026090400/2026090400</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:AT&amp;T:2026-09-04</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:42 GMT</pubDate>
+    </item>
     <item>
       <title>Wells_Fargo (WFC): 1141 views on 2026-09-04</title>
       <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Wells_Fargo/daily/2026090400/2026090400</link>

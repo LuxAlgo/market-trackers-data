@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — Insider transactions — CBRS</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:10:12 GMT</lastBuildDate>
     <item>
       <title>Susan Lior (CBRS) J: 47470 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/2021728/0001193125-26-383631-index.htm</link>

@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — RVMDW</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:10:12 GMT</lastBuildDate>
     <item>
       <title>Revolution Medicines, Inc. — APPROVED_FOR_MARKETING: Expanded Access Program for Daraxonrasib (RMC-6236) in Previously Treated Metastatic Pancreatic Adenocarcinoma</title>
       <link>https://clinicaltrials.gov/study/NCT07573215</link>
       <guid isPermaLink="false">clinical-trials:NCT07573215</guid>
-      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 15:09:33 GMT</pubDate>
     </item>
     <item>
       <title>Revolution Medicines, Inc. — RECRUITING PHASE3: Study of Daraxonrasib and Daraxonrasib + GnP as First-line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma</title>

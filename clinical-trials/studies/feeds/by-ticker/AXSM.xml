@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — AXSM</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:10:12 GMT</lastBuildDate>
     <item>
       <title>Axsome Therapeutics, Inc. — ENROLLING_BY_INVITATION PHASE3: Open-Label Safety Study of AXS-14 in Subjects With Fibromyalgia</title>
       <link>https://clinicaltrials.gov/study/NCT07637162</link>
       <guid isPermaLink="false">clinical-trials:NCT07637162</guid>
-      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 15:09:33 GMT</pubDate>
     </item>
     <item>
       <title>Axsome Therapeutics, Inc. — RECRUITING PHASE3: Fibromyalgia Response With Esreboxetine Evaluated Using a Randomized Withdrawal Research Design</title>
       <link>https://clinicaltrials.gov/study/NCT07398417</link>
       <guid isPermaLink="false">clinical-trials:NCT07398417</guid>
-      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 15:09:33 GMT</pubDate>
     </item>
     <item>
       <title>Axsome Therapeutics, Inc. — ENROLLING_BY_INVITATION PHASE3: An Open-Label Study to Assess the Long-Term Safety of Solriamfetol in Children and Adolescents With ADHD</title>

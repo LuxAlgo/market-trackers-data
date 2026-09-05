@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Congressional trades — AMGN</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:10:12 GMT</lastBuildDate>
     <item>
       <title>Sheldon Whitehouse (senate) sell: AMGN — $1,001 - $15,000</title>
       <link>https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/</link>
       <guid isPermaLink="false">congress-trades:senate:f8d003c0-ca1e-4c39-9d66-632d220180e1:4</guid>
-      <pubDate>Sat, 05 Sep 2026 12:47:53 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 15:08:21 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — COGT</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:10:12 GMT</lastBuildDate>
     <item>
       <title>Cogent Biosciences, Inc. — RECRUITING PHASE1: A Study of a Selective ERBB2 Inhibitor (CGT4255), in Patients With Advanced Solid Tumors</title>
       <link>https://clinicaltrials.gov/study/NCT07361562</link>
       <guid isPermaLink="false">clinical-trials:NCT07361562</guid>
-      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 15:09:33 GMT</pubDate>
     </item>
     <item>
       <title>Cogent Biosciences, Inc. — RECRUITING PHASE1: A Study of Mutant Selective-Inhibitor (CGT6297), in Patients With Advanced Solid Tumors</title>

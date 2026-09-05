@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — EW</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:10:12 GMT</lastBuildDate>
     <item>
       <title>Edwards Lifesciences — RECRUITING: Real World European Investigation of Safety and Clinical Efficacy of the EVOQUE System (TRISCEND III EU)</title>
       <link>https://clinicaltrials.gov/study/NCT06569602</link>
       <guid isPermaLink="false">clinical-trials:NCT06569602</guid>
-      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 15:09:33 GMT</pubDate>
     </item>
     <item>
       <title>Edwards Lifesciences — RECRUITING NA: ALLIANCE: Safety and Effectiveness of the SAPIEN X4 Transcatheter Heart Valve</title>
       <link>https://clinicaltrials.gov/study/NCT05172960</link>
       <guid isPermaLink="false">clinical-trials:NCT05172960</guid>
-      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 15:09:33 GMT</pubDate>
     </item>
     <item>
       <title>Edwards Lifesciences — ACTIVE_NOT_RECRUITING: MiCLASP Post Market Clinical Follow-Up (PMCF) Study</title>

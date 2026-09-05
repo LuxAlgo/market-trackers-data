@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Government contract awards — CXW</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Federal contract awards from USAspending with best-effort recipient→ticker mapping against a curated map of public-company subsidiaries. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:10:12 GMT</lastBuildDate>
     <item>
       <title>CORECIVIC, INC. — $6800000 from Department of Homeland Security (2026-08-31)</title>
       <link>https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000123_7012_70CDCR25D00000008_7012</link>
       <guid isPermaLink="false">gov-contracts:CONT_AWD_70CDCR26FR0000123_7012_70CDCR25D00000008_7012</guid>
-      <pubDate>Sat, 05 Sep 2026 12:47:53 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 15:08:21 GMT</pubDate>
     </item>
     <item>
       <title>CORECIVIC, INC. — $535219.99 from Department of Justice (2026-08-31)</title>
       <link>https://www.usaspending.gov/award/CONT_AWD_15BRRC26F00000350_1540_15BRRC22D00000334_1540</link>
       <guid isPermaLink="false">gov-contracts:CONT_AWD_15BRRC26F00000350_1540_15BRRC22D00000334_1540</guid>
-      <pubDate>Sat, 05 Sep 2026 12:47:53 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 15:08:21 GMT</pubDate>
     </item>
   </channel>
 </rss>

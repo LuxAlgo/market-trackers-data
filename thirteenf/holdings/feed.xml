@@ -4,7 +4,7 @@
     <title>LuxAlgo Market Trackers — 13F holdings</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Quarterly institutional holdings from EDGAR 13F-HR information tables, CUSIP-keyed with best-effort ticker resolution. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:10:12 GMT</lastBuildDate>
     <item>
       <title>M&amp;T BANK CORP: 8251 PUBMATIC INC (2026-03-31)</title>
       <link>https://www.sec.gov/Archives/edgar/data/36270/0001193125-26-382765-index.htm</link>

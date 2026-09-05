@@ -4,36 +4,36 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — VRTX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:10:12 GMT</lastBuildDate>
     <item>
       <title>Vertex Pharmaceuticals Incorporated — NOT_YET_RECRUITING PHASE1: Effects of VX-407 on the Pharmacokinetics of Combined Oral Contraceptives</title>
       <link>https://clinicaltrials.gov/study/NCT07792408</link>
       <guid isPermaLink="false">clinical-trials:NCT07792408</guid>
-      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 15:09:33 GMT</pubDate>
     </item>
     <item>
       <title>Vertex Pharmaceuticals Incorporated — RECRUITING PHASE2: A Phase 2 Study to Evaluate Povetacicept in Adults With Generalized Myasthenia Gravis</title>
       <link>https://clinicaltrials.gov/study/NCT07501702</link>
       <guid isPermaLink="false">clinical-trials:NCT07501702</guid>
-      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 15:09:33 GMT</pubDate>
     </item>
     <item>
       <title>Vertex Pharmaceuticals Incorporated — RECRUITING PHASE2/PHASE3: Evaluation of Efficacy, Safety, and Tolerability of Povetacicept in Participants With Primary Membranous Nephropathy (pMN)</title>
       <link>https://clinicaltrials.gov/study/NCT07204275</link>
       <guid isPermaLink="false">clinical-trials:NCT07204275</guid>
-      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 15:09:33 GMT</pubDate>
     </item>
     <item>
       <title>Vertex Pharmaceuticals Incorporated — ACTIVE_NOT_RECRUITING PHASE3: Evaluation of the Long-term Safety and Effectiveness of Suzetrigine (SUZ) in Participants With Painful Diabetic Peripheral Neuropathy (DPN)</title>
       <link>https://clinicaltrials.gov/study/NCT06696443</link>
       <guid isPermaLink="false">clinical-trials:NCT06696443</guid>
-      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 15:09:33 GMT</pubDate>
     </item>
     <item>
       <title>Vertex Pharmaceuticals Incorporated — RECRUITING PHASE3: A Safety, Tolerability, and Efficacy Study of VX-880 and VX-017 in Participants With Type 1 Diabetes</title>
       <link>https://clinicaltrials.gov/study/NCT04786262</link>
       <guid isPermaLink="false">clinical-trials:NCT04786262</guid>
-      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 15:09:33 GMT</pubDate>
     </item>
     <item>
       <title>Vertex Pharmaceuticals Incorporated — RECRUITING PHASE2/PHASE3: Phase 2/3 Adaptive Study of VX-147 in Adult and Pediatric Participants With APOL1-Mediated Proteinuric Kidney Disease</title>

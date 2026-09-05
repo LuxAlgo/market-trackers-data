@@ -4,18 +4,18 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — ORKA</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:10:12 GMT</lastBuildDate>
     <item>
       <title>Oruka Therapeutics, Inc. — RECRUITING PHASE2: ORKA-002 Versus Placebo in Participants With Moderate-to-Severe Hidradenitis Suppurativa</title>
       <link>https://clinicaltrials.gov/study/NCT07783542</link>
       <guid isPermaLink="false">clinical-trials:NCT07783542</guid>
-      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 15:09:33 GMT</pubDate>
     </item>
     <item>
       <title>Oruka Therapeutics, Inc. — RECRUITING PHASE2: An Open-Label Extension Study of ORKA-001 in Participants With Plaque Psoriasis</title>
       <link>https://clinicaltrials.gov/study/NCT07449702</link>
       <guid isPermaLink="false">clinical-trials:NCT07449702</guid>
-      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 15:09:33 GMT</pubDate>
     </item>
   </channel>
 </rss>

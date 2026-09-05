@@ -4,12 +4,12 @@
     <title>LuxAlgo Market Trackers — Clinical trial registrations — UTHR</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Study registrations and status changes from ClinicalTrials.gov (API v2, keyless), sponsor-declared registry facts with best-effort sponsor→ticker mapping. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 12:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:10:12 GMT</lastBuildDate>
     <item>
       <title>United Therapeutics — ENROLLING_BY_INVITATION PHASE3: Extension Study of Inhaled Treprostinil in Subjects With Fibrotic Lung Disease</title>
       <link>https://clinicaltrials.gov/study/NCT04905693</link>
       <guid isPermaLink="false">clinical-trials:NCT04905693</guid>
-      <pubDate>Sat, 05 Sep 2026 12:49:08 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 15:09:33 GMT</pubDate>
     </item>
     <item>
       <title>United Therapeutics — RECRUITING: DeciPHer-ILD: A Real-world Patient Registry in Group 3 Pulmonary Hypertension Associated With Interstitial Lung Disease (PH-ILD)</title>

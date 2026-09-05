@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T13:05:26.002Z",
+  "generatedAt": "2026-09-05T15:18:51.477Z",
   "repository": "LuxAlgo/market-trackers-data",
   "datasets": {
     "congress-trades": {
@@ -712,103 +712,103 @@
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-contracts--snapshot-2008.json.gz",
           "bytes": 26958096,
-          "updatedAt": "2026-09-05T08:18:50Z"
+          "updatedAt": "2026-09-05T13:42:05Z"
         },
         "2009": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-contracts--snapshot-2009.json.gz",
           "bytes": 30529886,
-          "updatedAt": "2026-09-05T08:18:51Z"
+          "updatedAt": "2026-09-05T13:42:07Z"
         },
         "2010": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-contracts--snapshot-2010.json.gz",
           "bytes": 33119115,
-          "updatedAt": "2026-09-05T08:18:53Z"
+          "updatedAt": "2026-09-05T13:42:10Z"
         },
         "2011": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-contracts--snapshot-2011.json.gz",
           "bytes": 32275827,
-          "updatedAt": "2026-09-05T08:18:54Z"
+          "updatedAt": "2026-09-05T13:42:13Z"
         },
         "2012": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-contracts--snapshot-2012.json.gz",
           "bytes": 30408426,
-          "updatedAt": "2026-09-05T08:18:56Z"
+          "updatedAt": "2026-09-05T13:42:16Z"
         },
         "2013": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-contracts--snapshot-2013.json.gz",
           "bytes": 28086811,
-          "updatedAt": "2026-09-05T08:18:58Z"
+          "updatedAt": "2026-09-05T13:42:19Z"
         },
         "2014": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-contracts--snapshot-2014.json.gz",
           "bytes": 27547689,
-          "updatedAt": "2026-09-05T08:18:59Z"
+          "updatedAt": "2026-09-05T13:42:21Z"
         },
         "2015": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-contracts--snapshot-2015.json.gz",
           "bytes": 22570918,
-          "updatedAt": "2026-09-05T08:19:01Z"
+          "updatedAt": "2026-09-05T13:42:23Z"
         },
         "2016": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-contracts--snapshot-2016.json.gz",
           "bytes": 21430350,
-          "updatedAt": "2026-09-05T08:19:02Z"
+          "updatedAt": "2026-09-05T13:42:26Z"
         },
         "2017": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-contracts--snapshot-2017.json.gz",
           "bytes": 20401533,
-          "updatedAt": "2026-09-05T08:19:04Z"
+          "updatedAt": "2026-09-05T13:42:28Z"
         },
         "2018": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-contracts--snapshot-2018.json.gz",
           "bytes": 20503279,
-          "updatedAt": "2026-09-05T08:19:05Z"
+          "updatedAt": "2026-09-05T13:42:30Z"
         },
         "2019": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-contracts--snapshot-2019.json.gz",
           "bytes": 23446369,
-          "updatedAt": "2026-09-05T08:19:07Z"
+          "updatedAt": "2026-09-05T13:42:32Z"
         },
         "2020": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-contracts--snapshot-2020.json.gz",
           "bytes": 25955086,
-          "updatedAt": "2026-09-05T08:19:08Z"
+          "updatedAt": "2026-09-05T13:42:35Z"
         },
         "2021": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-contracts--snapshot-2021.json.gz",
           "bytes": 25774170,
-          "updatedAt": "2026-09-05T08:19:10Z"
+          "updatedAt": "2026-09-05T13:42:37Z"
         },
         "2022": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-contracts--snapshot-2022.json.gz",
-          "bytes": 12653374,
-          "updatedAt": "2026-09-05T08:19:11Z"
+          "bytes": 27300164,
+          "updatedAt": "2026-09-05T13:42:40Z"
         },
         "2023": {
-          "tag": "archive-usaspending-2008-01-01-2026-08-28",
-          "asset": "snapshot-2023.json.gz",
-          "bytes": 37766,
-          "updatedAt": "2026-08-28T02:07:31Z"
+          "tag": "archive-usaspending-2008-01-01-2026-09-05",
+          "asset": "gov-contracts--snapshot-2023.json.gz",
+          "bytes": 27779653,
+          "updatedAt": "2026-09-05T13:42:42Z"
         },
         "2024": {
-          "tag": "archive-usaspending-2008-01-01-2026-08-28",
-          "asset": "snapshot-2024.json.gz",
-          "bytes": 3535,
-          "updatedAt": "2026-08-28T02:07:32Z"
+          "tag": "archive-usaspending-2008-01-01-2026-09-05",
+          "asset": "gov-contracts--snapshot-2024.json.gz",
+          "bytes": 10612202,
+          "updatedAt": "2026-09-05T13:42:43Z"
         },
         "2025": {
           "tag": "archive-usaspending-2008-01-01-2026-08-28",
@@ -1064,91 +1064,103 @@
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-grants--snapshot-2008.json.gz",
           "bytes": 11209727,
-          "updatedAt": "2026-09-05T08:19:12Z"
+          "updatedAt": "2026-09-05T13:42:45Z"
         },
         "2009": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-grants--snapshot-2009.json.gz",
           "bytes": 12242540,
-          "updatedAt": "2026-09-05T08:19:13Z"
+          "updatedAt": "2026-09-05T13:42:47Z"
         },
         "2010": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-grants--snapshot-2010.json.gz",
           "bytes": 13352672,
-          "updatedAt": "2026-09-05T08:19:15Z"
+          "updatedAt": "2026-09-05T13:42:49Z"
         },
         "2011": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-grants--snapshot-2011.json.gz",
           "bytes": 11436529,
-          "updatedAt": "2026-09-05T08:19:16Z"
+          "updatedAt": "2026-09-05T13:42:51Z"
         },
         "2012": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-grants--snapshot-2012.json.gz",
           "bytes": 11629559,
-          "updatedAt": "2026-09-05T08:19:17Z"
+          "updatedAt": "2026-09-05T13:42:53Z"
         },
         "2013": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-grants--snapshot-2013.json.gz",
           "bytes": 11052152,
-          "updatedAt": "2026-09-05T08:19:18Z"
+          "updatedAt": "2026-09-05T13:42:54Z"
         },
         "2014": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-grants--snapshot-2014.json.gz",
           "bytes": 11035428,
-          "updatedAt": "2026-09-05T08:19:19Z"
+          "updatedAt": "2026-09-05T13:42:56Z"
         },
         "2015": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-grants--snapshot-2015.json.gz",
           "bytes": 11311643,
-          "updatedAt": "2026-09-05T08:19:20Z"
+          "updatedAt": "2026-09-05T13:42:58Z"
         },
         "2016": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-grants--snapshot-2016.json.gz",
           "bytes": 12041812,
-          "updatedAt": "2026-09-05T08:19:21Z"
+          "updatedAt": "2026-09-05T13:43:00Z"
         },
         "2017": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-grants--snapshot-2017.json.gz",
           "bytes": 13960162,
-          "updatedAt": "2026-09-05T08:19:23Z"
+          "updatedAt": "2026-09-05T13:43:02Z"
         },
         "2018": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-grants--snapshot-2018.json.gz",
           "bytes": 13949225,
-          "updatedAt": "2026-09-05T08:19:24Z"
+          "updatedAt": "2026-09-05T13:43:04Z"
         },
         "2019": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-grants--snapshot-2019.json.gz",
           "bytes": 14107526,
-          "updatedAt": "2026-09-05T08:19:25Z"
+          "updatedAt": "2026-09-05T13:43:06Z"
         },
         "2020": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-grants--snapshot-2020.json.gz",
           "bytes": 17083680,
-          "updatedAt": "2026-09-05T08:19:26Z"
+          "updatedAt": "2026-09-05T13:43:08Z"
         },
         "2021": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-grants--snapshot-2021.json.gz",
           "bytes": 31877896,
-          "updatedAt": "2026-09-05T08:19:28Z"
+          "updatedAt": "2026-09-05T13:43:10Z"
         },
         "2022": {
           "tag": "archive-usaspending-2008-01-01-2026-09-05",
           "asset": "gov-grants--snapshot-2022.json.gz",
-          "bytes": 16963347,
-          "updatedAt": "2026-09-05T08:19:29Z"
+          "bytes": 48056763,
+          "updatedAt": "2026-09-05T13:43:14Z"
+        },
+        "2023": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-05",
+          "asset": "gov-grants--snapshot-2023.json.gz",
+          "bytes": 46397295,
+          "updatedAt": "2026-09-05T13:43:17Z"
+        },
+        "2024": {
+          "tag": "archive-usaspending-2008-01-01-2026-09-05",
+          "asset": "gov-grants--snapshot-2024.json.gz",
+          "bytes": 11821645,
+          "updatedAt": "2026-09-05T13:43:18Z"
         }
       }
     },
@@ -2522,7 +2534,7 @@
       "from": "2008-01-01",
       "to": "2026-09-05",
       "publishedAt": "2026-09-05T08:18:48Z",
-      "assets": 30
+      "assets": 34
     },
     {
       "tag": "archive-usaspending-2008-01-01-2026-09-04",

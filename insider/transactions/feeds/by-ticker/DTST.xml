@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — DTST</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Mitchell Uwayne A. (DTST) A: 12000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2016002/0001731122-26-001199-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001199:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mitchell Uwayne A. (DTST) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2016002/0001731122-26-001199-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001199:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mitchell Uwayne A. (DTST) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2016002/0001731122-26-001199-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001199:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grover Matthew (DTST) A: 12000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1803509/0001731122-26-001196-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001196:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grover Matthew (DTST) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1803509/0001731122-26-001196-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001196:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grover Matthew (DTST) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1803509/0001731122-26-001196-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001196:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kempster Thomas (DTST) A: 12000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1688904/0001731122-26-001197-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001197:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kempster Thomas (DTST) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1688904/0001731122-26-001197-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001197:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kempster Thomas (DTST) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1688904/0001731122-26-001197-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001197:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schwartz Harold J (DTST) A: 12000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1688899/0001731122-26-001202-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001202:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schwartz Harold J (DTST) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1688899/0001731122-26-001202-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001202:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schwartz Harold J (DTST) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1688899/0001731122-26-001202-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001202:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Correll Todd A. (DTST) A: 12000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1671569/0001731122-26-001203-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001203:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Correll Todd A. (DTST) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1671569/0001731122-26-001203-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001203:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Correll Todd A. (DTST) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1671569/0001731122-26-001203-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001203:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stein Clifford (DTST) A: 12000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1535036/0001731122-26-001201-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001201:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stein Clifford (DTST) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1535036/0001731122-26-001201-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001201:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stein Clifford (DTST) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1535036/0001731122-26-001201-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001201:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Maglione Lawrence A. (DTST) A: 12000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1448357/0001731122-26-001198-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001198:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Maglione Lawrence A. (DTST) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1448357/0001731122-26-001198-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001198:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Maglione Lawrence A. (DTST) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1448357/0001731122-26-001198-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001198:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Argen John (DTST) A: 12000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1448356/0001731122-26-001195-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001195:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Argen John (DTST) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1448356/0001731122-26-001195-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001195:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Argen John (DTST) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1448356/0001731122-26-001195-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001195:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stallone Nancy (DTST) A: 12000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419951/0001731122-26-001200-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001200:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:37:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stallone Nancy (DTST) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419951/0001731122-26-001200-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001200:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:37:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stallone Nancy (DTST) M: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419951/0001731122-26-001200-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001731122-26-001200:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:37:58 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

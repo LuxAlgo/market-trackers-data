@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — HMH</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Qureshi Hunain (HMH) F: 1205 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2035763/0001628280-26-060778-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060778:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qureshi Hunain (HMH) A: 3060 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2035763/0001628280-26-060778-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060778:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Skogerbo Pal (HMH) F: 5180 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2035218/0001628280-26-060781-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060781:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Skogerbo Pal (HMH) A: 10927 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2035218/0001628280-26-060781-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060781:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>McGee Thomas W. (HMH) F: 4300 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2035200/0001628280-26-060777-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060777:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>McGee Thomas W. (HMH) A: 10927 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2035200/0001628280-26-060777-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060777:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dyrseth Roy A. (HMH) F: 5180 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2035162/0001628280-26-060774-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060774:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dyrseth Roy A. (HMH) A: 10927 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2035162/0001628280-26-060774-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060774:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bergsvik Eirik (HMH) F: 8287 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2035158/0001628280-26-060772-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060772:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bergsvik Eirik (HMH) A: 17483 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2035158/0001628280-26-060772-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060772:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>RETTIG DWIGHT W (HMH) F: 4300 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2021880/0001628280-26-060780-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060780:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>RETTIG DWIGHT W (HMH) A: 10927 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2021880/0001628280-26-060780-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060780:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHAUVIERE E CHARLS (HMH) F: 4300 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2021880/0001628280-26-060773-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060773:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHAUVIERE E CHARLS (HMH) A: 10927 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2021880/0001628280-26-060773-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060773:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qureshi Hunain (HMH) F: 1970 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2035763/0001628280-26-060323-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060323:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Skogerbo Pal (HMH) F: 4145 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2035218/0001628280-26-060324-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060324:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>McGee Thomas W. (HMH) F: 3442 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2035200/0001628280-26-060322-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060322:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dyrseth Roy A. (HMH) F: 4145 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2035162/0001628280-26-060321-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060321:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bergsvik Eirik (HMH) F: 6631 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2035158/0001628280-26-060319-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060319:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>RETTIG DWIGHT W (HMH) F: 3442 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2021880/0001628280-26-060325-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060325:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHAUVIERE E CHARLS (HMH) F: 3442 shares @ $19.26</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2021880/0001628280-26-060320-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001628280-26-060320:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:38 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

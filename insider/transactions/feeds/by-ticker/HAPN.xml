@@ -4,7 +4,25 @@
     <title>LuxAlgo Market Trackers — Insider transactions — HAPN</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Cheng Jordan (HAPN) S: 2800 shares @ $17.56</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1998222/0001409970-26-000194-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000194:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Selleck Erin (HAPN) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1644258/0001409970-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000192:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Selleck Erin (HAPN) S: 2057 shares @ $17.41</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1644258/0001409970-26-000192-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001409970-26-000192:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:14 GMT</pubDate>
+    </item>
     <item>
       <title>Cheng Jordan (HAPN) F: 5477 shares @ $18.25</title>
       <link>https://www.sec.gov/Archives/edgar/data/1998222/0001409970-26-000180-index.htm</link>

@@ -4,7 +4,67 @@
     <title>LuxAlgo Market Trackers — Insider transactions — DDOG</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Walters Sean Michael (DDOG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1903980/0001561550-26-000297-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001561550-26-000297:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Walters Sean Michael (DDOG) S: 13575 shares @ $212.9039</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1903980/0001561550-26-000297-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001561550-26-000297:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Acocella Kerry (DDOG) S: 7343 shares @ $212.9039</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1903975/0001561550-26-000295-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001561550-26-000295:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blitzer Adam (DDOG) S: 13812 shares @ $212.9041</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1861590/0001561550-26-000293-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001561550-26-000293:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pomel Olivier (DDOG) S: 26331 shares @ $212.9041</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783990/0001561550-26-000300-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001561550-26-000300:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Le-Quoc Alexis (DDOG) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783984/0001561550-26-000298-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001561550-26-000298:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Le-Quoc Alexis (DDOG) S: 21772 shares @ $212.9043</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783984/0001561550-26-000298-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001561550-26-000298:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Li Yanbing (DDOG) S: 11206 shares @ $212.9043</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783061/0001561550-26-000294-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001561550-26-000294:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Galloreese David (DDOG) S: 4769 shares @ $212.9045</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1757760/0001561550-26-000296-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001561550-26-000296:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>OBSTLER DAVID M (DDOG) S: 16524 shares @ $212.9041</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1561550/0001561550-26-000299-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001561550-26-000299:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:09 GMT</pubDate>
+    </item>
     <item>
       <title>Le-Quoc Alexis (DDOG) S: 2500 shares @ $230.3424</title>
       <link>https://www.sec.gov/Archives/edgar/data/1783984/0001561550-26-000283-index.htm</link>

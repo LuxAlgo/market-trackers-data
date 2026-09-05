@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — GEHC</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Estrampes Catherine (GEHC) F: 508 shares @ $70.56</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2131383/0002131383-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002131383-26-000006:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rackliffe Philip (GEHC) F: 798 shares @ $70.56</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2027284/0002027284-26-000013-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002027284-26-000013:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kass-Hout Taha (GEHC) F: 1502 shares @ $70.56</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1960652/0001960652-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001960652-26-000011:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Newcomb George A. (GEHC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1952158/0001952158-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001952158-26-000008:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Newcomb George A. (GEHC) F: 112 shares @ $70.56</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1952158/0001952158-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001952158-26-000008:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>O'Neill Kevin Michael (GEHC) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1951605/0001951605-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001951605-26-000008:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>O'Neill Kevin Michael (GEHC) F: 718 shares @ $70.56</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1951605/0001951605-26-000008-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001951605-26-000008:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Holton Adam Y (GEHC) F: 673 shares @ $70.56</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1932393/0001657919-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001657919-26-000009:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jimenez Frank R (GEHC) F: 1480 shares @ $70.56</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1932393/0001465175-26-000025-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001465175-26-000025:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arduini Peter J (GEHC) F: 6303 shares @ $70.56</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1932393/0001323134-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001323134-26-000022:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rackliffe Philip (GEHC) F: 340 shares @ $71.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2027284/0002027284-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002027284-26-000011:nd:2</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rackliffe Philip (GEHC) F: 226 shares @ $71.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2027284/0002027284-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002027284-26-000011:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rackliffe Philip (GEHC) F: 290 shares @ $71.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2027284/0002027284-26-000011-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002027284-26-000011:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kass-Hout Taha (GEHC) F: 1296 shares @ $71.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1960652/0001960652-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001960652-26-000009:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kass-Hout Taha (GEHC) F: 1644 shares @ $71.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1960652/0001960652-26-000009-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001960652-26-000009:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bankes Jeannette (GEHC) F: 1064 shares @ $71.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1932393/0001920839-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001920839-26-000007:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Holton Adam Y (GEHC) F: 659 shares @ $71.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1932393/0001657919-26-000007-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001657919-26-000007:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jimenez Frank R (GEHC) F: 1380 shares @ $71.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1932393/0001465175-26-000023-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001465175-26-000023:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jimenez Frank R (GEHC) F: 1751 shares @ $71.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1932393/0001465175-26-000023-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001465175-26-000023:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arduini Peter J (GEHC) F: 5472 shares @ $71.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1932393/0001323134-26-000020-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001323134-26-000020:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arduini Peter J (GEHC) F: 6043 shares @ $71.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1932393/0001323134-26-000020-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001323134-26-000020:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:21 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

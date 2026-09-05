@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — GAP</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>FISHER ROBERT J (GAP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001079848-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001079848-26-000006:nd:3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>FISHER ROBERT J (GAP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001079848-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001079848-26-000006:nd:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>FISHER ROBERT J (GAP) J: 4089 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001079848-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001079848-26-000006:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>FISHER ROBERT J (GAP) J: 6004089 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001079848-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001079848-26-000006:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>FISHER JOHN J (GAP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001079847-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001079847-26-000012:nd:6</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>FISHER JOHN J (GAP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001079847-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001079847-26-000012:nd:5</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>FISHER JOHN J (GAP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001079847-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001079847-26-000012:nd:4</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>FISHER JOHN J (GAP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001079847-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001079847-26-000012:nd:3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>FISHER JOHN J (GAP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001079847-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001079847-26-000012:nd:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>FISHER JOHN J (GAP) J: 3636 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001079847-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001079847-26-000012:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>FISHER JOHN J (GAP) J: 4003636 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001079847-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001079847-26-000012:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>FISHER WILLIAM SYDNEY (GAP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001217081-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001217081-26-000005:nd:3</guid>
+      <pubDate>Tue, 01 Sep 2026 02:42:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>FISHER WILLIAM SYDNEY (GAP) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001217081-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001217081-26-000005:nd:2</guid>
+      <pubDate>Tue, 01 Sep 2026 02:42:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>FISHER WILLIAM SYDNEY (GAP) J: 4089 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001217081-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001217081-26-000005:nd:1</guid>
+      <pubDate>Tue, 01 Sep 2026 02:42:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>FISHER WILLIAM SYDNEY (GAP) J: 6004089 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001217081-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001217081-26-000005:nd:0</guid>
+      <pubDate>Tue, 01 Sep 2026 02:42:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>DICKSON RICHARD (GAP) F: 62852 shares @ $19.8</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001482551-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001482551-26-000004:nd:3</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>DICKSON RICHARD (GAP) M: 116502 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001482551-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001482551-26-000004:nd:2</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>DICKSON RICHARD (GAP) F: 59155 shares @ $19.8</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001482551-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001482551-26-000004:nd:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>DICKSON RICHARD (GAP) M: 109649 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001482551-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001482551-26-000004:nd:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>DICKSON RICHARD (GAP) M: 116502 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001482551-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001482551-26-000004:d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>DICKSON RICHARD (GAP) M: 109649 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/39911/0001482551-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001482551-26-000004:d:0</guid>
+      <pubDate>Sat, 29 Aug 2026 16:23:10 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

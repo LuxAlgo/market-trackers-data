@@ -4,7 +4,109 @@
     <title>LuxAlgo Market Trackers — Insider transactions — MSI</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>MOORE KATHRYN A (MSI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/68505/0002047518-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002047518-26-000012:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>MOORE KATHRYN A (MSI) F: 37.66 shares @ $472.23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/68505/0002047518-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002047518-26-000012:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROWN GREGORY Q (MSI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/68505/0001201232-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001201232-26-000017:nd:9</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROWN GREGORY Q (MSI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/68505/0001201232-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001201232-26-000017:nd:8</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROWN GREGORY Q (MSI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/68505/0001201232-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001201232-26-000017:nd:7</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROWN GREGORY Q (MSI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/68505/0001201232-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001201232-26-000017:nd:6</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROWN GREGORY Q (MSI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/68505/0001201232-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001201232-26-000017:nd:5</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROWN GREGORY Q (MSI) S: 5570 shares @ $483.6769</title>
+      <link>https://www.sec.gov/Archives/edgar/data/68505/0001201232-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001201232-26-000017:nd:4</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROWN GREGORY Q (MSI) S: 1600 shares @ $485.1605</title>
+      <link>https://www.sec.gov/Archives/edgar/data/68505/0001201232-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001201232-26-000017:nd:3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROWN GREGORY Q (MSI) S: 4650 shares @ $486.1047</title>
+      <link>https://www.sec.gov/Archives/edgar/data/68505/0001201232-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001201232-26-000017:nd:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROWN GREGORY Q (MSI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/68505/0001201232-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001201232-26-000017:nd:13</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROWN GREGORY Q (MSI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/68505/0001201232-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001201232-26-000017:nd:12</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROWN GREGORY Q (MSI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/68505/0001201232-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001201232-26-000017:nd:11</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROWN GREGORY Q (MSI) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/68505/0001201232-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001201232-26-000017:nd:10</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROWN GREGORY Q (MSI) S: 2400 shares @ $487.1378</title>
+      <link>https://www.sec.gov/Archives/edgar/data/68505/0001201232-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001201232-26-000017:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROWN GREGORY Q (MSI) M: 14220 shares @ $81.37</title>
+      <link>https://www.sec.gov/Archives/edgar/data/68505/0001201232-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001201232-26-000017:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>BROWN GREGORY Q (MSI) M: 14220 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/68505/0001201232-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001201232-26-000017:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:10 GMT</pubDate>
+    </item>
     <item>
       <title>MOORE KATHRYN A (MSI) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/68505/0002047518-26-000010-index.htm</link>

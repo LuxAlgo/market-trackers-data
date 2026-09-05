@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Insider transactions — ADP</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>DeSilva Joseph (ADP) S: 631 shares @ $282.87</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8670/0001225208-26-007685-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001225208-26-007685:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:18 GMT</pubDate>
+    </item>
     <item>
       <title>Rodriguez Carlos A (ADP) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/8670/0001225208-26-007614-index.htm</link>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — ADXN</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Kalinichev Mikhail (ADXN) A: 306765 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123907/0001104659-26-105506-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105506:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kalinichev Mikhail (ADXN) D: 306765 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123907/0001104659-26-105506-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105506:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kalinichev Mikhail (ADXN) A: 200000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123907/0001104659-26-105506-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105506:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kalinichev Mikhail (ADXN) D: 200000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123907/0001104659-26-105506-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105506:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teyssedou Lenaic Nathanael (ADXN) A: 65620 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123881/0001104659-26-105509-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105509:d:9</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teyssedou Lenaic Nathanael (ADXN) D: 65620 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123881/0001104659-26-105509-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105509:d:8</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teyssedou Lenaic Nathanael (ADXN) A: 30000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123881/0001104659-26-105509-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105509:d:7</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teyssedou Lenaic Nathanael (ADXN) D: 30000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123881/0001104659-26-105509-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105509:d:6</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teyssedou Lenaic Nathanael (ADXN) A: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123881/0001104659-26-105509-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105509:d:5</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teyssedou Lenaic Nathanael (ADXN) D: 10000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123881/0001104659-26-105509-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105509:d:4</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teyssedou Lenaic Nathanael (ADXN) A: 59530 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123881/0001104659-26-105509-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105509:d:3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teyssedou Lenaic Nathanael (ADXN) D: 59530 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123881/0001104659-26-105509-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105509:d:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teyssedou Lenaic Nathanael (ADXN) A: 100485 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123881/0001104659-26-105509-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105509:d:15</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teyssedou Lenaic Nathanael (ADXN) D: 100485 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123881/0001104659-26-105509-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105509:d:14</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teyssedou Lenaic Nathanael (ADXN) A: 208974 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123881/0001104659-26-105509-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105509:d:13</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teyssedou Lenaic Nathanael (ADXN) D: 208974 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123881/0001104659-26-105509-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105509:d:12</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teyssedou Lenaic Nathanael (ADXN) A: 90529 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123881/0001104659-26-105509-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105509:d:11</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teyssedou Lenaic Nathanael (ADXN) D: 90529 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123881/0001104659-26-105509-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105509:d:10</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teyssedou Lenaic Nathanael (ADXN) A: 37770 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123881/0001104659-26-105509-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105509:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teyssedou Lenaic Nathanael (ADXN) D: 37770 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123881/0001104659-26-105509-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105509:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lawton Vincent Michael (ADXN) A: 2507487 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123870/0001104659-26-105489-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105489:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lawton Vincent Michael (ADXN) D: 2507487 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123870/0001104659-26-105489-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105489:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lawton Vincent Michael (ADXN) A: 501598 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123870/0001104659-26-105489-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105489:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lawton Vincent Michael (ADXN) D: 501598 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123870/0001104659-26-105489-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105489:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hill Raymond George (ADXN) A: 1365532 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123864/0001104659-26-105484-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105484:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hill Raymond George (ADXN) D: 1365532 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123864/0001104659-26-105484-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105484:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hill Raymond George (ADXN) A: 273107 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123864/0001104659-26-105484-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105484:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hill Raymond George (ADXN) D: 273107 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123864/0001104659-26-105484-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105484:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dyer Timothy Mark (ADXN) A: 16413787 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1830908/0001104659-26-105481-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105481:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dyer Timothy Mark (ADXN) D: 16413787 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1830908/0001104659-26-105481-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105481:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dyer Timothy Mark (ADXN) A: 3369796 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1830908/0001104659-26-105481-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105481:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dyer Timothy Mark (ADXN) D: 3369796 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1830908/0001104659-26-105481-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105481:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manke Isaac (ADXN) A: 219561 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1622769/0001104659-26-105491-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105491:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manke Isaac (ADXN) D: 219561 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1622769/0001104659-26-105491-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105491:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manke Isaac (ADXN) A: 50000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1622769/0001104659-26-105491-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105491:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manke Isaac (ADXN) D: 50000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1622769/0001104659-26-105491-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105491:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nunn Jason Raleigh (ADXN) A: 219561 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1574232/0001104659-26-105501-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105501:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nunn Jason Raleigh (ADXN) D: 219561 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1574232/0001104659-26-105501-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105501:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nunn Jason Raleigh (ADXN) A: 50000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1574232/0001104659-26-105501-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105501:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nunn Jason Raleigh (ADXN) D: 50000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1574232/0001104659-26-105501-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105501:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mills Roger (ADXN) A: 392837 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1574232/0001104659-26-105496-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105496:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mills Roger (ADXN) D: 392837 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1574232/0001104659-26-105496-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105496:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mills Roger (ADXN) A: 50000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1574232/0001104659-26-105496-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105496:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mills Roger (ADXN) D: 50000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1574232/0001104659-26-105496-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001104659-26-105496:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:10 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -4,7 +4,19 @@
     <title>LuxAlgo Market Trackers — Insider transactions — BL</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Villanova Patrick (BL) M: 750 shares @ $14</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1688119/0001666134-26-000103-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001666134-26-000103:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Villanova Patrick (BL) M: 750 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1688119/0001666134-26-000103-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001666134-26-000103:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:17 GMT</pubDate>
+    </item>
     <item>
       <title>Stalick Michelle D (BL) S: 780 shares @ $33.65</title>
       <link>https://www.sec.gov/Archives/edgar/data/1666134/0001666134-26-000102-index.htm</link>

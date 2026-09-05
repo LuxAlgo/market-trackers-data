@@ -4,7 +4,163 @@
     <title>LuxAlgo Market Trackers — Insider transactions — SNDA</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Simanovsky Michael (SNDA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034835/0000895345-26-000401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000401:nd:7</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034835/0000895345-26-000401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000401:nd:6</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) M: 97371 shares @ $32</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034835/0000895345-26-000401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000401:nd:5</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) M: 1504134 shares @ $32</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034835/0000895345-26-000401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000401:nd:4</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) A: 1834951 shares @ $26.74</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034835/0000895345-26-000401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000401:nd:3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) A: 224829 shares @ $26.74</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034835/0000895345-26-000401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000401:nd:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) A: 87530 shares @ $26.74</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034835/0000895345-26-000401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000401:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) A: 1592406 shares @ $26.74</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034835/0000895345-26-000401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000401:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) A: 62712 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034835/0000895345-26-000401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000401:d:9</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) A: 968538 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034835/0000895345-26-000401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000401:d:8</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) D: 62712 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034835/0000895345-26-000401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000401:d:7</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) D: 968538 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034835/0000895345-26-000401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000401:d:6</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) M: 2508 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034835/0000895345-26-000401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000401:d:5</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) M: 38742 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034835/0000895345-26-000401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000401:d:4</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) A: 2508 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034835/0000895345-26-000401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000401:d:3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) A: 38742 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034835/0000895345-26-000401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000401:d:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) D: 2508 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034835/0000895345-26-000401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000401:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) D: 38742 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034835/0000895345-26-000401-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000401:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850901/0000895345-26-000400-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000400:nd:7</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850901/0000895345-26-000400-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000400:nd:6</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850901/0000895345-26-000400-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000400:nd:5</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850901/0000895345-26-000400-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000400:nd:4</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850901/0000895345-26-000400-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000400:nd:3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850901/0000895345-26-000400-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000400:nd:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850901/0000895345-26-000400-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000400:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simanovsky Michael (SNDA) J: 100373 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850901/0000895345-26-000400-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000895345-26-000400:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:36 GMT</pubDate>
+    </item>
     <item>
       <title>Simanovsky Michael (SNDA) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1850901/0000895345-26-000386-index.htm</link>

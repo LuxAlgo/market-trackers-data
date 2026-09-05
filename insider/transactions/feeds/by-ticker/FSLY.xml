@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Insider transactions — FSLY</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Compton Charles Lacey III (FSLY) S: 9458 shares @ $20.42</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2074428/0001517413-26-000268-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001517413-26-000268:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:56 GMT</pubDate>
+    </item>
     <item>
       <title>Compton Charles Lacey III (FSLY) S: 1100 shares @ $22.61</title>
       <link>https://www.sec.gov/Archives/edgar/data/2074428/0001517413-26-000265-index.htm</link>

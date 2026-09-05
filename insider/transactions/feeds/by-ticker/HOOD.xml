@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — HOOD</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Gallagher Daniel Martin Jr (HOOD) S: 700 shares @ $124.6192</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001705560-26-000023-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705560-26-000023:nd:9</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Daniel Martin Jr (HOOD) S: 2700 shares @ $123.9133</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001705560-26-000023-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705560-26-000023:nd:8</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Daniel Martin Jr (HOOD) S: 3800 shares @ $122.996</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001705560-26-000023-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705560-26-000023:nd:7</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Daniel Martin Jr (HOOD) S: 800 shares @ $121.6575</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001705560-26-000023-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705560-26-000023:nd:6</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Daniel Martin Jr (HOOD) S: 400 shares @ $120.7725</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001705560-26-000023-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705560-26-000023:nd:5</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Daniel Martin Jr (HOOD) S: 900 shares @ $119.6022</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001705560-26-000023-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705560-26-000023:nd:4</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Daniel Martin Jr (HOOD) S: 300 shares @ $118.3733</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001705560-26-000023-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705560-26-000023:nd:3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Daniel Martin Jr (HOOD) S: 200 shares @ $117.165</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001705560-26-000023-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705560-26-000023:nd:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Daniel Martin Jr (HOOD) S: 100 shares @ $115.84</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001705560-26-000023-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705560-26-000023:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Daniel Martin Jr (HOOD) S: 100 shares @ $113.45</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001705560-26-000023-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705560-26-000023:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quirk Steven M. (HOOD) S: 812 shares @ $124.5807</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001659211-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001659211-26-000018:nd:8</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quirk Steven M. (HOOD) S: 2700 shares @ $123.8826</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001659211-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001659211-26-000018:nd:7</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quirk Steven M. (HOOD) S: 3599 shares @ $122.9652</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001659211-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001659211-26-000018:nd:6</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quirk Steven M. (HOOD) S: 800 shares @ $121.6975</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001659211-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001659211-26-000018:nd:5</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quirk Steven M. (HOOD) S: 400 shares @ $120.6325</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001659211-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001659211-26-000018:nd:4</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quirk Steven M. (HOOD) S: 13208 shares @ $119.9285</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001659211-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001659211-26-000018:nd:3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quirk Steven M. (HOOD) S: 300 shares @ $117.86</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001659211-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001659211-26-000018:nd:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quirk Steven M. (HOOD) S: 200 shares @ $116.28</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001659211-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001659211-26-000018:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quirk Steven M. (HOOD) S: 2397 shares @ $113.2475</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001659211-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001659211-26-000018:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Verma Shiv (HOOD) F: 16956 shares @ $104.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2108589/0002108589-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002108589-26-000022:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Verma Shiv (HOOD) M: 33323 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2108589/0002108589-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002108589-26-000022:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Verma Shiv (HOOD) M: 23631 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2108589/0002108589-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002108589-26-000022:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Verma Shiv (HOOD) M: 9692 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2108589/0002108589-26-000022-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002108589-26-000022:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:54:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bazzano Dara (HOOD) F: 2504 shares @ $104.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001707112-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001707112-26-000006:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 12:53:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bazzano Dara (HOOD) M: 6977 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001707112-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001707112-26-000006:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:53:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bazzano Dara (HOOD) M: 6977 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001707112-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001707112-26-000006:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:53:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Daniel Martin Jr (HOOD) F: 54309 shares @ $104.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001705560-26-000021-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705560-26-000021:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 12:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Daniel Martin Jr (HOOD) M: 112856 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001705560-26-000021-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705560-26-000021:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Daniel Martin Jr (HOOD) M: 8205 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001705560-26-000021-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705560-26-000021:d:3</guid>
+      <pubDate>Fri, 04 Sep 2026 12:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Daniel Martin Jr (HOOD) M: 13747 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001705560-26-000021-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705560-26-000021:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 12:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Daniel Martin Jr (HOOD) M: 24414 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001705560-26-000021-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705560-26-000021:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 12:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Daniel Martin Jr (HOOD) M: 66490 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001705560-26-000021-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001705560-26-000021:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quirk Steven M. (HOOD) F: 31533 shares @ $104.81</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001659211-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001659211-26-000016:nd:1</guid>
+      <pubDate>Fri, 04 Sep 2026 12:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quirk Steven M. (HOOD) M: 71176 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001659211-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001659211-26-000016:nd:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quirk Steven M. (HOOD) M: 9846 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001659211-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001659211-26-000016:d:3</guid>
+      <pubDate>Fri, 04 Sep 2026 12:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quirk Steven M. (HOOD) M: 16497 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001659211-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001659211-26-000016:d:2</guid>
+      <pubDate>Fri, 04 Sep 2026 12:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quirk Steven M. (HOOD) M: 16838 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001659211-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001659211-26-000016:d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 12:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quirk Steven M. (HOOD) M: 27995 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1783879/0001659211-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001659211-26-000016:d:0</guid>
+      <pubDate>Fri, 04 Sep 2026 12:53:48 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

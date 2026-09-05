@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — LPSN</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Mina Christopher Allen (LPSN) D: 43000 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2076004/0002076004-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002076004-26-000005:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mina Christopher Allen (LPSN) D: 9636 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2076004/0002076004-26-000005-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002076004-26-000005:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fletcher Dan (LPSN) D: 18666 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2046224/0002046224-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002046224-26-000002:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lane Nathan (LPSN) D: 23350 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2023502/0002023502-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002023502-26-000002:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sabino Anthony John (LPSN) D: 135271 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2008679/0002008679-26-000023-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002008679-26-000023:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sabino Anthony John (LPSN) D: 37080 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2008679/0002008679-26-000023-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002008679-26-000023:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sabino Anthony John (LPSN) D: 66666 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2008679/0002008679-26-000023-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002008679-26-000023:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tjon Karin-Joyce (LPSN) D: 18666 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1882368/0001882368-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001882368-26-000002:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Collins John DeNeen (LPSN) D: 81148 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1806386/0001806386-26-000019-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001806386-26-000019:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Collins John DeNeen (LPSN) D: 27082 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1806386/0001806386-26-000019-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001806386-26-000019:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Collins John DeNeen (LPSN) D: 6260 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1806386/0001806386-26-000019-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001806386-26-000019:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pegueros Vanessa (LPSN) D: 22663 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1765069/0001765069-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001765069-26-000002:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vardeman Ryan L. (LPSN) D: 23350 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1574629/0001574629-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001574629-26-000002:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vardeman Ryan L. (LPSN) D: 44422 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1574629/0001574629-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001574629-26-000002:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vardeman Ryan L. (LPSN) S: 3456 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1574629/0001574629-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001574629-26-000002:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Greenberg Monica L. (LPSN) D: 43344 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1434179/0001434179-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001434179-26-000017:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Greenberg Monica L. (LPSN) D: 32550 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1434179/0001434179-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001434179-26-000017:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Greenberg Monica L. (LPSN) D: 18902 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1434179/0001434179-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001434179-26-000017:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Miller James R. (LPSN) D: 22196 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1431244/0001431244-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001431244-26-000004:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wesemann William (LPSN) D: 43655 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1310687/0001310687-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001310687-26-000002:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:37:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wesemann William (LPSN) D: 7067 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1310687/0001310687-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001310687-26-000002:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:37:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>ZINGALE ANTHONY (LPSN) D: 26666 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1180246/0001180246-26-000004-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001180246-26-000004:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:37:46 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

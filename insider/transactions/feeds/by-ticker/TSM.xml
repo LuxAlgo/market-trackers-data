@@ -4,7 +4,55 @@
     <title>LuxAlgo Market Trackers — Insider transactions — TSM</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Fang Shu-Hua (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113698/0001046179-26-000596-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000596:nd:7</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fang Shu-Hua (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113698/0001046179-26-000596-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000596:nd:6</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fang Shu-Hua (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113698/0001046179-26-000596-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000596:nd:5</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fang Shu-Hua (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113698/0001046179-26-000596-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000596:nd:4</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fang Shu-Hua (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113698/0001046179-26-000596-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000596:nd:3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fang Shu-Hua (TSM) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113698/0001046179-26-000596-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000596:nd:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fang Shu-Hua (TSM) P: 1000 shares @ $77.09</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113698/0001046179-26-000596-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000596:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fang Shu-Hua (TSM) P: 1000 shares @ $77.09</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113698/0001046179-26-000596-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001046179-26-000596:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:00 GMT</pubDate>
+    </item>
     <item>
       <title>Wang Ying-Lang (TSM) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/2118010/0001046179-26-000588-index.htm</link>
@@ -555,24 +603,6 @@
       <title>Cao Min (TSM) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/2113031/0001046179-26-000575-index.htm</link>
       <guid isPermaLink="false">insider-transactions:0001046179-26-000575:nd:3</guid>
-      <pubDate>Thu, 03 Sep 2026 02:44:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cao Min (TSM) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2113031/0001046179-26-000575-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001046179-26-000575:nd:2</guid>
-      <pubDate>Thu, 03 Sep 2026 02:44:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cao Min (TSM) holding</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2113031/0001046179-26-000575-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001046179-26-000575:nd:1</guid>
-      <pubDate>Thu, 03 Sep 2026 02:44:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cao Min (TSM) A: 12881 shares @ $0</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2113031/0001046179-26-000575-index.htm</link>
-      <guid isPermaLink="false">insider-transactions:0001046179-26-000575:nd:0</guid>
       <pubDate>Thu, 03 Sep 2026 02:44:31 GMT</pubDate>
     </item>
   </channel>

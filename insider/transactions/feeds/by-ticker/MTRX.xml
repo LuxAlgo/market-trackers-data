@@ -4,7 +4,145 @@
     <title>LuxAlgo Market Trackers — Insider transactions — MTRX</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) F: 932 shares @ $10.83</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000061:nd:9</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) D: 2370 shares @ $10.83</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000061:nd:8</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) M: 2370 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000061:nd:7</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) F: 632 shares @ $10.91</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000061:nd:6</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) D: 1607 shares @ $10.91</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000061:nd:5</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) M: 1607 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000061:nd:4</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) F: 669 shares @ $10.91</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000061:nd:3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) D: 1702 shares @ $10.91</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000061:nd:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) F: 380 shares @ $10.83</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000061:nd:12</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) D: 967 shares @ $10.83</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000061:nd:11</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) M: 967 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000061:nd:10</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) M: 1702 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000061:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) A: 5432 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000061:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) M: 967 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000061:d:4</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) M: 2370 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000061:d:3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) M: 1607 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000061:d:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) M: 1702 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000061:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) A: 5432 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000061-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000061:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000059-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000059:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000059-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000059:d:3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000059-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000059:d:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000059-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000059:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MILLER DAVID (JAMES) (MTRX) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000059-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000866273-26-000059:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:16 GMT</pubDate>
+    </item>
     <item>
       <title>SHEETS JUSTIN D (MTRX) M: 2576 shares</title>
       <link>https://www.sec.gov/Archives/edgar/data/866273/0000866273-26-000050-index.htm</link>

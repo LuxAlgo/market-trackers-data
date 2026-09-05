@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — CASY</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Frieson Donald (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0001733872-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001733872-26-000002:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Frieson Donald (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0001733872-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001733872-26-000002:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Frieson Donald (CASY) A: 220 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0001733872-26-000002-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001733872-26-000002:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spanos Mike (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0001719998-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001719998-26-000012:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spanos Mike (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0001719998-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001719998-26-000012:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spanos Mike (CASY) A: 220 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0001719998-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001719998-26-000012:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Heiden Cara Kay (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000080-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000080:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Heiden Cara Kay (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000080-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000080:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>SUTULA STANLEY J III (CASY) M: 51 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000078:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>SUTULA STANLEY J III (CASY) M: 51 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000078:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>SUTULA STANLEY J III (CASY) A: 220 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000078-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000078:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trojan Greg (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000076:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trojan Greg (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000076:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trojan Greg (CASY) A: 220 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000076-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000076:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>RENDA LARREE M (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000074:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>RENDA LARREE M (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000074:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>RENDA LARREE M (CASY) A: 220 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000074-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000074:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>LENHARDT DAVID K (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000072:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>LENHARDT DAVID K (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000072:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>LENHARDT DAVID K (CASY) A: 220 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000072-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000072:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Castanon Moats Maria (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000070:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Castanon Moats Maria (CASY) A: 220 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000070:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Castanon Moats Maria (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000070-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000070:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHMELING JUDY (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000068:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHMELING JUDY (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000068:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCHMELING JUDY (CASY) A: 220 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000068-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000068:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wing Allison M. (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000066:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wing Allison M. (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000066:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wing Allison M. (CASY) A: 220 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000066-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000066:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Donthi Sri (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000064-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000064:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Donthi Sri (CASY) M: 326 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000064-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000064:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Donthi Sri (CASY) A: 220 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000064-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0000726958-26-000064:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:12 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

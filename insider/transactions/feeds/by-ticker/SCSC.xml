@@ -4,7 +4,19 @@
     <title>LuxAlgo Market Trackers — Insider transactions — SCSC</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Ford Brandy (SCSC) S: 34 shares @ $58.04</title>
+      <link>https://www.sec.gov/Archives/edgar/data/918965/0001193125-26-383791-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-383791:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ford Brandy (SCSC) S: 5259 shares @ $57.43</title>
+      <link>https://www.sec.gov/Archives/edgar/data/918965/0001193125-26-383791-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-383791:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:20 GMT</pubDate>
+    </item>
     <item>
       <title>Mathis Charles Alexander (SCSC) A: 3234 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/918965/0001193125-26-382265-index.htm</link>

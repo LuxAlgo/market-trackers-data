@@ -4,7 +4,37 @@
     <title>LuxAlgo Market Trackers — Insider transactions — RKLB</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Spice Adam C. (RKLB) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1819994/0002001011-26-000136-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002001011-26-000136:nd:3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spice Adam C. (RKLB) S: 72900 shares @ $62.9704</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1819994/0002001011-26-000136-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002001011-26-000136:nd:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spice Adam C. (RKLB) S: 67257 shares @ $62.2564</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1819994/0002001011-26-000136-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002001011-26-000136:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spice Adam C. (RKLB) M: 140157 shares @ $1.09</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1819994/0002001011-26-000136-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002001011-26-000136:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spice Adam C. (RKLB) M: 140157 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1819994/0002001011-26-000136-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002001011-26-000136:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:31 GMT</pubDate>
+    </item>
     <item>
       <title>Saintil Merline (RKLB) G: 261903 shares @ $0</title>
       <link>https://www.sec.gov/Archives/edgar/data/1819994/0002001011-26-000135-index.htm</link>

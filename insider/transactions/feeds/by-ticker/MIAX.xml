@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Insider transactions — MIAX</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Comly Barbara J. (MIAX) S: 44445 shares @ $40.49</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080878/0002080878-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080878-26-000016:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Comly Barbara J. (MIAX) M: 44445 shares @ $12</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080878/0002080878-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080878-26-000016:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Comly Barbara J. (MIAX) M: 44445 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080878/0002080878-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080878-26-000016:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deitzel Edward (MIAX) S: 11000 shares @ $42.21</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080671/0002080671-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080671-26-000016:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deitzel Edward (MIAX) M: 11000 shares @ $12</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080671/0002080671-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080671-26-000016:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deitzel Edward (MIAX) M: 11000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080671/0002080671-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080671-26-000016:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Thomas P. (MIAX) M: 4464 shares @ $22.4</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080477/0002080477-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080477-26-000018:nd:5</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Thomas P. (MIAX) M: 13140 shares @ $15.22</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080477/0002080477-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080477-26-000018:nd:4</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Thomas P. (MIAX) M: 8333 shares @ $12</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080477/0002080477-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080477-26-000018:nd:3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Thomas P. (MIAX) M: 16666 shares @ $12</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080477/0002080477-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080477-26-000018:nd:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Thomas P. (MIAX) S: 47000 shares @ $42.43</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080477/0002080477-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080477-26-000018:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Thomas P. (MIAX) M: 47000 shares @ $12</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080477/0002080477-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080477-26-000018:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Thomas P. (MIAX) M: 4464 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080477/0002080477-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080477-26-000018:d:4</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Thomas P. (MIAX) M: 13140 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080477/0002080477-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080477-26-000018:d:3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Thomas P. (MIAX) M: 8333 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080477/0002080477-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080477-26-000018:d:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Thomas P. (MIAX) M: 16666 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080477/0002080477-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080477-26-000018:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gallagher Thomas P. (MIAX) M: 47000 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080477/0002080477-26-000018-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002080477-26-000018:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schafer Douglas M. JR (MIAX) S: 48000 shares @ $40.48</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2079445/0002079445-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002079445-26-000017:nd:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schafer Douglas M. JR (MIAX) M: 4666 shares @ $12</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2079445/0002079445-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002079445-26-000017:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schafer Douglas M. JR (MIAX) M: 43334 shares @ $12</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2079445/0002079445-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002079445-26-000017:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schafer Douglas M. JR (MIAX) M: 4666 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2079445/0002079445-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002079445-26-000017:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schafer Douglas M. JR (MIAX) M: 43334 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2079445/0002079445-26-000017-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002079445-26-000017:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teekell Judson Gray (MIAX) S: 3000 shares @ $40.89</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1959770/0001959770-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001959770-26-000012:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teekell Judson Gray (MIAX) S: 5545 shares @ $41.58</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1959770/0001959770-26-000012-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001959770-26-000012:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:46 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

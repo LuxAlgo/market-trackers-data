@@ -4,7 +4,13 @@
     <title>LuxAlgo Market Trackers — Insider transactions — AXIA3</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Gualda Sampaio Araujo Camila (AXIA3) S: 10800 shares @ $10.74</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2120268/0001213900-26-097730-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001213900-26-097730:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:02 GMT</pubDate>
+    </item>
     <item>
       <title>Batista de Lima Filho Pedro (AXIA3) S: 80500 shares @ $10.28</title>
       <link>https://www.sec.gov/Archives/edgar/data/2121444/0001213900-26-096631-index.htm</link>

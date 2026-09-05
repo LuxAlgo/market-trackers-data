@@ -4,7 +4,37 @@
     <title>LuxAlgo Market Trackers — Insider transactions — AMCR</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Wilson Ian (AMCR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1775837/0001775837-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001775837-26-000006:nd:3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wilson Ian (AMCR) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1775837/0001775837-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001775837-26-000006:nd:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wilson Ian (AMCR) F: 514 shares @ $45.82</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1775837/0001775837-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001775837-26-000006:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wilson Ian (AMCR) M: 5782 shares</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1775837/0001775837-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001775837-26-000006:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wilson Ian (AMCR) M: 5782 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1775837/0001775837-26-000006-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001775837-26-000006:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:25 GMT</pubDate>
+    </item>
     <item>
       <title>SORRELLS JULIE MARIE (AMCR) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1822033/0001822033-26-000002-index.htm</link>

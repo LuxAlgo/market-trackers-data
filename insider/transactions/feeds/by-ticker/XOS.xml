@@ -4,7 +4,19 @@
     <title>LuxAlgo Market Trackers — Insider transactions — XOS</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>OSTERMANN DIETMAR (XOS) S: 5000 shares @ $3</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1819493/0001193125-26-383855-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-383855:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSTERMANN DIETMAR (XOS) S: 10000 shares @ $3.022</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1819493/0001193125-26-383855-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001193125-26-383855:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:31 GMT</pubDate>
+    </item>
     <item>
       <title>Richardson Michael Paul (XOS) S: 3118 shares @ $2.1487</title>
       <link>https://www.sec.gov/Archives/edgar/data/1971868/0001193125-26-369552-index.htm</link>

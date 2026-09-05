@@ -4,7 +4,55 @@
     <title>LuxAlgo Market Trackers — Insider transactions — DASH</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Tang Stanley (DASH) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000032-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000032:nd:6</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tang Stanley (DASH) S: 2271 shares @ $227.229</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000032-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000032:nd:5</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tang Stanley (DASH) S: 15522 shares @ $226.52</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000032-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000032:nd:4</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tang Stanley (DASH) S: 8277 shares @ $225.747</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000032-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000032:nd:3</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tang Stanley (DASH) S: 2265 shares @ $224.512</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000032-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000032:nd:2</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tang Stanley (DASH) S: 2500 shares @ $223.601</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000032-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000032:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tang Stanley (DASH) J: 30835 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000032-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000032:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tang Stanley (DASH) J: 30835 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1832614/0001832614-26-000032-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001832614-26-000032:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:38:33 GMT</pubDate>
+    </item>
     <item>
       <title>Inukonda Ravi (DASH) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/1849709/0001849709-26-000020-index.htm</link>

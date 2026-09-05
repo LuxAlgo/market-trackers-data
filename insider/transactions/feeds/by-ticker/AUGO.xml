@@ -4,7 +4,19 @@
     <title>LuxAlgo Market Trackers — Insider transactions — AUGO</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) S: 250000 shares @ $29.3236</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000030-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000030:d:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sousa Mauad Bruno (AUGO) P: 1000 shares @ $29.1982</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000030-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0002117905-26-000030:d:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:01 GMT</pubDate>
+    </item>
     <item>
       <title>Sousa Mauad Bruno (AUGO) S: 11500 shares @ $27.8119</title>
       <link>https://www.sec.gov/Archives/edgar/data/2117905/0002117905-26-000029-index.htm</link>

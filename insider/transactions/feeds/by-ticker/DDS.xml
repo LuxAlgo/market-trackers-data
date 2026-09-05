@@ -4,7 +4,31 @@
     <title>LuxAlgo Market Trackers — Insider transactions — DDS</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>SEC Forms 3/4/5 ownership filings parsed from EDGAR primary XML, one row per transaction or initial holding. Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:39:23 GMT</lastBuildDate>
+    <item>
+      <title>Worley Dean L. (DDS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/28917/0001626260-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001626260-26-000016:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Worley Dean L. (DDS) G: 100 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/28917/0001626260-26-000016-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001626260-26-000016:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Watts Phillip R. (DDS) holding</title>
+      <link>https://www.sec.gov/Archives/edgar/data/28917/0001626240-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001626240-26-000014:nd:1</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Watts Phillip R. (DDS) G: 400 shares @ $0</title>
+      <link>https://www.sec.gov/Archives/edgar/data/28917/0001626240-26-000014-index.htm</link>
+      <guid isPermaLink="false">insider-transactions:0001626240-26-000014:nd:0</guid>
+      <pubDate>Sat, 05 Sep 2026 02:39:06 GMT</pubDate>
+    </item>
     <item>
       <title>Lucie Denise Alexandra (DDS) holding</title>
       <link>https://www.sec.gov/Archives/edgar/data/28917/0001708000-26-000012-index.htm</link>

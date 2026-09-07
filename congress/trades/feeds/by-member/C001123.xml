@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LuxAlgo Market Trackers — Congressional trades — Hon. Gilbert Cisneros</title>
+    <link>https://github.com/LuxAlgo/market-trackers</link>
+    <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
+    <lastBuildDate>Mon, 07 Sep 2026 20:33:29 GMT</lastBuildDate>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: BCPC — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:9</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: AORT — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:8</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: APP — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:7</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: ZTS — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:65</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: WDC — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:64</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: VIAV — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:63</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: VZ — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:62</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: PCVX — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:61</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: UBER — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:60</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: ABCB — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:6</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: USPH — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:59</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: COCO — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:58</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: TTD — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:57</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: SF — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:56</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: SPXC — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:55</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: SFM — $15,001 - $50,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:54</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: SKWD — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:53</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: SKWD — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:52</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: SMTC — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:51</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: SMTC — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:50</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: ALKS — $15,001 - $50,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:5</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: SAIL — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:49</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: RBC — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:48</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: PGR — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:47</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: PRAX — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:46</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: PSKY — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:45</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: PLTR — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:44</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: NVDA — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:43</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) exchange: PSA — $15,001 - $50,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:42</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: NHI — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:41</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: MTX — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:40</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: BABA — $100,001 - $250,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:4</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: MSFT — $15,001 - $50,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:39</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: MSB — $15,001 - $50,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:38</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: MRVL — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:37</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: MTSI — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:36</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: LITE — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:35</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: LAMR — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:34</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: KVUE — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:33</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: IBM — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:32</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: IRT — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:31</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: HLI — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:30</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: AVAV — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:3</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: HMN — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:29</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: HQY — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:28</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: GBCI — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:27</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: FERG — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:26</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: FDX — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:25</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: FN — $15,001 - $50,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:24</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: EPAC — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:23</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: EPAC — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:22</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: EA — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:21</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: DD — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:20</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: AMD — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:2</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: DCO — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:19</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: CSW — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:18</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: CRWD — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:17</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: CRNX — $15,001 - $50,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:16</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: CRDO — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:15</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: STZ — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:14</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: COMP — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:13</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: CMCSA — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:12</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: COIN — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:11</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: BCRX — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:10</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: ADBE — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:1</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: ACN — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:0</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

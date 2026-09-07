@@ -4,12 +4,18 @@
     <title>LuxAlgo Market Trackers — Congressional trades — ADBE</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 07 Sep 2026 18:37:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 20:33:29 GMT</lastBuildDate>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: ADBE — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:1</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
     <item>
       <title>Hon. Kevin Hern (house) sell: ADBE — $15,001 - $50,000</title>
       <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>
       <guid isPermaLink="false">congress-trades:house:20035326:0</guid>
-      <pubDate>Fri, 04 Sep 2026 20:31:34 GMT</pubDate>
+      <pubDate>Mon, 07 Sep 2026 20:31:28 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,354 +4,606 @@
     <title>LuxAlgo Market Trackers — Congressional trades</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Transactions from congressional Periodic Transaction Reports (Senate eFD + House Clerk), one row per reported transaction, amounts kept as ranges. Every item links its primary-source document.</description>
-    <lastBuildDate>Mon, 07 Sep 2026 18:37:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 20:33:29 GMT</lastBuildDate>
     <item>
-      <title>Sheldon Whitehouse (senate) sell: AMGN — $1,001 - $15,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/</link>
-      <guid isPermaLink="false">congress-trades:senate:f8d003c0-ca1e-4c39-9d66-632d220180e1:4</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:34 GMT</pubDate>
+      <title>Hon. David J. Taylor (house) sell: VRTX — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035392:8</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:33 GMT</pubDate>
     </item>
     <item>
-      <title>Sheldon Whitehouse (senate) sell: LRCX — $1,001 - $15,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/</link>
-      <guid isPermaLink="false">congress-trades:senate:f8d003c0-ca1e-4c39-9d66-632d220180e1:3</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:34 GMT</pubDate>
+      <title>Hon. David J. Taylor (house) sell: MSFT — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035392:7</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:33 GMT</pubDate>
     </item>
     <item>
-      <title>Sheldon Whitehouse (senate) sell: NVDA — $1,001 - $15,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/</link>
-      <guid isPermaLink="false">congress-trades:senate:f8d003c0-ca1e-4c39-9d66-632d220180e1:2</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:34 GMT</pubDate>
+      <title>Hon. David J. Taylor (house) buy: FITB — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035392:6</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:33 GMT</pubDate>
     </item>
     <item>
-      <title>Sheldon Whitehouse (senate) sell: NVDA — $15,001 - $50,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/</link>
-      <guid isPermaLink="false">congress-trades:senate:f8d003c0-ca1e-4c39-9d66-632d220180e1:1</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:34 GMT</pubDate>
+      <title>Hon. David J. Taylor (house) buy: AVGO — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035392:5</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:33 GMT</pubDate>
     </item>
     <item>
-      <title>Sheldon Whitehouse (senate) sell: SDZNY- Sandoz Group AG ADR — $1,001 - $15,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/</link>
-      <guid isPermaLink="false">congress-trades:senate:f8d003c0-ca1e-4c39-9d66-632d220180e1:0</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:34 GMT</pubDate>
+      <title>Hon. David J. Taylor (house) buy: AVGO — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035392:4</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:33 GMT</pubDate>
     </item>
     <item>
-      <title>Christopher A Coons (senate) sell: W.L. Gore &amp; Associates, Inc. Company: W.L. Gore &amp; Associates, Inc. (Newark, Delaware) Description: Advanced materials manufacturing — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/5a76ceb6-2d1d-4430-8a17-6512bcb402be/</link>
-      <guid isPermaLink="false">congress-trades:senate:5a76ceb6-2d1d-4430-8a17-6512bcb402be:0</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:33 GMT</pubDate>
+      <title>Hon. David J. Taylor (house) sell: AMGN — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035392:3</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:33 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:9</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. David J. Taylor (house) sell: AMGN — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035392:2</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:33 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:8</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. David J. Taylor (house) buy: AEP — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035392:1</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:33 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $250,001 - $500,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:7</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. David J. Taylor (house) buy: AEP — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035392:0</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:33 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy MSCI EAFE Linked Note — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:6</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: BCPC — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:9</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) buy: NORTHERN YORK CNTY PA SCH DIST GEN Rate/Coupon: 5.25% Matures: 2051-11-15 — $250,001 - $500,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:51</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: AORT — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:8</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy MSCI EAFE Linked Note — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:50</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: APP — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:7</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:5</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: ZTS — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:65</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: ALLEGHENY CNTY HIGHER ED BLDG REV Rate/Coupon: 5% Matures: 2032-02-01 — $250,001 - $500,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:49</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: WDC — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:64</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: ALVIN TEX INDPT SCH DIST GO Rate/Coupon: 5% Matures: 2035-02-15 — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:48</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: VIAV — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:63</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: CHESTER CNTY PA SCH AUTH SCH REV Rate/Coupon: 5% Matures: 2027-03-01 — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:47</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: VZ — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:62</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: CORPUS CHRISTI TEX UTIL SYS REV Rate/Coupon: 5% Matures: 2029-07-15 — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:46</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: PCVX — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:61</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: DALLAS TEX INDPT SCH DIST GO Rate/Coupon: 5% Matures: 2033-02-15 — $15,001 - $50,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:45</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: UBER — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:60</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: NORTHAMPTON CNTY PA GEN PURP A REV Rate/Coupon: 5% Matures: 2034-11-15 — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:44</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: ABCB — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:6</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: OXFORD PA AREA SCH DIST GO Rate/Coupon: 5% Matures: 2032-09-01 — $50,001 - $100,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:43</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: USPH — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:59</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2035-08-15 — $50,001 - $100,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:42</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: COCO — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:58</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2033-08-15 — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:41</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: TTD — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:57</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2034-04-01 — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:40</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: SF — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:56</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:4</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: SPXC — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:55</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2035-04-01 — $50,001 - $100,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:39</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: SFM — $15,001 - $50,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:54</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: PENNSYLVANIA ST HIGHER EDL REV Rate/Coupon: 4% Matures: 2031-06-15 — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:38</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: SKWD — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:53</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: PENNSYLVANIA ST TPK COMMN OIL REV Rate/Coupon: 5% Matures: 2026-12-01 — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:37</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: SKWD — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:52</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: PENNSYLVANIA ST TPK COMMN TPK REV Rate/Coupon: 5% Matures: 2030-12-01 — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:36</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: SMTC — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:51</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: PHILADELPHIA PA AUTH FOR INDL REV Rate/Coupon: 5% Matures: 2031-12-01 — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:35</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: SMTC — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:50</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: SPRINGFIELD TWP SCH DIST PA GO Rate/Coupon: 5% Matures: 2030-11-15 — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:34</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: ALKS — $15,001 - $50,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:5</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: WASHINGTON ST GO Rate/Coupon: 5% Matures: 2033-02-01 — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:33</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: SAIL — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:49</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: ALLEGHENY CNTY HIGHER ED BLDG REV Rate/Coupon: 5% Matures: 2032-02-01 — $50,001 - $100,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:32</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: RBC — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:48</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: ALVIN TEX INDPT SCH DIST GO Rate/Coupon: 5% Matures: 2035-02-15 — $50,001 - $100,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:31</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: PGR — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:47</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: CHESTER CNTY PA SCH AUTH SCH REV Rate/Coupon: 5% Matures: 2027-03-01 — $50,001 - $100,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:30</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: PRAX — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:46</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:3</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: PSKY — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:45</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: CORPUS CHRISTI TEX UTIL SYS REV Rate/Coupon: 5% Matures: 2029-07-15 — $50,001 - $100,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:29</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: PLTR — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:44</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: DALLAS TEX INDPT SCH DIST GO Rate/Coupon: 5% Matures: 2033-02-15 — $50,001 - $100,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:28</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: NVDA — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:43</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: DEL CNTY PA AUTH COLLEGE REV Rate/Coupon: 5% Matures: 2026-10-01 — $50,001 - $100,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:27</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) exchange: PSA — $15,001 - $50,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:42</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: NORTHAMPTON CNTY PA GEN PURP A REV Rate/Coupon: 5% Matures: 2034-11-15 — $50,001 - $100,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:26</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: NHI — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:41</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: OXFORD PA AREA SCH DIST GO Rate/Coupon: 5% Matures: 2032-09-01 — $15,001 - $50,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:25</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: MTX — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:40</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2035-08-15 — $50,001 - $100,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:24</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: BABA — $100,001 - $250,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:4</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2033-08-15 — $50,001 - $100,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:23</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: MSFT — $15,001 - $50,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:39</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2034-04-01 — $15,001 - $50,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:22</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: MSB — $15,001 - $50,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:38</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2035-04-01 — $50,001 - $100,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:21</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: MRVL — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:37</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: PENNSYLVANIA ST HIGHER EDL REV Rate/Coupon: 4% Matures: 2031-06-15 — $15,001 - $50,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:20</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: MTSI — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:36</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:2</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: LITE — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:35</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: PENNSYLVANIA ST TPK COMMN REV Rate/Coupon: 5.25% Matures: 2030-07-15 — $15,001 - $50,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:19</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: LAMR — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:34</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: PHILADELPHIA PA AUTH FOR INDL REV Rate/Coupon: 5% Matures: 2031-12-01 — $15,001 - $50,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:18</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: KVUE — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:33</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: SPRINGFIELD TWP SCH DIST PA GO Rate/Coupon: 5% Matures: 2030-11-15 — $50,001 - $100,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:17</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: IBM — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:32</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: WASHINGTON ST GO Rate/Coupon: 5% Matures: 2033-02-01 — $50,001 - $100,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:16</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: IRT — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:31</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) sell: PENNSYLVANIA ST TPK COMMN OIL REV Rate/Coupon: 5% Matures: 2026-12-01 — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:15</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: HLI — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:30</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:14</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: AVAV — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:3</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:13</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: HMN — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:29</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy MSCI EAFE Linked Note — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:12</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: HQY — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:28</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy MSCI EAFE Linked Note — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:11</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: GBCI — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:27</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $100,001 - $250,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:10</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) buy: FERG — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:26</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy MSCI EAFE Linked Note — $250,001 - $500,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:1</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: FDX — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:25</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>David H McCormick (senate) buy: GS Managed Structured Note Strategy S&amp;P 500 Linked Note — $50,001 - $100,000</title>
-      <link>https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/</link>
-      <guid isPermaLink="false">congress-trades:senate:257795ae-e1b2-411d-b562-8fe4c2a4f2a1:0</guid>
-      <pubDate>Mon, 07 Sep 2026 18:35:32 GMT</pubDate>
+      <title>Hon. Gilbert Cisneros (house) sell: FN — $15,001 - $50,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:24</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: EPAC — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:23</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: EPAC — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:22</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: EA — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:21</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: DD — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:20</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: AMD — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:2</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: DCO — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:19</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: CSW — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:18</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: CRWD — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:17</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: CRNX — $15,001 - $50,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:16</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: CRDO — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:15</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: STZ — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:14</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: COMP — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:13</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: CMCSA — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:12</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: COIN — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:11</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: BCRX — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:10</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) sell: ADBE — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:1</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Gilbert Cisneros (house) buy: ACN — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035190:0</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Jonathan Jackson (house) sell: VSAT — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035370.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035370:0</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. John J Mr McGuire III (house) buy: NVDA — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035367.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035367:1</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. John J Mr McGuire III (house) sell: AAPL — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035367.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035367:0</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Michael Rulli (house) buy: EQIX — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035365.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035365:1</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Michael Rulli (house) sell: ALL — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035365.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035365:0</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cleo Fields (house) buy: AAPL — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035345.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035345:0</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Steve Cohen (house) buy: US Treas Bills Int Rate 0.000% MAT 8/5/2027 [GS] F      S     : New S          O : Stephens Advantage Account — $250,001 - $500,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035350.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035350:1</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Steve Cohen (house) buy: US Treas Bills Int Rate 0.000% MAT 2/18/2027 [GS] F      S     : New S          O : Stephens Advantage Account — $250,001 - $500,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035350.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035350:0</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Donald Sternoff Beyer Jr (house) exchange: Washington St Various 5.00% 08/01/30 [GS] F      S     : New S          O : Stocks, Bonds, &amp; Mutual Funds D          : CALLED Security — $50,001 - $100,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035349.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035349:2</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Donald Sternoff Beyer Jr (house) buy: Long Is Pwr Auth Var 9/01/55 [GS] F      S     : New S          O : Stocks, Bonds, &amp; Mutual Funds D          : Long Island Power Authority Bond 09/01/55 — $15,001 - $50,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035349.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035349:1</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Donald Sternoff Beyer Jr (house) exchange: California St 4.00% 8/01/36 [GS] F      S     : New S          O : Stocks, Bonds, &amp; Mutual Funds D          : CALLED security — $15,001 - $50,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035349.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035349:0</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Kevin Hern (house) sell: GAP — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035326:9</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Kevin Hern (house) sell: CL — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035326:8</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Kevin Hern (house) sell: CARR — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035326:7</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Kevin Hern (house) buy: CANADIAN CNTY OKLA EDL FACS AUTH EDL 3.00000% 09/01/2029 [GS] F      S     : New S          O : Hern Family Revocable Trust — $100,001 - $250,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035326:6</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Kevin Hern (house) sell: BA — $15,001 - $50,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035326:5</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Kevin Hern (house) sell: BA — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035326:4</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Kevin Hern (house) sell: BIIB — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035326:3</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Kevin Hern (house) sell: WAT — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035326:28</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Kevin Hern (house) sell: DIS — $15,001 - $50,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035326:27</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Kevin Hern (house) sell: VLTO — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035326:26</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Kevin Hern (house) sell: VLTO — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035326:25</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Kevin Hern (house) sell: VLTO — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035326:24</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Kevin Hern (house) sell: SOLS — $1,001 - $15,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035326:23</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hon. Kevin Hern (house) sell: PG — $50,001 - $100,000</title>
+      <link>https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf</link>
+      <guid isPermaLink="false">congress-trades:house:20035326:22</guid>
+      <pubDate>Mon, 07 Sep 2026 20:31:28 GMT</pubDate>
     </item>
   </channel>
 </rss>

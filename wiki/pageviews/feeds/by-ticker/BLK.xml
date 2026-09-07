@@ -4,7 +4,19 @@
     <title>LuxAlgo Market Trackers — Wikipedia pageviews — BLK</title>
     <link>https://github.com/LuxAlgo/market-trackers</link>
     <description>Daily per-article Wikipedia pageview counts for a curated map of public-company articles, from the Wikimedia REST pageviews API (keyless, CC0 counts). Every item links its primary-source document.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 15:10:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 13:02:07 GMT</lastBuildDate>
+    <item>
+      <title>BlackRock (BLK): 3026 views on 2026-09-06</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/BlackRock/daily/2026090500/2026090600</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:BlackRock:2026-09-06</guid>
+      <pubDate>Mon, 07 Sep 2026 12:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>BlackRock (BLK): 2842 views on 2026-09-05</title>
+      <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/BlackRock/daily/2026090500/2026090600</link>
+      <guid isPermaLink="false">wiki-pageviews:en.wikipedia:BlackRock:2026-09-05</guid>
+      <pubDate>Mon, 07 Sep 2026 12:55:23 GMT</pubDate>
+    </item>
     <item>
       <title>BlackRock (BLK): 3360 views on 2026-09-04</title>
       <link>https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/BlackRock/daily/2026090400/2026090400</link>
